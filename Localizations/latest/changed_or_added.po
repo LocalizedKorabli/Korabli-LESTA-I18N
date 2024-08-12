@@ -3,396 +3,341 @@ msgid ""
 msgstr ""
 
 msgid "IDS_12_MONTHS_JANUARY"
-msgstr "Братец Январь"
+msgstr "Bro January"
 
 msgid "IDS_12_MONTHS_MARCH"
-msgstr "Братец Март"
+msgstr "Bro march"
 
 msgid "IDS_2WAGONS_REVERCED"
-msgstr "Сопровождение дирижаблей. Альтернативный режим"
+msgstr "Airship Escort: Alternative mode"
 
 msgid "IDS_ABUSE_ECONOMICALLY_PUNISHED"
-msgstr "Вам не будут начислены заработанные ресурсы."
+msgstr "You will not be credited with earned resources."
 
 msgid "IDS_ABUSE_RANKED_RESULTS_REASON"
 msgstr ""
-"За совершённые вами нарушения этот бой не будет\n"
-"учтён в прогрессе для получения наград."
+"Due to the violations you committed, \n"
+"this battle will not be counted towards the progress of earning rewards."
 
 msgid "IDS_ABUSE_REASON_AFK"
-msgstr "Бездействие в бою"
+msgstr "Inactivity in battle"
 
 msgid "IDS_ABUSE_REASON_AFK_WITH_BULLET"
-msgstr "• Бездействие в бою"
+msgstr "• Inactivity in battle"
 
 msgid "IDS_ABUSE_REASON_COMPLAINTS"
-msgstr "Жалобы от игроков"
+msgstr "Reports from players"
 
 msgid "IDS_ABUSE_REASON_COMPLAINTS_WITH_BULLET"
-msgstr "• Жалобы от игроков"
+msgstr "• Reports from players"
 
 msgid "IDS_ABUSE_REASON_GRIEFER"
-msgstr "Создание помех союзникам"
+msgstr "Interfering with allies"
 
 msgid "IDS_ABUSE_REASON_GRIEFER_WITH_BULLET"
-msgstr "• Создание помех союзникам"
+msgstr "• Interfering with allies"
 
 msgid "IDS_ABUSE_REASON_LEAVER"
-msgstr "Преждевременный выход из боя"
+msgstr "Quitting a battle early"
 
 msgid "IDS_ABUSE_REASON_LEAVER_WITH_BULLET"
-msgstr "• Преждевременный выход из боя"
+msgstr "• Quitting a battle early"
 
 msgid "IDS_ABUSE_REASON_TKILL"
-msgstr "Нанесение урона союзникам"
+msgstr "Causing damage to allies"
 
 msgid "IDS_ABUSE_REASON_TKILL_WITH_BULLET"
-msgstr "• Нанесение урона союзникам"
+msgstr "• Causing damage to allies"
 
 msgid "IDS_ABUSE_REASON_TSHOTS"
-msgstr "Огонь по кораблям союзников"
+msgstr "Friendly fire"
 
 msgid "IDS_ABUSE_REASON_TSHOTS_WITH_BULLET"
-msgstr "• Огонь по кораблям союзников"
+msgstr "• Friendly fire"
 
 msgid "IDS_ABUSE_STATUS_CONFIRMED_DESCRIPTION"
-msgstr ""
-"Вам временно недоступны все типы боя, кроме Кооперативного, Кланового "
-"и Тренировочного."
+msgstr "All types of battles are temporarily unavailable to you, except for Cooperative, Clan, and Training battles."
 
 msgid "IDS_ABUSE_STATUS_NORMAL_DESCRIPTION"
-msgstr "За соблюдение правил игры вы освобождены от наказания."
+msgstr "For following the game rules, you have been exempted from punishment."
 
 msgid "IDS_ABUSE_STATUS_SUSPECT_DESCRIPTION"
-msgstr ""
-"Ваше имя отображается розовым цветом. Если нарушения продолжатся, мера "
-"наказания усилится. Вам будут временно недоступны все типы боя, кроме "
-"Кооперативного, Кланового и Тренировочного."
+msgstr "Your name is displayed in pink. If violations continue, the punishment will be intensified. All types of battles will be temporarily unavailable to you, except for Cooperative, Clan, and Training battles."
 
 msgid "IDS_ABUSE_STATUS_WARNING"
-msgstr "Неспортивное поведение"
+msgstr "Unsportsmanlike conduct"
 
 msgid "IDS_ABUSE_STATUS_WARNING_DESCRIPTION"
-msgstr ""
-"Если нарушения продолжатся, вы получите наказание. Вам будут временно "
-"недоступны все типы боя, кроме Кооперативного, Кланового и Тренировочного."
+msgstr "If violations continue, you will be punished. All types of battles will be temporarily unavailable to you, except for Cooperative, Clan, and Training battles."
 
 msgid "IDS_ACCOUNT_COMPLETION_FINISH_DESCRIPTION"
-msgstr ""
-"Добро пожаловать в игровую вселенную Lesta! Вы можете забрать ваши награды:"
+msgstr "Welcome to the gaming universe of Lesta! You can collect your rewards:"
 
 msgid "IDS_ACCOUNT_COMPLETION_PROMO_DESCRIPTION"
-msgstr ""
-"Единый аккаунт для игровой вселенной Lesta сохранит ваш прогресс в «Мире "
-"кораблей» и откроет доступ к новым преимуществам. За регистрацию дарим "
-"ценные подарки!"
+msgstr "Having a single account for the Lesta universe will preserve your progress in World of Warships and unlock access to new benefits. Grab valuable gifts just for registering!"
 
 msgid "IDS_ACCOUNT_COMPLETION_SEND_EMAIL_DESCRIPTION"
-msgstr "Для создания аккаунта Lesta введите ваш email и придумайте пароль."
+msgstr "To create a single Lesta Account, enter your email address and choose a password."
 
 msgid "IDS_ACCOUNT_COMPLETION_START_HEADER"
-msgstr "Создайте аккаунт Lesta и получите награду"
+msgstr "Create a Lesta account and get a reward."
 
 msgid "IDS_ACCOUNT_COMPLETION_TOOLTIP_SUBTEXT"
-msgstr "Создайте аккаунт Lesta и получите награду."
+msgstr "Create a Lesta account and get a reward."
 
 msgid "IDS_ACHIEVEMENT_CAMPAIGN_NEWYEAR2019PEF_COMPLETED_EXCELLENT"
-msgstr "«Могущественный „Принц“» с отличием"
+msgstr "\"Mighty Prinz\" with Honors"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC012_DESCRIPTION"
-msgstr ""
-"Нанесите 20 000 ед. урона кораблям противника, оставаясь необнаруженными"
+msgstr "Deal 20,000 HP of damage to enemy ships while staying undetected"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC013_DESCRIPTION"
-msgstr "Уничтожьте корабли противника 2 классов"
+msgstr "Destroy enemy ships of two different types"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC014_DESCRIPTION"
-msgstr "Нанесите 50 000 ед. урона кораблям противника 3 разными способами"
+msgstr "Deal 50,000 HP of damage to enemy ships in three different ways"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC015_DESCRIPTION"
-msgstr "Уничтожьте корабли противника 3 классов"
+msgstr "Destroy enemy ships of three different types"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC016_DESCRIPTION"
-msgstr "Нанесите 60 000 ед. урона кораблям противника 4 разными способами"
+msgstr "Deal 60,000 HP of damage to enemy ships in four different ways"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC017_DESCRIPTION"
-msgstr "Повредите 7 кораблей противника"
+msgstr "Damage seven enemy ships"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC018_DESCRIPTION"
-msgstr ""
-"Попадите в цитадель корабля противника 3 раза с расстояния не менее 20 км"
+msgstr "Hit enemy ships' citadels three times from a distance of at least 20 km"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC020_DESCRIPTION"
-msgstr ""
-"Уничтожьте корабль противника с расстояния менее 10 км и выживите в бою"
+msgstr "Destroy an enemy ship from a distance of at least 10 km and survive the battle"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC023_DESCRIPTION"
-msgstr "Уничтожьте корабли противника 3 разными способами"
+msgstr "Destroy enemy ships in three different ways"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC024_DESCRIPTION"
-msgstr ""
-"Нанесите не менее 90 000 ед. урона кораблям противника, получите не менее "
-"1 500 000 ед. потенциального урона и выживите в бою"
+msgstr "Deal at least 90,000 HP damage to enemy ships, receive at least 1,500,000 HP potential damage, and survive the battle"
 
 msgid "IDS_ACHIEVEMENT_CRUISER_BOOK"
-msgstr "Морские легенды. Крейсеры"
+msgstr "Naval Legends: Cruisers"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRDEFENSEEXPERT"
-msgstr ""
-"Уничтожить в одном бою %(goalValue)s самолётов противника или более, включая"
-" самолёты, запускаемые при использовании снаряжения."
+msgstr "Destroy %(goalValue)s or more enemy aircraft in a single battle, including aircraft launched using equipment."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRKING"
-msgstr ""
-"Уничтожить в одном бою %(goalValue)s самолётов противника или более (включая"
-" самолёты, запускаемые при использовании снаряжения), используя собственные "
-"самолёты или ПВО на авианосце."
+msgstr "Destroy %(goalValue)s or more enemy aircraft in a single battle (including aircraft launched using equipment), using your own aircraft or the AA defenses on your aircraft carrier."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ALL_THREE_HALLOWEEN_COMPLETE"
-msgstr ""
-"Победить в операциях «Спасение „Трансильвании“», «Луч во тьме» "
-"и «Ужас глубин» на 5 звёзд."
+msgstr "Be victorious with five Stars in Operations Saving Transylvania, Sunray in the Darkness, and Terror of the Deep."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ARSONIST"
-msgstr ""
-"Уничтожить корабль противника с помощью пожара. Урон, нанесённый пожаром, "
-"должен составлять не менее %(damageRatio_percent)s от штатной боеспособности"
-" уничтоженного корабля."
+msgstr "Destroy an enemy ship by fire. The damage caused by the fire must be at least %(damageRatio_percent)s of the destroyed ship's base HP."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AVACOMMON"
-msgstr "Принять участие в соревновании Go Navy!"
+msgstr "Participate in the \"Go Navy!\" competition."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AVAEAGLES"
-msgstr "Быть верным команде Eagles в соревновании Go Navy!"
+msgstr "Be loyal to the Eagles Team in the \"Go Navy!\" competition."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AVASHARKS"
-msgstr "Быть верным команде Sharks в соревновании Go Navy!"
+msgstr "Be loyal to the Sharks Team in the \"Go Navy!\" competition."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BD2_BISMARCK"
 msgstr ""
-"Астрологи провозгласили последнюю неделю «Охоты на „Бисмарк“». Потом они поняли, что ошиблись на 2 часа.\n"
-"Второй день рождения игры."
+"Astrologers proclaimed the last week of the Hunt for Bismarck. Then they realized they were two hours behind.\n"
+"Second Game Anniversary."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAMPAIGN_NEWYEAR2019PEF_COMPLETED"
-msgstr "Выполнить финальное задание кампании «Могущественный „Принц“»."
+msgstr "Complete the final task of the Mighty Prinz campaign."
 
-msgid ""
-"IDS_ACHIEVEMENT_DESCRIPTION_CAMPAIGN_NEWYEAR2019PEF_COMPLETED_EXCELLENT"
-msgstr "Выполнить все задания кампании «Могущественный „Принц“»."
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAMPAIGN_NEWYEAR2019PEF_COMPLETED_EXCELLENT"
+msgstr "Complete all tasks of the Mighty Prinz campaign."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CLEAR_SKY"
-msgstr ""
-"Уничтожить не менее половины всех самолётов противника в одном бою (включая "
-"самолёты, запускаемые при использовании снаряжения), сбив при этом "
-"%(planesCount)s самолётов или более, используя истребители или ПВО."
+msgstr "Destroy at least half of all enemy aircraft in a single battle (including aircraft launched using equipment) by shooting down %(planesCount)s or more aircraft using fighters or AA defenses."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CRUISER_BOOK"
-msgstr "Стать обладателем книги «Морские легенды. Крейсеры»."
+msgstr "Obtain the book \"Naval Legends: Cruisers\"."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV1APR19_ATTDEF1"
-msgstr ""
-"Нанести не менее 100 000 ед. урона, не потеряв ни одного генератора. Выжить "
-"и победить в бою. Выполняется в команде защитников."
+msgstr "Deal at least 100,000 damage without losing a single generator; win a battle and survive. To be completed playing on the defending team."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV1APR19_DOMINATION2"
-msgstr ""
-"Победить в первые 10 минут боя, при этом уничтожить корабль противника "
-"или нанести 40 000 ед. урона."
+msgstr "Gain a victory in the first 10 minutes of a battle; destroy a hostile ship or deal 40,000 damage."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV1APR19_TORPEDO5"
-msgstr "Нанести кораблям противника 20 000 ед. урона огнём орудий ПМК."
+msgstr "Deal 20,000 damage to hostile ships with secondary battery guns."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_1STPLACE"
-msgstr "Занять 1-е место в состязании «К высотам мастерства»."
+msgstr "Take 1st place in the \"To the Heights of Mastery\" competition."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_2NDPLACE"
-msgstr "Занять 2-е место в состязании «К высотам мастерства»."
+msgstr "Take 2nd place in the \"To the Heights of Mastery\" competition."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_3RDPLACE"
-msgstr "Занять 3-е место в состязании «К высотам мастерства»."
+msgstr "Take 3rd place in the \"To the Heights of Mastery\" competition."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_LEGEND"
-msgstr ""
-"Занять 1-е место во всех испытаниях состязания «К высотам мастерства»."
+msgstr "Take 1st place in all challenges of the \"To the Heights of Mastery\" competition."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV24SPACE_SPACEMAN"
-msgstr ""
-"Пройти любое испытание состязания «К высотам мастерства» в первый раз."
+msgstr "Complete any challenge of the \"To the Heights of Mastery\" competition for the first time."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_ARIA_COMPLETED"
-msgstr "Собрать коллекцию «Здесь куют металл»."
+msgstr "Complete the \"Forging Metal\" collection."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_KOTS_COMPLETED"
-msgstr "Собрать коллекцию «Царь морей»."
+msgstr "Complete the \"King of the Seas\" collection."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_MAY_DAY_COMPLETED"
-msgstr "Собрать коллекцию «Флот победы»."
+msgstr "Complete the \"Victory Fleet\" collection."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FOOLSDAY_POEKHALI"
-msgstr "Нанести противнику более %(goalValue)s ед. урона в одном бою."
+msgstr "Cause more than %(goalValue)s HP of damage to the enemy in a single battle."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FOOLSDAY_TROOPER"
-msgstr ""
-"Заработайте %(goalValue)s ед. чистого опыта (до применения модификаторов)."
+msgstr "Earn %(goalValue)s Base XP (before modifiers are applied)."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_HALLOWEEN_2016"
-msgstr "Победить в операции «Спасение „Трансильвании“»."
+msgstr "Gain a victory in Operation Saving Transylvania."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_HALLOWEEN_2017"
-msgstr "Победить в операции «Луч во тьме»."
+msgstr "Gain a victory in Operation Sunray in the Darkness."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_HALLOWEEN_2018"
-msgstr "Победить в операции «Ужас глубин»."
+msgstr "Gain a victory in Operation Terror of the Deep."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_HALLOWEEN_2023"
-msgstr "Победить в операции «Последний поход „Трансильвании“»."
+msgstr "Gain a victory in Operation Last Voyage of Transylvania."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_KEYTARGET_AT_GUNPOINT"
-msgstr ""
-"Победить и выжить в 5 боях, сражаясь на корабле с меткой «Ключевая цель»."
+msgstr "Win and survive five battles while playing a ship designated as a Bounty."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_KEYTARGET_COUNTERPUNCH"
-msgstr ""
-"Уничтожить в одном бою 4 корабля противника, сражаясь на корабле с меткой "
-"«Ключевая цель»."
+msgstr "Destroy four enemy ships in a single battle while playing a Bounty ship."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_KEYTARGET_FIRE_ON_MYSELF"
-msgstr ""
-"Получить 1 000 000 ед. потенциального урона и войти в топ-3 своей команды "
-"по количеству заработанного опыта. Союзный корабль с меткой «Ключевая цель» "
-"должен выжить в бою."
+msgstr "Receive 1,000,000 HP potential damage and finish among the top 3 XP earners on your team. The allied ship designated as a Bounty must survive the battle."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_KEYTARGET_MATTER_OF_HONOR"
-msgstr ""
-"Уничтожить корабль противника с меткой «Ключевая цель», также сражаясь "
-"на корабле с меткой «Ключевая цель»."
+msgstr "Destroy an enemy ship designated as a Bounty while also helming a Bounty ship."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_KOTS15"
-msgstr ""
-"Тяжело в учении, легко в бою! Занять с 1 по 3 место в турнире «Царь морей»."
+msgstr "Hard work and training pay off! Place among the top three teams in the \"King of the Seas\" tournament."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_LIQUIDATOR"
-msgstr ""
-"Уничтожить корабль противника с помощью затопления. Урон, нанесённый "
-"затоплением, должен составлять не менее %(damageRatio_percent)s от штатной "
-"боеспособности уничтоженного корабля противника."
+msgstr "Cause flooding on an enemy ship and destroy her. Damage caused by flooding must amount to at least %(damageRatio_percent)s of the destroyed enemy ship's base HP."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_NO_DAY_WITHOUT_ADVENTURE_L"
-msgstr "Открывать минимум по 1 контейнеру в течение 5 дней."
+msgstr "Open at least one container a day for five days in a row."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_PRORYV"
-msgstr "Победить в турнире «Прорыв»."
+msgstr "Win the \"Breakthrough\" tournament."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_DUNKERQUE_OPERATION_DYNAMO"
-msgstr "Победить в операции «Динамо»."
+msgstr "Gain a victory in Operation Dynamo."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RUSSO_JAPANESE_WAR"
-msgstr "Разгромить силы японского флота в Асимметричном бою."
+msgstr "Defeat the Japanese fleet forces in an Asymmetric Battle."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_THREE_KINGDOMS"
-msgstr "Принять активное участие в соревновании «Троецарствие»."
+msgstr "Actively participate in the \"Three Kingdoms\" competition."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SCIENCE_OF_WINNING_BOMBARDIER"
-msgstr "Нанести кораблям противника первый %(damageCount)s ед. урона."
+msgstr "For the first time, cause %(damageCount)s damage to enemy ships."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR"
-msgstr ""
-"Взять под контроль необходимое количество территорий, чтобы получить "
-"финальную награду события «Новогодний карнавал»."
+msgstr "Take control of the required number of territories to earn the final reward in the \"New Year's Carnival\" event."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_NEWYEAR_FULL"
-msgstr "Взять под контроль все территории в событии «Новогодний карнавал»."
+msgstr "Take control of all territories in the \"New Year's Carnival\" event."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_PFALTZ"
-msgstr ""
-"Взять под контроль необходимое количество территорий, чтобы получить "
-"финальную награду события «Рейд во льдах»."
+msgstr "Take control of the required number of territories to earn the final reward in the \"Raid in the Ice\" event."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_STRATOPS_PFALTZ_FULL"
-msgstr "Взять под контроль все территории в событии «Рейд во льдах»."
+msgstr "Take control of all territories in the \"Raid in the Ice\" event."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_TOP_LEAGUE_CLAN_SEASON_28"
-msgstr "Достичь лиги Урагана в Двадцать восьмом сезоне."
+msgstr "Reach the Hurricane League in Clan Battles Season 28."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WGFEST2016"
-msgstr "За участие в Fest 2016."
+msgstr "For your participation in Fest 2016."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WGFEST2017"
-msgstr "За участие в Fest 2017."
+msgstr "For your participation in Fest 2017."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WINNER_CLAN_SEASON_25"
-msgstr "Занять 1-е место в Двадцать пятом сезоне."
+msgstr "Win Season 25 of Clan Battles."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WINNER_CLAN_SEASON_26"
-msgstr "Занять 1-е место в Двадцать шестом сезоне."
+msgstr "Win Season 26 of Clan Battles."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WINNER_CLAN_SEASON_28"
-msgstr "Занять 1-е место в Двадцать восьмом сезоне."
+msgstr "Win Season 28 of Clan Battles."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WITHERING"
-msgstr ""
-"Нанести кораблям противника не менее %(damage)s ед. урона с помощью пожаров "
-"или затоплений."
+msgstr "Deal at least %(damage)s fire and flooding damage to enemy ships."
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_1STPLACE"
-msgstr "Первая космическая"
+msgstr "First Space"
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_2NDPLACE"
-msgstr "На подступах к орбите"
+msgstr "Approaching Orbit"
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_3RDPLACE"
-msgstr "Через тернии — к бронзе"
+msgstr "Through the Thorns to Bronze"
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_LEGEND"
-msgstr "Покоритель космических высот"
+msgstr "Conqueror of Cosmic Heights"
 
 msgid "IDS_ACHIEVEMENT_EV24SPACE_SPACEMAN"
-msgstr "Поехали!"
+msgstr "Poyekhali!"
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_ARIA_COMPLETED"
-msgstr "Здесь куют металл"
+msgstr "Forging Metal"
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_KOTS_COMPLETED"
-msgstr "Царь морей"
+msgstr "King of the Sea"
 
 msgid "IDS_ACHIEVEMENT_FILLALBUM_MAY_DAY_COMPLETED"
-msgstr "Флот победы"
+msgstr "Victory Fleet"
 
 msgid "IDS_ACHIEVEMENT_KEYTARGET_AT_GUNPOINT"
-msgstr "Под прицелом"
+msgstr "Elusive Bounty"
 
 msgid "IDS_ACHIEVEMENT_KEYTARGET_FIRE_ON_MYSELF"
-msgstr "Вызываю огонь на себя"
+msgstr "Decoy Mission"
 
 msgid "IDS_ACHIEVEMENT_KEYTARGET_MATTER_OF_HONOR"
-msgstr "Дело чести"
+msgstr "A Matter of Honor"
 
 msgid "IDS_ACHIEVEMENT_KOTS15"
-msgstr "Финалист состязания «Царь морей»"
+msgstr "\"King of the Seas\" XV Finalist"
 
 msgid "IDS_ACHIEVEMENT_PRORYV"
-msgstr "Прорыв"
+msgstr "Breakthrough"
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_GONAVY"
-msgstr "Выдаётся во время события Go Navy!"
+msgstr "Granted during the \"Go Navy!\" event."
 
 msgid "IDS_ACHIEVEMENT_RUSSO_JAPANESE_WAR"
-msgstr "Асимметричный бой: Русско-японская война"
+msgstr "Asymmetric Battle: Russo-Japanese War"
 
 msgid "IDS_ACHIEVEMENT_RVR_THREE_KINGDOMS"
-msgstr "Троецарствие"
+msgstr "Three Kingdoms"
 
 msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR"
-msgstr "Новогодний карнавал"
+msgstr "New Year's Carnival"
 
 msgid "IDS_ACHIEVEMENT_STRATOPS_NEWYEAR_FULL"
-msgstr "Новогодний карнавал: морское господство"
+msgstr "New Year's Carnival: Naval Supremacy"
 
 msgid "IDS_ACHIEVEMENT_STRATOPS_PFALTZ"
-msgstr "Рейд во льдах"
+msgstr "Raid in the Ice"
 
 msgid "IDS_ACHIEVEMENT_STRATOPS_PFALTZ_FULL"
-msgstr "Рейд во льдах: морское господство"
+msgstr "Raid in the Ice: Naval Supremacy"
 
 msgid "IDS_ACHIEVEMENT_TOP_LEAGUE_CLAN_SEASON_25"
 msgstr "Ураган. Полярный медведь"
