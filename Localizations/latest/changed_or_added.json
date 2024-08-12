@@ -39662,381 +39662,381 @@
         "lk_zh": "将镜头拉远。"
     },
     "IDS_CREW_SKILL_MEASURE_BOMBER": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": " бомбардировщик",
+        "lesta_ru": " бомбардировщик",
+        "wg_en": " bomber",
+        "3b_en": " bomber",
+        "lk_zh": " 轰炸机"
     },
     "IDS_CREW_SKILL_MEASURE_CHARGE": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": " дополнительный заряд",
+        "lesta_ru": " дополнительный заряд",
+        "wg_en": " additional charge",
+        "3b_en": " additional charge",
+        "lk_zh": " 额外装载"
     },
     "IDS_CREW_SKILL_MEASURE_FIGHTER": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": " штурмовик",
+        "lesta_ru": " штурмовик",
+        "wg_en": " attack aircraft",
+        "3b_en": " attack aircraft",
+        "lk_zh": " 攻击机"
     },
     "IDS_PCQT012_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Выведите из строя или уничтожьте %(count)s модуль на корабле противника.",
+        "lesta_ru": "Повредите %(count)s модуль на корабле противника.",
+        "wg_en": "Incapacitate or destroy %(count)s module on an enemy ship.",
+        "3b_en": "Incapacitate or destroy %(count)s module on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s个配件。"
     },
     "IDS_PCQT039_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Выведите из строя или уничтожьте %(count)s установку главного калибра на корабле противника.",
+        "lesta_ru": "Повредите %(count)s установку главного калибра на корабле противника.",
+        "wg_en": "Incapacitate or destroy %(count)s main battery mount on an enemy ship.",
+        "3b_en": "Incapacitate or destroy %(count)s main battery mount on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s座主炮。"
     },
     "IDS_PCQT079_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Выведите из строя или уничтожьте %(count)s модуль на корабле противника.",
+        "lesta_ru": "Повредите %(count)s модуль на корабле противника.",
+        "wg_en": "Incapacitate or destroy %(count)s module on an enemy ship.",
+        "3b_en": "Incapacitate or destroy %(count)s module on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s个配件。"
     },
     "IDS_PCQT095_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Уничтожьте %(count)s модуль на эсминце или крейсере противника.",
+        "lesta_ru": "Повредите %(count)s модуль на эсминце или крейсере противника.",
+        "wg_en": "Destroy %(count)s module on an enemy destroyer or cruiser.",
+        "3b_en": "Destroy %(count)s module on an enemy destroyer or cruiser.",
+        "lk_zh": "瘫痪敌方驱逐舰或巡洋舰上的%(count)s个配件。"
     },
     "IDS_PCQT106_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Уничтожьте %(count)s модуль на корабле противника.",
+        "lesta_ru": "Повредите %(count)s модуль на корабле противника.",
+        "wg_en": "Destroy %(count)s module on an enemy ship.",
+        "3b_en": "Destroy %(count)s module on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s个配件。"
     },
     "IDS_PCQT114_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Уничтожьте %(count)s установку ПВО на корабле противника.",
+        "lesta_ru": "Повредите %(count)s установку ПВО на корабле противника.",
+        "wg_en": "Destroy %(count)s AA mount on an enemy ship.",
+        "3b_en": "Destroy %(count)s AA mount on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s座防空炮组。"
     },
     "IDS_PCQT144_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Уничтожьте или повредите %(count)s модуль на корабле противника.",
+        "lesta_ru": "Повредите %(count)s модуль на корабле противника.",
+        "wg_en": "Destroy or damage %(count)s module on an enemy ship.",
+        "3b_en": "Destroy or damage %(count)s module on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s个配件。"
     },
     "IDS_PCQT151_CAMPAIGNSB_MISSION01_TASK01_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s урона кораблям Японии.",
+        "lesta_ru": "Нанесите %(count)s ед. урона кораблям Японии.",
+        "wg_en": "Cause %(count)s HP of damage to Japanese ships.",
+        "3b_en": "Cause %(count)s HP of damage to Japanese ships.",
+        "lk_zh": "对日本战舰造成%(count)s点伤害。"
     },
     "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Выведите из строя или уничтожьте %(count)s установку главного калибра на корабле противника.",
+        "lesta_ru": "Повредите %(count)s установку главного калибра на корабле противника.",
+        "wg_en": "Incapacitate or destroy %(count)s main battery mount on an enemy ship.",
+        "3b_en": "Incapacitate or destroy %(count)s main battery mount on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s座主炮组。"
     },
     "IDS_PCQT161_CAMPAIGNSB_MISSION02_TASK01_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s урона кораблям США.",
+        "lesta_ru": "Нанесите %(count)s ед. урона кораблям США.",
+        "wg_en": "Cause %(count)s HP of damage to U.S. ships.",
+        "3b_en": "Cause %(count)s HP of damage to U.S. ships.",
+        "lk_zh": "对美国战舰造成%(count)s点伤害。"
     },
     "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Уничтожьте %(count)s модуль «Вспомогательный калибр» на корабле противника.",
+        "lesta_ru": "Повредите %(count)s модуль «Вспомогательный калибр» на корабле противника.",
+        "wg_en": "Destroy %(count)s \"Secondary Battery\" module on an enemy ship.",
+        "3b_en": "Destroy %(count)s \"Secondary Battery\" module on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s座副炮组。"
     },
     "IDS_PCQT168_CAMPAIGNSB_MISSION02_TASK08_KEY_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Заработайте %(count)s опыта командира.",
+        "lesta_ru": "Заработайте %(count)s ед. опыта командира.",
+        "wg_en": "Earn %(count)s Commander XP.",
+        "3b_en": "Earn %(count)s Commander XP.",
+        "lk_zh": "获得%(count)s点指挥官经验。"
     },
     "IDS_PCQT171_CAMPAIGNSB_MISSION03_TASK01_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s урона кораблям СССР.",
+        "lesta_ru": "Нанесите %(count)s ед. урона кораблям СССР.",
+        "wg_en": "Cause %(count)s HP of damage to Soviet ships.",
+        "3b_en": "Cause %(count)s HP of damage to Soviet ships.",
+        "lk_zh": "对苏联战舰造成%(count)s点伤害。"
     },
     "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Выведите из строя %(count)s модуль «Двигатель» на корабле противника.",
+        "lesta_ru": "Повредите %(count)s модуль «Двигатель» на корабле противника.",
+        "wg_en": "Incapacitate %(count)s \"Engine\" module on an enemy ship.",
+        "3b_en": "Incapacitate %(count)s \"Engine\" module on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s个“引擎”配件。"
     },
     "IDS_PCQT178_CAMPAIGNSB_MISSION03_TASK08_KEY_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Заработайте %(count)s свободного опыта.",
+        "lesta_ru": "Заработайте %(count)s ед. свободного опыта.",
+        "wg_en": "Earn %(count)s Free XP.",
+        "3b_en": "Earn %(count)s Free XP.",
+        "lk_zh": "获得%(count)s点全局经验。"
     },
     "IDS_PCQT181_CAMPAIGNSB_MISSION04_TASK01_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s урона кораблям Германии.",
+        "lesta_ru": "Нанесите %(count)s ед. урона кораблям Германии.",
+        "wg_en": "Cause %(count)s HP of damage to German ships.",
+        "3b_en": "Cause %(count)s HP of damage to German ships.",
+        "lk_zh": "对德国战舰造成%(count)s点伤害。"
     },
     "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Выведите из строя %(count)s модуль «Рулевая машина» на корабле противника.",
+        "lesta_ru": "Повредите %(count)s модуль «Рулевая машина» на корабле противника.",
+        "wg_en": "Incapacitate %(count)s \"Steering Gear\" module on an enemy ship.",
+        "3b_en": "Incapacitate %(count)s \"Steering Gear\" module on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s个“操舵装置”配件。"
     },
     "IDS_PCQT188_CAMPAIGNSB_MISSION04_TASK08_KEY_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Заработайте %(count)s опыта.",
+        "lesta_ru": "Заработайте %(count)s ед. опыта.",
+        "wg_en": "Earn %(count)s XP.",
+        "3b_en": "Earn %(count)s XP.",
+        "lk_zh": "获得%(count)s点经验。"
     },
     "IDS_PCQT191_CAMPAIGNSB_MISSION05_TASK01_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s урона кораблям противника.",
+        "lesta_ru": "Нанесите %(count)s ед. урона кораблям противника.",
+        "wg_en": "Cause %(count)s HP of damage to enemy ships.",
+        "3b_en": "Cause %(count)s HP of damage to enemy ships.",
+        "lk_zh": "对敌舰造成%(count)s点伤害。"
     },
     "IDS_PCQT192_CAMPAIGNSB_MISSION05_TASK02_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Заработайте %(count)s опыта.",
+        "lesta_ru": "Заработайте %(count)s ед. опыта.",
+        "wg_en": "Earn %(count)s XP.",
+        "3b_en": "Earn %(count)s XP.",
+        "lk_zh": "获得%(count)s点经验。"
     },
     "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Выведите из строя или уничтожьте %(count)s модуль на корабле противника.",
+        "lesta_ru": "Повредите %(count)s модуль на корабле противника.",
+        "wg_en": "Incapacitate or destroy %(count)s module on an enemy ship.",
+        "3b_en": "Incapacitate or destroy %(count)s module on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s个配件。"
     },
     "IDS_PCQT374_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Выведите из строя или уничтожьте %(count)s модуль на корабле противника.",
+        "lesta_ru": "Повредите %(count)s модуль на корабле противника.",
+        "wg_en": "Incapacitate or destroy %(count)s module on an enemy ship.",
+        "3b_en": "Incapacitate or destroy %(count)s module on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s个配件。"
     },
     "IDS_PCQT395_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s единицу урона эсминцам.",
+        "lesta_ru": "Нанесите %(count)s ед. урона эсминцам.",
+        "wg_en": "Cause %(count)s HP of damage to enemy destroyers.",
+        "3b_en": "Cause %(count)s HP of damage to enemy destroyers.",
+        "lk_zh": "对敌方驱逐舰造成%(count)s点伤害。"
     },
     "IDS_PCQT405_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s единицу урона линкорам противника.",
+        "lesta_ru": "Нанесите %(count)s ед. урона линкорам противника.",
+        "wg_en": "Cause %(count)s HP of damage to enemy battleships.",
+        "3b_en": "Cause %(count)s HP of damage to enemy battleships.",
+        "lk_zh": "对敌方战列舰造成%(count)s点伤害。"
     },
     "IDS_PCQT423_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s урон крейсерам противника.",
+        "lesta_ru": "Нанесите %(count)s ед. урона крейсерам противника.",
+        "wg_en": "Cause %(count)s HP of damage to enemy cruisers.",
+        "3b_en": "Cause %(count)s HP of damage to enemy cruisers.",
+        "lk_zh": "对敌方巡洋舰造成%(count)s点伤害。"
     },
     "IDS_PCQT425_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s единицу урона линкорам.",
+        "lesta_ru": "Нанесите %(count)s ед. урона линкорам.",
+        "wg_en": "Cause %(count)s HP of damage to battleships.",
+        "3b_en": "Cause %(count)s HP of damage to battleships.",
+        "lk_zh": "对战列舰造成%(count)s点伤害。"
     },
     "IDS_PCQT533_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s урона кораблям Германии или Японии.",
+        "lesta_ru": "Нанесите %(count)s ед. урона кораблям Германии или Японии.",
+        "wg_en": "Cause %(count)s HP of damage to German or Japanese ships.",
+        "3b_en": "Cause %(count)s HP of damage to German or Japanese ships.",
+        "lk_zh": "对德国或日本战舰造成%(count)s点伤害。"
     },
     "IDS_PCQT535_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Войдите в топ-3 своей команды по количеству заработанного опыта, одержите победу и выведите из строя или уничтожьте %(count)s модуль на корабле противника.",
+        "lesta_ru": "Войдите в топ-3 своей команды по количеству заработанного опыта, одержите победу и повредите %(count)s модуль на корабле противника.",
+        "wg_en": "Be among the top 3 XP earners on your team, gain a victory, and incapacitate or destroy %(count)s module on an enemy ship.",
+        "3b_en": "Be among the top 3 XP earners on your team, gain a victory, and incapacitate or destroy %(count)s module on an enemy ship.",
+        "lk_zh": "瘫痪敌舰上的%(count)s个配件，成为己方团队经验获取量排名前3的玩家，并赢得胜利。"
     },
     "IDS_PCQT536_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "В победных боях нанесите %(count)s урона кораблям Японии.",
+        "lesta_ru": "В победных боях нанесите %(count)s ед. урона кораблям Японии.",
+        "wg_en": "Cause %(count)s HP of damage to enemy Japanese ships in victorious battles.",
+        "3b_en": "Cause %(count)s HP of damage to enemy Japanese ships in victorious battles.",
+        "lk_zh": "在胜利的战斗中对敌方日本战舰造成%(count)s点伤害。"
     },
     "IDS_PCQT537_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "В победных боях нанесите %(count)s урона кораблям Германии.",
+        "lesta_ru": "В победных боях нанесите %(count)s ед. урона кораблям Германии.",
+        "wg_en": "Cause %(count)s HP of damage to enemy German ships in victorious battles.",
+        "3b_en": "Cause %(count)s HP of damage to enemy German ships in victorious battles.",
+        "lk_zh": "在胜利的战斗中对敌方德国战舰造成%(count)s点伤害。"
     },
     "IDS_PCQT646_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s урона кораблям противника.",
+        "lesta_ru": "Нанесите %(count)s ед. урона кораблям противника.",
+        "wg_en": "Cause %(count)s HP of damage to enemy ships.",
+        "3b_en": "Cause %(count)s HP of damage to enemy ships.",
+        "lk_zh": "对敌舰造成%(count)s点伤害。"
     },
     "IDS_PCQT647_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s единицу урона огнём орудий главного калибра.",
+        "lesta_ru": "Нанесите %(count)s ед. урона огнём орудий главного калибра.",
+        "wg_en": "Cause %(count)s HP of damage with main battery guns.",
+        "3b_en": "Cause %(count)s HP of damage with main battery guns.",
+        "lk_zh": "用主炮造成%(count)s点伤害。"
     },
     "IDS_PCQT663_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s урона кораблям противника.",
+        "lesta_ru": "Нанесите %(count)s ед. урона кораблям противника.",
+        "wg_en": "Cause %(count)s HP of damage to enemy ships.",
+        "3b_en": "Cause %(count)s HP of damage to enemy ships.",
+        "lk_zh": "对敌舰造成%(count)s点伤害。"
     },
     "IDS_PCQT667_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s урона кораблям противника.",
+        "lesta_ru": "Нанесите %(count)s ед. урона кораблям противника.",
+        "wg_en": "Cause %(count)s HP of damage to enemy ships.",
+        "3b_en": "Cause %(count)s HP of damage to enemy ships.",
+        "lk_zh": "对敌舰造成%(count)s点伤害。"
     },
     "IDS_PCQT668_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s единицу урона огнём орудий главного калибра.",
+        "lesta_ru": "Нанесите %(count)s ед. урона огнём орудий главного калибра.",
+        "wg_en": "Cause %(count)s HP of damage with main battery guns.",
+        "3b_en": "Cause %(count)s HP of damage with main battery guns.",
+        "lk_zh": "用主炮造成%(count)s点伤害。"
     },
     "IDS_PCQT671_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите кораблям противника %(count)s единицу урона корабельными торпедами.",
+        "lesta_ru": "Нанесите кораблям противника %(count)s ед. урона корабельными торпедами.",
+        "wg_en": "Cause %(count)s HP of damage to enemy ships with ship torpedoes.",
+        "3b_en": "Cause %(count)s HP of damage to enemy ships with ship torpedoes.",
+        "lk_zh": "用舰载鱼雷对敌舰造成%(count)s点伤害。"
     },
     "IDS_PCQT673_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Нанесите %(count)s урона кораблям противника.",
+        "lesta_ru": "Нанесите %(count)s ед. урона кораблям противника.",
+        "wg_en": "Cause %(count)s HP of damage to enemy ships.",
+        "3b_en": "Cause %(count)s HP of damage to enemy ships.",
+        "lk_zh": "对敌舰造成%(count)s点伤害。"
     },
     "IDS_PCQT679_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Получите %(count)s единицу потенциального урона.",
+        "lesta_ru": "Получите %(count)s ед. потенциального урона.",
+        "wg_en": "Receive %(count)s HP of potential damage.",
+        "3b_en": "Receive %(count)s HP of potential damage.",
+        "lk_zh": "受到%(count)s点潜在伤害。"
     },
     "IDS_PCQT686_1": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Получите %(count)s единицу потенциального урона.",
+        "lesta_ru": "Получите %(count)s ед. потенциального урона.",
+        "wg_en": "Receive %(count)s HP of potential damage.",
+        "3b_en": "Receive %(count)s HP of potential damage.",
+        "lk_zh": "受到%(count)s点潜在伤害。"
     },
     "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "У вас есть %(durationAlmanac)s день, чтобы забрать награды.",
+        "lesta_ru": "У вас есть %(durationAlmanac)s день, чтобы забрать награды",
+        "wg_en": "You have %(durationAlmanac)s day to claim the rewards.",
+        "3b_en": "You have %(durationAlmanac)s day to claim the rewards.",
+        "lk_zh": "您还有%(durationAlmanac)s天来领取奖励"
     },
     "IDS_PL_ALMANAC_WINDOW_EXTRAREWARDS_STATUS": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Следующий %(extraRewardClaimDay)s день вам будут доступны дополнительные награды.",
+        "lesta_ru": "Следующий %(extraRewardClaimDay)s день вам будут доступны дополнительные награды",
+        "wg_en": "For the next %(extraRewardClaimDay)s day, additional rewards will be available to you.",
+        "3b_en": "For the next %(extraRewardClaimDay)s day, additional rewards will be available to you.",
+        "lk_zh": "在接下来的%(extraRewardClaimDay)s天内，您可以领取额外奖励"
     },
     "IDS_PL_ALMANAC_WINDOW_WARNING_STATUS": {
         "wg_ru": "",
-        "lesta_ru": "",
+        "lesta_ru": "У вас остался %(timeUntilAlmanacEnd)s день, чтобы забрать награды",
         "wg_en": "",
         "3b_en": "",
-        "lk_zh": ""
+        "lk_zh": "您还有%(timeUntilAlmanacEnd)s天来领取奖励"
     },
     "IDS_PL_TOOLTIP_NEXT_MONTH_REWARD": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "У вас есть %(_timeLeft)s день, чтобы забрать все награды.",
+        "lesta_ru": "У вас есть %(_timeLeft)s день, чтобы забрать все награды",
+        "wg_en": "You have %(_timeLeft)s day to claim all the rewards.",
+        "3b_en": "You have %(_timeLeft)s day to claim all the rewards.",
+        "lk_zh": "您还有%(_timeLeft)s天来领取所有奖励"
     },
     "IDS_QUEST_COLLECTIONER_SHIPS": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Соберите коллекцию из %(achievementCount)s корабля.",
+        "lesta_ru": "Соберите коллекцию из %(countShips)s корабля.",
+        "wg_en": "Build a collection of %(achievementCount)s ship.",
+        "3b_en": "Build a collection of %(achievementCount)s ship.",
+        "lk_zh": "完成%(countShips)s艘战舰的收藏。"
     },
     "IDS_QUEST_DAMAGECOUNT": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "Достигните значения %(damage)s единицы среднего урона за бой.",
+        "lesta_ru": "Достигните значения %(damage)s ед. среднего урона за бой.",
+        "wg_en": "Achieve %(damage)s average damage per battle.",
+        "3b_en": "Achieve %(damage)s average damage per battle.",
+        "lk_zh": "达成%(damage)s点场均伤害。"
     },
     "IDS_QUEST_PRORUV_WIN": {
         "wg_ru": "",
-        "lesta_ru": "",
+        "lesta_ru": "Одержите %(achievementCount)s победу со своей командой в турнире «Прорыв».",
         "wg_en": "",
         "3b_en": "",
-        "lk_zh": ""
+        "lk_zh": "与您的团队在突围锦标赛中取得%(achievementCount)s场胜利。"
     },
     "IDS_QUEST_TSARMOREYBATTLES_WIN": {
         "wg_ru": "",
-        "lesta_ru": "",
+        "lesta_ru": "Одержите %(achievementCount)s победу со своей командой в состязаниях «Царь морей».",
         "wg_en": "",
         "3b_en": "",
-        "lk_zh": ""
+        "lk_zh": "与您的团队在海洋之王锦标赛中取得%(achievementCount)s场胜利。"
     },
     "IDS_REWARDS_PL_EXP_TITLE": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "%(_amount)s опыта",
+        "lesta_ru": "%(_amount)s ед. опыта",
+        "wg_en": "%(_amount)s XP",
+        "3b_en": "%(_amount)s XP",
+        "lk_zh": "%(_amount)s点经验"
     },
     "IDS_REWARDS_PL_FREEXP_TITLE": {
-        "wg_ru": "",
-        "lesta_ru": "",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": ""
+        "wg_ru": "%(_amount)s свободного опыта",
+        "lesta_ru": "%(_amount)s ед. свободного опыта",
+        "wg_en": "%(_amount)s Free XP",
+        "3b_en": "%(_amount)s Free XP",
+        "lk_zh": "%(_amount)s点全局经验"
     },
     "IDS_SHIP_PARAM_DRUM_SHOT_DELAY": {
         "wg_ru": "",
-        "lesta_ru": "",
+        "lesta_ru": "Время перезарядки %(_shotCount)s-го залпа",
         "wg_en": "",
         "3b_en": "",
-        "lk_zh": ""
+        "lk_zh": "第%(_shotCount)s组炮弹的装填时间"
     },
     "IDS_SHIP_PARAM_TORPEDO_SHOT_DELAY": {
         "wg_ru": "",
-        "lesta_ru": "",
+        "lesta_ru": "Время перезарядки %(_shotCount)s-й торпеды",
         "wg_en": "",
         "3b_en": "",
-        "lk_zh": ""
+        "lk_zh": "%(_shotCount)s号鱼雷的装填时间"
     }
 }
