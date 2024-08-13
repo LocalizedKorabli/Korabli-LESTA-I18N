@@ -2302,13 +2302,6 @@
         "3b_en": "",
         "lk_zh": "鱼雷轰炸机整备时间较长"
     },
-    "IDS_AZUR_COLORADO": {
-        "wg_ru": "Colorado",
-        "lesta_ru": " ",
-        "wg_en": "Colorado",
-        "3b_en": "Colorado",
-        "lk_zh": "科罗拉多"
-    },
     "IDS_BALBES": {
         "wg_ru": " ",
         "lesta_ru": "Балбес",
@@ -3919,13 +3912,6 @@
         "3b_en": "Can be obtained by inviting friends to join the game and participating in various events.",
         "lk_zh": "可通过邀请好友加入游戏、参加公共测试或参与各种活动获得。"
     },
-    "IDS_CURRENCY_SANTIUM_GET_DESCRIPTION": {
-        "wg_ru": "За участие в многочисленных волонтёрских активностях.",
-        "lesta_ru": " ",
-        "wg_en": "For participating in numerous volunteer activities.",
-        "3b_en": "For participating in numerous volunteer activities.",
-        "lk_zh": "通过参加各种志愿者活动获得。"
-    },
     "IDS_CURRENCY_SANTIUM_STATUS": {
         "wg_ru": "Особый ресурс",
         "lesta_ru": " ",
@@ -4163,13 +4149,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "强化战舰的战术作用，短时间内提高其机动性，使其能快速切换目标。"
-    },
-    "IDS_DESC_PCM101_MINEBOMBER_MOD_I": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
     },
     "IDS_DESC_PCM994_MODERNIZATION_SLOT_DUMMY": {
         "wg_ru": "",
@@ -6655,13 +6634,6 @@
         "wg_en": "World of Wargaming",
         "3b_en": "World of Wargaming",
         "lk_zh": "战争游戏世界"
-    },
-    "IDS_DOGTAG_PCNB385_NAME": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": "Epic"
     },
     "IDS_DOGTAG_PCNB386_DESCRIPTION": {
         "wg_ru": "",
@@ -13894,13 +13866,6 @@
         "3b_en": "1948",
         "lk_zh": "1948"
     },
-    "IDS_PASC505_DESCR": {
-        "wg_ru": "Бессмертный Вик Раттлхэд, держащий сияющий зелёный кристалл космической природы, бороздит моря на покрытом ржавчиной корабле. Следуя своему девизу «не вижу зла, не слышу зла, не говорю зла», он ищет возмездия и разрушения.",
-        "lesta_ru": " ",
-        "wg_en": "The Immortal Vic Rattlehead can be seen clutching a radiant green crystal of cosmic nature, sailing the seas on a rusted ship. His credo is, \"See no evil, hear no evil, speak no evil.\" Vic navigates in search of retribution and destruction.",
-        "3b_en": "The Immortal Vic Rattlehead can be seen clutching a radiant green crystal of cosmic nature, sailing the seas on a rusted ship. His credo is, \"See no evil, hear no evil, speak no evil.\" Vic navigates in search of retribution and destruction.",
-        "lk_zh": "不朽的受害骷髅手握着一颗散发着光芒的宇宙绿水晶。他驾驶着一艘锈迹斑斑的战舰在海上航行。他的信条是：非礼勿视、非礼勿听、非礼勿言。受害骷髅为寻求报复和毁灭而航行。"
-    },
     "IDS_PASC505_NUMBER": {
         "wg_ru": "2",
         "lesta_ru": " ",
@@ -15665,13 +15630,6 @@
         "3b_en": "",
         "lk_zh": "奇美拉（Химера）"
     },
-    "IDS_PBES438_CHESHIRE_AZUR": {
-        "wg_ru": "Azur Lane",
-        "lesta_ru": " ",
-        "wg_en": "Azur Lane",
-        "3b_en": "Azur Lane",
-        "lk_zh": "碧蓝航线"
-    },
     "IDS_PBGA167_4IN45_QF_MK_XIX": {
         "wg_ru": "",
         "lesta_ru": "102-мм/45 QF Mk.XVI* в установке Mk.XIX",
@@ -15965,13 +15923,6 @@
         "wg_en": "After signing the Washington Naval Treaty, Great Britain immediately got down to the task of designing cruisers. One of the great enthusiasts for the development of a new cruiser class was Sir George Thurston, who designed such ships as Kongō and Erin. Back in 1923, he published an essay that described the general features of cruisers of the future. In 1926, he presented three cruiser projects to the Royal Navy—projects A and B resembled the County-class cruisers, while project C turned out to be more radical. It envisaged the arrangement of main battery turrets at the bow to achieve a better concentration of fire. The Admiralty, however, assumed a more conservative approach than Thurston, and the project was left without consideration.",
         "3b_en": "After signing the Washington Naval Treaty, Great Britain immediately got down to the task of designing cruisers. One of the great enthusiasts for the development of a new cruiser class was Sir George Thurston, who designed such ships as Kongō and Erin. Back in 1923, he published an essay that described the general features of cruisers of the future. In 1926, he presented three cruiser projects to the Royal Navy—projects A and B resembled the County-class cruisers, while project C turned out to be more radical. It envisaged the arrangement of main battery turrets at the bow to achieve a better concentration of fire. The Admiralty, however, assumed a more conservative approach than Thurston, and the project was left without consideration.",
         "lk_zh": "签署《华盛顿海军条约》后，英国立即着手设计巡洋舰。乔治•瑟斯顿爵士是热衷于开发新的巡洋舰舰级的人之一，他设计了金刚号和爱尔兰号。早在1923年，他就发表了一篇文章，描述未来巡洋舰的大体特征。1926年，他向皇家海军提交了3份巡洋舰项目——项目A和B类似于郡级巡洋舰，而项目C则更为激进。项目C的主炮塔采用舰首布局，以更好地集中火力。不过海军部最终采取了比瑟斯顿更为保守的态度，并未考虑该项目。"
-    },
-    "IDS_PBSC558_DESCR": {
-        "wg_ru": "Cheshire — тяжёлый крейсер Королевского Флота. Преданная и позитивная Cheshire одета в костюм горничной и похожа на Чеширского Кота.",
-        "lesta_ru": " ",
-        "wg_en": "Cheshire is a heavy cruiser of the Royal Navy. Loyal and positive, Cheshire wears a maid outfit. She resembles Cheshire Cat.",
-        "3b_en": "Cheshire is a heavy cruiser of the Royal Navy. Loyal and positive, Cheshire wears a maid outfit. She resembles Cheshire Cat.",
-        "lk_zh": "柴郡是皇家海军的重型巡洋舰。忠诚且开朗的柴郡穿着女仆装。她长得像柴郡猫。"
     },
     "IDS_PBSC558_NUMBER": {
         "wg_ru": "1",
@@ -17233,13 +17184,6 @@
         "3b_en": "For achieving Rank 1 in the Bronze League of Ranked Battles Season 5.",
         "lk_zh": "授予在排位战第5赛季中达到青铜联盟排名1的玩家。"
     },
-    "IDS_PCEE515_HOLOLIVE_FLAG_DESCRIPTION": {
-        "wg_ru": "Логотип hololive production.",
-        "lesta_ru": " ",
-        "wg_en": "hololive production logo.",
-        "3b_en": "hololive production logo.",
-        "lk_zh": "hololive production标志。"
-    },
     "IDS_PCEE560_WOWS_WOT_FLAG_DESCRIPTION": {
         "wg_ru": "В честь игр Wargaming.",
         "lesta_ru": "В честь игр «Мир кораблей», «Мир танков» и Tanks Blitz.",
@@ -17303,26 +17247,12 @@
         "3b_en": " ",
         "lk_zh": "苏联和俄罗斯历史最悠久、规模最大的电影公司之一。戈斯金诺第一工厂的成立日期通常被认为是1924年1月30日，当时举行了电影《展翅高飞》的首映式。后来，在麻雀山上修建了带有大型摄影棚的新建筑，莫斯科电影制片厂在20世纪30年代中期获得了现代名称。"
     },
-    "IDS_PCEE611_BLUTO_DESCRIPTION": {
-        "wg_ru": "All brawn and no brains, dats me",
-        "lesta_ru": " ",
-        "wg_en": "All brawn and no brains, dats me",
-        "3b_en": "All brawn and no brains, dats me",
-        "lk_zh": "All brawn and no brains, dats me"
-    },
     "IDS_PCEE612_POPEYE": {
         "wg_ru": "Моряк Попай",
         "lesta_ru": " ",
         "wg_en": "Popeye the Sailor Man",
         "3b_en": "Popeye the Sailor Man",
         "lk_zh": "大力水手波比"
-    },
-    "IDS_PCEE612_POPEYE_EXTRA_DESCRIPTION": {
-        "wg_ru": "Из комиксов Popeye the Sailor.",
-        "lesta_ru": " ",
-        "wg_en": "From Popeye the Sailor Man comic books.",
-        "3b_en": "From Popeye the Sailor Man comic books.",
-        "lk_zh": "出自《大力水手波比》漫画。"
     },
     "IDS_PCEE613_SCARLET_THUNDER_FLAG_DESCRIPTION": {
         "wg_ru": "Ретрофутуристичный корабль Scarlet Thunder — чудо инженерной мысли, воплощающее в себе последние технические достижения.",
@@ -17345,13 +17275,6 @@
         "3b_en": " ",
         "lk_zh": "有一种说法认为，俄罗斯三色旗的起源与海军的诞生密不可分。17世纪下半叶，一艘名为“鹰”的帆船被建造出来，以保护俄罗斯的商船。从现存文件中我们可以得知，当时订购了白色、蓝色和红色织物来制作海军旗。"
     },
-    "IDS_PCEE619_COFFEE_FLAG_DESCRIPTION": {
-        "wg_ru": "Madrinas и World of Warships объединились, чтобы создать уникальный бленд — The Enterprise. Он содержит кофейные зёрна из Суматры, имеющие сложные и изысканные вкусовые сочетания.",
-        "lesta_ru": " ",
-        "wg_en": "Madrinas and World of Warships have united to create a unique blend—The Enterprise. It contains the coffee beans from Sumatra with complex and exquisite flavor combinations.",
-        "3b_en": "Madrinas and World of Warships have united to create a unique blend—The Enterprise. It contains the coffee beans from Sumatra with complex and exquisite flavor combinations.",
-        "lk_zh": "Madrinas和《战舰世界》联手研制了一种独特的混合饮品——The Enterprise。它含有来自苏门答腊的咖啡豆，具有丰富而细腻的混合风味。"
-    },
     "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG": {
         "wg_ru": "Azur Lane — Prinz Heinrich",
         "lesta_ru": " ",
@@ -17359,26 +17282,12 @@
         "3b_en": "Azur Lane — Prinz Heinrich",
         "lk_zh": "碧蓝航线 — 海因里希亲王"
     },
-    "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG_EXTRA_DESCRIPTION": {
-        "wg_ru": "Из игры Azur Lane.",
-        "lesta_ru": " ",
-        "wg_en": "From the Azur Lane game.",
-        "3b_en": "From the Azur Lane game.",
-        "lk_zh": "出自游戏《碧蓝航线》。"
-    },
     "IDS_PCEE621_AZUR_CHESHIRE_FLAG_DESCRIPTION": {
         "wg_ru": "Я Cheshire, тяжёлый крейсер Королевского флота! До встречи с вами я скиталась по морю людского воображения.",
         "lesta_ru": " ",
         "wg_en": "I'm Cheshire, a heavy cruiser from the Royal Navy! Until I met you, I was just a stray in the sea of people's imagination!",
         "3b_en": "I'm Cheshire, a heavy cruiser from the Royal Navy! Until I met you, I was just a stray in the sea of people's imagination!",
         "lk_zh": "我是柴郡，皇家海军的重型巡洋舰！在遇见您之前，我只是存在于人们想象之中的战舰！"
-    },
-    "IDS_PCEE624_ASUS_ROG_FLAG": {
-        "wg_ru": "Republic of Gamers",
-        "lesta_ru": " ",
-        "wg_en": "Republic of Gamers",
-        "3b_en": "Republic of Gamers",
-        "lk_zh": "玩家国度"
     },
     "IDS_PCEE624_ASUS_ROG_FLAG_EXTRA_DESCRIPTION": {
         "wg_ru": "В рамках сотрудничества с ASUS.",
@@ -17428,13 +17337,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "突围锦标赛是一场充满激情、肾上腺素、竞争精神和真正友谊的动态比赛。"
-    },
-    "IDS_PCEE634_MEGADETH_FLAG_DESCRIPTION": {
-        "wg_ru": "Американская треш-метал-группа была создана в 1983 г. Дэйвом Мастейном, который является одним из основателей этого жанра. Megadeth известна мелодичными гитарными партиями, сложным ритмом и лиричными темами песен.",
-        "lesta_ru": " ",
-        "wg_en": "An American thrash metal band created in 1983 by Dave Mustaine, one of the founding fathers of thrash metal. Megadeth is famous for its melodic guitar solos, complex rhythms, and prophetic lyrics.",
-        "3b_en": "An American thrash metal band created in 1983 by Dave Mustaine, one of the founding fathers of thrash metal. Megadeth is famous for its melodic guitar solos, complex rhythms, and prophetic lyrics.",
-        "lk_zh": "美国的鞭挞金属乐队，由戴夫•马斯泰恩于1983年建立，他是鞭挞金属乐的创始人之一。麦加帝斯以富有旋律的吉他独奏、复杂的节奏和预言性的歌词而闻名。"
     },
     "IDS_PCEE635_BLACKBLACK_FLAG": {
         "wg_ru": "Black B",
@@ -17498,13 +17400,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "魏国是公元 3世纪争霸古中国的三国之一。魏国的建立者是曹操，他是一位政治家，在汉王朝衰落时曾实际统治过汉王朝。皇帝赐给曹操十城之地，这就是后来的魏国。"
-    },
-    "IDS_PCEE644_HISTORY_FLAG_DESCRIPTION": {
-        "wg_ru": "Военно-морской институт США — частная некоммерческая организация, предоставляющая площадку для обсуждения вопросов национальной безопасности. Институт издаёт книги и журналы, проводит ежегодные конференции. Основан 9 октября 1873 г. группой из 15 военно-морских офицеров в г. Аннаполис, штат Мэриленд.",
-        "lesta_ru": " ",
-        "wg_en": "The U.S. Naval Institute is a private, non-profit military association formed on October 9, 1873, by a group of 15 naval officers in Annapolis, Maryland. The Institute offers independent, nonpartisan forums to debate national security issues. It also publishes books and magazines and holds annual conferences.",
-        "3b_en": "The U.S. Naval Institute is a private, non-profit military association formed on October 9, 1873, by a group of 15 naval officers in Annapolis, Maryland. The Institute offers independent, nonpartisan forums to debate national security issues. It also publishes books and magazines and holds annual conferences.",
-        "lk_zh": "美国海军学会是非营利的私人军事协会，于1873年10月9日由15名海军军官在马里兰州安纳波利斯创立。该机构针对国家安全问题而组织独立的无党派论坛。它同时也出版书籍和杂志，并在每年举行会议。"
     },
     "IDS_PCEE645_TSARMOREY2023_FLAG": {
         "wg_ru": "",
@@ -21621,13 +21516,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "1942"
-    },
-    "IDS_PGSB517_DESCR": {
-        "wg_ru": "Prinz Heinrich — тяжёлый крейсер типа P, принадлежащий Железной Империи. Она очень оптимистична, быстро забывает обо всех своих неприятностях и отлично ладит с окружающими.",
-        "lesta_ru": " ",
-        "wg_en": "Prinz Heinrich is a P-class heavy cruiser of the Iron Blood. She is an optimistic person who forgets all her troubles the next day. She can easily get along with anyone.",
-        "3b_en": "Prinz Heinrich is a P-class heavy cruiser of the Iron Blood. She is an optimistic person who forgets all her troubles the next day. She can easily get along with anyone.",
-        "lk_zh": "海因里希亲王是铁血P级重型巡洋舰。她天性乐观，能快速忘记所有的烦恼。她很容易相处。"
     },
     "IDS_PGSB517_NUMBER": {
         "wg_ru": "1",
@@ -32675,13 +32563,6 @@
         "3b_en": "",
         "lk_zh": "战舰"
     },
-    "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": {
-        "wg_ru": "Корабль",
-        "lesta_ru": " ",
-        "wg_en": "Ship",
-        "3b_en": "Ship",
-        "lk_zh": "战舰"
-    },
     "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_TITLE": {
         "wg_ru": "Контейнер «Советская эпоха»",
         "lesta_ru": "Контейнер «Славные традиции флота»",
@@ -32920,13 +32801,6 @@
         "3b_en": "Camouflage",
         "lk_zh": "VI-VIII级战舰"
     },
-    "IDS_REWARD_LOOTBOX_PCL102_GARC096_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": {
-        "wg_ru": "Корабль",
-        "lesta_ru": " ",
-        "wg_en": "Ship",
-        "3b_en": "Ship",
-        "lk_zh": "战舰"
-    },
     "IDS_REWARD_LOOTBOX_PCL102_GARC096_PREM_OLD_TITLE": {
         "wg_ru": "Премиум контейнер «Немецкий крейсер»",
         "lesta_ru": "Премиум контейнер «Немецкие авианосцы»",
@@ -32990,13 +32864,6 @@
         "3b_en": "Commander",
         "lk_zh": "指挥官"
     },
-    "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_2_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": " ",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": {
         "wg_ru": "Корабли VIII–IX уровней",
         "lesta_ru": "Корабль X уровня",
@@ -33010,13 +32877,6 @@
         "wg_en": "Tier VIII–IX",
         "3b_en": "Tier VIII–IX",
         "lk_zh": "X级战舰"
-    },
-    "IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT": {
-        "wg_ru": "VI–VII уровень",
-        "lesta_ru": " ",
-        "wg_en": "Tier VI–VII",
-        "3b_en": "Tier VI–VII",
-        "lk_zh": "VI-VII级战舰"
     },
     "IDS_REWARD_LOOTBOX_PCL129_EPICSTD2_4_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": {
         "wg_ru": "II–IV",
@@ -33045,13 +32905,6 @@
         "wg_en": "Premium Ship II–IV",
         "3b_en": "Premium Ship II–IV",
         "lk_zh": "II-IV级加值战舰"
-    },
-    "IDS_REWARD_LOOTBOX_PCL133_TF108_FREE_SLOT_1_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": " ",
-        "lk_zh": " "
     },
     "IDS_REWARD_LOOTBOX_PCL133_TF108_FREE_SLOT_2_TITLE_FULL": {
         "wg_ru": "",
@@ -33312,26 +33165,12 @@
         "3b_en": "",
         "lk_zh": "Lesta Games"
     },
-    "IDS_REWARD_LOOTBOX_PCL174_NATU_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": {
-        "wg_ru": "Уникальный командир",
-        "lesta_ru": " ",
-        "wg_en": "Unique Commander",
-        "3b_en": "Unique Commander",
-        "lk_zh": "独特指挥官"
-    },
     "IDS_REWARD_LOOTBOX_PCL174_NATU_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL": {
         "wg_ru": "Особый командир",
         "lesta_ru": " ",
         "wg_en": "Special Commander",
         "3b_en": "Special Commander",
         "lk_zh": "特殊指挥官"
-    },
-    "IDS_REWARD_LOOTBOX_PCL174_NATU_TITLE": {
-        "wg_ru": "Премиум контейнер Year Hare Affair",
-        "lesta_ru": " ",
-        "wg_en": "Year Hare Affair Premium container",
-        "3b_en": "Year Hare Affair Premium container",
-        "lk_zh": "“那年那兔那些事儿”高级补给箱"
     },
     "IDS_REWARD_LOOTBOX_PCL175_AZURLANE_126_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL": {
         "wg_ru": "Особый командир",
@@ -33340,21 +33179,7 @@
         "3b_en": "Special Commander",
         "lk_zh": "特殊指挥官"
     },
-    "IDS_REWARD_LOOTBOX_PCL175_AZURLANE_126_PREM_TITLE": {
-        "wg_ru": "Премиум контейнер «Azur Lane: Воительницы моря»",
-        "lesta_ru": " ",
-        "wg_en": "\"Azur Lane: Battle Maidens of the Sea\" Premium container",
-        "3b_en": "\"Azur Lane: Battle Maidens of the Sea\" Premium container",
-        "lk_zh": "“碧蓝航线：海战少女”高级补给箱"
-    },
     "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_SLOT_0_COMMON_GROUP_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
-    "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_SLOT_1_COMMON_GROUP_TITLE_FULL": {
         "wg_ru": "",
         "lesta_ru": " ",
         "wg_en": "",
@@ -33382,13 +33207,6 @@
         "3b_en": "",
         "lk_zh": "以进步之名！"
     },
-    "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_TITLE": {
         "wg_ru": "",
         "lesta_ru": "Контейнер «Сундук»",
@@ -33402,13 +33220,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "箱子"
-    },
-    "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
     },
     "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_TITLE": {
         "wg_ru": "",
@@ -33424,13 +33235,6 @@
         "3b_en": "",
         "lk_zh": "兔子"
     },
-    "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_TITLE": {
         "wg_ru": "",
         "lesta_ru": "Контейнер «Утка»",
@@ -33444,13 +33248,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "鸭子"
-    },
-    "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
     },
     "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_TITLE": {
         "wg_ru": "",
@@ -33466,21 +33263,7 @@
         "3b_en": "",
         "lk_zh": "鸡蛋"
     },
-    "IDS_REWARD_LOOTBOX_PCL181_FOLKCAMP_NEEDLE_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL181_FOLKCAMP_NEEDLE_SLOT_1_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
-    "IDS_REWARD_LOOTBOX_PCL181_FOLKCAMP_NEEDLE_SLOT_2_TITLE_FULL": {
         "wg_ru": "",
         "lesta_ru": " ",
         "wg_en": "",
@@ -33501,26 +33284,12 @@
         "3b_en": "",
         "lk_zh": "针筒"
     },
-    "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": {
-        "wg_ru": "ARP Yamato",
-        "lesta_ru": " ",
-        "wg_en": "ARP Yamato",
-        "3b_en": "ARP Yamato",
-        "lk_zh": "ARP大和"
-    },
     "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL": {
         "wg_ru": "Премиум корабль",
         "lesta_ru": " ",
         "wg_en": "Premium ship",
         "3b_en": "Premium ship",
         "lk_zh": "加值战舰"
-    },
-    "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_TITLE": {
-        "wg_ru": "Премиум контейнер Arpeggio of Blue Steel",
-        "lesta_ru": " ",
-        "wg_en": "Arpeggio of Blue Steel Premium container",
-        "3b_en": "Arpeggio of Blue Steel Premium container",
-        "lk_zh": "Arpeggio of Blue Steel高级补给箱"
     },
     "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_SLOT_0_COMMON_GROUP_TITLE_FULL": {
         "wg_ru": "",
@@ -33557,13 +33326,6 @@
         "3b_en": "",
         "lk_zh": "X级加值战舰"
     },
-    "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": {
         "wg_ru": "",
         "lesta_ru": "Премиум корабль",
@@ -33592,21 +33354,7 @@
         "3b_en": "",
         "lk_zh": "皮卡第"
     },
-    "IDS_REWARD_LOOTBOX_PCL187_ARIA_COLLECTION_BOX_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL187_ARIA_COLLECTION_BOX_SLOT_1_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
-    "IDS_REWARD_LOOTBOX_PCL187_ARIA_COLLECTION_BOX_SLOT_2_TITLE_FULL": {
         "wg_ru": "",
         "lesta_ru": " ",
         "wg_en": "",
@@ -33682,13 +33430,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "斯摩棱斯克"
-    },
-    "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
     },
     "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": {
         "wg_ru": "",
@@ -33844,13 +33585,6 @@
         "3b_en": "",
         "lk_zh": "大号新年礼物"
     },
-    "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": {
         "wg_ru": "",
         "lesta_ru": "Особый корабль",
@@ -33878,13 +33612,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "X级特殊战舰"
-    },
-    "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
     },
     "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_TITLE_FULL": {
         "wg_ru": "",
@@ -33921,13 +33648,6 @@
         "3b_en": "",
         "lk_zh": "战舰"
     },
-    "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_2_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_TITLE": {
         "wg_ru": "",
         "lesta_ru": "Премиум контейнер «Эскадра Пан-Америки»",
@@ -33941,13 +33661,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "泛美中队"
-    },
-    "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
     },
     "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_TITLE_FULL": {
         "wg_ru": "",
@@ -33998,13 +33711,6 @@
         "3b_en": "",
         "lk_zh": "VII-VIII级战舰"
     },
-    "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_2_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_TITLE": {
         "wg_ru": "",
         "lesta_ru": "Премиум контейнер «На страже Отечества»",
@@ -34018,13 +33724,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "保卫祖国"
-    },
-    "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
     },
     "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": {
         "wg_ru": "",
@@ -34054,13 +33753,6 @@
         "3b_en": "",
         "lk_zh": "囚牢"
     },
-    "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": {
         "wg_ru": "",
         "lesta_ru": "Премиум корабль VIII уровня",
@@ -34089,13 +33781,6 @@
         "3b_en": "",
         "lk_zh": "5月9日"
     },
-    "IDS_REWARD_LOOTBOX_PCL199_SHARDS_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL199_SHARDS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": {
         "wg_ru": "",
         "lesta_ru": " ",
@@ -34116,13 +33801,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "维修材料"
-    },
-    "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
     },
     "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": {
         "wg_ru": "",
@@ -34152,13 +33830,6 @@
         "3b_en": "",
         "lk_zh": "俄罗斯套娃"
     },
-    "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": {
         "wg_ru": "",
         "lesta_ru": "Премиум контейнер или премиум корабль IX уровня",
@@ -34186,13 +33857,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "苏联套娃"
-    },
-    "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
     },
     "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": {
         "wg_ru": "",
@@ -34222,21 +33886,7 @@
         "3b_en": "",
         "lk_zh": "帝国套娃"
     },
-    "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_1_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
-    "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_2_TITLE_FULL": {
         "wg_ru": "",
         "lesta_ru": " ",
         "wg_en": "",
@@ -34257,21 +33907,7 @@
         "3b_en": "",
         "lk_zh": "网络供应商"
     },
-    "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_SLOT_1_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
-    "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_SLOT_2_TITLE_FULL": {
         "wg_ru": "",
         "lesta_ru": " ",
         "wg_en": "",
@@ -34291,13 +33927,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "舰队宝库"
-    },
-    "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
     },
     "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_1_TITLE_FULL": {
         "wg_ru": "",
@@ -34320,13 +33949,6 @@
         "3b_en": "",
         "lk_zh": "指挥官"
     },
-    "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_2_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
-    },
     "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_TITLE": {
         "wg_ru": "",
         "lesta_ru": "Премиум контейнер «Бесконечное лето»",
@@ -34340,13 +33962,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "永恒之夏"
-    },
-    "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_0_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
     },
     "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_TITLE_FULL": {
         "wg_ru": "",
@@ -34368,13 +33983,6 @@
         "wg_en": "",
         "3b_en": "",
         "lk_zh": "超级补给箱"
-    },
-    "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_2_TITLE_FULL": {
-        "wg_ru": "",
-        "lesta_ru": " ",
-        "wg_en": "",
-        "3b_en": "",
-        "lk_zh": " "
     },
     "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_TITLE": {
         "wg_ru": "",
@@ -35769,13 +35377,6 @@
         "3b_en": "Improves AA gun and Airstrike armament characteristics.",
         "lk_zh": "提升防空炮和空袭的属性。"
     },
-    "IDS_SKILL_DESC_DEFENCE_UW": {
-        "wg_ru": "Срабатывает каждый раз при получении потенциального урона, равного 100% от штатной боеспособности вашего корабля.",
-        "lesta_ru": " ",
-        "wg_en": "Activates every time your ship receives potential damage equal to 100% of the ship's base HP.",
-        "3b_en": "Activates every time your ship receives potential damage equal to 100% of the ship's base HP.",
-        "lk_zh": " "
-    },
     "IDS_SKILL_DESC_DEFENSE_CRIT_PROBABILITY": {
         "wg_ru": "Уменьшает вероятность выхода из строя башен главного калибра, сонара, торпедных аппаратов, рулевых машин и двигателя.",
         "lesta_ru": "Уменьшается вероятность выхода из строя башен главного калибра, торпедных аппаратов, рулевых машин и двигателя.",
@@ -35888,13 +35489,6 @@
         "3b_en": "",
         "lk_zh": "阿斯特拉"
     },
-    "IDS_SOUND_MOD_AZUR_LANE_AZUR_COLORADO": {
-        "wg_ru": "Azur Lane: Colorado",
-        "lesta_ru": " ",
-        "wg_en": "Azur Lane: Colorado",
-        "3b_en": "Azur Lane: Colorado",
-        "lk_zh": "碧蓝航线：科罗拉多"
-    },
     "IDS_SOUND_MOD_CM_DZHABRAILOV": {
         "wg_ru": "",
         "lesta_ru": "Тимур Джабраилов",
@@ -35965,13 +35559,6 @@
         "3b_en": "",
         "lk_zh": "沃瓦叔叔/小提琴手"
     },
-    "IDS_SOUND_MOD_MEGADETH_VIC_RATTLEHEAD": {
-        "wg_ru": "Vic Rattlehead",
-        "lesta_ru": " ",
-        "wg_en": "Vic Rattlehead",
-        "3b_en": "Vic Rattlehead",
-        "lk_zh": "Vic Rattlehead"
-    },
     "IDS_SOUND_MOD_MOSFILM_BALBES": {
         "wg_ru": " ",
         "lesta_ru": "Балбес",
@@ -35992,13 +35579,6 @@
         "wg_en": " ",
         "3b_en": " ",
         "lk_zh": "懦夫"
-    },
-    "IDS_SOUND_MOD_NATUEVENT_GAULU": {
-        "wg_ru": "Gao Luxi",
-        "lesta_ru": " ",
-        "wg_en": "Gao Luxi",
-        "3b_en": "Gao Luxi",
-        "lk_zh": "Gao Luxi"
     },
     "IDS_SOUND_MOD_NATUEVENT_NATU": {
         "wg_ru": "Zhao Xiang",
