@@ -399,10 +399,10 @@ msgid "IDS_ACOUSTIC_TORPEDO_NOT_AVAILABLE"
 msgstr "No acoustic-guided torpedoes"
 
 msgid "IDS_ACOUSTIC_TORPEDO_SPEED_HIGH"
-msgstr "High speed of acoustic-guided torpedoes"
+msgstr "High speed for acoustic-guided torpedoes"
 
 msgid "IDS_ACOUSTIC_TORPEDO_SPEED_LOW"
-msgstr "Low speed of acoustic-guided torpedoes"
+msgstr "Low speed for acoustic-guided torpedoes"
 
 msgid "IDS_AC_DUAL_CAS_SSC_HANG"
 msgstr "Hangar Cladding"
@@ -423,10 +423,10 @@ msgid "IDS_ADVANCED_CREW_STATUS"
 msgstr "Rare Commander"
 
 msgid "IDS_AIRCRAFT_CARRIER_LOGMESSAGE_MINE_BOMBER"
-msgstr "Press %(_cmd)s again to launch mine-layers"
+msgstr "Press %(_cmd)s again to launch mine layers"
 
 msgid "IDS_AIRCRAFT_CARRIER_LOGMESSAGE_MINE_BOMBER_NOT_ENOUGH"
-msgstr "Insufficient number of mine-layers for launch"
+msgstr "Insufficient number of mine layers for launch"
 
 msgid "IDS_AIR_DEFENSE_DISTANCE_HIGH"
 msgstr "Long range of AA fire"
@@ -573,1745 +573,1739 @@ msgid "IDS_AUTOPURCHASE_TOOLTIP_NO_INSTALLED_PURCHASABLE_SIGNAL"
 msgstr "No signals available for purchase."
 
 msgid "IDS_AVIATION_AP_BOMBS_AVAILABLE"
-msgstr "Доступны авиационные ББ-бомбы"
+msgstr "AP bombs available"
 
 msgid "IDS_AVIATION_AP_ROCKETS_AVAILABLE"
-msgstr "Доступны ББ-ракеты"
+msgstr "AP rockets available"
 
 msgid "IDS_AVIATION_BOMBERS_ATTACKER_SIZE_HIGH"
-msgstr "Большое количество бомбардировщиков в атакующем звене"
+msgstr "Large number of bombers in attacking squadron"
 
 msgid "IDS_AVIATION_BOMBERS_ATTACKER_SIZE_LOW"
-msgstr "Малое количество бомбардировщиков в атакующем звене"
+msgstr "Small number of bombers in attacking squadron"
 
 msgid "IDS_AVIATION_BOMBERS_ATTACKER_SIZE_SALVO_DAMAGE_HIGH"
-msgstr "Бомбардировщики наносят большой урон за одну атаку"
+msgstr "Bombers deal high damage per salvo"
 
 msgid "IDS_AVIATION_BOMBERS_ATTACKER_SIZE_SALVO_DAMAGE_LOW"
-msgstr "Бомбардировщики наносят малый урон за одну атаку"
+msgstr "Bombers deal low damage per salvo"
 
 msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_BATTLESHIPS_HIGH"
-msgstr "Высокая эффективность бомбардировщиков против линкоров"
+msgstr "High efficiency of bombers against battleships"
 
 msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_BATTLESHIPS_LOW"
-msgstr "Низкая эффективность бомбардировщиков против линкоров"
+msgstr "Low efficiency of bombers against battleships"
 
 msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_CRUISERS_HIGH"
-msgstr "Высокая эффективность бомбардировщиков против крейсеров"
+msgstr "High efficiency of bombers against cruisers"
 
 msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_CRUISERS_LOW"
-msgstr "Низкая эффективность бомбардировщиков против крейсеров"
+msgstr "Low efficiency of bombers against cruisers"
 
 msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_DESTROYERS_HIGH"
-msgstr "Высокая эффективность бомбардировщиков против эсминцев"
+msgstr "High efficiency of bombers against destroyers"
 
 msgid "IDS_AVIATION_BOMBERS_EFFICIENCY_VS_DESTROYERS_LOW"
-msgstr "Низкая эффективность бомбардировщиков против эсминцев"
+msgstr "Low efficiency of bombers against destroyers"
 
 msgid "IDS_AVIATION_BOMBERS_HEALTH_HIGH"
-msgstr "Высокая боеспособность бомбардировщиков"
+msgstr "High HP pool for bombers"
 
 msgid "IDS_AVIATION_BOMBERS_HEALTH_LOW"
-msgstr "Низкая боеспособность бомбардировщиков"
+msgstr "Low HP pool for bombers"
 
 msgid "IDS_AVIATION_BOMBERS_JET_ATTACKER_SIZE_HIGH"
-msgstr "Большое количество тактических бомбардировщиков в атакующем звене"
+msgstr "Large number of tactical bombers in attacking squadron"
 
 msgid "IDS_AVIATION_BOMBERS_JET_ATTACKER_SIZE_LOW"
-msgstr "Малое количество тактических бомбардировщиков в атакующем звене"
+msgstr "Small number of tactical bombers in attacking squadron"
 
 msgid "IDS_AVIATION_BOMBERS_JET_HEALTH_HIGH"
-msgstr "Высокая боеспособность тактических бомбардировщиков"
+msgstr "High HP pool for tactical bombers"
 
 msgid "IDS_AVIATION_BOMBERS_JET_HEALTH_LOW"
-msgstr "Низкая боеспособность тактических бомбардировщиков"
+msgstr "Low HP pool for tactical bombers"
 
 msgid "IDS_AVIATION_BOMBERS_JET_PLANES_IN_SQUADRON_HIGH"
-msgstr "Большое количество бомбардировщиков в тактической эскадрилье"
+msgstr "Large number of bombers in a tactical squadron"
 
 msgid "IDS_AVIATION_BOMBERS_JET_PLANES_IN_SQUADRON_LOW"
-msgstr "Малое количество бомбардировщиков в тактической эскадрилье"
+msgstr "Small number of bombers in a tactical squadron"
 
 msgid "IDS_AVIATION_BOMBERS_JET_SPEED_HIGH"
-msgstr "Высокая скорость тактических бомбардировщиков"
+msgstr "High speed for tactical bombers"
 
 msgid "IDS_AVIATION_BOMBERS_JET_SPEED_LOW"
-msgstr "Низкая скорость тактических бомбардировщиков"
+msgstr "Low speed for tactical bombers"
 
 msgid "IDS_AVIATION_BOMBERS_PLANES_IN_SQUADRON_HIGH"
-msgstr "Большое количество бомбардировщиков в эскадрилье"
+msgstr "Large number of bombers in a squadron"
 
 msgid "IDS_AVIATION_BOMBERS_PLANES_IN_SQUADRON_LOW"
-msgstr "Малое количество бомбардировщиков в эскадрилье"
+msgstr "Small number of bombers in a squadron"
 
 msgid "IDS_AVIATION_BOMBERS_SPEED_HIGH"
-msgstr "Высокая скорость бомбардировщиков"
+msgstr "High speed for bombers"
 
 msgid "IDS_AVIATION_BOMBERS_SPEED_LOW"
-msgstr "Низкая скорость бомбардировщиков"
+msgstr "Low speed for bombers"
 
 msgid "IDS_AVIATION_BOMB_ALPHA_DAMAGE_HIGH"
-msgstr "Авиационные бомбы наносят большой урон"
+msgstr "Bombs deal high damage"
 
 msgid "IDS_AVIATION_BOMB_ALPHA_DAMAGE_LOW"
-msgstr "Авиационные бомбы наносят малый урон"
+msgstr "Bombs deal low damage"
 
 msgid "IDS_AVIATION_BOMB_ALPHA_PIERCING_HIGH"
-msgstr "Высокое бронепробитие бомб"
+msgstr "High armor penetration of bombs"
 
 msgid "IDS_AVIATION_BOMB_ALPHA_PIERCING_LOW"
-msgstr "Низкое бронепробитие бомб"
+msgstr "Low armor penetration of bombs"
 
 msgid "IDS_AVIATION_BOMB_ATTACKERS_IN_SQUADRON_NUM_HIGH"
-msgstr "Большое количество атакующих звеньев в эскадрилье бомбардировщиков"
+msgstr "Large number of attacking units in bomber squadron"
 
 msgid "IDS_AVIATION_BOMB_ATTACKERS_IN_SQUADRON_NUM_LOW"
-msgstr "Малое количество атакующих звеньев в эскадрилье бомбардировщиков"
+msgstr "Small number of attacking units in bomber squadron"
 
 msgid "IDS_AVIATION_BOMB_ATTACK_COUNT_HIGH"
-msgstr "Самолёты несут большое количество бомб"
+msgstr "Planes carry a large number of bombs"
 
 msgid "IDS_AVIATION_BOMB_ATTACK_COUNT_LOW"
-msgstr "Самолёты несут малое количество бомб"
+msgstr "Planes carry a small number of bombs"
 
 msgid "IDS_AVIATION_BOMB_TIME_TO_RESTORE_FAST"
-msgstr "Быстрая подготовка бомбардировщиков"
+msgstr "Fast preparation of bombers"
 
 msgid "IDS_AVIATION_BOMB_TIME_TO_RESTORE_SLOW"
-msgstr "Медленная подготовка бомбардировщиков"
+msgstr "Slow preparation of bombers"
 
 msgid "IDS_AVIATION_FIGHTERS_ATTACKER_SIZE_HIGH"
-msgstr "Большое количество штурмовиков в атакующем звене"
+msgstr "Large number of attack aircraft in a squadron"
 
 msgid "IDS_AVIATION_FIGHTERS_ATTACKER_SIZE_LOW"
-msgstr "Малое количество штурмовиков в атакующем звене"
+msgstr "Small number of attack aircraft in a squadron"
 
 msgid "IDS_AVIATION_FIGHTERS_ATTACKER_SIZE_SALVO_DAMAGE_HIGH"
-msgstr "Штурмовики наносят большой урон за одну атаку"
+msgstr "Attack aircraft deal high damage per salvo"
 
 msgid "IDS_AVIATION_FIGHTERS_ATTACKER_SIZE_SALVO_DAMAGE_LOW"
-msgstr "Штурмовики наносят малый урон за одну атаку"
+msgstr "Attack aircraft deal low damage per salvo"
 
 msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_BATTLESHIPS_HIGH"
-msgstr "Высокая эффективность штурмовиков против линкоров"
+msgstr "High efficiency of attack aircraft against battleships"
 
 msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_BATTLESHIPS_LOW"
-msgstr "Низкая эффективность штурмовиков против линкоров"
+msgstr "Low efficiency of attack aircraft against battleships"
 
 msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_CRUISERS_HIGH"
-msgstr "Высокая эффективность штурмовиков против крейсеров"
+msgstr "High efficiency of attack aircraft against cruisers"
 
 msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_CRUISERS_LOW"
-msgstr "Низкая эффективность штурмовиков против крейсеров"
+msgstr "Low efficiency of attack aircraft against cruisers"
 
 msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_DESTROYERS_HIGH"
-msgstr "Высокая эффективность штурмовиков против эсминцев"
+msgstr "High efficiency of attack aircraft against destroyers"
 
 msgid "IDS_AVIATION_FIGHTERS_EFFICIENCY_VS_DESTROYERS_LOW"
-msgstr "Низкая эффективность штурмовиков против эсминцев"
+msgstr "Low efficiency of attack aircraft against destroyers"
 
 msgid "IDS_AVIATION_FIGHTERS_HEALTH_HIGH"
-msgstr "Высокая боеспособность штурмовиков"
+msgstr "High HP pool for attack aircraft"
 
 msgid "IDS_AVIATION_FIGHTERS_HEALTH_LOW"
-msgstr "Низкая боеспособность штурмовиков"
+msgstr "Low HP pool for attack aircraft"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_ATTACKER_SIZE_HIGH"
-msgstr "Большое количество тактических штурмовиков в атакующем звене"
+msgstr "Large number of tactical attack aircraft in a squadron"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_ATTACKER_SIZE_LOW"
-msgstr "Малое количество тактических штурмовиков в атакующем звене"
+msgstr "Small number of tactical attack aircraft in a squadron"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_HEALTH_HIGH"
-msgstr "Высокая боеспособность тактических штурмовиков"
+msgstr "High HP pool for tactical attack aircraft"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_HEALTH_LOW"
-msgstr "Низкая боеспособность тактических штурмовиков"
+msgstr "Low HP pool for tactical attack aircraft"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_PLANES_IN_SQUADRON_HIGH"
-msgstr "Большое количество штурмовиков в тактической эскадрилье"
+msgstr "Large number of attack aircraft in a tactical squadron"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_PLANES_IN_SQUADRON_LOW"
-msgstr "Малое количество штурмовиков в тактической эскадрилье"
+msgstr "Small number of attack aircraft in a tactical squadron"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_SPEED_HIGH"
-msgstr "Высокая скорость тактических штурмовиков"
+msgstr "High speed for tactical attack aircraft"
 
 msgid "IDS_AVIATION_FIGHTERS_JET_SPEED_LOW"
-msgstr "Низкая скорость тактических штурмовиков"
+msgstr "Low speed for tactical attack aircraft"
 
 msgid "IDS_AVIATION_FIGHTERS_PLANES_IN_SQUADRON_HIGH"
-msgstr "Большое количество штурмовиков в эскадрилье"
+msgstr "Large number of attack aircraft in a squadron"
 
 msgid "IDS_AVIATION_FIGHTERS_PLANES_IN_SQUADRON_LOW"
-msgstr "Малое количество штурмовиков в эскадрилье"
+msgstr "Small number of attack aircraft in a squadron"
 
 msgid "IDS_AVIATION_FIGHTERS_SPEED_HIGH"
-msgstr "Высокая скорость штурмовиков"
+msgstr "High speed for attack aircraft"
 
 msgid "IDS_AVIATION_FIGHTERS_SPEED_LOW"
-msgstr "Низкая скорость штурмовиков"
+msgstr "Low speed for attack aircraft"
 
 msgid "IDS_AVIATION_HE_BOMBS_AVAILABLE"
-msgstr "Доступны авиационные ОФ-бомбы"
+msgstr "HE bombs available"
 
 msgid "IDS_AVIATION_ONE_ATTACK"
-msgstr "Эскадрилья совершает одну атаку"
+msgstr "The squadron makes one attack"
 
 msgid "IDS_AVIATION_ROCKET_ALPHA_DAMAGE_HIGH"
-msgstr "Ракеты наносят большой урон"
+msgstr "Rockets deal high damage"
 
 msgid "IDS_AVIATION_ROCKET_ALPHA_DAMAGE_LOW"
-msgstr "Ракеты наносят малый урон"
+msgstr "Rockets deal low damage"
 
 msgid "IDS_AVIATION_ROCKET_ALPHA_PIERCING_HIGH"
-msgstr "Высокое бронепробитие ракет"
+msgstr "High armor penetration of rockets"
 
 msgid "IDS_AVIATION_ROCKET_ALPHA_PIERCING_LOW"
-msgstr "Низкое бронепробитие ракет"
+msgstr "Low armor penetration of rockets"
 
 msgid "IDS_AVIATION_ROCKET_ATTACKERS_IN_SQUADRON_NUM_HIGH"
-msgstr "Большое количество атакующих звеньев в эскадрилье штурмовиков"
+msgstr "Large number of attacking units in attack aircraft squadron"
 
 msgid "IDS_AVIATION_ROCKET_ATTACKERS_IN_SQUADRON_NUM_LOW"
-msgstr "Малое количество атакующих звеньев в эскадрилье штурмовиков"
+msgstr "Small number of attacking units in attack aircraft squadron"
 
 msgid "IDS_AVIATION_ROCKET_ATTACK_COUNT_HIGH"
-msgstr "Самолёты несут большое количество ракет"
+msgstr "Planes carry a large number of rockets"
 
 msgid "IDS_AVIATION_ROCKET_ATTACK_COUNT_LOW"
-msgstr "Самолёты несут малое количество ракет"
+msgstr "Planes carry a small number of rockets"
 
 msgid "IDS_AVIATION_ROCKET_TIME_TO_RESTORE_FAST"
-msgstr "Быстрая подготовка штурмовиков"
+msgstr "Fast preparation of attack aircraft"
 
 msgid "IDS_AVIATION_ROCKET_TIME_TO_RESTORE_SLOW"
-msgstr "Медленная подготовка штурмовиков"
+msgstr "Slow preparation of attack aircraft"
 
 msgid "IDS_AVIATION_SKIP_AP_BOMBS_AVAILABLE"
-msgstr "Топмачтовые бомбардировщики несут ББ-бомбы"
+msgstr "Skip bombers carry AP bombs"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_ATTACKER_SIZE_SALVO_DAMAGE_HIGH"
-msgstr "Топмачтовые бомбардировщики наносят большой урон за одну атаку"
+msgstr "Skip bombers deal high damage per salvo"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_ATTACKER_SIZE_SALVO_DAMAGE_HIGH_SECONDARY"
-msgstr "Топмачтовые бомбардировщики наносят большой урон за одну атаку"
+msgstr "Skip bombers deal high damage per salvo"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_ATTACKER_SIZE_SALVO_DAMAGE_LOW"
-msgstr "Топмачтовые бомбардировщики наносят малый урон за одну атаку"
+msgstr "Skip bombers deal low damage per salvo"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_BATTLESHIPS_HIGH"
-msgstr "Высокая эффективность топмачтовых бомбардировщиков против линкоров"
+msgstr "High efficiency of skip bombers against battleships"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_BATTLESHIPS_LOW"
-msgstr "Низкая эффективность топмачтовых бомбардировщиков против линкоров"
+msgstr "Low efficiency of skip bombers against battleships"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_CRUISERS_HIGH"
-msgstr "Высокая эффективность топмачтовых бомбардировщиков против крейсеров"
+msgstr "High efficiency of skip bombers against cruisers"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_CRUISERS_LOW"
-msgstr "Низкая эффективность топмачтовых бомбардировщиков против крейсеров"
+msgstr "Low efficiency of skip bombers against cruisers"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_DESTROYERS_HIGH"
-msgstr "Высокая эффективность топмачтовых бомбардировщиков против эсминцев"
+msgstr "High efficiency of skip bombers against destroyers"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_EFFICIENCY_VS_DESTROYERS_LOW"
-msgstr "Низкая эффективность топмачтовых бомбардировщиков против эсминцев"
+msgstr "Low efficiency of skip bombers against destroyers"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_HEALTH_HIGH"
-msgstr "Высокая боеспособность топмачтовых бомбардировщиков"
+msgstr "High HP pool for skip bombers"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_HEALTH_LOW"
-msgstr "Низкая боеспособность топмачтовых бомбардировщиков"
+msgstr "Low HP pool for skip bombers"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_HEALTH_LOW_SECONDARY"
-msgstr "Низкая боеспособность топмачтовых бомбардировщиков"
+msgstr "Low HP pool for skip bombers"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_HEALTH_HIGH"
-msgstr "Высокая боеспособность тактических топмачтовых бомбардировщиков"
+msgstr "High HP pool for tactical skip bombers"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_HEALTH_LOW"
-msgstr "Низкая боеспособность тактических топмачтовых бомбардировщиков"
+msgstr "Low HP pool for tactical skip bombers"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_PLANES_IN_SQUADRON_HIGH"
-msgstr "Большое количество топмачтовых бомбардировщиков в тактической эскадрилье"
+msgstr "Large number of skip bombers in a tactical squadron"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_PLANES_IN_SQUADRON_LOW"
-msgstr "Малое количество топмачтовых бомбардировщиков в тактической эскадрилье"
+msgstr "Small number of skip bombers in a tactical squadron"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_SPEED_HIGH"
-msgstr "Высокая скорость тактических топмачтовых бомбардировщиков"
+msgstr "High speed for tactical skip bombers"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_JET_SPEED_LOW"
-msgstr "Низкая скорость тактических топмачтовых бомбардировщиков"
+msgstr "Low speed for tactical skip bombers"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_PLANES_IN_SQUADRON_HIGH"
-msgstr "Большое количество топмачтовых бомбардировщиков в эскадрилье"
+msgstr "Large number of skip bombers in a squadron"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_PLANES_IN_SQUADRON_LOW"
-msgstr "Малое количество топмачтовых бомбардировщиков в эскадрилье"
+msgstr "Small number of skip bombers in a squadron"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_SPEED_HIGH"
-msgstr "Высокая скорость топмачтовых бомбардировщиков"
+msgstr "High speed for skip bombers"
 
 msgid "IDS_AVIATION_SKIP_BOMBERS_SPEED_LOW"
-msgstr "Низкая скорость топмачтовых бомбардировщиков"
+msgstr "Low speed for skip bombers"
 
 msgid "IDS_AVIATION_SKIP_BOMB_ALPHA_DAMAGE_HIGH"
-msgstr "Бомбы топмачтовых бомбардировщиков наносят большой урон"
+msgstr "Skip bombers' bombs deal high damage"
 
 msgid "IDS_AVIATION_SKIP_BOMB_ALPHA_DAMAGE_LOW"
-msgstr "Бомбы топмачтовых бомбардировщиков наносят малый урон"
+msgstr "Skip bombers' bombs deal low damage"
 
 msgid "IDS_AVIATION_SKIP_BOMB_ALPHA_PIERCING_HIGH"
-msgstr "Высокое бронепробитие бомб топмачтовых бомбардировщиков"
+msgstr "High armor penetration of skip bombers' bombs"
 
 msgid "IDS_AVIATION_SKIP_BOMB_ALPHA_PIERCING_LOW"
-msgstr "Низкое бронепробитие бомб топмачтовых бомбардировщиков"
+msgstr "Low armor penetration of skip bombers' bombs"
 
 msgid "IDS_AVIATION_SKIP_BOMB_ATTACKERS_IN_SQUADRON_NUM_HIGH"
-msgstr "Большое количество атакующих звеньев в эскадрилье топмачтовых бомбардировщиков"
+msgstr "Large number of attacking units in skip bomber squadron"
 
 msgid "IDS_AVIATION_SKIP_BOMB_ATTACKERS_IN_SQUADRON_NUM_LOW"
-msgstr "Малое количество атакующих звеньев в эскадрилье топмачтовых бомбардировщиков"
+msgstr "Small number of attacking units in skip bomber squadron"
 
 msgid "IDS_AVIATION_SKIP_BOMB_ATTACK_COUNT_HIGH"
-msgstr "Топмачтовые бомбардировщики несут большое количество бомб"
+msgstr "Skip bombers carry a large number of bombs"
 
 msgid "IDS_AVIATION_SKIP_BOMB_ATTACK_COUNT_LOW"
-msgstr "Топмачтовые бомбардировщики несут малое количество бомб"
+msgstr "Skip bombers carry a small number of bombs"
 
 msgid "IDS_AVIATION_SKIP_BOMB_AVAILABLE"
-msgstr "Топмачтовое бомбометание"
+msgstr "Skip bombing"
 
 msgid "IDS_AVIATION_SKIP_BOMB_TIME_TO_RESTORE_FAST"
-msgstr "Быстрая подготовка топмачтовых бомбардировщиков"
+msgstr "Fast preparation of skip bombers"
 
 msgid "IDS_AVIATION_SKIP_BOMB_TIME_TO_RESTORE_SLOW"
-msgstr "Медленная подготовка топмачтовых бомбардировщиков"
+msgstr "Slow preparation of skip bombers"
 
 msgid "IDS_AVIATION_SKIP_HE_BOMBS_AVAILABLE"
-msgstr "Топмачтовые бомбардировщики несут ОФ-бомбы"
+msgstr "Skip bombers carry HE bombs"
 
 msgid "IDS_AVIATION_TORPEDOES_ATTACKER_SIZE_HIGH"
-msgstr "Большое количество торпедоносцев в атакующем звене"
+msgstr "Large number of torpedo bombers in attacking squadron"
 
 msgid "IDS_AVIATION_TORPEDOES_ATTACKER_SIZE_LOW"
-msgstr "Малое количество торпедоносцев в атакующем звене"
+msgstr "Small number of torpedo bombers in attacking squadron"
 
 msgid "IDS_AVIATION_TORPEDOES_ATTACKER_SIZE_SALVO_DAMAGE_HIGH"
-msgstr "Торпедоносцы наносят большой урон за одну атаку"
+msgstr "Torpedo bombers deal high damage per salvo"
 
 msgid "IDS_AVIATION_TORPEDOES_ATTACKER_SIZE_SALVO_DAMAGE_LOW"
-msgstr "Торпедоносцы наносят малый урон за одну атаку"
+msgstr "Torpedo bombers deal low damage per salvo"
 
 msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_BATTLESHIPS_HIGH"
-msgstr "Высокая эффективность торпедоносцев против линкоров"
+msgstr "High efficiency of torpedo bombers against battleships"
 
 msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_BATTLESHIPS_LOW"
-msgstr "Низкая эффективность торпедоносцев против линкоров"
+msgstr "Low efficiency of torpedo bombers against battleships"
 
 msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_CRUISERS_HIGH"
-msgstr "Высокая эффективность торпедоносцев против крейсеров"
+msgstr "High efficiency of torpedo bombers against cruisers"
 
 msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_CRUISERS_LOW"
-msgstr "Низкая эффективность торпедоносцев против крейсеров"
+msgstr "Low efficiency of torpedo bombers against cruisers"
 
 msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_DESTROYERS_HIGH"
-msgstr "Высокая эффективность торпедоносцев против эсминцев"
+msgstr "High efficiency of torpedo bombers against destroyers"
 
 msgid "IDS_AVIATION_TORPEDOES_EFFICIENCY_VS_DESTROYERS_LOW"
-msgstr "Низкая эффективность торпедоносцев против эсминцев"
+msgstr "Low efficiency of torpedo bombers against destroyers"
 
 msgid "IDS_AVIATION_TORPEDOES_HEALTH_HIGH"
-msgstr "Высокая боеспособность торпедоносцев"
+msgstr "High HP pool for torpedo bombers"
 
 msgid "IDS_AVIATION_TORPEDOES_HEALTH_LOW"
-msgstr "Низкая боеспособность торпедоносцев"
+msgstr "Low HP pool for torpedo bombers"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_ATTACKER_SIZE_HIGH"
-msgstr "Большое количество тактических торпедоносцев в атакующем звене"
+msgstr "Large number of tactical torpedo bombers in attacking squadron"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_ATTACKER_SIZE_LOW"
-msgstr "Малое количество тактических торпедоносцев в атакующем звене"
+msgstr "Small number of tactical torpedo bombers in attacking squadron"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_HEALTH_HIGH"
-msgstr "Высокая боеспособность тактических торпедоносцев"
+msgstr "High HP pool for tactical torpedo bombers"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_HEALTH_LOW"
-msgstr "Низкая боеспособность тактических торпедоносцев"
+msgstr "Low HP pool for tactical torpedo bombers"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_PLANES_IN_SQUADRON_HIGH"
-msgstr "Большое количество торпедоносцев в тактической эскадрилье"
+msgstr "Large number of torpedo bombers in a tactical squadron"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_PLANES_IN_SQUADRON_LOW"
-msgstr "Малое количество торпедоносцев в тактической эскадрилье"
+msgstr "Small number of torpedo bombers in a tactical squadron"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_SPEED_HIGH"
-msgstr "Высокая скорость тактических торпедоносцев"
+msgstr "High speed for tactical torpedo bombers"
 
 msgid "IDS_AVIATION_TORPEDOES_JET_SPEED_LOW"
-msgstr "Низкая скорость тактических торпедоносцев"
+msgstr "Low speed for tactical torpedo bombers"
 
 msgid "IDS_AVIATION_TORPEDOES_PLANES_IN_SQUADRON_HIGH"
-msgstr "Большое количество торпедоносцев в эскадрилье"
+msgstr "Large number of torpedo bombers in a squadron"
 
 msgid "IDS_AVIATION_TORPEDOES_PLANES_IN_SQUADRON_LOW"
-msgstr "Малое количество торпедоносцев в эскадрилье"
+msgstr "Small number of torpedo bombers in a squadron"
 
 msgid "IDS_AVIATION_TORPEDOES_SPEED_HIGH"
-msgstr "Высокая скорость торпедоносцев"
+msgstr "High speed for torpedo bombers"
 
 msgid "IDS_AVIATION_TORPEDOES_SPEED_LOW"
-msgstr "Низкая скорость торпедоносцев"
+msgstr "Low speed for torpedo bombers"
 
 msgid "IDS_AVIATION_TORPEDO_ALPHA_DAMAGE_HIGH"
-msgstr "Авиационные торпеды наносят большой урон"
+msgstr "Aerial torpedoes deal high damage"
 
 msgid "IDS_AVIATION_TORPEDO_ALPHA_DAMAGE_LOW"
-msgstr "Авиационные торпеды наносят малый урон"
+msgstr "Aerial torpedoes deal low damage"
 
 msgid "IDS_AVIATION_TORPEDO_ATTACKERS_IN_SQUADRON_NUM_HIGH"
-msgstr "Большое количество атакующих звеньев в эскадрилье торпедоносцев"
+msgstr "Large number of attacking units in torpedo bomber squadron"
 
 msgid "IDS_AVIATION_TORPEDO_ATTACKERS_IN_SQUADRON_NUM_LOW"
-msgstr "Малое количество атакующих звеньев в эскадрилье торпедоносцев"
+msgstr "Small number of attacking units in torpedo bomber squadron"
 
 msgid "IDS_AVIATION_TORPEDO_ATTACK_COUNT_HIGH"
-msgstr "Самолёты несут большое количество торпед"
+msgstr "Planes carry a large number of torpedoes"
 
 msgid "IDS_AVIATION_TORPEDO_ATTACK_COUNT_LOW"
-msgstr "Самолёты несут малое количество торпед"
+msgstr "Planes carry a small number of torpedoes"
 
 msgid "IDS_AVIATION_TORPEDO_MAX_DIST_HIGH"
-msgstr "Большая дальность хода авиационных торпед"
+msgstr "Long range of aerial torpedoes"
 
 msgid "IDS_AVIATION_TORPEDO_MAX_DIST_HIGH_SECONDARY"
-msgstr "Большая дальность хода авиационных торпед"
+msgstr "Long range of aerial torpedoes"
 
 msgid "IDS_AVIATION_TORPEDO_MAX_DIST_LOW"
-msgstr "Малая дальность хода авиационных торпед"
+msgstr "Short range of aerial torpedoes"
 
 msgid "IDS_AVIATION_TORPEDO_SPEED_HIGH"
-msgstr "Высокая скорость авиационных торпед"
+msgstr "High speed for aerial torpedoes"
 
 msgid "IDS_AVIATION_TORPEDO_SPEED_LOW"
-msgstr "Низкая скорость авиационных торпед"
+msgstr "Low speed for aerial torpedoes"
 
 msgid "IDS_AVIATION_TORPEDO_TIME_TO_RESTORE_FAST"
-msgstr "Быстрая подготовка торпедоносцев"
+msgstr "Fast preparation of torpedo bombers"
 
 msgid "IDS_AVIATION_TORPEDO_TIME_TO_RESTORE_SLOW"
-msgstr "Медленная подготовка торпедоносцев"
+msgstr "Slow preparation of torpedo bombers"
 
 msgid "IDS_BALBES"
-msgstr "Балбес"
+msgstr "Fool"
 
 msgid "IDS_BANNED_FOR_CHAT_SPAM"
-msgstr "Вы слишком часто отправляете сообщения в чат."
+msgstr "You are sending messages in the chat too frequently."
 
 msgid "IDS_BATTERY_CAPACITY_HIGH"
-msgstr "Большой запас автономности"
+msgstr "High battery capacity"
 
 msgid "IDS_BATTERY_CAPACITY_LOW"
-msgstr "Малый запас автономности"
+msgstr "Low battery capacity"
 
 msgid "IDS_BATTERY_REGEN_RATE_HIGH"
-msgstr "Быстрое восстановление автономности"
+msgstr "Fast battery regeneration"
 
 msgid "IDS_BATTERY_REGEN_RATE_LOW"
-msgstr "Медленное восстановление автономности"
+msgstr "Slow battery regeneration"
 
 msgid "IDS_BATTLEPASS_CARD_STATUS_LOCK"
-msgstr "Требуется Улучшенный пропуск"
+msgstr "Requires Premium Pass"
 
 msgid "IDS_BATTLEPASS_CARD_STATUS_POINTS"
-msgstr "До получения награды:"
+msgstr "Points to reward:"
 
 msgid "IDS_BATTLEPASS_INFO_TEXT_0"
-msgstr "О Боевом пропуске"
+msgstr "About the Battle Pass"
 
 msgid "IDS_BATTLEPASS_INFO_TOOLTIP_POINTS_TITLE"
-msgstr "Очки Боевого пропуска"
+msgstr "Battle Pass Points"
 
 msgid "IDS_BATTLEPASS_LEVEL_STATUS_LOCKED"
-msgstr "Вы ещё не достигли этого уровня"
+msgstr "You have not yet reached this level"
 
 msgid "IDS_BATTLEPASS_ONBOARDING_BUTTON_MAIN"
-msgstr "Начать"
+msgstr "Start"
 
 msgid "IDS_BATTLEPASS_ONBOARDING_BUTTON_NEXT"
-msgstr "Далее"
+msgstr "Next"
 
 msgid "IDS_BATTLEPASS_ONBOARDING_TEXT_0"
-msgstr "Боевой пропуск — это событие, во время которого вы можете продвигаться по уровням прогресса, зарабатывая очки за выполнение задач."
+msgstr "Battle Pass is an event during which you can progress through levels by earning points for completing tasks."
 
 msgid "IDS_BATTLEPASS_ONBOARDING_TEXT_1"
-msgstr "За достижение уровней прогресса вы будете получать награды. Есть 2 линии прогресса: Базовый пропуск и Улучшенный пропуск. Базовый пропуск доступен сразу и не требует покупки. Улучшенный пропуск содержит дополнительные ценные награды."
+msgstr "As you progress through levels, you will earn rewards. There are 2 progress lines: Free Pass and Premium Pass. The Free Pass is available immediately and does not require a purchase. The Premium Pass offers additional valuable rewards."
 
 msgid "IDS_BATTLEPASS_ONBOARDING_TEXT_2"
-msgstr "После того как вы достигнете всех уровней и получите финальную награду, откроется доступ к Постпрогрессу, где вас ждут новые уровни с новыми наградами."
+msgstr "After reaching all levels and receiving the final reward, you will unlock access to Post-Progress, where new levels and rewards await you."
 
 msgid "IDS_BATTLEPASS_ONBOARDING_TITLE_0"
-msgstr "Что такое Боевой пропуск"
+msgstr "What is the Battle Pass"
 
 msgid "IDS_BATTLEPASS_ONBOARDING_TITLE_1"
-msgstr "Награды"
+msgstr "Rewards"
 
 msgid "IDS_BATTLEPASS_ONBOARDING_TITLE_2"
-msgstr "Постпрогресс"
+msgstr "Post-Progress"
 
 msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_SUBTITLE"
-msgstr "Вы сможете забрать награды за приобретённые уровни сразу после покупки"
+msgstr "You will be able to claim rewards for purchased levels immediately after purchase."
 
 msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_TEXT"
-msgstr "Уровни Боевого пропуска"
+msgstr "Battle Pass Levels"
 
 msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_TITLE"
-msgstr "Покупка уровней Боевого пропуска"
+msgstr "Purchase Battle Pass Levels"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
-msgstr "Можно получить легендарных жетонов"
+msgstr "You can earn legendary tokens"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_RESOURCES_COEF"
-msgstr "Уголь, сталь и очки исследования"
+msgstr "Coal, steel, and research points"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_REWARDS"
-msgstr "Можно получить больше ресурсов:"
+msgstr "You can earn more resources:"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_REGULAR_TEXT_1"
-msgstr "Всё, что доступно в Базовом пропуске"
+msgstr "Everything available in the Free Pass"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_REGULAR_TEXT_2"
-msgstr "Награды Улучшенного пропуска"
+msgstr "Premium Pass rewards"
 
 msgid "IDS_BATTLEPASS_PURCHASE_STATUS"
-msgstr "Получено"
+msgstr "Received"
 
 msgid "IDS_BATTLEPASS_PURCHASE_STATUS_BONUSES"
-msgstr "Получено"
+msgstr "Received"
 
 msgid "IDS_BATTLEPASS_PURCHASE_SUBTITLE"
-msgstr "Покупка уровней становится доступна после приобретения Улучшенного пропуска"
+msgstr "Level purchase becomes available after obtaining the Premium Pass"
 
 msgid "IDS_BATTLEPASS_PURCHASE_TITLE"
-msgstr "Улучшение и бонусы"
+msgstr "Enhancements and bonuses"
 
 msgid "IDS_BATTLEPASS_STATUS_BUTTON_BOOST_TOOLTIP"
-msgstr "Ускорение прогресса недоступно после достижения финального уровня"
+msgstr "Progress boost is unavailable after reaching the final level"
 
 msgid "IDS_BATTLEPASS_STATUS_BUTTON_CLAIM_REWARDS"
-msgstr "Забрать награды"
+msgstr "Claim rewards"
 
 msgid "IDS_BATTLEPASS_TASKS_BUTTON"
-msgstr "Посмотреть задачи"
+msgstr "View tasks"
 
 msgid "IDS_BATTLEPASS_TYPE_FREE_FULL_TITLE"
-msgstr "Базовый боевой пропуск"
+msgstr "Free Battle Pass"
 
 msgid "IDS_BATTLEPASS_TYPE_FREE_SHORT_TITLE"
-msgstr "Базовый"
+msgstr "Free"
 
 msgid "IDS_BATTLEPASS_TYPE_PAID_ENHANCED"
-msgstr "Улучшенный пропуск + бонусы"
+msgstr "Premium Pass + bonuses"
 
 msgid "IDS_BATTLEPASS_TYPE_PAID_ENHANCED_SHORT_TITLE"
 msgstr ""
-"Улучшенный\n"
-"+ сезонные бонусы"
+"Premium\n"
+"+ seasonal bonuses"
 
 msgid "IDS_BATTLEPASS_TYPE_PAID_REGULAR"
-msgstr "Улучшенный пропуск"
+msgstr "Premium Pass"
 
 msgid "IDS_BATTLEPASS_TYPE_PAID_REGULAR_FULL_TITLE"
-msgstr "Улучшенный боевой пропуск"
+msgstr "Premium Battle Pass"
 
 msgid "IDS_BATTLEPASS_TYPE_PAID_REGULAR_SHORT_TITLE"
-msgstr "Улучшенный"
+msgstr "Premium"
 
 msgid "IDS_BATTLEPASS_TYPE_RECEIVED_FREE"
-msgstr "Получен Базовый пропуск"
+msgstr "Free Pass received"
 
 msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_FREE"
-msgstr "Эта линия прогресса доступна сразу и не требует покупки."
+msgstr "This progress line is available immediately and does not require a purchase."
 
 msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_PAID_ENHANCED_RECEIVED"
-msgstr "Содержит дополнительные награды и сезонные бонусы."
+msgstr "Contains additional rewards and seasonal bonuses."
 
 msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_PAID_REGULAR"
-msgstr "Эта линия прогресса содержит дополнительные награды."
+msgstr "This progress line contains additional rewards."
 
 msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_DESCRIPTION_PAID_REGULAR_RECEIVED"
-msgstr "Содержит дополнительные награды."
+msgstr "Contains additional rewards."
 
 msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_MOUSE_INSTRUCTION"
-msgstr "К экрану «Улучшение и бонусы»"
+msgstr "To the 'Enhancements and bonuses' screen"
 
 msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_STATUS_LOCKED"
-msgstr "Станет доступен после покупки"
+msgstr "Will become available after purchase"
 
 msgid "IDS_BATTLEPASS_TYPE_TOOLTIP_STATUS_RECEIVED"
-msgstr "Доступен"
+msgstr "Available"
 
 msgid "IDS_BATTLE_CHALLENGES_DESCRIPTION"
-msgstr "Пройдите все испытания и займите 1-е место в турнирной таблице."
+msgstr "Complete all challenges and take 1st place on the leaderboard."
 
 msgid "IDS_BATTLE_CHALLENGES_TITLE"
-msgstr "К высотам мастерства"
+msgstr "To the heights of mastery"
 
 msgid "IDS_BATTLE_EFFICIENCY_FOR_SESSION_STATS"
-msgstr "Средние показатели за бой сегодня"
+msgstr "Average battle performance today"
 
 msgid "IDS_BATTLE_EFFICIENCY_FOR_SESSION_STATS_TOOLTIP"
-msgstr "Средние показатели вашей боевой эффективности за бой"
+msgstr "Your average battle efficiency per battle"
 
 msgid "IDS_BATTLE_SIGNAL_RARITY_1"
-msgstr "Стандартный сигнал"
+msgstr "Standard signal"
 
 msgid "IDS_BATTLE_SIGNAL_RARITY_2"
-msgstr "Особый сигнал"
+msgstr "Special signal"
 
 msgid "IDS_BATTLE_SIGNAL_RARITY_3"
-msgstr "Редкий сигнал"
+msgstr "Rare signal"
 
 msgid "IDS_BATTLE_SIGNAL_RARITY_4"
-msgstr "Элитный сигнал"
+msgstr "Elite signal"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_01_04_031_DEAD_ENEMYS_AVIR_TASK"
-msgstr "Уничтожьте авианосец «Коку-Бокан»"
+msgstr "Destroy the aircraft carrier 'Koku-Bokan'"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_01_04_033_DEF_ALLY_AVIR_TASK"
-msgstr "Защитите союзный авианосец «Ромео»"
+msgstr "Protect the allied aircraft carrier 'Romeo'"
 
 msgid "IDS_BATTLE_TASK_TEXT_OP_10_SECONDARY_TASK_KILL_DA_BOSS"
-msgstr "Уничтожить флагман «Кояма»"
+msgstr "Destroy the flagship 'Koyama'"
 
 msgid "IDS_BATTLE_TASK_TEXT_PCOI018"
-msgstr "Повредите не менее 5 любых модулей."
+msgstr "Damage at least 5 modules."
 
 msgid "IDS_BEST_RESULT_IN_ROUND"
-msgstr "ЛУЧШИЙ РЕЗУЛЬТАТ"
+msgstr "BEST RESULT"
 
 msgid "IDS_BOTS"
-msgstr "БОТЫ"
+msgstr "BOTS"
 
 msgid "IDS_BOT_WARNING"
-msgstr "Корабль управляется ИИ"
+msgstr "Ship is controlled by AI"
 
 msgid "IDS_BRANCH_COMPLEXITY_TOOLTIP_DESCTIPTION_1"
-msgstr "Корабли этой ветки просты в освоении и подойдут любому игроку."
+msgstr "Ships of this branch are easy to master and suitable for any player."
 
 msgid "IDS_BRANCH_COMPLEXITY_TOOLTIP_DESCTIPTION_2"
-msgstr "Корабли этой ветки имеют оптимальную сложность освоения и подойдут большинству игроков."
+msgstr "Ships of this branch have an optimal complexity level and are suitable for most players."
 
 msgid "IDS_BRANCH_COMPLEXITY_TOOLTIP_DESCTIPTION_3"
-msgstr "Корабли этой ветки сложны в освоении и подойдут опытным игрокам."
+msgstr "Ships of this branch are difficult to master and are suitable for experienced players."
 
 msgid "IDS_BRANCH_COMPLEXITY_TOOLTIP_HEADER"
-msgstr "Сложность освоения"
+msgstr "Mastery difficulty"
 
 msgid "IDS_BRASS_COLON"
-msgstr "Чемпионские жетоны:"
+msgstr "Champion tokens:"
 
 msgid "IDS_BRAWLBATTLE_DESCRIPTION"
-msgstr "Сражения с игроками, которые подбираются по уровню навыка. Условия участия и боевые особенности меняются каждый сезон."
+msgstr "Battles against players matched by skill level. Participation conditions and combat features change each season."
 
 msgid "IDS_BRAWLS_ACCOUNT_LEVEL_TOO_LOW"
-msgstr "Ваш уровень аккаунта слишком низок для участия в этом типе боя"
+msgstr "Your account level is too low to participate in this type of battle"
 
 msgid "IDS_BRAWL_BATTLE_INFORMER_DIVISION_WITH_FOG_OF_WAR"
-msgstr "Размер команд: %(_maxPlayers)s на %(_maxPlayers)s. Максимальный размер отряда: %(_divisionSize)s. Состав команды противника неизвестен."
+msgstr "Team size: %(_maxPlayers)s vs %(_maxPlayers)s. Maximum division size: %(_divisionSize)s. Opponent team composition unknown."
 
 msgid "IDS_BRAWL_BATTLE_INFORMER_SOLO_WITH_FOG_OF_WAR"
-msgstr "Размер команд: %(_maxPlayers)s на %(_maxPlayers)s. Отряды не допускаются в бой. Состав команды противника неизвестен."
+msgstr "Team size: %(_maxPlayers)s vs %(_maxPlayers)s. Divisions not allowed in battle. Opponent team composition unknown."
 
 msgid "IDS_BUFF_NEGATIVE"
-msgstr "Негативный эффект"
+msgstr "Negative effect"
 
 msgid "IDS_BUFF_NEUTRAL"
-msgstr "Постоянная характеристика"
+msgstr "Constant characteristic"
 
 msgid "IDS_BUFF_POSITIVE"
-msgstr "Улучшение"
+msgstr "Enhancement"
 
 msgid "IDS_BUILDING_ANTIAIRCRAFT"
-msgstr "Батарея ПВО"
+msgstr "Anti-aircraft battery"
 
 msgid "IDS_BUOYANCY_SPEED_HIGH"
-msgstr "Быстрое погружение и всплытие"
+msgstr "Fast submersion and surfacing"
 
 msgid "IDS_BUOYANCY_SPEED_LOW"
-msgstr "Медленное погружение и всплытие"
+msgstr "Slow submersion and surfacing"
 
 msgid "IDS_BURN_TIME_LONG"
-msgstr "Большая длительность пожаров"
+msgstr "Long fire duration"
 
 msgid "IDS_BURN_TIME_SHORT"
-msgstr "Малая длительность пожаров"
+msgstr "Short fire duration"
 
 msgid "IDS_BUY_IN_ARMORY_STATUS"
-msgstr "Доступно для покупки в Адмиралтействе"
+msgstr "Available for purchase in the Armory"
 
 msgid "IDS_BYVALYJ"
-msgstr "Бывалый"
+msgstr "Veteran"
 
 msgid "IDS_CALL_TO_ACTION_BANNER_TEXT"
 msgstr ""
-"Выйдите в бой —\n"
-"получите награду!"
+"Battle —\n"
+"And receive a reward!"
 
 msgid "IDS_CAMOUFLAGE_EXPENDABLE_GROUP_ABSTRACT_PATTERN"
-msgstr "Абстрактные"
+msgstr "Abstract"
 
 msgid "IDS_CAMOUFLAGE_EXPENDABLE_GROUP_COMMON"
-msgstr "Стандартные"
+msgstr "Standard"
 
 msgid "IDS_CAMOUFLAGE_EXPENDABLE_GROUP_PAINTWORK"
-msgstr "Тематические"
+msgstr "Thematic"
 
 msgid "IDS_CAMOUFLAGE_EXPENDABLE_GROUP_SINGLE_COLOR"
-msgstr "Одноцветные"
+msgstr "Single-color"
 
 msgid "IDS_CAMOUFLAGE_EXPENDABLE_GROUP_UNPURCHASEABLE_TROPHY"
-msgstr "Трофейные"
+msgstr "Trophy"
 
 msgid "IDS_CAMOUFLAGE_EXPENDABLE_GROUP_UNPURCHASEABLE_UNIQUE"
-msgstr "Уникальные"
+msgstr "Unique"
 
 msgid "IDS_CAMOUFLAGE_LIST_EXPENDABLE"
-msgstr "Расходуемые"
+msgstr "Consumable"
 
 msgid "IDS_CAMOUFLAGE_LIST_PERMANENT"
-msgstr "Постоянные"
+msgstr "Permanent"
 
 msgid "IDS_CAMO_DESCR_HIDDEN_BY_PECULARITY_SCARLET_FUTURE"
-msgstr "Отображение камуфляжей события «Во имя прогресса!» отключено"
+msgstr "Display of \"In the Name of Progress!\" camouflages disabled"
 
 msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_LEVEL"
-msgstr "Отфильтровать по уровню"
+msgstr "Filter by level"
 
 msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_NATION"
-msgstr "Отфильтровать по нации"
+msgstr "Filter by nation"
 
 msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_SHIPTYPE"
-msgstr "Отфильтровать по классу"
+msgstr "Filter by class"
 
 msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_SPECIAL"
-msgstr "Отфильтровать по категории «Особые»"
+msgstr "Filter by 'Special' category"
 
 msgid "IDS_CAROUSEL_NO_COMPATIBLE_SHIPS"
-msgstr "НЕТ ПОДХОДЯЩИХ КОРАБЛЕЙ"
+msgstr "NO SUITABLE SHIPS"
 
 msgid "IDS_CAROUSEL_PCVE022_FILTER"
-msgstr "Фильтр кораблей, подходящих для участия в состязании «К высотам мастерства»"
+msgstr "Filter ships suitable for the 'To the heights of mastery' competition"
 
 msgid "IDS_CAROUSEL_PCVE026_FILTER"
-msgstr "Фильтр кораблей, подходящих для участия в событии «Скрытые манёвры»"
+msgstr "Filter ships suitable for the 'Concealed Maneuvers' event"
 
 msgid "IDS_CAT_SCIENTIST"
-msgstr "Кот учёный"
+msgstr "Scientist Cat"
 
 msgid "IDS_CAUSED_MINES_HINT"
-msgstr "Количество попаданий и урон, нанесённый минами"
+msgstr "Number of hits and damage dealt by mines"
 
 msgid "IDS_CAUSED_MINES_RELEASED_HINT"
-msgstr "Количество сброшенных мин"
+msgstr "Number of mines dropped"
 
 msgid "IDS_CHALLENGES_BATTLE_RESULTS_MODAL_HEADER"
-msgstr "Турнирная таблица"
+msgstr "Leaderboard"
 
 msgid "IDS_CHALLENGES_LOADING_DESCRIPTION_HEADER"
-msgstr "Брифинг"
+msgstr "Briefing"
 
 msgid "IDS_CHALLENGES_LOADING_DESCRIPTION_TEXT"
-msgstr "В каждом раунде участники проходят испытание, выбранное случайным образом. Раунд длится 3 минуты, по истечении которых игрок с самым низким результатом выбывает из состязания."
+msgstr "In each round, participants go through a challenge selected at random. The round lasts 3 minutes, after which the player with the lowest score is eliminated from the competition."
 
 msgid "IDS_CHALLENGE_BATTLE_ENDED"
-msgstr "%(_position)s-Е МЕСТО"
+msgstr "RANK-%(_position)s"
 
 msgid "IDS_CHANCE_LOOTBOX_DESC"
 msgstr ""
-"Увеличенная вероятность получить Суперконтейнер.\n"
-"Контейнер «Малый» в случае неудачи."
+"Increased chance to receive a Supercontainer.\n"
+"Small container if unsuccessful."
 
 msgid "IDS_CHANGE_TRAINING_ROOM_SETTINGS"
-msgstr "ИЗМЕНИТЬ НАСТРОЙКИ БОЯ"
+msgstr "CHANGE BATTLE SETTINGS"
 
 msgid "IDS_CHARS_LEFT"
-msgstr "Символов осталось:"
+msgstr "Characters left:"
 
 msgid "IDS_CHATLANIN_PATSAK"
-msgstr "Уэф и Би"
+msgstr "Uef and Bi"
 
 msgid "IDS_CHAT_PLAYER_PRAISED_CHAT"
-msgstr "Вас похвалили за хорошие манеры"
+msgstr "You were praised for good manners"
 
 msgid "IDS_CHAT_PLAYER_PRAISED_PLAY"
-msgstr "Вас похвалили за хорошую игру"
+msgstr "You were praised for good play"
 
 msgid "IDS_CHERNOMOR"
-msgstr "Черномор"
+msgstr "Chernomor"
 
 msgid "IDS_CHOOSE_BATTLETYPE_FOR_SESSION_STATS"
-msgstr "Выбрать тип боя для отображения статистики"
+msgstr "Select battle type to display statistics"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE022"
-msgstr "Выбрать состязание «К высотам мастерства»"
+msgstr "Select 'To the heights of mastery' competition"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE026"
-msgstr "Выбрать тип боя «Скрытые манёвры»"
+msgstr "Select 'Conceal maneuvers' battle type"
 
 msgid "IDS_CHOOSE_SHIP_FOR_FIRST_BATTLE"
-msgstr "Выберите корабль для первого боя"
+msgstr "Select a ship for the first battle"
 
 msgid "IDS_CITADELS_OUTSIDER_HINT"
-msgstr "Чтобы попасть в цитадель, цельтесь в борт корабля в области ватерлинии."
+msgstr "To hit the citadel, aim at the side of the ship near the waterline."
 
 msgid "IDS_CITADEL_HEALTH_REGENERATION_HEIGHT"
-msgstr "Повреждения цитадели корабля устраняются с повышенной эффективностью"
+msgstr "Citadel damage is repaired with increased efficiency"
 
 msgid "IDS_CIT_ROLE01"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_CIT_ROLE02"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_CIT_ROLE03"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_CIT_ROLE04"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_CIT_ROLE05"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_CIT_ROLE06"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_CIT_ROLE07"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_CIT_ROLE08"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_CLANBATTLE_DESCRIPTION"
-msgstr "Сражения между двумя отрядами из разных кланов."
+msgstr "Battles between two squads from different clans."
 
 msgid "IDS_CLAN_BATTLES_CURRENT_PRIMETIME_INFO"
-msgstr "Сессия Клановых боёв с %(startTime)s до %(endTime)s завершится через %(timeLeft)s"
+msgstr "Clan Battles session from %(startTime)s to %(endTime)s will end in %(timeLeft)s"
 
 msgid "IDS_CLAN_BATTLES_CURRENT_SELF_PRIMETIME_ENDS_IN"
-msgstr "До завершения сессии Клановых боёв осталось %(timeLeft)s"
+msgstr "Clan Battles session will end in %(timeLeft)s"
 
 msgid "IDS_CLAN_BATTLES_NEXT_PRIMETIME_INFO"
-msgstr "Следующая сессия Клановых боёв пройдёт с %(startTime)s до %(endTime)s"
+msgstr "The next Clan Battles session will take place from %(startTime)s to %(endTime)s"
 
 msgid "IDS_CLAN_BATTLES_PREV_PRIMETIME_INFO"
-msgstr "Сессия Клановых боёв с %(startTime)s до %(endTime)s завершена"
+msgstr "Clan Battles session from %(startTime)s to %(endTime)s has ended"
 
 msgid "IDS_CLAN_BATTLES_PRIMETIME_INFORMER_TYPE_CHOSEN"
-msgstr "Ваш клан допущен к сессии Клановых боёв с %(startTime)s до %(endTime)s"
+msgstr "Your clan is admitted to the Clan Battles session from %(startTime)s to %(endTime)s"
 
 msgid "IDS_CLAN_BATTLES_PRIMETIME_INFORMER_TYPE_END"
-msgstr "Сессия Клановых боёв с %(startTime)s до %(endTime)s завершена"
+msgstr "Clan Battles session from %(startTime)s to %(endTime)s has ended"
 
 msgid "IDS_CLAN_BATTLES_PRIMETIME_INFORMER_TYPE_FIXED"
-msgstr "Сессия Клановых боёв для вашего клана: %(startTime)s–%(endTime)s"
+msgstr "Clan Battles session for your clan: %(startTime)s–%(endTime)s"
 
 msgid "IDS_CLAN_BATTLES_PRIMETIME_INFORMER_TYPE_SOON_END"
-msgstr "Сессия Клановых боёв скоро завершится"
+msgstr "Clan Battles session will end soon"
 
 msgid "IDS_CLAN_BATTLES_PRIMETIME_INFORMER_TYPE_SOON_START"
-msgstr "Сессия Клановых боёв скоро начнётся"
+msgstr "Clan Battles session will start soon"
 
 msgid "IDS_CLAN_BATTLES_PRIMETIME_INFORMER_TYPE_START"
-msgstr "Сессия Клановых боёв с %(startTime)s до %(endTime)s началась!"
+msgstr "Clan Battles session from %(startTime)s to %(endTime)s has started!"
 
 msgid "IDS_CLAN_BATTLES_SCHEDULE_HEADER"
-msgstr "Время"
+msgstr "Time"
 
 msgid "IDS_CLIENTUM_2_COLON"
-msgstr "Жетоны прогресса:"
+msgstr "Progress tokens:"
 
 msgid "IDS_CLOUDS_QUALITY"
-msgstr "Качество прорисовки объёмных облаков"
+msgstr "Cloud Rendering Quality"
 
 msgid "IDS_CLOUDS_QUALITY_DESCRIPTION"
-msgstr "Включает технологию отображения объёмных облаков и устанавливает качество их прорисовки. Работает, только если детальность прорисовки воды установлена на значении «Очень высоко» или выше."
+msgstr "Enables volumetric cloud rendering technology and sets their quality. Works only if the water detail level is set to 'Very High' or higher."
 
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_MINEBOMBER"
-msgstr "%(player)s! Нужна поддержка с воздуха!"
+msgstr "%(player)s! I need air support!"
 
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "I need air support!"
 
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_MINEBOMBER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "I need air support!"
 
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "I need air support!"
 
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_MINEBOMBER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "I need air support!"
 
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Нужна поддержка с воздуха!"
+msgstr "I need air support!"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_MINEBOMBER"
-msgstr "Прикройте союзные постановщики мин!"
+msgstr "Provide cover for allied mine layers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Прикройте союзные постановщики мин!"
+msgstr "Provide cover for allied mine layers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_MINEBOMBER"
-msgstr "Внимание на постановщики мин противника!"
+msgstr "Attention, enemy mine layers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Внимание на постановщики мин противника!"
+msgstr "Attention, enemy mine layers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_MINEBOMBER"
-msgstr "Союзные постановщики мин!"
+msgstr "Allied mine layers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Союзные постановщики мин!"
+msgstr "Allied mine layers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_MINEBOMBER"
-msgstr "Постановщики мин противника!"
+msgstr "Enemy mine layers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Постановщики мин противника!"
+msgstr "Enemy mine layers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_MINEBOMBER"
-msgstr "Союзные постановщики мин!"
+msgstr "Allied mine layers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Союзные постановщики мин!"
+msgstr "Allied mine layers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_MINEBOMBER"
-msgstr "Постановщики мин противника!"
+msgstr "Enemy mine layers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Постановщики мин противника!"
+msgstr "Enemy mine layers!"
 
 msgid "IDS_COMMANDERS_MANAGEMENT_DISABLED"
-msgstr "Командирам запрещено приглашать игроков"
+msgstr "Commanders are not allowed to invite players"
 
 msgid "IDS_COMMANDERS_MANAGEMENT_ENABLED"
-msgstr "Командирам разрешено приглашать игроков"
+msgstr "Commanders are allowed to invite players"
 
 msgid "IDS_COMPENDIUM_UNIFIED_STATUS_PRIMARY"
-msgstr "Корабль является основным"
+msgstr "The ship is primary"
 
 msgid "IDS_COMPENDIUM_UNIFIED_STATUS_WITHOUT_COMMANDER"
-msgstr "Нет командира"
+msgstr "No commander"
 
 msgid "IDS_COMPLEXITY"
-msgstr "Сложность"
+msgstr "Complexity"
 
 msgid "IDS_COMPLEXITY_COLON"
-msgstr "Сложность:"
+msgstr "Complexity:"
 
 msgid "IDS_COOPERATIVEBATTLE_DESCRIPTION"
-msgstr "Сражения против ботов."
+msgstr "Battles against bots."
 
 msgid "IDS_COOPERATIVEBATTLE_MATCHMAKER_DESCRIPTION"
-msgstr "Случайно выбранные карта и режим боя."
+msgstr "Randomly selected map and battle mode."
 
 msgid "IDS_CREW_ASSIGN_SHIP_TEXT"
-msgstr "Назначить командира на корабль"
+msgstr "Assign commander to the ship"
 
 msgid "IDS_CREW_HIRE_NATION_ASSIGN"
-msgstr "Командиру автоматически будет присвоена нация —"
+msgstr "The commander will be automatically assigned a nation—"
 
 msgid "IDS_CREW_HIRE_PREM_SHIP_TEXT_0"
-msgstr "Подготовка на премиум корабли не нужна."
+msgstr "No preparation needed for premium ships."
 
 msgid "IDS_CREW_HIRE_PREM_SHIP_TEXT_1"
-msgstr "Вы сможете бесплатно подготовить этого командира на другой корабль."
+msgstr "You will be able to prepare this commander for another ship for free."
 
 msgid "IDS_CREW_PANEL_MAX_LEVEL"
-msgstr "[el_left_sm]%(crewLevel)s[el_right_15_sm] Максимальный уровень"
+msgstr "[el_left_sm]%(crewLevel)s[el_right_15_sm] Maximum level"
 
 msgid "IDS_CREW_RANK_RUSSIA_4"
-msgstr "Капитан 3-го ранга"
+msgstr "Kapitan 3rd ranga"
 
 msgid "IDS_CREW_RANK_RUSSIA_5"
-msgstr "Капитан 2-го ранга"
+msgstr "Kapitan 2nd ranga"
 
 msgid "IDS_CREW_RANK_RUSSIA_6"
-msgstr "Капитан 1-го ранга"
+msgstr "Kapitan 1st ranga"
 
 msgid "IDS_CREW_SKILL_MEASURE_BOMBER"
 msgid_plural "IDS_CREW_SKILL_MEASURE_BOMBER"
-msgstr[0] " бомбардировщик"
+msgstr[0] " bomber"
 msgstr[1] ""
 
 msgid "IDS_CREW_SKILL_MEASURE_CHARGE"
 msgid_plural "IDS_CREW_SKILL_MEASURE_CHARGE"
-msgstr[0] " дополнительный заряд"
+msgstr[0] " additional charge"
 msgstr[1] ""
 
 msgid "IDS_CREW_SKILL_MEASURE_FIGHTER"
 msgid_plural "IDS_CREW_SKILL_MEASURE_FIGHTER"
-msgstr[0] " штурмовик"
+msgstr[0] " fighter"
 msgstr[1] ""
 
 msgid "IDS_CREW_SPECIALIZATION_TO_NATION"
-msgstr "Присвоена нация:"
+msgstr "Assigned nation:"
 
 msgid "IDS_CREW_TALENTS_AND_VANITY_TOOLTIP_TITLE"
-msgstr "Национальные таланты и персонализации:"
+msgstr "National talents and personalizations:"
 
 msgid "IDS_CREW_TRAINING_SHIP_TEXT"
-msgstr "Подготовить командира на корабль"
+msgstr "Train the commander on the ship"
 
 msgid "IDS_CREW_TRAINING_TYPE_DESCRIPTION_1"
-msgstr "Для завершения переподготовки необходимо будет заработать %(_amount)s ед. опыта командиров."
+msgstr "To complete retraining, you will need to earn %(_amount)s commander experience points."
 
 msgid "IDS_CURRENCY_BRASS"
-msgstr "Чемпионские жетоны"
+msgstr "Champion tokens"
 
 msgid "IDS_CURRENCY_BRASS_GET_DESCRIPTION"
-msgstr "За высокие результаты в Ранговых и Клановых боях."
+msgstr "For high performance in Ranked and Clan Battles."
 
 msgid "IDS_CURRENCY_BRASS_SPEND_DESCRIPTION"
-msgstr "Постоянные камуфляжи для определённых кораблей."
+msgstr "Permanent camouflages for specific ships."
 
 msgid "IDS_CURRENCY_CLANRESOURCE_SPEND_DESCRIPTION"
-msgstr "Возведение строений на Военно-морской базе клана."
+msgstr "Building structures at the Clan Naval Base."
 
 msgid "IDS_CURRENCY_CLIENTUM_2"
-msgstr "Жетоны прогресса"
+msgstr "Progress tokens"
 
 msgid "IDS_CURRENCY_CLIENTUM_2_GET_DESCRIPTION"
-msgstr "В качестве бонуса за боевые результаты, за выполнение боевых задач, за достижение уровней Боевого пропуска до конца обновления 12.8, за выполнение боевых задач события «Ключевая цель» в обновлении 12.8, а также из наборов в Адмиралтействе в период проведения события в обновлениях 12.8 и 12.9."
+msgstr "As a bonus for battle performance, completing combat missions, reaching levels in the Battle Pass until the end of update 12.8, completing event combat missions 'Key Objective' in update 12.8, and from packs in the Armory during the event in updates 12.8 and 12.9."
 
 msgid "IDS_CURRENCY_CLIENTUM_2_SPEND_DESCRIPTION"
-msgstr "На случайные наборы с элитным контейнером «Премиум корабль VII уровня», очками исследования, сталью и другим имуществом, на элитный контейнер «Премиум корабль VIII уровня», на крейсер VI уровня Dupleix, на экономические комплекты для кораблей X уровня и суперкораблей, а также на тематический постоянный камуфляж «Исполин науки» для линкора X уровня Preussen в период проведения события в обновлениях 12.8 и 12.9."
+msgstr "On random packs with an elite container 'Premium Ship Tier VII', research points, steel, and other items, on the elite container 'Premium Ship Tier VIII', on the Tier VI cruiser Dupleix, on economic packs for Tier X ships and super ships, and on the thematic permanent camouflage 'Giant of Science' for the Tier X battleship Preussen during the event in updates 12.8 and 12.9."
 
 msgid "IDS_CURRENCY_CLIENTUM_2_STATUS"
-msgstr "Временный ресурс события «Во имя прогресса!»"
+msgstr "Temporary event resource 'For the sake of progress!'"
 
 msgid "IDS_CURRENCY_EVENTUM_1"
-msgstr "Яркие жетоны"
+msgstr "Bright tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_10"
-msgstr "Летние жетоны"
+msgstr "Summer tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_10_GET_DESCRIPTION"
-msgstr "За выполнение боевых задач события в течение ограниченного времени в обновлении 13.7, а также за достижение уровней Боевого пропуска, в разделе «Ежедневные награды» и из наборов в Адмиралтействе до конца обновления 13.7."
+msgstr "For completing event combat missions during a limited time in update 13.7, as well as for reaching levels in the Battle Pass, in the 'Daily Rewards' section, and from packs in the Armory until the end of update 13.7."
 
 msgid "IDS_CURRENCY_EVENTUM_10_SPEND_DESCRIPTION"
-msgstr "На случайные наборы с эсминцем IX уровня Halford и постоянным камуфляжем «Громовая птица» для него, с контейнерами «Премиум корабль VII. Запасы коллекционера», «Премиум корабль VIII. Запасы коллекционера» и с другим имуществом, на контейнеры «Сокровищница флота» до конца обновления 13.7, а также на заполнение шкалы прогресса для получения суперлинкора Maine с постоянным камуфляжем «Курортный» для него в течение ограниченного времени в обновлении 13.7."
+msgstr "On random packs with the Tier IX destroyer Halford and its permanent camouflage 'Thunderbird', with containers 'Premium Ship Tier VII. Collector's Reserves', 'Premium Ship Tier VIII. Collector's Reserves' and other items, on 'Fleet Treasury' containers until the end of update 13.7, and on filling the progress bar to obtain the super battleship Maine with its permanent camouflage 'Resort' during a limited time in update 13.7."
 
 msgid "IDS_CURRENCY_EVENTUM_10_STATUS"
-msgstr "Временный ресурс события «Наше лето». С выходом обновления 13.8 жетоны будут списаны без компенсации."
+msgstr "Temporary event resource 'Our Summer'. With the release of update 13.8, tokens will be deducted without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
-msgstr "За выполнение боевых задач события и достижение 20-го уровня Улучшенного боевого пропуска до конца обновления 13.4, а также из премиум контейнеров «Яркая регата» и из наборов в Адмиралтействе во время проведения события в обновлениях 13.4 и 13.5."
+msgstr "For completing event combat missions and reaching the 20th level of the Enhanced Battle Pass until the end of update 13.4, as well as from premium containers 'Bright Regatta' and from packs in the Armory during the event in updates 13.4 and 13.5."
 
 msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
-msgstr "На корабли Schlieffen CLR, Andalucía CLR и Akizuki CLR, а также на другое имущество во время проведения события в обновлениях 13.4 и 13.5."
+msgstr "On the ships Schlieffen CLR, Andalucía CLR, and Akizuki CLR, as well as on other items during the event in updates 13.4 and 13.5."
 
 msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
-msgstr "Временный ресурс события «Яркая регата». С выходом обновления 13.6 жетоны будут списаны без компенсации."
+msgstr "Temporary event resource 'Bright Regatta'. With the release of update 13.6, tokens will be deducted without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_2"
-msgstr "Легендарные жетоны"
+msgstr "Legendary tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
-msgstr "За выполнение боевых задач события и из наборов в Адмиралтействе во время проведения события в обновлениях 13.4 и 13.5."
+msgstr "For completing event combat missions and from packs in the Armory during the event in updates 13.4 and 13.5."
 
 msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
-msgstr "На крейсер X уровня Kitakami, на постоянный камуфляж «Победный ветер» для него, а также на другое имущество во время проведения события в обновлениях 13.4 и 13.5."
+msgstr "On the Tier X cruiser Kitakami, on its permanent camouflage 'Victorious Wind', as well as on other items during the event in updates 13.4 and 13.5."
 
 msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
-msgstr "Временный ресурс события «Легенда о Kitakami». С выходом обновления 13.6 жетоны будут списаны без компенсации."
+msgstr "Temporary event resource 'Legend of Kitakami'. With the release of update 13.6, tokens will be deducted without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "Американские жетоны"
+msgstr "American tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "За достижение уровней Боевого пропуска и в разделе «Ежедневные награды» до конца обновления 13.6, а также из наборов в Адмиралтействе до конца обновления 13.7."
+msgstr "For reaching levels in the Battle Pass and in the 'Daily Rewards' section until the end of update 13.6, as well as from packs in the Armory until the end of update 13.7."
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "На последовательные наборы с эсминцем X уровня Lynch, с постоянными камуфляжами для Lynch, эсминца IX уровня Maffitt и эсминца VIII уровня Hogg, с экономическим комплектом для Hogg, а также на другое имущество до конца обновления 13.7."
+msgstr "On sequential packs with the Tier X destroyer Lynch, with permanent camouflages for Lynch, the Tier IX destroyer Maffitt and the Tier VIII destroyer Hogg, with the economic pack for Hogg, as well as on other items until the end of update 13.7."
 
 msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "Временный ресурс события «Эсминцы США». С выходом обновления 13.8 жетоны будут списаны без компенсации."
+msgstr "Temporary event resource 'US Destroyers'. With the release of update 13.8, tokens will be deducted without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_4"
-msgstr "Флотские жетоны"
+msgstr "Fleet tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
-msgstr "За выполнение боевых задач события до конца обновления 13.6, а также из наборов в Адмиралтействе во время проведения события в обновлениях 13.6 и 13.7."
+msgstr "For completing event combat missions until the end of update 13.6, as well as from packs in the Armory during the event in updates 13.6 and 13.7."
 
 msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
-msgstr "На крейсер IX уровня «Щербаков» и камуфляж «Блистательный» для него, на конструкции линкора VII уровня «Полтава», а также на другое имущество во время проведения события в обновлениях 13.6 и 13.7."
+msgstr "On the Tier IX cruiser Shcherbakov and its permanent camouflage 'Brilliant', on the designs of the Tier VII battleship Poltava, as well as on other items during the event in updates 13.6 and 13.7."
 
 msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
-msgstr "Временный ресурс. С выходом обновления 13.8 жетоны будут списаны без компенсации."
+msgstr "Temporary resource. With the release of update 13.8, tokens will be deducted without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_5"
-msgstr "Памятные жетоны"
+msgstr "Commemorative tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_5_GET_DESCRIPTION"
-msgstr "За выполнение боевых задач события «Корабли Победы» и из наборов в Адмиралтействе во время проведения события в обновлениях 13.3 и 13.4."
+msgstr "For completing event combat missions 'Victory Ships' and from packs in the Armory during the event in updates 13.3 and 13.4."
 
 msgid "IDS_CURRENCY_EVENTUM_5_SPEND_DESCRIPTION"
-msgstr "На последовательные наборы с линкором VIII уровня «Ленин», с постоянным камуфляжем «Краснознамённый» для него, с контейнерами «Премиум корабль VI», «9 Мая» и «Советский», а также на другое имущество во время проведения события в обновлениях 13.3 и 13.4."
+msgstr "On sequential packs with the Tier VIII battleship Lenin, with its permanent camouflage 'Red Banner', with 'Premium Ship VI', 'May 9', and 'Soviet' containers, as well as on other items during the event in updates 13.3 and 13.4."
 
 msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
-msgstr "Временный ресурс события «Корабли Победы». С выходом обновления 13.5 жетоны будут списаны без компенсации."
+msgstr "Temporary event resource 'Victory Ships'. With the release of update 13.5, tokens will be deducted without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_6"
-msgstr "Рейдерские жетоны"
+msgstr "Raider tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_6_GET_DESCRIPTION"
-msgstr "За достижение финального уровня Базового боевого пропуска до конца обновления 13.5, а также за выполнение задач события «Рейд во льдах» и из наборов в Адмиралтействе в период проведения события в обновлениях 13.5 и 13.6."
+msgstr "For reaching the final level of the Basic Battle Pass until the end of update 13.5, as well as for completing event combat missions 'Raid in the Ice' and from packs in the Armory during the event in updates 13.5 and 13.6."
 
 msgid "IDS_CURRENCY_EVENTUM_6_SPEND_DESCRIPTION"
-msgstr "На линкор VII уровня Pfalz и на другое имущество в период проведения события в обновлениях 13.5 и 13.6."
+msgstr "On the Tier VII battleship Pfalz and on other items during the event in updates 13.5 and 13.6."
 
 msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
-msgstr "Временный ресурс события «Рейд во льдах». С выходом обновления 13.7 жетоны будут списаны без компенсации."
+msgstr "Temporary event resource 'Raid in the Ice'. With the release of update 13.7, tokens will be deducted without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_7"
-msgstr "Космические жетоны"
+msgstr "Cosmic tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
-msgstr "За выполнение боевых задач и из наборов в Адмиралтействе во время проведения события в обновлении 13.3."
+msgstr "For completing event combat missions and from packs in the Armory during the event in update 13.3."
 
 msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
-msgstr "На крейсер X уровня Callenburgh и постоянный камуфляж «Неутомимый исследователь» для него, на командира Астру с 12 очками навыков, а также на другое имущество во время проведения события в обновлении 13.3."
+msgstr "On the Tier X cruiser Callenburgh and its permanent camouflage 'Tireless Explorer', on the commander Astra with 12 skill points, as well as on other items during the event in update 13.3."
 
 msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
-msgstr "Временный ресурс. С выходом обновления 13.4 жетоны будут списаны без компенсации."
+msgstr "Temporary resource. With the release of update 13.4, tokens will be deducted without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_8"
-msgstr "Зимние жетоны"
+msgstr "Winter tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_8_GET_DESCRIPTION"
-msgstr "За выполнение задач события «Новогодний карнавал» до конца обновления 12.11, а также из наборов в Адмиралтействе в период проведения события в обновлениях 12.11 и 13.0."
+msgstr "For completing event combat missions 'New Year's Carnival' until the end of update 12.11, as well as from packs in the Armory during the event in updates 12.11 and 13.0."
 
 msgid "IDS_CURRENCY_EVENTUM_8_SPEND_DESCRIPTION"
-msgstr "На контейнеры «Премиум корабль VIII» и «Дальние странствия», а также на наборы с премиум аккаунтом в период проведения события в обновлениях 12.11 и 13.0."
+msgstr "On 'Premium Ship VIII' and 'Distant Voyages' containers, as well as on packs with premium accounts during the event in updates 12.11 and 13.0."
 
 msgid "IDS_CURRENCY_EVENTUM_8_STATUS"
-msgstr "Временный ресурс"
+msgstr "Temporary resource"
 
 msgid "IDS_CURRENCY_EVENTUM_9"
-msgstr "Корабельные жетоны"
+msgstr "Ship tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_9_GET_DESCRIPTION"
-msgstr "Из случайных наборов в Адмиралтействе во время проведения события."
+msgstr "From random packs in the Armory during the event."
 
 msgid "IDS_CURRENCY_EVENTUM_9_SPEND_DESCRIPTION"
-msgstr "На случайные наборы с контейнерами «Премиум корабль II–IV», «Премиум корабль V», «Премиум корабль VI», «Премиум корабль VIII» и «Премиум корабль IX», очками исследования, контейнерами «Элитные бонусы» и другим имуществом во время проведения события."
+msgstr "On random packs with 'Premium Ship II–IV', 'Premium Ship V', 'Premium Ship VI', 'Premium Ship VIII', and 'Premium Ship IX' containers, research points, 'Elite Bonuses' containers, and other items during the event."
 
 msgid "IDS_CURRENCY_EVENTUM_9_STATUS"
-msgstr "Временный ресурс"
+msgstr "Temporary resource"
 
 msgid "IDS_CURRENCY_RECRUITMENT_POINTS_GET_DESCRIPTION"
-msgstr "Можно заработать за приглашение друзей в игру, а также за участие в Общем тесте и других событиях."
+msgstr "Can be earned by inviting friends to the game, as well as participating in the Public Test and other events."
 
 msgid "IDS_CURRENCY_SANTIUM_STATUS"
 msgstr " "
 
 msgid "IDS_CURRENCY_SESSION_STATS"
-msgstr "Всего заработано в боях сегодня"
+msgstr "Total earned in battles today"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT"
 msgstr ""
-"Конструкции —\n"
+"Components—\n"
 "%(_shipName)s"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_ADDITIONAL_INFO"
-msgstr "За каждую неиспользованную конструкцию после ремонта корабля вы получите одну заготовку соответствующего уровня."
+msgstr "For each unused component after repairing the ship, you will receive one blank of the corresponding level."
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_GET_DESCRIPTION"
-msgstr "В Адмиралтействе или за участие в различных событиях."
+msgstr "In the Armory or for participating in various events."
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_NOWRAP"
-msgstr "Конструкции — %(_shipName)s"
+msgstr "Components— %(_shipName)s"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_OVERRIDE_FOR_WEB"
-msgstr "Конструкции"
+msgstr "Components"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_SPEND_DESCRIPTION"
-msgstr "Ремонт соответствующего корабля в Ремонтном доке."
+msgstr "Repair of the corresponding ship in the Repair Dock."
 
 msgid "IDS_CURRENCY_SHIPMATERIAL"
-msgstr "Заготовки — %(_shipLevel)s"
+msgstr "Blanks— %(_shipLevel)s"
 
 msgid "IDS_CURRENCY_SHIPMATERIAL_GET_DESCRIPTION"
-msgstr "В Адмиралтействе или за участие в различных событиях."
+msgstr "In the Armory or for participating in various events."
 
 msgid "IDS_CURRENCY_SHIPMATERIAL_SPEND_DESCRIPTION"
-msgstr "Создание недостающих конструкций при ремонте корабля соответствующего уровня в Ремонтном доке."
+msgstr "Creating missing components when repairing the corresponding level ship in the Repair Dock."
 
 msgid "IDS_CURRENT_SHIP_FEATURES_HINT"
-msgstr "Отличия от других кораблей этого класса и уровня"
+msgstr "Differences from other ships of this class and level"
 
 msgid "IDS_CUSTOMROOMSDESCRIPTION1LABEL"
-msgstr "В Тренировочных боях опыт и кредиты не начисляются. Боеприпасы, снаряжение и сигналы не расходуются."
+msgstr "In Training Battles, experience and credits are not earned. Ammunition, equipment, and signals are not consumed."
 
 msgid "IDS_DAILY_LOOTBOXES"
-msgstr "ЕЖЕДНЕВНЫЕ КОНТЕЙНЕРЫ"
+msgstr "DAILY CONTAINERS"
 
 msgid "IDS_DAILY_LOOTBOXES_HINT_0"
-msgstr "Зарабатывайте опыт и получайте контейнеры. Когда вы заработаете достаточно опыта, контейнер будет начислен автоматически."
+msgstr "Earn experience and receive containers. Once you earn enough experience, a container will be automatically credited."
 
 msgid "IDS_DAILY_LOOTBOXES_HINT_1"
-msgstr "Каждый день вам доступно 3 контейнера."
+msgstr "You have 3 containers available each day."
 
 msgid "IDS_DEFAULT_CREW_STATUS"
-msgstr "Стандартный командир"
+msgstr "Standard commander"
 
 msgid "IDS_DESCRIPTION_PCZA002_BISMARK"
 msgstr ""
-"Охота на «Бисмарк» стала одной из наиболее масштабных военно-морских операций на севере Атлантики. Горящие желанием отомстить за потопленный Hood британцы задействовали множество кораблей самых разных классов и вдобавок к тому несколько авиационных подразделений. Крейсеры, линкоры, авианосец, целая стая эсминцев...\n"
+"The hunt for the Bismarck became one of the largest naval operations in the North Atlantic. Burning with a desire to avenge the sinking of the Hood, the British involved numerous ships of various classes, along with several air units. Cruisers, battleships, an aircraft carrier, and a whole swarm of destroyers...\n"
 "\n"
-"Коллекция «Охота на „Бисмарк“» составлена из эмблем всех основных участников грандиозной операции по уничтожению немецкого суперрейдера."
+"The 'Hunt for the Bismarck' collection is made up of emblems of all the main participants in the grand operation to destroy the German super raider."
 
 msgid "IDS_DESCRIPTION_PCZA003_DUNKIRK"
 msgstr ""
-"Дюнкеркская операция — одно из крупнейших сражений начала Второй мировой войны, в котором были полномасштабно задействованы и сухопутные войска, и военно-морские силы, и авиация. За несколько дней, в конце мая – начале июня 1940 года с севера Франции было эвакуировано свыше 330 тысяч английских и французских войск. Для спасения живой силы союзникам пришлось пожертвовать всей техникой и большей частью вооружения. Под Дюнкерком было оставлено 2472 орудия и почти 65 000 единиц автотранспорта Британских экспедиционных сил и французской армии. Британским Адмиралтейством к эвакуации было привлечено более 800 военных и гражданских судов: английских, французских, голландских, бельгийских.\n"
+"The Dunkirk operation was one of the largest battles of the early stages of World War II, involving land forces, naval forces, and aviation on a full scale. Over the course of several days in late May and early June 1940, more than 330,000 British and French troops were evacuated from northern France. To save their personnel, the Allies had to sacrifice all equipment and most of their weapons. 2,472 guns and nearly 65,000 vehicles of the British Expeditionary Force and French Army were left behind at Dunkirk. The British Admiralty involved more than 800 military and civilian ships—English, French, Dutch, Belgian.\n"
 "\n"
-"В это число входило около полусотни эсминцев, десятки тральщиков, траулеров, пассажирских пароходов, яхт, рыболовецких шхун, спасательных и прочих судов. В ходе налётов Люфтваффе, от огня артиллерии Вермахта, атак торпедных катеров Кригсмарине и на минных заграждениях было потеряно каждое четвёртое судно. За девять дней эвакуации в борьбе за воздушное пространство на севере Франции было сбито 145 британских и 156 немецких самолётов. «Войны не выигрываются эвакуациями,» — сказал Уинстон Черчилль. Однако в результате «чуда под Дюнкерком» была сохранена кадровая британская армия, которая смогла продолжить борьбу со странами Оси на других театрах. Эвакуированные же французские части составили основу вооружённых сил «Свободной Франции».\n"
+"This included about fifty destroyers, dozens of minesweepers, trawlers, passenger steamers, yachts, fishing schooners, rescue and other ships. During Luftwaffe raids, artillery fire from the Wehrmacht, torpedo boat attacks from the Kriegsmarine, and on minefields, one in every four ships was lost. In nine days of evacuation, 145 British and 156 German aircraft were shot down in the battle for air supremacy over northern France. 'Wars are not won by evacuations,' Winston Churchill said. However, as a result of the 'miracle of Dunkirk,' the British army was saved and able to continue the fight against the Axis powers in other theaters. The evacuated French units formed the core of the Free French Forces.\n"
 "\n"
-"Спустя четыре года союзники вернулись во Францию с победой. Опыт организации масштабной транспортировки войск под Дюнкерком был использован в 1944 году при высадке в Нормандии, а руководившие эвакуацией 1940 года вице-адмирал Бертрам Рамсей и кэптен Уилльям Тэннант стали одними из ключевых фигур «Дня Д»."
+"Four years later, the Allies returned to France in victory. The experience of organizing large-scale troop transportation at Dunkirk was used in 1944 during the Normandy landings, and Vice Admiral Bertram Ramsay and Captain William Tennant, who led the 1940 evacuation, became key figures in D-Day."
 
 msgid "IDS_DESCRIPTION_PCZA020_KOTS"
-msgstr "Коллекция посвящена захватывающим состязаниям «Мира кораблей»! Отдельные игроки и целые команды соревнуются в искусстве ведения боя и сражаются за звание царя моря! Узнайте, на какие категории делятся участники, почему некоторые судьи предпочитают кнут, а не пряник, что входит в обязанности организаторов и зачем эсминцам разворачиваться кормой, чтобы захватить контрольную точку."
+msgstr "The collection is dedicated to the exciting competitions of 'World of Warships'! Individual players and entire teams compete in the art of battle and fight for the title of King of the Seas! Learn about the categories participants are divided into, why some judges prefer the stick to the carrot, what the duties of organizers include, and why destroyers turn their stern to capture a control point."
 
 msgid "IDS_DESCRIPTION_PCZA030_MAY_DAY"
-msgstr "Май 1945 г. ознаменовал собой долгожданное окончание Великой Отечественной войны. Германия подписала акт о безоговорочной капитуляции в Берлине вечером 8 мая по местному времени, а последние выстрелы на фронте прозвучали 11 мая. Весь мир вздохнул с облегчением. В этой коллекции представлены знаменитые корабли и выдающиеся командиры из разных стран, внёсшие свой вклад в победу над врагом."
+msgstr "May 1945 marked the long-awaited end of the Great Patriotic War. Germany signed the act of unconditional surrender in Berlin on the evening of May 8, local time, and the last shots on the front were fired on May 11. The whole world breathed a sigh of relief. This collection features famous ships and outstanding commanders from different countries who contributed to the victory over the enemy."
 
 msgid "IDS_DESCRIPTION_PCZA034_SCARLET_BIRTHDAY"
 msgstr ""
-"После окончания Второй мировой войны все страны мира объединили усилия для развития технологий. Человечество в короткие сроки добилось невероятного прогресса в робототехнике, освоении космоса и разработке искусственного интеллекта.\n"
+"After the end of World War II, all the countries of the world united their efforts to develop technology. Humanity achieved incredible progress in robotics, space exploration, and artificial intelligence in a short period.\n"
 "\n"
-"Благодаря созданию ИИ «Мудрость» в 1962 г. был сгенерирован «Протокол дружбы» — свод мировых законов, который позволил человечеству процветать в мире и согласии.\n"
+"Thanks to the creation of the AI 'Wisdom' in 1962, the 'Friendship Protocol'—a set of world laws—was generated, allowing humanity to thrive in peace and harmony.\n"
 "\n"
-"К 1970 г. было построено восемь международных морских комплексов, самым продвинутым и высокотехнологичным из которых стал МК-8.\n"
+"By 1970, eight international naval complexes had been built, with MC-8 being the most advanced and high-tech.\n"
 "\n"
-"Прогресс, как известно, не стоит на месте, поэтому ведущие инженеры занялись разработкой следующего крайне амбициозного проекта — Интернациональной космической эстакады (ИКЭ).\n"
+"Progress, as we know, does not stand still, so leading engineers took on the development of the next extremely ambitious project—the International Space Elevator (ISE).\n"
 "\n"
-"Ввод в эксплуатацию ИКЭ был намечен на 1983 г., но неожиданные события прервали строительство."
+"The commissioning of the ISE was scheduled for 1983, but unexpected events interrupted the construction."
 
 msgid "IDS_DESCRIPTION_PCZA035_JAP_BB_DRAGONS"
-msgstr "Конец октября. Благословенный жемчуг, спрятанный в морской пучине, хранят три стража. Во власти бури, моряки сражаются со стихией — словно тигр, столкнувшийся в схватке с драконом. Их непременно ждёт победа."
+msgstr "Late October. Blessed pearls hidden in the ocean depths are guarded by three keepers. In the power of the storm, sailors battle the elements—like a tiger facing off against a dragon. Victory awaits them."
 
 msgid "IDS_DESCRIPTION_PCZA036_ARIA"
-msgstr "«Ария» — легендарная советская и российская музыкальная группа, основанная в середине 1980-х гг. и работающая в жанре хеви-метала. За свою многолетнюю карьеру «Ария» записала десятки хитов, снискавших любовь как поклонников жанра, так и широкой аудитории."
+msgstr "'Aria' is a legendary Soviet and Russian heavy metal band founded in the mid-1980s. Over its long career, 'Aria' recorded dozens of hits, earning the love of both genre fans and a wider audience."
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
-msgstr "В этом испытании нельзя пользоваться орудиями вспомогательного калибра."
+msgstr "In this challenge, secondary battery guns cannot be used."
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
-msgstr "В этом испытании нельзя пользоваться снаряжением."
+msgstr "In this challenge, consumables cannot be used."
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
-msgstr "Вашей команде временно недоступно снаряжение."
+msgstr "Consumables are temporarily unavailable for your team."
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_MOVEMENT"
-msgstr "В этом испытании нельзя изменять скорость и направление движения."
+msgstr "In this challenge, speed and direction cannot be changed."
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
-msgstr "В этом испытании нельзя пользоваться вооружением."
+msgstr "In this challenge, weapons cannot be used."
 
 msgid "IDS_DESC_PCM009_FLIGHTCONTROL_MOD_I"
-msgstr "Не работает с тактическими эскадрильями"
+msgstr "Does not work with tactical squadrons"
 
 msgid "IDS_DESC_PCM038_SPOTTER_MOD_I"
-msgstr "Увеличивает время работы снаряжения «Корректировщик огня», «Корректировщик огня ускоренного темпа» и «Корректировщик огня с высокоточной оптикой»."
+msgstr "Increases the action time of the Spotting Aircraft, Rapid Takeoff Spotter, and High-Precision Spotter consumables."
 
 msgid "IDS_DESC_PCM088_AIRSUPPORT_MOD_II"
-msgstr "Увеличивает боеспособность самолётов и урон авиаудара глубинными бомбами"
+msgstr "Increases the HP and damage of Depth Charge Airstrike aircraft armament."
 
 msgid "IDS_DESC_PCM098_SPECIAL_MOD_I_GOUDEN_LEEUW"
-msgstr "Усиливает тактическую роль корабля, позволяя эффективнее проводить атаки авиаударом на определённой территории."
+msgstr "Enhances the ship's tactical role, allowing for more effective airstrike attacks within a specific area."
 
 msgid "IDS_DESC_PCM099_SPECIAL_MOD_I_ELBING"
-msgstr "Изменяет тактическую роль корабля, позволяя кратковременно повышать манёвренность и быстро переключаться между целями."
+msgstr "Modifies the ship's tactical role, allowing for temporarily increased maneuverability and quick target switching."
 
 msgid "IDS_DESC_PCM994_MODERNIZATION_SLOT_DUMMY"
-msgstr "Эффекты тестовой модернизации уже применены к характеристикам корабля, установка или демонтаж не повлечёт изменений. Вы не можете устанавливать другие модернизации в этот слот."
+msgstr "The effects of the test modernization have already been applied to the ship's characteristics; installation or removal will not result in changes. You cannot install other modernizations in this slot."
 
 msgid "IDS_DESC_PCM995_MODERNIZATION_SLOT_DUMMY"
-msgstr "Эффекты тестовой модернизации уже применены к характеристикам корабля, установка или демонтаж не повлечёт изменений. Вы не можете устанавливать другие модернизации в этот слот."
+msgstr "The effects of the test modernization have already been applied to the ship's characteristics; installation or removal will not result in changes. You cannot install other modernizations in this slot."
 
 msgid "IDS_DESC_PCM996_MODERNIZATION_SLOT_DUMMY"
-msgstr "Эффекты тестовой модернизации уже применены к характеристикам корабля, установка или демонтаж не повлечёт изменений. Вы не можете устанавливать другие модернизации в этот слот."
+msgstr "The effects of the test modernization have already been applied to the ship's characteristics; installation or removal will not result in changes. You cannot install other modernizations in this slot."
 
 msgid "IDS_DESTROYED_BY_MINES"
-msgstr "Минами"
+msgstr "Mines"
 
 msgid "IDS_DESTROYED_BY_MINES_TOOLTIP"
-msgstr "Общее количество кораблей противника, уничтоженных минами"
+msgstr "Total enemy ships destroyed by mines"
 
 msgid "IDS_DISABLE_COMMANDERS_MANAGEMENT"
-msgstr "У команд есть командиры"
+msgstr "Teams have commanders assigned"
 
 msgid "IDS_DISABLE_COMMANDERS_MANAGEMENT_TOOLTIP"
-msgstr "В каждую команду назначается командир, который может управлять игроками своей команды"
+msgstr "Each team is assigned a commander who can manage the players on their team"
 
 msgid "IDS_DISABLE_VIEW_SHIP_INFO"
-msgstr "Скрыть оснащение противника"
+msgstr "Hide enemy loadout"
 
 msgid "IDS_DISABLE_VIEW_SHIP_INFO_TOOLTIP"
-msgstr "Информация об оснащении кораблей противника в бою скрыта, даже если они были обнаружены"
+msgstr "Information about the enemy ship's loadout is hidden in battle, even if they have been spotted"
 
 msgid "IDS_DISCIPLINES"
-msgstr "Испытания"
+msgstr "Challenges"
 
 msgid "IDS_DISCIPLINE_CITADELS"
-msgstr "МЕТКОСТЬ СТРЕЛЬБЫ"
+msgstr "MARKSMANSHIP"
 
 msgid "IDS_DISCIPLINE_CITADELS_DESCRIPTION"
-msgstr "Попадайте в цитадели"
+msgstr "Hit citadels"
 
 msgid "IDS_DISCIPLINE_CITADELS_FULL_DESCRIPTION"
-msgstr "Попадите в цитадель кораблей-целей как можно больше раз"
+msgstr "Hit the citadel of target ships as many times as possible"
 
 msgid "IDS_DISCIPLINE_DAMAGE"
-msgstr "ОГНЕВАЯ МОЩЬ"
+msgstr "FIREPOWER"
 
 msgid "IDS_DISCIPLINE_DAMAGE_DESCRIPTION"
-msgstr "Наносите урон"
+msgstr "Deal damage"
 
 msgid "IDS_DISCIPLINE_DAMAGE_FULL_DESCRIPTION"
-msgstr "Нанесите как можно больше урона кораблям-целям"
+msgstr "Deal as much damage as possible to target ships"
 
 msgid "IDS_DISCIPLINE_FRAGS"
-msgstr "ЛИКВИДАЦИЯ ЦЕЛЕЙ"
+msgstr "TARGET ELIMINATION"
 
 msgid "IDS_DISCIPLINE_FRAGS_DESCRIPTION"
-msgstr "Уничтожайте корабли"
+msgstr "Destroy ships"
 
 msgid "IDS_DISCIPLINE_FRAGS_FULL_DESCRIPTION"
-msgstr "Уничтожьте как можно больше кораблей-целей"
+msgstr "Destroy as many target ships as possible"
 
 msgid "IDS_DISCIPLINE_REGATTA"
-msgstr "СКОРОСТНЫЕ МАНЁВРЫ"
+msgstr "SPEED MANEUVERS"
 
 msgid "IDS_DISCIPLINE_REGATTA_DESCRIPTION"
-msgstr "Проходите маршрут"
+msgstr "Follow the course"
 
 msgid "IDS_DISCIPLINE_REGATTA_FULL_DESCRIPTION"
-msgstr "Наберите как можно больше очков, проходя участки маршрута"
+msgstr "Score as many points as possible by completing sections of the course"
 
 msgid "IDS_DISCIPLINE_SURVIVAL"
-msgstr "БОЕВАЯ СТОЙКОСТЬ"
+msgstr "COMBAT ENDURANCE"
 
 msgid "IDS_DISCIPLINE_SURVIVAL_DESCRIPTION"
-msgstr "Сохраняйте боеспособность"
+msgstr "Maintain combat capability"
 
 msgid "IDS_DISCIPLINE_SURVIVAL_FULL_DESCRIPTION"
-msgstr "Сохраняйте боеспособность корабля, уклоняясь от атак противника"
+msgstr "Maintain the ship's combat capability by dodging enemy attacks"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_DEPTHCHARGE"
 msgstr ""
-"Проводит бомбардировку отмеченной области глубинными бомбами.\n"
+"Conducts a bombardment of the designated area with depth charges.\n"
 "\n"
-"Глубинные бомбы поражают подводные лодки противника, имеют вероятность поджога, затопления и вывода модулей из строя.\n"
-"Имеют повышенную вероятность вывода сонара из строя."
+"Depth charges hit enemy submarines, have a chance to cause fire, flooding, and disable modules.\n"
+"They have an increased chance to disable sonar."
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_DEPTHCHARGE_AUTO"
 msgstr ""
-"Автоматически проводит бомбардировку глубинными бомбами области предполагаемого нахождения подводной лодки, если она выдаёт своё расположение.\n"
+"Automatically conducts a bombardment with depth charges on the area where the submarine is likely located if it reveals its position.\n"
 "\n"
-"Глубинные бомбы поражают подводные лодки противника, имеют вероятность поджога, затопления и вывода модулей из строя."
+"Depth charges hit enemy submarines, have a chance to cause fire, flooding, and disable modules."
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_DEPTHCHARGE"
 msgstr ""
-"Поражают подводные лодки противника.\n"
-"Имеют вероятность поджога, затопления и вывода модулей из строя. Имеют повышенную вероятность вывода сонара из строя."
+"Hits enemy submarines.\n"
+"Has a chance to cause fire, flooding, and disable modules. Has an increased chance to disable sonar."
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_DIVE_HE"
 msgstr ""
-"Атакуют цель серией мощных\n"
-"осколочно-фугасных бомб.\n"
-"Высокий шанс поджога."
+"Attacks the target with a series of powerful\n"
+"high-explosive bombs.\n"
+"High chance of causing fire."
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_MINE_SEAMINE"
-msgstr "Устанавливают минное заграждение в отмеченной области. Мины наносят значительный потенциальный урон, имеют высокую вероятность вызова затопления и вывода модулей из строя."
+msgstr "Lays a minefield in the designated area. Mines deal significant potential damage, have a high chance of causing flooding, and disable modules."
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_MINE_SEAMINE_ALT"
-msgstr "Устанавливают минное заграждение в отмеченной области. Мины наносят значительный потенциальный урон, имеют высокую вероятность вызова затопления и вывода модулей из строя."
+msgstr "Lays a minefield in the designated area. Mines deal significant potential damage, have a high chance of causing flooding, and disable modules."
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_SKIP_HE"
 msgstr ""
-"Атакуют цель серией мощных\n"
-"осколочно-фугасных бомб.\n"
-"Высокий шанс поджога."
+"Attacks the target with a series of powerful\n"
+"high-explosive bombs.\n"
+"High chance of causing fire."
 
 msgid "IDS_DOCK_AMMO_TITLE_MINE_SEAMINE"
-msgstr "Постановщики мин"
+msgstr "Mine Layers"
 
 msgid "IDS_DOCK_AMMO_TITLE_MINE_SEAMINE_ALT"
-msgstr "Постановщики мин"
+msgstr "Mine Layers"
 
 msgid "IDS_DOCK_BACK_TO_NATION"
-msgstr "К дереву развития"
+msgstr "To the Tech Tree"
 
 msgid "IDS_DOCK_BANNER_BATTLEPASS"
-msgstr "Боевой пропуск"
+msgstr "Battle Pass"
 
 msgid "IDS_DOCK_BANNER_BATTLEPASS_TOOLTIP_HEADER"
-msgstr "Боевой пропуск"
+msgstr "Battle Pass"
 
 msgid "IDS_DOCK_BANNER_BATTLEPASS_TOOLTIP_STATUS_0"
-msgstr "Доступно улучшение Боевого пропуска"
+msgstr "Battle Pass upgrade available"
 
 msgid "IDS_DOCK_BANNER_REPAIR_DOCK"
-msgstr "Ремонтный док"
+msgstr "Repair Dock"
 
 msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_READY_SHIPS"
-msgstr "Готовые к ремонту корабли"
+msgstr "Ships ready for repair"
 
 msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_STATUS"
-msgstr "Вы можете отремонтировать корабль"
+msgstr "You can repair a ship"
 
 msgid "IDS_DOCK_BANNER_REPAIR_DOCK_TOOLTIP_TOTAL_SHIPS"
-msgstr "Требующие ремонта корабли"
+msgstr "Ships requiring repair"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY007_SPEEDBOOSTER"
-msgstr "Увеличивает максимальную скорость корабля, уменьшает время разгона и торможения."
+msgstr "Increases the ship's maximum speed, reduces acceleration and deceleration time."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY013_SPOTTERACCURACY"
 msgstr ""
-"Увеличивает дальность и точность стрельбы главного калибра.\n"
+"Increases the main battery firing range and accuracy.\n"
 "\n"
-"Короткое время работы."
+"Short action time."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY015_SPEEDBOOSTERPREMIUM"
-msgstr "Увеличивает максимальную скорость корабля, уменьшает время разгона и торможения."
+msgstr "Increases the ship's maximum speed, reduces acceleration and deceleration time."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY015_SPEEDBOOSTER_IMP_PREMIUM"
 msgstr ""
-"Значительно увеличивает максимальную скорость корабля, уменьшает время разгона и торможения.\n"
+"Significantly increases the ship's maximum speed, reduces acceleration and deceleration time.\n"
 "\n"
-"Короткое время работы снаряжения."
+"Short consumable action time."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY016_SONARSEARCHPREMIUM"
-msgstr "Увеличивает дистанцию гарантированного обнаружения кораблей, торпед и мин, в том числе в зоне дымовой завесы."
+msgstr "Increases the assured detection range of ships, torpedoes, and mines, including within smoke screens."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY016_SONARSEARCH_SHORT_PREMIUM"
 msgstr ""
-"Увеличивает дистанцию гарантированного обнаружения кораблей, торпед и мин, в том числе в зоне дымовой завесы.\n"
+"Increases the assured detection range of ships, torpedoes, and mines, including within smoke screens.\n"
 "\n"
-"Короткая дистанция обнаружения кораблей."
+"Short ship detection range."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY029_SPEEDBOOSTERSUPER"
-msgstr "Увеличивает максимальную скорость корабля, уменьшает время разгона и торможения."
+msgstr "Increases the ship's maximum speed, reduces acceleration and deceleration time."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY035_CALLFIGHTERS_UPGRADE"
 msgstr ""
-"Патрулируют область и автоматически атакуют самолёты противника. Неуязвимы для истребителей противника.\n"
+"Patrols the area and automatically attacks enemy aircraft. Invulnerable to enemy fighters.\n"
 "\n"
-"Не обнаруживают корабли противника."
+"Does not detect enemy ships."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY045_HYDROPHONE"
-msgstr "В подводном положении показывает рельеф, а также позиции кораблей и подводных лодок, находящихся в надводном положении или на перископной глубине."
+msgstr "In a submerged state, displays the terrain and positions of ships and submarines that are on the surface or at periscope depth."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY004_HEALAURA"
 msgstr ""
-"Создаёт вокруг корабля ремонтную зону радиусом 750 м, восстанавливающую боеспособность союзным кораблям. Чем больше кораблей в зоне, тем быстрее восстанавливается боеспособность.\n"
+"Creates a repair zone around the ship with a radius of 750 m, restoring HP to allied ships. The more ships in the zone, the faster HP is restored.\n"
 "\n"
-"Радиус зоны удваивается при нанесении 50 000, 100 000, 200 000 и 400 000 ед. урона."
+"The zone's radius doubles when dealing 50,000, 100,000, 200,000, and 400,000 damage."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY005_HEALALL"
 msgstr ""
-"Ежесекундно восстанавливает всем союзным кораблям 250 единиц боеспособности.\n"
+"Restores 250 HP per second to all allied ships.\n"
 "\n"
-"Эффективность удваивается при нанесении 50 000, 100 000, 200 000 и 400 000 ед. урона."
+"Efficiency doubles when dealing 50,000, 100,000, 200,000, and 400,000 damage."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY007_SPEEDBOOSTER"
 msgstr ""
-"Увеличивает максимальную скорость и восстанавливает 25 очков боеспособности в секунду.\n"
+"Increases maximum speed and restores 25 HP per second.\n"
 "\n"
-"Эффективность восстановления очков боеспособности удваивается при нанесении 50 000, 100 000, 200 000 и 400 000 ед. урона."
+"HP restoration efficiency doubles when dealing 50,000, 100,000, 200,000, and 400,000 damage."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY008_HOLYWEAPON"
 msgstr ""
-"Ускоряет перезарядку ГК. Восстанавливает боеспособность корабля в размере 25% от нанесённого урона.\n"
+"Accelerates main battery reload time. Restores the ship's HP equal to 25% of the damage dealt.\n"
 "\n"
-"Процент восстановления удваивается при нанесении 50 000, 100 000, 200 000 и 400 000 ед. урона."
+"The restoration percentage doubles when dealing 50,000, 100,000, 200,000, and 400,000 damage."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY015_SPEEDBOOSTERH18"
-msgstr "Увеличивает максимальную скорость корабля, уменьшает время разгона и торможения."
+msgstr "Increases the ship's maximum speed, reduces acceleration and deceleration time."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY025_SONARSEARCH"
 msgstr ""
-"Увеличивает дистанцию гарантированного обнаружения кораблей и торпед, в том числе в зоне дымовой завесы.\n"
+"Increases the assured detection range of ships and torpedoes, including within smoke screens.\n"
 "\n"
-"Короткая дистанция обнаружения кораблей."
+"Short ship detection range."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY027_SPEEDBOOSTER"
-msgstr "Увеличивает максимальную скорость корабля, уменьшает время разгона и торможения."
+msgstr "Increases the ship's maximum speed, reduces acceleration and deceleration time."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY104_HEALAURAPREMIUM"
 msgstr ""
-"Создаёт вокруг корабля ремонтную зону радиусом 750 м, восстанавливающую боеспособность союзным кораблям. Чем больше кораблей в зоне, тем быстрее восстанавливается боеспособность.\n"
+"Creates a repair zone around the ship with a radius of 750 m, restoring HP to allied ships. The more ships in the zone, the faster HP is restored.\n"
 "\n"
-"Радиус зоны удваивается при нанесении 50 000, 100 000, 200 000 и 400 000 ед. урона."
+"The zone's radius doubles when dealing 50,000, 100,000, 200,000, and 400,000 damage."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY105_HEALALLPREMIUM"
 msgstr ""
-"Ежесекундно восстанавливает всем союзным кораблям 250 единиц боеспособности.\n"
+"Restores 250 HP per second to all allied ships.\n"
 "\n"
-"Эффективность удваивается при нанесении 50 000, 100 000, 200 000 и 400 000 ед. урона."
+"Efficiency doubles when dealing 50,000, 100,000, 200,000, and 400,000 damage."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY107_SPEEDBOOSTERPREMIUM"
 msgstr ""
-"Увеличивает максимальную скорость. В скверне восстанавливает 25 единиц боеспособности в секунду.\n"
+"Increases maximum speed. In the Filth, restores 25 HP per second.\n"
 "\n"
-"Эффективность восстановления удваивается при нанесении 50 000, 100 000, 200 000 и 400 000 ед. урона."
+"HP restoration efficiency doubles when dealing 50,000, 100,000, 200,000, and 400,000 damage."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY108_HOLYWEAPONPREMIUM"
 msgstr ""
-"Ускоряет перезарядку ГК. Восстанавливает боеспособность корабля в размере 25% от нанесённого урона.\n"
+"Accelerates main battery reload time. Restores the ship's HP equal to 25% of the damage dealt.\n"
 "\n"
-"Процент восстановления удваивается при нанесении 50 000, 100 000, 200 000 и 400 000 ед. урона."
+"The restoration percentage doubles when dealing 50,000, 100,000, 200,000, and 400,000 damage."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY403_SPEEDBOOSTER_H2020"
-msgstr "Увеличивает максимальную скорость корабля, уменьшает время разгона и торможения."
+msgstr "Increases the ship's maximum speed, reduces acceleration and deceleration time."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY415_BUFFSSHIFT_ENGINEBOOST"
-msgstr "Увеличивает максимальную скорость корабля, уменьшает время разгона и торможения."
+msgstr "Increases the ship's maximum speed, reduces acceleration and deceleration time."
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY013_SPOTTERACCURACY"
-msgstr "Корректировщик огня с высокоточной оптикой"
+msgstr "High-Precision Spotter"
 
 msgid "IDS_DOCK_FIRE_MODE_DESCRIPTION_DRUM"
-msgstr "Позволяет произвести несколько залпов из орудий главного калибра без перезарядки с коротким минимальным интервалом. После каждой серии залпов требуется долгая перезарядка."
+msgstr "Allows multiple salvos from the main battery without reloading, with a short minimum interval. After each series of salvos, a long reload is required."
 
 msgid "IDS_DOCK_FIRE_MODE_TITLE_DRUM"
-msgstr "Серия залпов"
+msgstr "Drum Salvo"
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_ATBA_HITS"
-msgstr "Оперативные ремонтные мероприятия"
+msgstr "Emergency Repair Measures"
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_POTENTIAL_DAMAGE"
-msgstr "Оперативная подготовка эскадрилий"
+msgstr "Operational Squadron Preparation"
 
 msgid "IDS_DOCK_SQUADRON_AMMO_DESCRIPTION_MINE"
-msgstr "Мины взрываются при контакте с кораблями. Наносят значительный потенциальный урон, имеют высокую вероятность вызова затопления и вывода модулей из строя."
+msgstr "Mines detonate on contact with ships. They deal significant potential damage, have a high chance of causing flooding, and disable modules."
 
 msgid "IDS_DOCK_SQUADRON_AMMO_TITLE_MINE"
-msgstr "Минное заграждение"
+msgstr "Minefield"
 
 msgid "IDS_DOGTAGS_BGBORDERCOLOR_GROUP_BASIC"
-msgstr "Базовые"
+msgstr "Basic"
 
 msgid "IDS_DOGTAGS_BGCOLOR_GROUP_BASIC"
-msgstr "Базовые"
+msgstr "Basic"
 
 msgid "IDS_DOGTAGS_BGMATERIAL_GROUP_BASIC"
-msgstr "Базовые"
+msgstr "Basic"
 
 msgid "IDS_DOGTAGS_BGSHAPE_GROUP_BASIC_COLORIZABLE"
-msgstr "Перекрашиваемые базовые"
+msgstr "Recolorable Basic"
 
 msgid "IDS_DOGTAGS_BGSHAPE_GROUP_UNIQUE"
-msgstr "Уникальные"
+msgstr "Unique"
 
 msgid "IDS_DOGTAGS_EMBLEM_GROUP_TOURNAMENTS"
-msgstr "Турниры"
+msgstr "Tournaments"
 
 msgid "IDS_DOGTAGS_EMBLEM_SPECIAL_SUBGROUP_MODMAKER"
-msgstr "Мододел"
+msgstr "Modder"
 
 msgid "IDS_DOGTAGS_EMBLEM_TOURNAMENTS_SUBGROUP_KING_OF_THE_SEA"
-msgstr "King of the Sea"
-
-msgid "IDS_DOGTAGS_EMBLEM_TOURNAMENTS_SUBGROUP_PRORUV"
-msgstr "Прорыв"
-
-msgid "IDS_DOGTAGS_EMBLEM_TOURNAMENTS_SUBGROUP_TSAR_MOREY"
-msgstr "Царь морей"
+msgstr "King of the Seas"
 
 msgid "IDS_DOGTAG_PARAM_COUNTSHIPS"
-msgstr "Количество кораблей:"
+msgstr "Number of ships:"
 
 msgid "IDS_DOGTAG_PCNA010_NAME"
 msgstr "Lesta Games"
 
 msgid "IDS_DOGTAG_PCNA011_NAME"
-msgstr "Зимняя сказка"
+msgstr "Winter Tale"
 
 msgid "IDS_DOGTAG_PCNA012_NAME"
-msgstr "Красный геральдический щит"
+msgstr "Red Heraldic Shield"
 
 msgid "IDS_DOGTAG_PCNA052_NAME"
-msgstr "5 лет в Steam"
+msgstr "5 Years on Steam"
 
 msgid "IDS_DOGTAG_PCNB008_DESCRIPTION"
 msgstr ""
-"Еноты — млекопитающие, которые происходят из Северной Америки. В мифологии коренного населения енот зачастую выступают в роли трикстера, а из-за окраса морды, напоминающего боевой грим, это животное наделяли сверхъестественными силами.\n"
+"Raccoons are mammals native to North America. In the mythology of indigenous peoples, raccoons often play the role of a trickster, and because of the mask-like markings on their face, reminiscent of war paint, this animal was believed to possess supernatural powers.\n"
 "\n"
-"В честь события «Шутки природы»."
+"In honor of the 'Nature's Joke' event."
 
 msgid "IDS_DOGTAG_PCNB008_NAME"
-msgstr "Енот"
+msgstr "Raccoon"
 
 msgid "IDS_DOGTAG_PCNB043_DESCRIPTION"
-msgstr "Вместе с дубиной, ножом и топором копьё — один из первых и важнейших инструментов, созданных человеком. Копьё использовалось на протяжении всей истории для охоты и рыбалки. В качестве оружия оно использовалось практически во всех конфликтах в истории вплоть до современности, при этом даже сегодня оно сохраняется в виде штыка на ружьях."
+msgstr "Alongside the club, knife, and axe, the spear is one of the earliest and most important tools created by humans. The spear was used throughout history for hunting and fishing, and as a weapon, it was employed in nearly all conflicts up to modern times, even surviving today in the form of a bayonet on rifles."
 
 msgid "IDS_DOGTAG_PCNB043_NAME"
-msgstr "Копья"
+msgstr "Spears"
 
 msgid "IDS_DOGTAG_PCNB057_DESCRIPTION"
-msgstr "Револьвером называется многозарядное короткоствольное оружие с вращающимся барабаном, состоящим из нескольких камор, в каждой из которых располагается один патрон. Незаменимый атрибут Дикого Запада, револьвер потерял популярность, проиграв более удобным самозарядным пистолетам, но до сих пор используется в спорте и охоте."
+msgstr "A revolver is a multi-shot, short-barreled firearm with a rotating cylinder containing several chambers, each holding one cartridge. An indispensable attribute of the Wild West, the revolver lost popularity to more convenient semi-automatic pistols, but it is still used in sports and hunting today."
 
 msgid "IDS_DOGTAG_PCNB057_NAME"
-msgstr "Револьвер"
+msgstr "Revolver"
 
 msgid "IDS_DOGTAG_PCNB059_DESCRIPTION"
-msgstr "Стрельба по-македонски — одновременное использование двух огнестрельных орудий, по одному в каждой руке. Хотя такой метод ведения огня получил распространение в массовой культуре, он считается неэффективным и на практике обычно не применяется."
+msgstr "Macedonian shooting—simultaneously using two firearms, one in each hand. While this method of shooting is popular in mass culture, it is considered ineffective and is rarely used in practice."
 
 msgid "IDS_DOGTAG_PCNB059_NAME"
-msgstr "Два ствола"
+msgstr "Dual Wield"
 
 msgid "IDS_DOGTAG_PCNB063_DESCRIPTION"
-msgstr "Лук и стрелы широко применялись человеком с древнейших времён до раннего Нового времени, но начали терять актуальность с развитием более мощного и точного огнестрельного оружия. Сегодня лук используют в основном для охоты и в спорте."
+msgstr "Bows and arrows were widely used by humans from ancient times until the early modern period but began to lose relevance with the development of more powerful and accurate firearms. Today, the bow is primarily used for hunting and sport."
 
 msgid "IDS_DOGTAG_PCNB063_NAME"
-msgstr "Лук"
+msgstr "Bow"
 
 msgid "IDS_DOGTAG_PCNB067_DESCRIPTION"
-msgstr "Боевой молот получил наибольшее распространение в позднее Средневековье, когда современная броня стала насколько прочной, что пробить её мечами и топорами было довольно сложно — оружие рикошетировало от доспехов. Молот же мог нанести значительный урон противнику благодаря ударной силе, не пробивая броню."
+msgstr "The war hammer became most widespread in the late Middle Ages when armor became so robust that swords and axes could hardly penetrate it—these weapons would often ricochet off the armor. The hammer, however, could deliver significant damage to the opponent due to its impact force without breaking through the armor."
 
 msgid "IDS_DOGTAG_PCNB067_NAME"
-msgstr "Молот"
+msgstr "War Hammer"
 
 msgid "IDS_DOGTAG_PCNB078_DESCRIPTION"
-msgstr "Спасибо за ваш вклад в развитие сообщества!"
+msgstr "Thank you for your contribution to the community!"
 
 msgid "IDS_DOGTAG_PCNB078_NAME"
-msgstr "Контрибьютор"
+msgstr "Contributor"
 
 msgid "IDS_DOGTAG_PCNB080_DESCRIPTION"
 msgstr ""
-"Адмирал Уильям Хэлси стал одним из тех, кто обеспечил победу союзников в войне на Тихом океане.\n"
+"Admiral William Halsey was one of those who ensured the Allies' victory in the war in the Pacific.\n"
 "\n"
-"Памятный символ за выполнение кампании «Бей сильно! Бей быстро! Бей часто!»."
+"A commemorative symbol for completing the 'Hit Hard! Hit Fast! Hit Often!' campaign."
 
 msgid "IDS_DOGTAG_PCNB080_NAME"
-msgstr "Адмирал Хэлси"
+msgstr "Admiral Halsey"
 
 msgid "IDS_DOGTAG_PCNB086_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB086_NAME"
-msgstr "Англия"
+msgstr "England"
 
 msgid "IDS_DOGTAG_PCNB087_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB087_NAME"
-msgstr "Россия"
+msgstr "Russia"
 
 msgid "IDS_DOGTAG_PCNB088_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB088_NAME"
-msgstr "Франция"
+msgstr "France"
 
 msgid "IDS_DOGTAG_PCNB089_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB089_NAME"
-msgstr "Испания"
+msgstr "Spain"
 
 msgid "IDS_DOGTAG_PCNB090_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB090_NAME"
-msgstr "Колумбия"
+msgstr "Colombia"
 
 msgid "IDS_DOGTAG_PCNB091_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB091_NAME"
-msgstr "Бразилия"
+msgstr "Brazil"
 
 msgid "IDS_DOGTAG_PCNB092_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB092_NAME"
-msgstr "Панама"
+msgstr "Panama"
 
 msgid "IDS_DOGTAG_PCNB093_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB093_NAME"
-msgstr "Япония"
+msgstr "Japan"
 
 msgid "IDS_DOGTAG_PCNB094_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB094_NAME"
-msgstr "Республика Корея"
+msgstr "Republic of Korea"
 
 msgid "IDS_DOGTAG_PCNB095_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB095_NAME"
-msgstr "Хорватия"
+msgstr "Croatia"
 
 msgid "IDS_DOGTAG_PCNB096_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB096_NAME"
-msgstr "Германия"
+msgstr "Germany"
 
 msgid "IDS_DOGTAG_PCNB097_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB097_NAME"
-msgstr "Марокко"
+msgstr "Morocco"
 
 msgid "IDS_DOGTAG_PCNB098_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB098_NAME"
-msgstr "Тунис"
+msgstr "Tunisia"
 
 msgid "IDS_DOGTAG_PCNB099_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB099_NAME"
-msgstr "Уругвай"
+msgstr "Uruguay"
 
 msgid "IDS_DOGTAG_PCNB100_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB100_NAME"
-msgstr "Египет"
+msgstr "Egypt"
 
 msgid "IDS_DOGTAG_PCNB101_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB101_NAME"
-msgstr "Нигерия"
+msgstr "Argentina"
 
 msgid "IDS_DOGTAG_PCNB102_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB102_NAME"
-msgstr "Мексика"
+msgstr "Australia"
 
 msgid "IDS_DOGTAG_PCNB103_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB103_NAME"
-msgstr "Сенегал"
+msgstr "Mexico"
 
 msgid "IDS_DOGTAG_PCNB104_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB104_NAME"
 msgstr "Сербия"
@@ -4972,52 +4966,52 @@ msgid "IDS_MSKIN_NOT_LINKED"
 msgstr "Не привязан. После привязки камуфляжа его нельзя будет установить на другой корабль."
 
 msgid "IDS_NAME11"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAME12"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAME13"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAME14"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAME21"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAME22"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAME23"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAME24"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAME31"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAME32"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAME33"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAME34"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAMEA1"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAMEA2"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAMEA3"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NAMEA4"
-msgstr "Корабль-цель"
+msgstr "Target"
 
 msgid "IDS_NATION_COMPLEXITY_DESCTIPTION_1"
 msgstr "Корабли этой нации наиболее просты в освоении."
