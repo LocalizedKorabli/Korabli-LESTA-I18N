@@ -5520,82 +5520,82 @@ msgid "IDS_PAES513_LYNCH_MIAMI"
 msgstr "Sunrise"
 
 msgid "IDS_PAGM080_16IN50_MK7"
-msgstr "406-мм/50 Mk.7 в башенной установке"
+msgstr "406 mm/50 Mk.7 in a turret mount"
 
 msgid "IDS_PAGM228_5IN_51_MK14_TWIN_TURRET"
-msgstr "127-мм/51 Mk.14 в спаренной установке"
+msgstr "127 mm/51 Mk.14 in a twin mount"
 
 msgid "IDS_PAGM229_5IN_70_MK44_TWIN"
-msgstr "127-мм/70 Mk.44 в башенной установке"
+msgstr "127 mm/70 Mk.44 in a turret mount"
 
 msgid "IDS_PAGT230_21IN_MK14_SIX_TUBES"
-msgstr "533-мм 6-трубный"
+msgstr "533 mm 6-tube"
 
 msgid "IDS_PAPA029_SHELL_152MM_AP_SC_MK_27_MOD_2"
-msgstr "152-мм AP/SC Mk27 mod. 2"
+msgstr "152 mm AP/SC Mk27 mod. 2"
 
 msgid "IDS_PAPA030_SHELL_152MM_HE_HC_MARK_34_MOD_1"
-msgstr "152-мм HE/HC Mk34 mod. 1"
+msgstr "152 mm HE/HC Mk34 mod. 1"
 
 msgid "IDS_PAPA054_SHELL_305MM_AP_AP_MK15"
-msgstr "305-мм AP Mk15 mod. 1"
+msgstr "305 mm AP Mk15 mod. 1"
 
 msgid "IDS_PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5"
-msgstr "152-мм AP/SC Mk27 mod. 5"
+msgstr "152 mm AP/SC Mk27 mod. 5"
 
 msgid "IDS_PAPA087_305MM_HE_ALASKA_MK17M1"
-msgstr "305-мм HE Mk17 mod. 1"
+msgstr "305 mm HE Mk17 mod. 1"
 
 msgid "IDS_PAPA088_305MM_AP_ALASKA_MK18M1"
-msgstr "305-мм AP Mk18 mod. 1"
+msgstr "305 mm AP Mk18 mod. 1"
 
 msgid "IDS_PAPA116_305MM_HE_P_RICO_MK17M1"
-msgstr "305-мм HE Mk17 mod. 1"
+msgstr "305 mm HE Mk17 mod. 1"
 
 msgid "IDS_PAPA117_305MM_AP_P_RICO_MK18M1"
-msgstr "305-мм AP Mk18 mod. 1"
+msgstr "305 mm AP Mk18 mod. 1"
 
 msgid "IDS_PAPA136_305MM_HE_CONGRESS"
-msgstr "305-мм HE Mk17 mod. 1"
+msgstr "305 mm HE Mk17 mod. 1"
 
 msgid "IDS_PAPA137_305MM_AP_CONGRESS"
-msgstr "305-мм AP Mk18 mod. 1"
+msgstr "305 mm AP Mk18 mod. 1"
 
 msgid "IDS_PAPA159_406MM_HE_T11"
-msgstr "406-мм HE/HC Mk13"
+msgstr "406 mm HE/HC Mk13"
 
 msgid "IDS_PAPA160_406MM_AP_T11"
-msgstr "406-мм AP Mk8"
+msgstr "406 mm AP Mk8"
 
 msgid "IDS_PAPA161_203MM_HE_N_HAMPSHIRE"
-msgstr "203-мм HE/HC Mk25"
+msgstr "203 mm HE/HC Mk25"
 
 msgid "IDS_PAPA162_203MM_AP_N_HAMPSHIRE"
-msgstr "203-мм AP Mk19"
+msgstr "203 mm AP Mk19"
 
 msgid "IDS_PAPA163_152MM_HE_CHESAPEAKE"
-msgstr "152-мм HE Mk39"
+msgstr "152 mm HE Mk39"
 
 msgid "IDS_PAPA164_152MM_AP_CHESAPEAKE"
-msgstr "152-мм AP Mk35"
+msgstr "152 mm AP Mk35"
 
 msgid "IDS_PAPA206_127MM_HE_MAYO"
-msgstr "127-мм HE Mk32"
+msgstr "127 mm HE Mk32"
 
 msgid "IDS_PAPA207_127MM_AP_MAYO"
-msgstr "127-мм AP/SC Mk38"
+msgstr "127 mm AP/SC Mk38"
 
 msgid "IDS_PAPA208_127MM_HE_MK44"
-msgstr "127-мм HE/HC Mk44"
+msgstr "127 mm HE/HC Mk44"
 
 msgid "IDS_PAPA209_127MM_AP_MK44"
-msgstr "127-мм AP Mk44"
+msgstr "127 mm AP Mk44"
 
 msgid "IDS_PAPA210_127MM_HE_HC_MK_40_FARRAND_HOGG"
-msgstr "127-мм HE/HC Mk40"
+msgstr "127 mm HE/HC Mk40"
 
 msgid "IDS_PAPA211_127MM_AP_C_MK_16_FARRAND_HOGG"
-msgstr "127-мм AP Mk16"
+msgstr "127 mm AP Mk16"
 
 msgid "IDS_PAPB101_DELAWARE_STOCK"
 msgstr "AN-M64"
@@ -5622,97 +5622,97 @@ msgid "IDS_PAPB538_HORNET_TACT"
 msgstr "AN-M64"
 
 msgid "IDS_PAPR110_MIDWAY_STOCK"
-msgstr "127-мм HVAR"
+msgstr "127 mm HVAR"
 
 msgid "IDS_PAPR118_YORKTOWN_STOCK"
 msgstr "5-inch FFAR"
 
 msgid "IDS_PAPR120_UNITED_STATES_STOCK"
-msgstr "127-мм HVAR"
+msgstr "127 mm HVAR"
 
 msgid "IDS_PAPR208_LEXINGTON_TOP"
-msgstr "127-мм HVAR"
+msgstr "127 mm HVAR"
 
 msgid "IDS_PAPR210_MIDWAY_TOP"
-msgstr "127-мм HVAR"
+msgstr "127 mm HVAR"
 
 msgid "IDS_PAPR218_YORKTOWN_TOP"
-msgstr "127-мм HVAR"
+msgstr "127 mm HVAR"
 
 msgid "IDS_PAPR510_ROOSEVELT_STOCK"
-msgstr "127-мм HVAR"
+msgstr "127 mm HVAR"
 
 msgid "IDS_PAPT001_TORPEDO_533MM_MK_15"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAPT006_BLISS_LEAVITT_MK7_MOD_5A"
-msgstr "Bliss Leavitt Mk7 mod. 5A"
+msgstr "Bliss Leavitt Mk7 mod. 5A"
 
 msgid "IDS_PAPT007_BLISS_LEAVITT_MK7_MOD_2A"
-msgstr "Bliss Leavitt Mk7 mod. 2A"
+msgstr "Bliss Leavitt Mk7 mod. 2A"
 
 msgid "IDS_PAPT018_MK_15_MOD_3"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT020_BLISS_LEAVITT_MK7_MOD_0"
-msgstr "Bliss Leavitt Mk7 mod. 0"
+msgstr "Bliss Leavitt Mk7 mod. 0"
 
 msgid "IDS_PAPT021_BLISS_LEAVITT_MARK_9_MOD_1B"
-msgstr "Bliss Leavitt Mk9 mod. 1b"
+msgstr "Bliss Leavitt Mk9 mod. 1b"
 
 msgid "IDS_PAPT022_BLISS_LEAVITT_MARK_9_MOD_1"
-msgstr "Bliss Leavitt Mk9 mod. 1"
+msgstr "Bliss Leavitt Mk9 mod. 1"
 
 msgid "IDS_PAPT024_MK_14_MOD_3"
-msgstr "Mk14 mod. 3"
+msgstr "Mk14 mod. 3"
 
 msgid "IDS_PAPT025_MK_14_MOD_0"
-msgstr "Mk14 mod. 0"
+msgstr "Mk14 mod. 0"
 
 msgid "IDS_PAPT026_MK_16_MOD_0"
-msgstr "Mk16 mod. 0"
+msgstr "Mk16 mod. 0"
 
 msgid "IDS_PAPT027_MK_16_MOD_1"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAPT028_TORPEDO_533MM_MK_15_SIMS"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAPT029_MK_15_MOD_ATLANTA"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT031_KIDD"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT033_MONAGHAN_MK15"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT034_SMITH"
-msgstr "Bliss Leavitt Mk7 mod. 0"
+msgstr "Bliss Leavitt Mk7 mod. 0"
 
 msgid "IDS_PAPT035_TST_GEARING_1"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAPT047_MK_11_CONSTELLATION"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT051_533MM_MK15_S_DIEGO"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT061_MAYO"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT062_533_MK15"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT063_HOGG"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT064_MAFFITT"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT065_FARRAND"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAPT118_YORKTOWN_STOCK"
 msgstr "Torpedo Mk.13-2"
@@ -5727,211 +5727,211 @@ msgid "IDS_PAPT912_BALAO_TEST_MZ"
 msgstr "Mk29 MIE"
 
 msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_1"
-msgstr "Камуфляжи, флаги, сигналы и расходуемые экономические бонусы будут сняты."
+msgstr "Camouflages, flags, signals, and consumable economic bonuses will be removed."
 
 msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_2"
-msgstr "Привязанные экономические комплекты и постоянные камуфляжи останутся доступны на кораблях, когда вы их снова исследуете."
+msgstr "Linked economic sets and permanent camouflages will remain available on ships when you research them again."
 
 msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_3"
-msgstr "Модернизации будут бесплатно демонтированы."
+msgstr "Upgrades will be dismantled for free."
 
 msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_4"
-msgstr "Командиры будут отправлены в Резерв."
+msgstr "Commanders will be sent to the Reserve."
 
 msgid "IDS_PARAGONS_DROP_BRANCH_COMPENSATION_INFO_BLOCK_5"
-msgstr "Опыт кораблей ветки будет переведён на корабль I уровня."
+msgstr "Ship branch experience will be transferred to a Tier I ship."
 
 msgid "IDS_PARAMS_MODIFIER_AAAURAADDITIONALBASEMAXDISTANCE"
-msgstr "Дальность стрельбы ПВО"
+msgstr "AA firing range"
 
 msgid "IDS_PARAMS_MODIFIER_AAAURARECEIVEDAMAGECOEFF"
-msgstr "Постоянный урон от ПВО"
+msgstr "Continuous AA damage"
 
 msgid "IDS_PARAMS_MODIFIER_AAMAXHP"
-msgstr "Живучесть установок ПВО"
+msgstr "AA mount survivability"
 
 msgid "IDS_PARAMS_MODIFIER_ALLCONSUMABLERELOADTIME"
-msgstr "Время подготовки и перезарядки снаряжения"
+msgstr "Consumable preparation and reload time"
 
 msgid "IDS_PARAMS_MODIFIER_ASMAXHEALTHCOEFF"
-msgstr "Боеспособность самолётов авиаудара"
+msgstr "Airstrike aircraft hit points"
 
 msgid "IDS_PARAMS_MODIFIER_ASNUMPACKSBONUS"
-msgstr "Количество доступных звеньев авиаудара"
+msgstr "Number of available airstrike squadrons"
 
 msgid "IDS_PARAMS_MODIFIER_ASRELOADTIMECOEFF"
-msgstr "Время подготовки авиаудара"
+msgstr "Airstrike preparation time"
 
 msgid "IDS_PARAMS_MODIFIER_BOOSTCOEFFFORSAGE"
-msgstr "Бонус к максимальной скорости корабля во время работы снаряжения «Форсаж»"
+msgstr "Speed boost bonus to the ship’s max speed"
 
 msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSISINTERCEPTOR"
-msgstr "[HIDDEN]Вард перестает светить корабли и не может быть атакован другим вардом"
+msgstr "[HIDDEN]Ward stops spotting ships and cannot be attacked by another ward"
 
 msgid "IDS_PARAMS_MODIFIER_CALLFIGHTERSWORKTIMECOEFF"
-msgstr "Время работы снаряжения корабля"
+msgstr "Ship’s consumable action time"
 
 msgid "IDS_PARAMS_MODIFIER_CONSUMABLESWORKTIME"
-msgstr "Время работы снаряжения"
+msgstr "Consumable action time"
 
 msgid "IDS_PARAMS_MODIFIER_DAMAGEHEALCOEF"
-msgstr "Восстановление боеспособности при нанесении урона"
+msgstr "HP recovery when dealing damage"
 
 msgid "IDS_PARAMS_MODIFIER_DCALPHADAMAGEMULTIPLIER_AIR_SUPPORT"
-msgstr "Урон глубинных бомб авиаудара"
+msgstr "Airstrike depth charge damage"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER"
-msgstr "Радиус взрыва боеприпасов по подводным лодкам"
+msgstr "Splash radius for underwater ordnance"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_BOMB"
-msgstr "Радиус взрыва ОФ-бомб по подводным лодкам"
+msgstr "HE bomb splash radius for submarines"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_HE_ROCKET"
-msgstr "Радиус взрыва ОФ-ракет по подводным лодкам"
+msgstr "HE rocket splash radius for submarines"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_MAIN"
-msgstr "Радиус взрыва ОФ- и ПББ-снарядов ГК по подводным лодкам"
+msgstr "Splash radius for main battery HE and SAP shells against submarines"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHRADIUSMULTIPLIER_SEC"
-msgstr "Радиус взрыва снарядов ПМК по подводным лодкам"
+msgstr "Splash radius for secondary battery shells against submarines"
 
 msgid "IDS_PARAMS_MODIFIER_DECREMENTCOUNT_RAGEMODE"
-msgstr "Потеря прогресса в секунду при бездействии"
+msgstr "Progress loss per second during inactivity"
 
 msgid "IDS_PARAMS_MODIFIER_DECREMENTDELAY_RAGEMODE"
-msgstr "Время бездействия до потери прогресса"
+msgstr "Inactivity time before progress loss"
 
 msgid "IDS_PARAMS_MODIFIER_DISTSEAMINE"
-msgstr "Обнаружение мин"
+msgstr "Mine detection range"
 
 msgid "IDS_PARAMS_MODIFIER_FLOODCHANCECOMMONBONUS"
-msgstr "Вероятность вызвать затопление"
+msgstr "Chance of causing flooding"
 
 msgid "IDS_PARAMS_MODIFIER_FLOODCHANCEFACTORMINE"
-msgstr "Вероятность вызвать затопление миной"
+msgstr "Chance of causing flooding with a mine"
 
 msgid "IDS_PARAMS_MODIFIER_FLOODCHANCEFACTORPLANETORPEDO"
-msgstr "Вероятность вызвать затопление авиационной торпедой"
+msgstr "Chance of causing flooding with an aerial torpedo"
 
 msgid "IDS_PARAMS_MODIFIER_FLOODCHANCEFACTORTORPEDO"
-msgstr "Вероятность вызвать затопление корабельной торпедой"
+msgstr "Chance of causing flooding with a ship torpedo"
 
 msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_AIRCARRIER"
-msgstr "Урон ПМК"
+msgstr "Secondary battery damage"
 
 msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_BATTLESHIP"
-msgstr "Урон ПМК"
+msgstr "Secondary battery damage"
 
 msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR_CRUISER"
-msgstr "Урон ПМК"
+msgstr "Secondary battery damage"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_AIRCARRIER"
-msgstr "Дальность стрельбы ПМК"
+msgstr "Secondary battery firing range"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_BATTLESHIP"
-msgstr "Дальность стрельбы ПМК"
+msgstr "Secondary battery firing range"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_CRUISER"
-msgstr "Дальность стрельбы ПМК"
+msgstr "Secondary battery firing range"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_DESTROYER"
-msgstr "Дальность стрельбы ПМК"
+msgstr "Secondary battery firing range"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXDIST_SUBMARINE"
-msgstr "Дальность стрельбы ПМК"
+msgstr "Secondary battery firing range"
 
 msgid "IDS_PARAMS_MODIFIER_GSMAXHP"
-msgstr "Живучесть установок ПМК"
+msgstr "Secondary battery mount survivability"
 
 msgid "IDS_PARAMS_MODIFIER_HEALTHPERLEVEL_CRUISER"
-msgstr "Очки боеспособности за каждый уровень корабля"
+msgstr "Hit points per ship tier"
 
 msgid "IDS_PARAMS_MODIFIER_HEALTHPERLEVEL_DESTROYER"
-msgstr "Очки боеспособности за каждый уровень корабля"
+msgstr "Hit points per ship tier"
 
 msgid "IDS_PARAMS_MODIFIER_HEALTHREGEN"
-msgstr "Боеспособность корабля в секунду"
+msgstr "Ship hit points per second"
 
 msgid "IDS_PARAMS_MODIFIER_HEALTHREGENPERCENT"
-msgstr "Боеспособность корабля в секунду"
+msgstr "Ship hit points per second"
 
 msgid "IDS_PARAMS_MODIFIER_HYDROPHONEUPDATEFREQUENCY"
-msgstr "Интервал между пусками волны"
+msgstr "Wave emission interval"
 
 msgid "IDS_PARAMS_MODIFIER_HYDROPHONEUPDATEFREQUENCYCOEFF"
-msgstr "Интервал между пусками волны"
+msgstr "Wave emission interval"
 
 msgid "IDS_PARAMS_MODIFIER_INVULNERABLE"
-msgstr "Корабль неуязвим для всех видов урона"
+msgstr "Ship is invulnerable to all types of damage"
 
 msgid "IDS_PARAMS_MODIFIER_LASTCHANCERELOADCOEFFICIENT_AIRSUPPORT"
-msgstr "Время подготовки авиаудара"
+msgstr "Airstrike preparation time"
 
 msgid "IDS_PARAMS_MODIFIER_MINEBOMBERHEALTH"
-msgstr "Боеспособность постановщиков мин"
+msgstr "Mine bomber hit points"
 
 msgid "IDS_PARAMS_MODIFIER_MINEDETECTIONCOEFFICIENT"
-msgstr "Дальность обнаружения мин"
+msgstr "Mine detection range"
 
 msgid "IDS_PARAMS_MODIFIER_MINEFIELDLIFETIMECOEFF"
-msgstr "Время действия минного заграждения"
+msgstr "Minefield duration"
 
 msgid "IDS_PARAMS_MODIFIER_PLANEBUBBLEARMORCOEFF"
-msgstr "Урон от разрывов снарядов ПВО"
+msgstr "Damage from AA bursts"
 
 msgid "IDS_PARAMS_MODIFIER_PLANECONSUMABLERELOADTIME"
-msgstr "Время перезарядки снаряжения эскадрилий"
+msgstr "Squadron consumable reload time"
 
 msgid "IDS_PARAMS_MODIFIER_PLANEHEALTHPERLEVEL"
-msgstr "Очки боеспособности самолёта за каждый уровень корабля"
+msgstr "Plane hit points per ship tier"
 
 msgid "IDS_PARAMS_MODIFIER_PLANESPREADMULTIPLIER"
-msgstr "Максимальное рассеивание боеприпасов эскадрилий"
+msgstr "Maximum squadron ordnance spread"
 
 msgid "IDS_PARAMS_MODIFIER_POTENTIALDAMAGESHIFT_RAGEMODE"
-msgstr "Количество потенциального урона для прогресса"
+msgstr "Potential damage required for progress"
 
 msgid "IDS_PARAMS_MODIFIER_PROGRESS_ATBA_HITS"
-msgstr "Прогресс за 8 попаданий снарядом ПМК"
+msgstr "Progress for 8 secondary battery shell hits"
 
 msgid "IDS_PARAMS_MODIFIER_PROGRESS_POTENTIAL_DAMAGE"
-msgstr "Прогресс за получение потенциального урона"
+msgstr "Progress for potential damage received"
 
 msgid "IDS_PARAMS_MODIFIER_RELOADTIMESHOT_BURSTFIRE"
-msgstr "Минимальный интервал между залпами"
+msgstr "Minimum interval between salvos"
 
 msgid "IDS_PARAMS_MODIFIER_SMOKEGENERATORWORKTIMECOEFF"
-msgstr "Время работы снаряжения"
+msgstr "Consumable action time"
 
 msgid "IDS_PARAMS_MODIFIER_SMOKEGENERATORWORKTIMECOEFF_SKILL"
-msgstr "Время работы снаряжения «Дымогенератор»"
+msgstr "Smoke Generator action time"
 
 msgid "IDS_PARAMS_MODIFIER_SPEEDBOOSTERSADDITIONALCONSUMABLES"
-msgstr "Количество снаряжения «Форсаж»"
+msgstr "Number of Engine Boost consumables"
 
 msgid "IDS_PARAMS_MODIFIER_SPEEDBOOSTERSWORKTIMECOEFF"
-msgstr "Время работы снаряжения «Форсаж»"
+msgstr "Engine Boost action time"
 
 msgid "IDS_PARAMS_MODIFIER_VISIBILITYBYPERISCOPEPOSTBONUS"
-msgstr "Заметность с перископной глубины"
+msgstr "Surface detection with periscope depth"
 
 msgid "IDS_PARAMS_MODIFIER_VISIBILITYBYPLANEPOSTBONUS"
-msgstr "Заметность с самолётов"
+msgstr "Air detection"
 
 msgid "IDS_PARAMS_MODIFIER_VISIBILITYBYSHIPPOSTBONUS"
-msgstr "Заметность с кораблей"
+msgstr "Surface detection"
 
 msgid "IDS_PARAMS_MODIFIER_VISIONXRAYMINEDIST"
-msgstr "Дистанция гарантированного обнаружения мин"
+msgstr "Guaranteed mine detection range"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYDBOMB"
-msgstr "Получаемый урон от глубинных бомб"
+msgstr "Damage received from depth charges"
 
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYMINE"
-msgstr "Урон, получаемый от морских мин"
+msgstr "Damage received from sea mines"
 
 msgid "IDS_PARTICIPANTS"
-msgstr "УЧАСТНИКИ"
+msgstr "PARTICIPANTS"
 
 msgid "IDS_PARTNERS_LL_OODLE"
 msgstr ""
