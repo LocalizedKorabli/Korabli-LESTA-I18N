@@ -5939,31 +5939,31 @@ msgstr ""
 "Uses Oodle Texture. Copyright (C) 2008–2024 by Epic Games Tools LLC."
 
 msgid "IDS_PASA006_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PASA012_YEAR"
-msgstr "1927 г."
+msgstr "1927"
 
 msgid "IDS_PASA104_DESCR"
-msgstr "Успех авианесущих кораблей в британском флоте вызвал отклик во флотах других стран, в том числе в американском. Угольный транспорт Jupiter был перестроен в авианосец и получил имя USS Langley. Авианосец использовался для отработки технологий и обучения пилотов морской авиации. Позже корабль был переоборудован в авиатранспорт: в этом качестве корабль принимал участие в войне на Тихом океане, перевозя самолёты ВВС США. 27 февраля 1942 г. Langley был тяжело повреждён японской авиацией и позже был потоплен кораблями своего эскорта."
+msgstr "The success of carrier ships in the British fleet resonated with other countries' fleets, including the American one. The coal transport Jupiter was converted into an aircraft carrier and named USS Langley. The carrier was used for developing technologies and training naval aviation pilots. Later, the ship was converted into an aviation transport: in this role, the ship participated in the Pacific War, transporting US Air Force planes. On February 27, 1942, Langley was heavily damaged by Japanese aviation and was later scuttled by its escort ships."
 
 msgid "IDS_PASA106_DESCR"
-msgstr "USS Ranger стал первым американским кораблём, спроектированным и построенным как авианосец. Техническое задание предполагало авианосец с гладкой палубой (надстройка вначале не планировалась) и водоизмещением не более 18 000 т. USS Ranger нёс авиагруппу, лишь немного уступающую по количеству самолётов группам более крупных предшественников. Ranger прослужил до конца войны в Атлантике, сопровождая первые полярные конвои от Америки до Исландии, а затем работая авиатранспортом для армейских частей, высаживавшихся в Африке."
+msgstr "USS Ranger became the first American ship designed and built as an aircraft carrier. The technical specifications called for a carrier with a flush deck (an initially unplanned superstructure) and a displacement of no more than 18,000 tons. USS Ranger carried an air group only slightly smaller than those of larger predecessors. Ranger served until the end of the war in the Atlantic, escorting the first polar convoys from America to Iceland, and then working as an aviation transport for army units landing in Africa."
 
 msgid "IDS_PASA108_YEAR"
-msgstr "1927 г."
+msgstr "1927"
 
 msgid "IDS_PASA110_DESCR"
-msgstr "После анализа боёв на Тихом океане в 1942 г. ВМС США начали проектировать авианосец с бронированным ангаром и полётной палубой. Требовалось обеспечить защиту от 203-мм снарядов и 610-мм торпед. USS Midway вступил в строй через восемь дней после окончания Второй мировой войны. Midway был самым большим кораблём в мире до 1955 г. В 2004 г. USS Midway занял своё место в Сан-Диего (штат Калифорния) как корабль-музей."
+msgstr "After analyzing battles in the Pacific in 1942, the US Navy began designing a carrier with an armored hangar and flight deck. It was required to provide protection against 203 mm shells and 610 mm torpedoes. USS Midway was commissioned eight days after the end of World War II. Midway was the largest ship in the world until 1955. In 2004, USS Midway took its place in San Diego, California, as a museum ship."
 
 msgid "IDS_PASA111_DESCR"
-msgstr "USS United States должен был стать головным кораблём в серии из пяти ударных авианосцев нового типа. Эти корабли должны были оперировать реактивными бомбардировщиками, для чего полётная палуба включалась в силовой набор корабля. Предполагалось, что он будет действовать в составе оперативной группы в сочетании с традиционными ударными авианосцами, которые обеспечат воздушное прикрытие оперативной группы."
+msgstr "USS United States was supposed to be the lead ship in a series of five new type of strike aircraft carriers. These ships were to operate jet bombers, with the flight deck integrated into the ship's structural frame. It was expected to operate as part of a task force in conjunction with traditional strike aircraft carriers, which would provide air cover for the task force."
 
 msgid "IDS_PASA208"
 msgstr "Yorktown"
 
 msgid "IDS_PASA208_DESCR"
-msgstr "Первая серия авианосцев ВМС США специальной постройки. При ограниченных размерах отличались большой ударной мощью, высокой скоростью хода и хорошей для своего времени ПВО."
+msgstr "The first series of purpose-built aircraft carriers for the US Navy. Despite their limited size, they were distinguished by their great striking power, high speed, and good anti-aircraft defense for their time."
 
 msgid "IDS_PASA208_FULL"
 msgstr "Yorktown"
@@ -5972,115 +5972,115 @@ msgid "IDS_PASA208_NUMBER"
 msgstr "3"
 
 msgid "IDS_PASA208_YEAR"
-msgstr "1937 г."
+msgstr "1937"
 
 msgid "IDS_PASA510"
 msgstr "F. D. Roosevelt"
 
 msgid "IDS_PASA528_DESCR"
-msgstr "В 1943 г. адмирал Э. Кинг потребовал строить по два лёгких авианосца в год для восполнения ожидаемых потерь. Проект нового корабля был основан на корпусе тяжёлого крейсера. Было построено всего два авианосца: новые не были заказаны из-за окончания войны. Первое время USS Saipan, который был слишком мал для реактивных самолётов, использовался для обучения курсантов ВМФ, учебных манёвров, а также патрульных и дипломатических миссий."
+msgstr "In 1943, Admiral E. King demanded the construction of two light aircraft carriers per year to compensate for expected losses. The new ship's design was based on the hull of a heavy cruiser. Only two carriers were built: new ones were not ordered due to the end of the war. Initially, USS Saipan, which was too small for jet aircraft, was used for training Navy cadets, training maneuvers, and for patrol and diplomatic missions."
 
 msgid "IDS_PASA598"
 msgstr "Saipan B"
 
 msgid "IDS_PASA598_DESCR"
-msgstr "В 1943 г. адмирал Э. Кинг потребовал строить по два лёгких авианосца в год для восполнения ожидаемых потерь. Проект нового корабля был основан на корпусе тяжёлого крейсера. Было построено всего два авианосца: новые не были заказаны из-за окончания войны. Первое время USS Saipan, который был слишком мал для реактивных самолётов, использовался для обучения курсантов ВМФ, учебных манёвров, а также патрульных и дипломатических миссий."
+msgstr "In 1943, Admiral E. King demanded the construction of two light aircraft carriers per year to compensate for expected losses. The new ship's design was based on the hull of a heavy cruiser. Only two carriers were built: new ones were not ordered due to the end of the war. Initially, USS Saipan, which was too small for jet aircraft, was used for training Navy cadets, training maneuvers, and for patrol and diplomatic missions."
 
 msgid "IDS_PASA598_FULL"
 msgstr "Saipan B"
 
 msgid "IDS_PASA915_DESCR"
-msgstr "Этот корабль является копией корабля Midway и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of the Midway ship and is intended for Clan battles only."
 
 msgid "IDS_PASB006_DESCR"
-msgstr "После увеличения калибра на британских дредноутах новые американские линкоры было решено вооружить десятью 356-мм орудиями. Корабли были также оснащены паровыми машинами тройного расширения. После вступления США в Первую мировую войну линкор стал флагманом 9-й дивизии линкоров, которая базировалась на Скапа-Флоу. Во Вторую мировую войну New York сопровождал конвои, участвовал в операциях в Северной Африке и на Тихоокеанском театре военных действий."
+msgstr "After the caliber increase on British dreadnoughts, it was decided to arm new American battleships with ten 356 mm guns. The ships were also equipped with triple expansion steam engines. After the US entered World War I, the battleship became the flagship of the 9th Battleship Division, which was based in Scapa Flow. During World War II, New York escorted convoys, participated in operations in North Africa, and in the Pacific theater of operations."
 
 msgid "IDS_PASB008_DESCR"
-msgstr "Представляет собой повтор конструкции типа Tennessee, но с двухорудийными 406-мм/45 установками. После вступления в строй USS Colorado вошёл в состав Линейного флота. Корабль участвовал в поддержке десанта на Тараву, оказывал огневое воздействие на Кваджалейн и Эниветок."
+msgstr "It is a repeat of the Tennessee-class design, but with twin 406 mm/45 gun mounts. After entering service, USS Colorado joined the Battle Fleet. The ship participated in the support of the Tarawa landing, provided firepower at Kwajalein and Eniwetok."
 
 msgid "IDS_PASB012_DESCR"
-msgstr "Изначально линкор разрабатывался с 356-мм орудиями, согласно договорным условиям, но позже калибр был изменён на 406 мм из-за отказа Японии от принятия ограничений. Во Вторую мировую войну USS North Carolina принял участие в Гуадалканальской кампании, сопровождал конвои, участвовал в бою у Соломоновых островов, в Гилберта-Маршалловской операции, в кампании на Марианских островах, в сражении в Филиппинском море, в десанте на Филиппины и в высадке на Окинаве. За время войны корабль получил 12 боевых звёзд."
+msgstr "Initially, the battleship was developed with 356 mm guns, according to treaty conditions, but later the caliber was changed to 406 mm due to Japan's refusal to accept restrictions. During World War II, USS North Carolina participated in the Guadalcanal campaign, escorted convoys, fought in the Solomon Islands battle, in the Gilbert-Marshall operation, in the Mariana Islands campaign, in the Philippine Sea battle, in the Philippines landing, and in the Okinawa landing. During the war, the ship earned 12 battle stars."
 
 msgid "IDS_PASB013"
 msgstr "Arkansas Beta"
 
 msgid "IDS_PASB017_DESCR"
-msgstr "Тип Montana планировался как преемник линкоров типа Iowa. Проект предполагал двенадцать 406-мм орудий в четырёх трёхорудийных башнях. Предварительные работы по проектированию начались ещё до вступления США во Вторую мировую войну. Атака на Пёрл-Харбор задержала строительство линкоров, а успех авианосцев в Коралловом море и в битве за Мидуэй привёл к тому, что ВМС США решили отказаться от типа Montana в пользу авианосцев, десантных и противолодочных кораблей."
+msgstr "The Montana-class was planned as a successor to the Iowa-class battleships. The project envisaged twelve 406 mm guns in four triple turrets. Preliminary design work began even before the US entered World War II. The attack on Pearl Harbor delayed the construction of battleships, and the success of aircraft carriers at Coral Sea and Midway led the US Navy to abandon the Montana-class in favor of aircraft carriers, amphibious, and anti-submarine ships."
 
 msgid "IDS_PASB018_DESCR"
-msgstr "В конце 1930-х гг. ВМС США вернулись к идее линкора для поддержки быстроходных авианосцев и их защиты от тяжёлых и линейных крейсеров. Снятие международных ограничений позволило создать корабль с хорошей защитой и мощным вооружением. USS Iowa принимал активное участие в Тихоокеанском театре военных действий. В 2012 г. корабль занял своё место на вечной стоянке в Сан-Педро (штат Калифорния) в качестве корабля-музея."
+msgstr "In the late 1930s, the US Navy returned to the idea of a battleship to support fast aircraft carriers and protect them from heavy and battlecruisers. The lifting of international restrictions allowed the creation of a ship with good protection and powerful armament. USS Iowa played an active role in the Pacific theater of operations. In 2012, the ship took its place in permanent mooring in San Pedro, California, as a museum ship."
 
 msgid "IDS_PASB018_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PASB108_DESCR"
-msgstr "С самого начала Первой мировой войны Генеральный совет флота хотел строить линкоры с дюжиной 406-мм орудий и со скоростью 23 уз. К лету 1918 г. был готов эскизный проект корабля, значительно превосходящего водоизмещением предыдущие типы: фактически это был увеличенный тип Colorado с трёхорудийными башнями. Строительство задержалось из-за принятой чрезвычайной программы расширения противолодочной компоненты флота, а после было совсем отменено согласно договорённостям Вашингтонской морской конференции."
+msgstr "From the very beginning of World War I, the General Board of the Navy wanted to build battleships with a dozen 406 mm guns and a speed of 23 knots. By the summer of 1918, a sketch design of a ship significantly exceeding previous types in displacement was ready: it was essentially an enlarged Colorado-class with triple turrets. Construction was delayed by the emergency expansion program of the fleet's anti-submarine component, and was later completely canceled under the Washington Naval Conference agreements."
 
 msgid "IDS_PASB109_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PASB111_YEAR"
-msgstr "1955 г."
+msgstr "1955"
 
 msgid "IDS_PASB506_DESCR"
-msgstr "USS Arizona, второй линкор типа Pennsylvania, был заложен в марте 1914 г. и вступил в строй через два года. Во время Первой мировой войны входил в состав 8-й дивизии линкоров. Позже был переведён в Тихоокеанский флот, и в 1920–30-х гг. в основном участвовал в учениях. В ходе налёта на Пёрл-Харбор получил несколько бомб, которые вызвали взрыв в погребах главного калибра, что привело к гибели корабля и более 1000 членов экипажа. На месте трагедии в 1962 г. был открыт национальный мемориал."
+msgstr "USS Arizona, the second Pennsylvania-class battleship, was laid down in March 1914 and commissioned two years later. During World War I, she was part of the 8th Battleship Division. Later, she was transferred to the Pacific Fleet and mainly participated in exercises in the 1920s and 1930s. During the Pearl Harbor raid, she was hit by several bombs, causing an explosion in her magazines, leading to the ship's sinking and the death of over 1,000 crew members. A national memorial was opened at the site of the tragedy in 1962."
 
 msgid "IDS_PASB507_FULL"
 msgstr "West Virginia '41"
 
 msgid "IDS_PASB508_DESCR"
-msgstr "Четвёртый линкор типа South Dakota, USS Alabama, был заложен в феврале 1940 г. и вступил в строй в августе 1942 г. В 1943 году был временно передан британскому Флоту метрополии для охраны полярных конвоев. Позже был отправлен в Тихий океан для участия в операциях против Японии. Alabama участвовал в кампании на Марианских островах и в Филиппинской операции, а в 1945 г. — в поддержке высадки десанта на Окинаву. В настоящее время линкор является кораблём-музеем и находится в бухте Мобил (штат Алабама)."
+msgstr "The fourth South Dakota-class battleship, USS Alabama, was laid down in February 1940 and commissioned in August 1942. In 1943, she was temporarily transferred to the British Home Fleet to escort polar convoys. Later, she was sent to the Pacific to participate in operations against Japan. Alabama took part in the Mariana Islands campaign and the Philippine operation, and in 1945, she supported the Okinawa landing. Today, the battleship is a museum ship located in Mobile Bay, Alabama."
 
 msgid "IDS_PASB509_DESCR"
-msgstr "USS Missouri, третий линкор типа Iowa, был заложен в 1941 г. и спустя три года спущен на воду. Во время Второй мировой войны он служил на Тихоокеанском театре военных действий. 2 сентября 1945 г. на линкоре был подписан акт о капитуляции Японии. В 1950–53 гг. участвовал в Корейской войне. В 1984 г. линкор модернизировали, установив управляемое ракетное оружие. В 1991 г. он участвовал в операции «Буря в пустыне». За свою службу Missouri получил 11 боевых звёзд. Ныне он является кораблём-музеем и находится в Пёрл-Харборе."
+msgstr "USS Missouri, the third Iowa-class battleship, was laid down in 1941 and launched three years later. During World War II, she served in the Pacific theater of operations. On September 2, 1945, the Japanese surrender document was signed aboard her. In 1950–53, she participated in the Korean War. In 1984, the battleship was modernized with guided missile weapons. In 1991, she took part in Operation Desert Storm. During her service, Missouri earned 11 battle stars. She is now a museum ship in Pearl Harbor."
 
 msgid "IDS_PASB509_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PASB510_DESCR"
-msgstr "Гипотетический проект вооружения линкора типа Montana восемью орудиями калибра 457 мм в четырёх башнях. Ещё в 1938 г., на фоне слухов о создании в Японии кораблей с орудиями калибра более 406 мм, в США появились проекты линкоров с 457-мм орудиями: один из них был относительно быстроходным и имел вооружение из шести орудий в трёх двухорудийных башнях. Двухорудийные башни, разработанные для этого проекта, вполне могли быть установлены на один из недостроенных линкоров типа Montana."
+msgstr "A hypothetical project to arm a Montana-class battleship with eight 457 mm guns in four turrets. As early as 1938, amidst rumors of Japan building ships with guns larger than 406 mm, the US considered battleships with 457 mm guns: one of them was relatively fast and armed with six guns in three twin turrets. The twin turrets developed for this project could have been installed on one of the unfinished Montana-class battleships."
 
 msgid "IDS_PASB517_DESCR"
-msgstr "После подписания Вашингтонского военно-морского соглашения наступили «линкорные каникулы». ВМС США провели подготовку к строительству кораблей этого класса ближе к окончанию этого периода. В 1935 г. были представлены предварительные эскизы, из которых только вооружение варианта А находилось в рамках ограничений, наложенных Лондонским морским договором 1936 г. Разработка продолжилась на базе проекта с двенадцатью орудиями калибра 356 мм в трёх башнях. Его развитие привело к появлению линкоров типа North Carolina."
+msgstr "After the signing of the Washington Naval Treaty, the US Navy prepared for battleship construction closer to the end of this period. In 1935, preliminary sketches were presented, of which only the armament of variant A was within the limits imposed by the London Naval Treaty of 1936. The development continued based on a project with twelve 356 mm guns in three turrets. Its evolution led to the North Carolina-class battleships."
 
 msgid "IDS_PASB519_DESCR"
-msgstr "В 1937 г. через советское торговое представительство в США были проведены консультации с целью приобретения проекта линейного корабля. Советская комиссия, направленная в США, установила через командование американских ВМС контакт с фирмой Gibbs & Cox, которая разработала проект гибридного линкора-авианосца. Советская сторона признала нецелесообразность строительства такого крупного и дорогого корабля, и работа была остановлена. Если бы в США строился корабль по этому проекту, он получил бы американские вооружение и авиацию."
+msgstr "In 1937, consultations were held through the Soviet trade delegation in the US to purchase a battleship project. A Soviet commission sent to the US established contact with the Gibbs & Cox firm through the US Navy command, which developed a hybrid battleship-carrier project. The Soviet side recognized the impracticality of building such a large and expensive ship, and the work was stopped. If the ship had been built in the US, it would have received American armament and aviation."
 
 msgid "IDS_PASB527_DESCR"
-msgstr "USS West Virginia затонул в результате нападения на Пёрл-Харбор. После поднятия в 1942 г. корабль прошёл модернизацию: вместе с установкой булей и усилением бронепалуб корабль получил новую надстройку, новую батарею универсального калибра, радар. Линкор вернулся на Тихий океан к началу сражения в заливе Лейте. В ходе боя West Virginia несколько раз поразил японский линкор Yamashiro и крейсер Mogami. В 1945 г. корабль участвовал в битве при Иводзиме и в высадке на Окинаву. За время Второй мировой West Virginia получил пять боевых звёзд."
+msgstr "USS West Virginia sank as a result of the attack on Pearl Harbor. After being raised in 1942, the ship underwent modernization: in addition to the installation of bulges and strengthening of deck armor, the ship received a new superstructure, a new secondary battery, and radar. The battleship returned to the Pacific at the beginning of the Leyte Gulf battle. During the battle, West Virginia hit the Japanese battleship Yamashiro and the cruiser Mogami several times. In 1945, the ship participated in the battles of Iwo Jima and Okinawa. During World War II, West Virginia earned five battle stars."
 
 msgid "IDS_PASB528_DESCR"
-msgstr "Четвёртый линкор типа South Dakota, USS Alabama, был заложен в феврале 1940 г. и вступил в строй в августе 1942 г. В 1943 году был временно передан британскому Флоту метрополии для охраны полярных конвоев. Позже был отправлен в Тихий океан для участия в операциях против Японии. Alabama участвовал в кампании на Марианских островах и в Филиппинской операции, а в 1945 г. — в поддержке высадки десанта на Окинаву. В настоящее время линкор является кораблём-музеем и находится в бухте Мобил (штат Алабама)."
+msgstr "The fourth South Dakota-class battleship, USS Alabama, was laid down in February 1940 and commissioned in August 1942. In 1943, she was temporarily transferred to the British Home Fleet to escort polar convoys. Later, she was sent to the Pacific to participate in operations against Japan. Alabama took part in the Mariana Islands campaign and the Philippine operation, and in 1945, she supported the Okinawa landing. Today, the battleship is a museum ship located in Mobile Bay, Alabama."
 
 msgid "IDS_PASB538_DESCR"
-msgstr "В 1911 г., когда появилась информация о закладке японских кораблей типа Kongō, руководство ВМС США осознало необходимость в постройке линейного крейсера. На момент начала строительства линкоры типа Lexington были самыми крупными боевыми кораблями, когда-либо построенными в США. Их вооружение состояло из восьми 406-мм орудий в четырёх двухорудийных башнях. USS Constellation был заложен в августе 1920 г. Заказ на его постройку был аннулирован через три года, по итогам решения Вашингтонской военно-морской конференции."
+msgstr "In 1911, when information about the construction of the Japanese Kongō-class ships appeared, the US Navy leadership realized the need to build a battlecruiser. At the time of construction, the Lexington-class battleships were the largest warships ever built in the US. They were armed with eight 406 mm guns in four twin turrets. USS Constellation was laid down in August 1920. The order for its construction was canceled three years later, following the Washington Naval Conference decision."
 
 msgid "IDS_PASB539_DESCR"
-msgstr "В 1940-х гг. было проработано несколько проектов модернизации и перестройки линейных кораблей: от гибридов авианосцев до учебных артиллерийских. Одним из них была конверсия двух последних линкоров типа Iowa в корабли сопровождения авианосцев. По проекту на барбеты главного калибра должны были быть установлены башни со скорострельными 203-мм орудиями."
+msgstr "In the 1940s, several modernization and conversion projects for battleships were developed: from hybrid carriers to training artillery ships. One of them was the conversion of the last two Iowa-class battleships into carrier escort ships. The project envisaged mounting turrets with fast-firing 203 mm guns on the barbettes of the main caliber."
 
 msgid "IDS_PASB599"
 msgstr "Kearsarge B"
 
 msgid "IDS_PASB599_DESCR"
-msgstr "В 1937 г. через советское торговое представительство в США были проведены консультации с целью приобретения проекта линейного корабля. Советская комиссия, направленная в США, установила через командование американских ВМС контакт с фирмой Gibbs & Cox, которая разработала проект гибридного линкора-авианосца. Советская сторона признала нецелесообразность строительства такого крупного и дорогого корабля, и работа была остановлена. Если бы в США строился корабль по этому проекту, он получил бы американские вооружение и авиацию."
+msgstr "In 1937, consultations were held through the Soviet trade delegation in the US to purchase a battleship project. A Soviet commission sent to the US established contact with the Gibbs & Cox firm through the US Navy command, which developed a hybrid battleship-carrier project. The Soviet side recognized the impracticality of building such a large and expensive ship, and the work was stopped. If the ship had been built in the US, it would have received American armament and aviation."
 
 msgid "IDS_PASB599_FULL"
 msgstr "Kearsarge B"
 
 msgid "IDS_PASB705_DESCR"
-msgstr "Во время Первой мировой войны USS Texas, линкор типа New York, принимал участие в патрульных и конвойных миссиях в Атлантике. Во Вторую мировую войну линкор сопровождал конвои через Атлантику, принимал участие в высадке союзных войск в Северной Африке и в Нормандии, поддерживал десантные силы в сражениях за Иводзиму и Окинаву. После выведения из состава флота Texas стал кораблём-музеем в Хьюстоне (штат Техас), а затем — первым линкором, получившим статус национального исторического памятника США."
+msgstr "During World War I, USS Texas, a New York-class battleship, participated in patrol and convoy missions in the Atlantic. During World War II, the battleship escorted convoys across the Atlantic, participated in the landings in North Africa and Normandy, supported landing forces in the battles of Iwo Jima and Okinawa. After being decommissioned, Texas became a museum ship in Houston, Texas, and later the first battleship to receive National Historic Landmark status in the US."
 
 msgid "IDS_PASB707_DESCR"
-msgstr "USS California, второй линкор типа Tennessee, был заложен в 1916 г. и вступил в строй в августе 1921 г. На протяжении всей своей мирной карьеры корабль был флагманом Тихоокеанского флота США. В 1941 г. линкор затонул, получив повреждения от торпед и бомб. Годом позже корабль подняли и модернизировали, после чего он вернулся в строй и участвовал в боевых действиях в Тихом океане, включая кампанию на Марианских островах и Палау, а также Филиппинскую операцию и поддержку десанта на Окинаву."
+msgstr "USS California, the second Tennessee-class battleship, was laid down in 1916 and commissioned in August 1921. Throughout her peacetime career, the ship was the flagship of the US Pacific Fleet. In 1941, the battleship sank after being damaged by torpedoes and bombs. A year later, the ship was raised and modernized, after which she returned to service and participated in combat operations in the Pacific, including the Mariana Islands and Palau campaign, as well as the Philippine operation and the Okinawa landing."
 
 msgid "IDS_PASB708_DESCR"
-msgstr "Четвёртый линкор типа South Dakota, USS Alabama, был заложен в феврале 1940 г. и вступил в строй в августе 1942 г. В 1943 году был временно передан британскому Флоту метрополии для охраны полярных конвоев. Позже был отправлен в Тихий океан для участия в операциях против Японии. Alabama участвовал в кампании на Марианских островах и в Филиппинской операции, а в 1945 г. — в поддержке высадки десанта на Окинаву. В настоящее время линкор является кораблём-музеем и находится в бухте Мобил (штат Алабама)."
+msgstr "The fourth South Dakota-class battleship, USS Alabama, was laid down in February 1940 and commissioned in August 1942. In 1943, she was temporarily transferred to the British Home Fleet to escort polar convoys. Later, she was sent to the Pacific to participate in operations against Japan. Alabama took part in the Mariana Islands campaign and the Philippine operation, and in 1945, she supported the Okinawa landing. Today, the battleship is a museum ship located in Mobile Bay, Alabama."
 
 msgid "IDS_PASB710"
 msgstr "New Hampshire"
 
 msgid "IDS_PASB710_DESCR"
-msgstr "New Hampshire должен был стать четвёртым линкором типа Montana. С началом Второй мировой войны строительство было приостановлено, а позже было отменено. К середине войны стало понятно, что линкоры уступают роль главных сил флота авианосцам, и возникла идея перестройки линкоров в корабли сопровождения авианосцев. Одним из вариантов была установка на барбеты главного калибра башен со скорострельными 203-мм орудиями на двух линкорах типа Iowa. В случае достройки линкоров типа Montana по сходному проекту общее число 203-мм орудий достигло бы 16."
+msgstr "New Hampshire was supposed to be the fourth Montana-class battleship. With the start of World War II, construction was suspended and later canceled. By mid-war, it became clear that battleships were yielding their role as the fleet's main forces to aircraft carriers, and the idea arose to convert battleships into carrier escort ships. One option was to mount turrets with fast-firing 203 mm guns on the barbettes of two Iowa-class battleships. If the Montana-class battleships had been completed according to a similar design, the total number of 203 mm guns would have reached 16."
 
 msgid "IDS_PASB710_FULL"
 msgstr "New Hampshire"
@@ -6089,25 +6089,25 @@ msgid "IDS_PASB710_NUMBER"
 msgstr "1"
 
 msgid "IDS_PASB710_YEAR"
-msgstr "1953 г."
+msgstr "1953"
 
 msgid "IDS_PASB808_DESCR"
-msgstr "Изначально линкор разрабатывался с 356-мм орудиями, согласно договорным условиям, но позже калибр был изменён на 406 мм из-за отказа Японии от принятия ограничений. Во Вторую мировую войну USS North Carolina принял участие в Гуадалканальской кампании, сопровождал конвои, участвовал в бою у Соломоновых островов, в Гилберта-Маршалловской операции, в кампании на Марианских островах, в сражении в Филиппинском море, в десанте на Филиппины и в высадке на Окинаве. За время войны корабль получил 12 боевых звёзд."
+msgstr "Initially, the battleship was developed with 356 mm guns, according to treaty conditions, but later the caliber was changed to 406 mm due to Japan's refusal to accept restrictions. During World War II, USS North Carolina participated in the Guadalcanal campaign, escorted convoys, fought in the Solomon Islands battle, in the Gilbert-Marshall operation, in the Mariana Islands campaign, in the Philippine Sea battle, in the Philippines landing, and in the Okinawa landing. During the war, the ship earned 12 battle stars."
 
 msgid "IDS_PASB917_DESCR"
-msgstr "Этот корабль является копией корабля Montana и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of the Montana ship and is intended for Clan battles only."
 
 msgid "IDS_PASB990"
-msgstr "Vermont (ЭМ)"
+msgstr "Vermont (EM)"
 
 msgid "IDS_PASB990_DESCR"
-msgstr "Копия корабля для тестирования элитной модернизации."
+msgstr "A copy of the ship for testing elite modernization."
 
 msgid "IDS_PASB990_FULL"
-msgstr "Vermont (ЭМ)"
+msgstr "Vermont (EM)"
 
 msgid "IDS_PASB990_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PASC004"
 msgstr "St. Louis"
@@ -6116,22 +6116,22 @@ msgid "IDS_PASC004_FULL"
 msgstr "St. Louis"
 
 msgid "IDS_PASC005_DESCR"
-msgstr "Предыдущий проект крейсера-скаута был слабо вооружён, и его подвергли пересмотру. В оконечности добавили по двухорудийной установке. Чтобы уменьшить перегрузку, сняли одиночные орудия, стоявшие на миделе, и отказались и от катапульты. Впервые в практике американского флота машины и котлы были размещены эшелонированно. Во время Второй мировой крейсер служил в Атлантике, выполняя патрульно-поисковые функции и эскортируя союзные корабли, а затем принял участие в высадке в Южной Франции."
+msgstr "The previous scout cruiser design was poorly armed and was revised. A twin mount was added to each end. To reduce overload, single guns mounted amidships were removed, and the catapult was also abandoned. For the first time in the history of the US Navy, the engines and boilers were arranged in echelon. During World War II, the cruiser served in the Atlantic, performing patrol and search functions and escorting allied ships, and later participated in the landing in southern France."
 
 msgid "IDS_PASC016_YEAR"
-msgstr "1948 г."
+msgstr "1948"
 
 msgid "IDS_PASC017_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PASC019_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PASC020_YEAR"
-msgstr "1948 г."
+msgstr "1948"
 
 msgid "IDS_PASC024_DESCR"
-msgstr "С началом Первой мировой войны США оказались перед необходимостью усиления флота. Новая кораблестроительная программа включала и крейсеры — эскадренные разведчики. Одним из требований была скорость 35 уз, корпус был узким, а процент водоизмещения, выделенный на защиту, — довольно небольшим. Артиллерия главного калибра была расположена в казематах на носу и на корме, которые имели только противоосколочную защиту. Проект также включал в себя два орудия, помещённые побортно на миделе, и торпедные аппараты в лацпортах у кормового каземата."
+msgstr "With the onset of World War I, the US faced the need to strengthen the fleet. The new shipbuilding program included cruisers—squadron scouts. One of the requirements was a speed of 35 knots, the hull was narrow, and the displacement percentage allocated for protection was relatively small. The main battery guns were located in casemates at the bow and stern, which had only splinter protection. The design also included two guns placed side-by-side amidships and torpedo tubes in the aft casemate."
 
 msgid "IDS_PASC039"
 msgstr "Pensacola '30"
@@ -6140,61 +6140,61 @@ msgid "IDS_PASC039_FULL"
 msgstr "Pensacola '30"
 
 msgid "IDS_PASC044_DESCR"
-msgstr "USS Marblehead, крейсер типа Omaha, встретил начало Второй мировой войны в составе Азиатского флота. В ходе битвы в Макасарском проливе корабль получил повреждения рулевого привода. Управляясь только машинами, крейсер смог дойти до Южной Африки, откуда совершил переход в Бруклин. В 1942–44 гг. корабль служил в Южной Атлантике, летом 1944 г. сопровождал конвои. Позже перешёл в Европу, где участвовал в высадке в Южной Франции."
+msgstr "USS Marblehead, an Omaha-class cruiser, began World War II as part of the Asiatic Fleet. During the Battle of the Makassar Strait, the ship was damaged in the steering gear. Controlled only by the engines, the cruiser managed to reach South Africa, from where it made its way to Brooklyn. In 1942–44, the ship served in the South Atlantic, and in the summer of 1944 escorted convoys. Later, it moved to Europe, where it participated in the landings in southern France."
 
 msgid "IDS_PASC045_DESCR"
-msgstr "USS Marblehead, крейсер типа Omaha, встретил начало Второй мировой войны в составе Азиатского флота. В ходе битвы в Макасарском проливе корабль получил повреждения рулевого привода. Управляясь только машинами, крейсер смог дойти до Южной Африки, откуда совершил переход в Бруклин. В 1942–44 гг. корабль служил в Южной Атлантике, летом 1944 г. сопровождал конвои. Позже перешёл в Европу, где участвовал в высадке в Южной Франции."
+msgstr "USS Marblehead, an Omaha-class cruiser, began World War II as part of the Asiatic Fleet. During the Battle of the Makassar Strait, the ship was damaged in the steering gear. Controlled only by the engines, the cruiser managed to reach South Africa, from where it made its way to Brooklyn. In 1942–44, the ship served in the South Atlantic, and in the summer of 1944 escorted convoys. Later, it moved to Europe, where it participated in the landings in southern France."
 
 msgid "IDS_PASC108_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PASC111_DESCR"
-msgstr "Проект является гипотетическим развитием тяжёлых крейсеров типа Des Moines, с установкой четвёртой башни главного калибра: итоговое количество 203-мм орудий с автоматом заряжания достигло двенадцати. Значительно усилено зенитное вооружение: все 20-мм и 40-мм автоматы заменены на 76-мм спаренные автоматические орудия, а 38-калиберные 127-мм орудия — на длинноствольные 54-калиберные."
+msgstr "The project is a hypothetical development of the Des Moines-class heavy cruisers, with the installation of a fourth main battery turret: the total number of 203 mm guns with automatic loading reached twelve. Anti-aircraft armament was significantly enhanced: all 20 mm and 40 mm guns were replaced with 76 mm twin automatic guns, and the 38-caliber 127 mm guns were replaced with long-barreled 54-caliber guns."
 
 msgid "IDS_PASC208_DESCR"
-msgstr "С началом Второй мировой войны появилась возможность разработки крейсеров, не ограниченных условиями договоров. Новый проект был основан на типе Helena, но получил усиленное зенитное вооружение, лишился одной башни главного калибра, имел более широкий корпус, чтобы компенсировать возросший вес и сохранить остойчивость. USS Cleveland участвовал в высадке войск в Северной Африке, затем был переведён на Тихоокеанский театр военных действий, где принял участие во множестве сражений. За время Второй мировой войны корабль получил 13 боевых звёзд."
+msgstr "With the start of World War II, there was an opportunity to develop cruisers that were not limited by treaty conditions. The new design was based on the Helena-class, but received enhanced anti-aircraft armament, lost one main battery turret, and had a wider hull to compensate for the increased weight and maintain stability. USS Cleveland participated in the landings in North Africa, then was transferred to the Pacific theater of operations, where it took part in many battles. During World War II, the ship earned 13 battle stars."
 
 msgid "IDS_PASC209_DESCR"
-msgstr "В начале 1940-х гг. в США прорабатывались новые крейсеры, призванные выполнять задачи ПВО. Они должны были иметь 12 универсальных 152-мм орудий, скорость 33 уз и большую толщину броневой палубы для защиты от авиабомб. После начала Второй мировой войны инженеры больше не были скованы договорными ограничениями, однако при этом корабль не должен был выходить за рамки размеров лёгкого крейсера. Проект не был воплощён и послужил основой для разработок, лёгших в основу крейсеров типа Worcester."
+msgstr "In the early 1940s, new cruisers were being designed in the US, intended to perform anti-aircraft defense tasks. They were to have 12 dual-purpose 152 mm guns, a speed of 33 knots, and a thicker armored deck for protection against bombs. After the start of World War II, engineers were no longer bound by treaty restrictions, but the ship still had to stay within the size limits of a light cruiser. The project was not realized and served as the basis for designs that led to the Worcester-class cruisers."
 
 msgid "IDS_PASC210_YEAR"
-msgstr "1948 г."
+msgstr "1948"
 
 msgid "IDS_PASC505_NUMBER"
 msgstr " "
 
 msgid "IDS_PASC508_DESCR"
-msgstr "Корабль был заказан по проекту на базе компоновки крейсеров типа Brooklyn, но с 203-мм орудиями. Было увеличено расстояние между стволами, что позволило снизить разброс снарядов. А чтобы не увеличился диаметр барбетов, они были сделаны коническими, а не цилиндрическими. Во Вторую мировую войну USS Wichita принимал активное участие на Атлантическом и Тихоокеанском театрах военных действий. За время войны крейсер получил 13 боевых звёзд."
+msgstr "The ship was ordered based on the layout of the Brooklyn-class cruisers, but with 203 mm guns. The distance between the barrels was increased, reducing shell dispersion. To prevent an increase in barbette diameter, they were made conical instead of cylindrical. During World War II, USS Wichita actively participated in both the Atlantic and Pacific theaters of operations. During the war, the cruiser earned 13 battle stars."
 
 msgid "IDS_PASC510_DESCR"
-msgstr "В конце 1930-х гг. в США шло проектирование больших кораблей с главной артиллерией калибра 305 мм, призванных бороться с крейсерами. Наиболее защищённым из представленных вариантов был проект CA2G, который, как говорилось в отчёте, был защищён «хуже, чем любой линкор, но лучше, чем любой крейсер». Корабль, получивший имя USS Alaska, вошёл в состав соединения быстроходных авианосцев, действовавшего в Тихом океане."
+msgstr "In the late 1930s, the US was designing large ships with 305 mm main artillery, intended to fight cruisers. The most protected of the presented options was the CA2G project, which, according to the report, was protected \"worse than any battleship, but better than any cruiser.\" The ship, named USS Alaska, joined the fast carrier task force operating in the Pacific."
 
 msgid "IDS_PASC510_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PASC518_DESCR"
-msgstr "Тяжёлые крейсеры ВМС США исторически не были вооружены торпедными аппаратами. Это ставило их в уязвимое положение, особенно по сравнению с японскими крейсерами, которые были вооружены 610-мм торпедами. Если бы тяжёлые крейсеры проекта CA-B получили развитие, предполагающее оснащение торпедным вооружением, такой корабль мог бы получить два четырёхтрубных торпедных аппарата калибра 533 мм, расположенных побортно."
+msgstr "US Navy heavy cruisers were historically not armed with torpedo tubes. This put them in a vulnerable position, especially compared to Japanese cruisers, which were armed with 610 mm torpedoes. If the CA-B project heavy cruisers had been further developed with torpedo armament, such a ship could have received two quadruple 533 mm torpedo tubes mounted side-by-side."
 
 msgid "IDS_PASC519_DESCR"
-msgstr "Скорострельные 203-мм орудия, установленные на тяжёлые крейсера типа Des Moines, рассматривались некоторыми специалистами как альтернатива для перевооружения тяжёлых крейсеров типа Baltimore и Oregon City. Из-за малого размера барбетов предполагалось вооружить несколько строящихся кораблей двухорудийными установками. USS Tulsa должен был стать крейсером типа Oregon City."
+msgstr "The fast-firing 203 mm guns installed on the Des Moines-class heavy cruisers were considered by some experts as an alternative for rearming the Baltimore and Oregon City-class heavy cruisers. Due to the small size of the barbettes, it was proposed to arm several ships under construction with twin mounts. USS Tulsa was supposed to be an Oregon City-class cruiser."
 
 msgid "IDS_PASC538_DESCR"
-msgstr "USS Rochester, крейсер типа Oregon City, после прохождения обучения экипажа стал флагманом командующего 6-м флотом адмирала Ф. Шермана. После службы на Карибах и в Атлантике корабль был переведён на Тихий океан. Участвовал в корейской войне в качестве флагмана командующего 7-м флотом адмирала А. Страбла: поддерживал десантные операции, патрулировал побережье."
+msgstr "USS Rochester, an Oregon City-class cruiser, after crew training, became the flagship of the 6th Fleet commander, Admiral F. Sherman. After serving in the Caribbean and the Atlantic, the ship was transferred to the Pacific. She participated in the Korean War as the flagship of the 7th Fleet commander, Admiral A. Struble: she supported landing operations, patrolled the coast."
 
 msgid "IDS_PASC597_DESCR"
-msgstr "Лёгкий крейсер типа Brooklyn. Во время атаки на Пёрл-Харбор корабль находился на патрульной миссии, в ходе Второй мировой войны занимался разведкой и эскортом, участвовал в бою у мыса Эсперанс, где получил повреждения. После ремонта отправился на Средиземное море, где участвовал в десанте на Сицилию и в Таранто. Затем USS Boise вернулся на Тихий океан, где принял участие в сражениях в заливе Лейте и в проливе Суригао. За время войны крейсер получил 11 боевых звёзд. В 1951 г. корабль был продан Аргентине."
+msgstr "A Brooklyn-class light cruiser. During the attack on Pearl Harbor, the ship was on a patrol mission, and during World War II engaged in reconnaissance and escort duties, participating in the battle of Cape Esperance, where she was damaged. After repairs, she moved to the Mediterranean, where she participated in the landings in Sicily and Taranto. Later, USS Boise returned to the Pacific, where she took part in the battles of Leyte Gulf and Surigao Strait. During the war, the cruiser earned 11 battle stars. In 1951, the ship was sold to Argentina."
 
 msgid "IDS_PASC599_DESCR"
-msgstr "В конце 1930-х гг. в США шло проектирование больших кораблей с главной артиллерией калибра 305 мм, призванных бороться с крейсерами. Наиболее защищённым из представленных вариантов был проект CA2G, который, как говорилось в отчёте, был защищён «хуже, чем любой линкор, но лучше, чем любой крейсер». Корабль, получивший имя USS Alaska, вошёл в состав соединения быстроходных авианосцев, действовавшего в Тихом океане."
+msgstr "In the late 1930s, the US was designing large ships with 305 mm main artillery, intended to fight cruisers. The most protected of the presented options was the CA2G project, which, according to the report, was protected \"worse than any battleship, but better than any cruiser.\" The ship, named USS Alaska, joined the fast carrier task force operating in the Pacific."
 
 msgid "IDS_PASC599_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PASC620"
 msgstr "Chesapeake"
 
 msgid "IDS_PASC620_DESCR"
-msgstr "Гипотетическое развитие проекта крейсера ПВО, представленного Бюро по кораблестроению 18 октября 1941 г. Этот вариант предполагает замену двухорудийных универсальных установок 152-мм орудий на трёхорудийные."
+msgstr "A hypothetical development of an anti-aircraft cruiser project presented by the Bureau of Shipbuilding on October 18, 1941. This option assumes the replacement of the twin-purpose 152 mm gun mounts with triple ones."
 
 msgid "IDS_PASC620_FULL"
 msgstr "Chesapeake"
@@ -6203,36 +6203,36 @@ msgid "IDS_PASC620_NUMBER"
 msgstr "1"
 
 msgid "IDS_PASC620_YEAR"
-msgstr "1941 г."
+msgstr "1941"
 
 msgid "IDS_PASC707_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PASC710_DESCR"
-msgstr "USS Salem, крейсер типа Des Moines, в 1950–56 гг. служил в основном на Средиземноморье, регулярно выступая в качестве флагмана 6-го и 2-го флотов США. В 1956 г. снимался в роли немецкого крейсера Admiral Graf Spee в фильме «Битва у Ла-Платы». В 1994 г. крейсер был выведен из состава флота и превращён в корабль-музей в Куинси (штат Массачусетс)."
+msgstr "USS Salem, a Des Moines-class cruiser, served mainly in the Mediterranean in 1950–56, regularly acting as the flagship of the US 6th and 2nd Fleets. In 1956, she starred as the German cruiser Admiral Graf Spee in the movie \"The Battle of the River Plate.\" In 1994, the cruiser was decommissioned and converted into a museum ship in Quincy, Massachusetts."
 
 msgid "IDS_PASC718_DESCR"
 msgstr ""
-"Храбрая и энергичная, как её старшая сестра Cleveland. Любит сражения и принимает вызов даже самых сильных соперников. Неуклюжа во всём, что не относится к бою. Входит в состав Тактического соединения 18 — отряда, состоящего из её систершипов. Обожает свою сестру Cleveland.\n"
-"Из игры Azur Lane."
+"Brave and energetic, like her older sister Cleveland. She loves battles and accepts challenges from even the strongest opponents. Clumsy in everything that does not relate to combat. She is part of Tactical Unit 18—a squad consisting of her sister ships. She adores her sister Cleveland.\n"
+"From the game Azur Lane."
 
 msgid "IDS_PASC810_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PASD006_DESCR"
-msgstr "Проект нового эсминца предполагал увеличение количества торпедных аппаратов до трёх, что являлось компромиссным вариантом, позволяющим избежать чрезмерного расширения корпуса и снижения максимальной скорости. В начале Второй мировой войны USS Mahan участвовал в прикрытии авианосных групп во время рейдов на Маршалловы острова. Эсминец принимал участие в бою у островов Санта-Крус и в Новогвинейской кампании, обеспечивал высадку десанта на Новой Британии. Mahan был тяжело повреждён в результате атаки камикадзе в заливе Лейте 7 декабря 1944 г."
+msgstr "The new destroyer project proposed increasing the number of torpedo tubes to three, which was a compromise option to avoid excessive hull widening and reduced maximum speed. At the start of World War II, USS Mahan participated in covering carrier groups during raids on the Marshall Islands. The destroyer participated in the Battle of the Santa Cruz Islands and the New Guinea campaign, providing support for the landing on New Britain. Mahan was heavily damaged as a result of a kamikaze attack in Leyte Gulf on December 7, 1944."
 
 msgid "IDS_PASD014_DESCR"
-msgstr "Постройка большого количества эсминцев при почти полном отсутствии крейсеров породила в американском ВМФ дискуссию о необходимости производства лидеров эсминцев. Часть офицеров предлагала создать промежуточный класс корабля, сочетающий черты крейсера и эсминца. После ряда эскизов был предложен проект лидера эсминцев водоизмещением 2200 т, вооружённого 127-мм орудиями. Начавшаяся постройка крейсеров типа Omaha в итоге сняла необходимость в лидере эскадренных миноносцев, и от строительства этого типа решено было отказаться."
+msgstr "The construction of a large number of destroyers with almost no cruisers led to a debate in the US Navy about the need to produce destroyer leaders. Some officers proposed creating an intermediate class of ship combining cruiser and destroyer features. After several sketches, a 2,200-ton destroyer leader armed with 127 mm guns was proposed. The construction of Omaha-class cruisers ultimately eliminated the need for a destroyer leader, and the construction of this type was abandoned."
 
 msgid "IDS_PASD111_DESCR"
-msgstr "В процессе проработки эсминцев типов Allen M. Sumner и Gearing рассматривались варианты вооружения кораблей 127-мм орудиями в одиночных или спаренных установках. Однако уместить эти орудия на уже существующем корпусе было невозможно: не хватило бы места для соответствующего оборудования и систем, а проектировать корабль заново не было времени. К тому же замена 40-мм орудий Bofors на автоматические 76-мм орудия привела бы к заметному росту водоизмещения, поэтому от этого варианта развития отказались."
+msgstr "During the development of the Allen M. Sumner and Gearing-class destroyers, options were considered for arming the ships with 127 mm guns in single or twin mounts. However, it was impossible to fit these guns on the existing hull: there would not have been enough space for the corresponding equipment and systems, and there was no time to design a new ship. Additionally, replacing the 40 mm Bofors guns with automatic 76 mm guns would have led to a noticeable increase in displacement, so this development path was abandoned."
 
 msgid "IDS_PASD207"
 msgstr "Farrand"
 
 msgid "IDS_PASD207_DESCR"
-msgstr "В процессе проработки лидеров эсминцев типа Porter американские инженеры предлагали несколько вариантов проекта. В марте 1932 г. были представлены схемы с шестью орудиями главного калибра в одиночных либо спаренных установках. Руководство флота также рассматривало альтернативы в виде трёх спаренных установок с 51-калиберными орудиями."
+msgstr "During the development of the Porter-class destroyer leaders, American engineers proposed several project options. In March 1932, schemes with six main battery guns in single or twin mounts were presented. The Navy leadership also considered alternatives in the form of three twin mounts with 51-caliber guns."
 
 msgid "IDS_PASD207_FULL"
 msgstr "Farrand"
@@ -6241,13 +6241,13 @@ msgid "IDS_PASD207_NUMBER"
 msgstr "1"
 
 msgid "IDS_PASD207_YEAR"
-msgstr "1932 г."
+msgstr "1932"
 
 msgid "IDS_PASD208"
 msgstr "Hogg"
 
 msgid "IDS_PASD208_DESCR"
-msgstr "Первоначально планировалось, что по программе 1934 г. будут построены два очередных лидера эсминцев типа Porter, но из-за доработки проекта постройка этих кораблей была отложена. Альтернативой масштабной переработке была бы замена короткоствольных 38-калиберных 127-мм орудий на длинноствольные 51-калиберные, при этом на корабль была бы установлена новая силовая установка от эсминцев типа Mahan."
+msgstr "Initially, it was planned that two more Porter-class destroyer leaders would be built under the 1934 program, but due to project refinement, the construction of these ships was postponed. An alternative to a major redesign would have been to replace the short-barreled 38-caliber 127 mm guns with long-barreled 51-caliber guns, while the ship would have been equipped with a new power plant from the Mahan-class destroyers."
 
 msgid "IDS_PASD208_FULL"
 msgstr "Hogg"
@@ -6256,13 +6256,13 @@ msgid "IDS_PASD208_NUMBER"
 msgstr "1"
 
 msgid "IDS_PASD208_YEAR"
-msgstr "1933 г."
+msgstr "1933"
 
 msgid "IDS_PASD209"
 msgstr "Maffitt"
 
 msgid "IDS_PASD209_DESCR"
-msgstr "Альтернативой постройке лёгких крейсеров ПВО типа Atlanta была постройка более дешёвых и универсальных лидеров эсминцев. В 1939 г. управление главного конструктора флота США начало разработку предварительных эскизов «крейсера-эсминца» водоизмещением 3000–3500 т, вооружённого 152-мм орудиями. Если бы проект был реализован во второй половине 1940-х гг., наиболее выгодным являлось бы вооружение кораблей экспериментальными 70-калиберными 127-мм орудиями."
+msgstr "An alternative to building Atlanta-class anti-aircraft light cruisers was the construction of cheaper and more versatile destroyer leaders. In 1939, the US Navy's chief designer's office began developing preliminary sketches for a \"destroyer-cruiser\" with a displacement of 3,000–3,500 tons, armed with 152 mm guns. If the project had been implemented in the second half of the 1940s, the most advantageous option would have been to arm the ships with experimental 70-caliber 127 mm guns."
 
 msgid "IDS_PASD209_FULL"
 msgstr "Maffitt"
@@ -6271,13 +6271,13 @@ msgid "IDS_PASD209_NUMBER"
 msgstr "1"
 
 msgid "IDS_PASD209_YEAR"
-msgstr "1939 г."
+msgstr "1939"
 
 msgid "IDS_PASD210"
 msgstr "Lynch"
 
 msgid "IDS_PASD210_DESCR"
-msgstr "В конце 1930-х гг. руководство ВМС США рассматривало возможность постройки универсальных лидеров эсминцев вместо лёгких крейсеров ПВО. Проект от 12 сентября 1939 г. нёс четыре спаренные установки с 152-мм орудиями и имел стандартное водоизмещение 3500 т. В марте следующего года техническое задание было изменено в пользу 3400-тонного корабля с 152-мм либо 127-мм орудиями. Если бы эсминец был построен в конце 1940-х гг., было бы целесообразно вооружить его новыми длинноствольными 127-мм орудиями."
+msgstr "In the late 1930s, the US Navy considered the possibility of building universal destroyer leaders instead of anti-aircraft light cruisers. The project of September 12, 1939, carried four twin mounts with 152 mm guns and had a standard displacement of 3,500 tons. In March of the following year, the specifications were changed in favor of a 3,400-ton ship with either 152 mm or 127 mm guns. If the destroyer had been built in the late 1940s, it would have been advisable to arm it with new long-barreled 127 mm guns."
 
 msgid "IDS_PASD210_FULL"
 msgstr "Lynch"
@@ -6286,19 +6286,19 @@ msgid "IDS_PASD210_NUMBER"
 msgstr "1"
 
 msgid "IDS_PASD210_YEAR"
-msgstr "1940 г."
+msgstr "1940"
 
 msgid "IDS_PASD508_DESCR"
-msgstr "USS Kidd, эсминец типа Fletcher, во время своего первого перехода проплыл через гавань Нью-Йорка с поднятым на мачте «Весёлым Роджером». В Тихом океане корабль участвовал в прикрытии десанта на Бугенвиль, острова Гилберта и Маршалловы острова. Эсминец принимал участие в сражении в заливе Лейте и в сражении за Окинаву. USS Kidd стал одним из трёх кораблей, выделенных ВМФ для сохранения в качестве мемориалов. В мае 1982 г. эсминец отбуксировали в Батон-Руж (штат Луизиана) для переоборудования в военно-морской музей и мемориал."
+msgstr "USS Kidd, a Fletcher-class destroyer, made its first passage through New York Harbor with the Jolly Roger flying at the mast. In the Pacific, the ship participated in covering landings on Bougainville, the Gilbert Islands, and the Marshall Islands. The destroyer participated in the Battle of Leyte Gulf and the Battle of Okinawa. USS Kidd became one of three ships selected by the Navy for preservation as memorials. In May 1982, the destroyer was towed to Baton Rouge, Louisiana, for conversion into a naval museum and memorial."
 
 msgid "IDS_PASD508_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PASD517"
 msgstr "Mayo"
 
 msgid "IDS_PASD517_DESCR"
-msgstr "USS Mayo DD-422 — эсминец типа Benson. В июле 1941 г. в составе «Нейтрального патруля» участвовал в оккупации Исландии. В 1942 г. сопровождал атлантические конвои, в 1943–44 гг. участвовал в Итальянской кампании. Подорвался на мине 24 января 1944 г., позже был отремонтирован в Нью-Йорке. В 1945 г. эсминец участвовал в сопровождении конвоев на Окинаву."
+msgstr "USS Mayo DD-422, a Benson-class destroyer. In July 1941, as part of the Neutrality Patrol, she participated in the occupation of Iceland. In 1942, she escorted Atlantic convoys, and in 1943–44, she participated in the Italian campaign. On January 24, 1944, she struck a mine but was later repaired in New York. In 1945, the destroyer participated in convoy escort duties to Okinawa."
 
 msgid "IDS_PASD517_FULL"
 msgstr "Mayo"
@@ -6307,10 +6307,10 @@ msgid "IDS_PASD517_NUMBER"
 msgstr "30"
 
 msgid "IDS_PASD517_YEAR"
-msgstr "1940 г."
+msgstr "1940"
 
 msgid "IDS_PASD519_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PASD529"
 msgstr "Black Black"
@@ -6319,31 +6319,31 @@ msgid "IDS_PASD529_FULL"
 msgstr "Black Black"
 
 msgid "IDS_PASD529_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PASD610"
 msgstr "F. Sherman"
 
 msgid "IDS_PASD709_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PASD913_DESCR"
-msgstr "Этот корабль является копией корабля Gearing и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of the Gearing ship and is intended for Clan battles only."
 
 msgid "IDS_PASS110_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PASS206_DESCR"
-msgstr "На проект типа Cachalot оказали влияние характеристики немецкой подводной лодки U-135 и ограничения Лондонского морского договора. Впоследствии на типе Cachalot основывались проекты всех американских подводных лодок Второй мировой войны. Впервые в ВМС США при постройке подводной лодки широко применялась сварка. Вторую мировую войну USS Cachalot встретила в Пёрл-Харборе. Подводная лодка совершила три боевых похода, повредив японский танкер."
+msgstr "The Cachalot-class project was influenced by the characteristics of the German submarine U-135 and the limitations of the London Naval Treaty. Subsequently, the Cachalot-class served as the basis for the designs of all American submarines of World War II. For the first time in the US Navy, welding was extensively used in the construction of a submarine. USS Cachalot was in Pearl Harbor when World War II began. The submarine made three war patrols, damaging a Japanese tanker."
 
 msgid "IDS_PASS210_DESCR"
-msgstr "Подводные лодки, разрабатываемые в межвоенное время, были призваны действовать совместно с линкорами, обеспечивать разведку и добивать повреждённые корабли противника. Они должны были обладать высокой скоростью и тяжёлым вооружением. После событий на Тихоокеанском театре военных действий эти тактические концепции устарели, и новый тип Balao предназначался для дальних походов: подводные лодки были комфортными для экипажа, несли большой запас топлива и торпед. USS Balao совершил десять боевых походов, потопив десять кораблей противника."
+msgstr "Submarines developed during the interwar period were intended to operate alongside battleships, providing reconnaissance and finishing off damaged enemy ships. They were to have high speed and heavy armament. After events in the Pacific theater of operations, these tactical concepts became outdated, and the new Balao-class was designed for long-range patrols: the submarines were comfortable for the crew, carried a large fuel and torpedo reserve. USS Balao made ten war patrols, sinking ten enemy ships."
 
 msgid "IDS_PASS910"
 msgstr "Balao Test"
 
 msgid "IDS_PASS910_DESCR"
-msgstr "Копия корабля для тестирования."
+msgstr "A copy of the ship for testing."
 
 msgid "IDS_PASS910_FULL"
 msgstr "Balao Test"
@@ -6352,7 +6352,7 @@ msgid "IDS_PASS910_NUMBER"
 msgstr "77"
 
 msgid "IDS_PASS910_YEAR"
-msgstr "1941 г."
+msgstr "1941"
 
 msgid "IDS_PAUA610_ART_MAYO"
 msgstr "127-мм/38 Mk.12 в установке Mk.21 mod.0/Mk.30 mod.1"
