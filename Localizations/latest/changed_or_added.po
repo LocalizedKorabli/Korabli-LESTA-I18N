@@ -6355,28 +6355,28 @@ msgid "IDS_PASS910_YEAR"
 msgstr "1941"
 
 msgid "IDS_PAUA610_ART_MAYO"
-msgstr "127-мм/38 Mk.12 в установке Mk.21 mod.0/Mk.30 mod.1"
+msgstr "127 mm/38 Mk.12 in Mk.21 mod.0/Mk.30 mod.1 mount"
 
 msgid "IDS_PAUA613_D7_ART_STOCK"
-msgstr "127-мм/51 Mk.14 в спаренной установке"
+msgstr "127 mm/51 Mk.14 in twin mount"
 
 msgid "IDS_PAUA719_D8_ART_STOCK"
-msgstr "127-мм/51 Mk.14 в спаренной установке"
+msgstr "127 mm/51 Mk.14 in twin mount"
 
 msgid "IDS_PAUA816_D9_ART_STOCK"
-msgstr "127-мм/70 Mk.44 в башенной установке"
+msgstr "127 mm/70 Mk.44 in turret mount"
 
 msgid "IDS_PAUA914_ART_N_HAMPSHIRE"
-msgstr "203-мм/55 RF Mk.16 в башенной установке"
+msgstr "203 mm/55 RF Mk.16 in turret mount"
 
 msgid "IDS_PAUA915_ART_CHESAPEAKE"
-msgstr "152-мм/47 DP Mk.17 в башенной установке"
+msgstr "152 mm/47 DP Mk.17 in turret mount"
 
 msgid "IDS_PAUA916_D10_ART_STOCK"
-msgstr "127-мм/70 Mk.44 в башенной установке"
+msgstr "127 mm/70 Mk.44 in turret mount"
 
 msgid "IDS_PAUA933_B11_ART_STOCK"
-msgstr "406-мм/50 Mk.7 в башенной установке"
+msgstr "406 mm/50 Mk.7 in turret mount"
 
 msgid "IDS_PAUB707_CV8_TORP_TOP"
 msgstr "SB2C Helldiver"
@@ -6388,106 +6388,106 @@ msgid "IDS_PAUD711_CV8_DB_TOP"
 msgstr "SB2C Helldiver"
 
 msgid "IDS_PAUE400_ENG_RATTLEHEAD"
-msgstr "ЭУ 90 000 л.с."
+msgstr "Propulsion: 90,000 hp"
 
 msgid "IDS_PAUE613_ENG_MAYO"
-msgstr "ЭУ 50 000 л.с."
+msgstr "Propulsion: 50,000 hp"
 
 msgid "IDS_PAUE614_D7_ENG_STOCK"
-msgstr "ЭУ 50 000 л.с."
+msgstr "Propulsion: 50,000 hp"
 
 msgid "IDS_PAUE726_D8_ENG_STOCK"
-msgstr "ЭУ 52 000 л.с."
+msgstr "Propulsion: 52,000 hp"
 
 msgid "IDS_PAUE814_ENG_BLACK_BLACK"
-msgstr "ЭУ 60 000 л.с."
+msgstr "Propulsion: 60,000 hp"
 
 msgid "IDS_PAUE815_D9_ENG_STOCK"
-msgstr "ЭУ 75 000 л.с."
+msgstr "Propulsion: 75,000 hp"
 
 msgid "IDS_PAUE924_ENG_N_HAMPSHIRE"
-msgstr "ЭУ 172 000 л.с."
+msgstr "Propulsion: 172,000 hp"
 
 msgid "IDS_PAUE925_ENG_CHESAPEAKE"
-msgstr "ЭУ 135 000 л.с."
+msgstr "Propulsion: 135,000 hp"
 
 msgid "IDS_PAUE926_ENG_BALAO_TEST"
-msgstr "ЭУ 5 400 л.с."
+msgstr "Propulsion: 5,400 hp"
 
 msgid "IDS_PAUE927_D10_ENG_STOCK"
-msgstr "ЭУ 80 000 л.с."
+msgstr "Propulsion: 80,000 hp"
 
 msgid "IDS_PAUE932_B11_ENG_STOCK"
-msgstr "ЭУ 221 000 л.с."
+msgstr "Propulsion: 221,000 hp"
 
 msgid "IDS_PAUF301_FLIGHTCONTROL_1"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUF302_FLIGHTCONTROL_2"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod. 2"
 
 msgid "IDS_PAUF311_FLIGHTCONTROL_1"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUF312_FLIGHTCONTROL_2_A"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod. 2"
 
 msgid "IDS_PAUF391_FC1_LANGLEY"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUF501_FLIGHTCONTROL_1"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUF502_FLIGHTCONTROL_2"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUF511_FLIGHTCONTROL_1"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUF512_FLIGHTCONTROL_2_A"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUF591_FC1_RANGER"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUF601_FLIGHTCONTROL_1"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUF602_FLIGHTCONTROL_2"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUF611_FLIGHTCONTROL_1"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUF612_FLIGHTCONTROL_2_A"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUF621_SAIPAN"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUF702_FLIGHTCONTROL_2"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUF712_FLIGHTCONTROL_2_A"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUF802_FLIGHTCONTROL_2"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUF812_FLIGHTCONTROL_2_A"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUF912_FLIGHTCONTROL_2_A"
-msgstr "Mk10 mod. 2"
+msgstr "Mk10 mod. 2"
 
 msgid "IDS_PAUF913_FLIGHTCONTROL_2_F"
-msgstr "Mk10 mod. 3"
+msgstr "Mk10 mod. 3"
 
 msgid "IDS_PAUF975_FC_2A_MIDWAY"
-msgstr "Mk10 mod. 2"
+msgstr "Mk10 mod. 2"
 
 msgid "IDS_PAUF976_FC_2B_MIDWAY"
-msgstr "Mk10 mod. 3"
+msgstr "Mk10 mod. 3"
 
 msgid "IDS_PAUH461_CINCINNATI"
 msgstr "Marblehead L"
@@ -6499,7 +6499,7 @@ msgid "IDS_PAUH617_D7_HULL_STOCK"
 msgstr "Farrand"
 
 msgid "IDS_PAUH680_HULL_BLACK_SIMS"
-msgstr "Sims B."
+msgstr "Sims B."
 
 msgid "IDS_PAUH738_D8_HULL_STOCK"
 msgstr "Hogg"
@@ -6511,7 +6511,7 @@ msgid "IDS_PAUH820_D9_HULL_STOCK"
 msgstr "Maffitt"
 
 msgid "IDS_PAUH917_B10_HULL_STOCK"
-msgstr "Vermont (ЭМ)"
+msgstr "Vermont (EM)"
 
 msgid "IDS_PAUH919_N_HAMPSHIRE"
 msgstr "New Hampshire"
@@ -6539,381 +6539,381 @@ msgstr ""
 msgid "IDS_PAUI905_CV10_F_TOP"
 msgstr ""
 "F8F Bearcat\n"
-"127-мм HVAR"
+"127 mm HVAR"
 
 msgid "IDS_PAUI975_F2_MIDWAY"
 msgstr ""
 "F8F Bearcat\n"
-"127-мм HVAR"
+"127 mm HVAR"
 
 msgid "IDS_PAUQ904_SONAR_BALAO_TEST"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUS001_SUO"
-msgstr "Mk1 mod. 1"
+msgstr "Mk1 mod. 1"
 
 msgid "IDS_PAUS002_SUO"
-msgstr "Mk1 mod. 2"
+msgstr "Mk1 mod. 2"
 
 msgid "IDS_PAUS011_SUO"
-msgstr "Mk1 mod. 1"
+msgstr "Mk1 mod. 1"
 
 msgid "IDS_PAUS101_SUO"
-msgstr "Mk2 mod. 1"
+msgstr "Mk2 mod. 1"
 
 msgid "IDS_PAUS102_SUO"
-msgstr "Mk2 mod. 2"
+msgstr "Mk2 mod. 2"
 
 msgid "IDS_PAUS121_SUO"
-msgstr "Mk2 mod. 1"
+msgstr "Mk2 mod. 1"
 
 msgid "IDS_PAUS131_SUO_SMITH"
-msgstr "Mk2 mod. 1"
+msgstr "Mk2 mod. 1"
 
 msgid "IDS_PAUS201_SUO"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod. 1"
 
 msgid "IDS_PAUS202_SUO"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod. 2"
 
 msgid "IDS_PAUS203_SUO_CHARLSTON"
-msgstr "Mk3 mod. 1"
+msgstr "Mk3 mod. 1"
 
 msgid "IDS_PAUS211_SUO"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod. 1"
 
 msgid "IDS_PAUS212_SUO"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod. 2"
 
 msgid "IDS_PAUS213_SUO_CS"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod. 1"
 
 msgid "IDS_PAUS221_SUO"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod. 1"
 
 msgid "IDS_PAUS222_SUO"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod. 2"
 
 msgid "IDS_PAUS231_SUO"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod. 1"
 
 msgid "IDS_PAUS232_SUO"
-msgstr "Mk III mod. 2"
+msgstr "Mk III mod. 2"
 
 msgid "IDS_PAUS233_SUO_CS"
-msgstr "Mk III mod. 1"
+msgstr "Mk III mod. 1"
 
 msgid "IDS_PAUS301_SUO"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUS302_SUO"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod. 2"
 
 msgid "IDS_PAUS311_SUO"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUS312_SUO"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod. 2"
 
 msgid "IDS_PAUS321_SUO"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUS322_SUO"
-msgstr "Mk4 mod. 2"
+msgstr "Mk4 mod. 2"
 
 msgid "IDS_PAUS331_SUO_ARK_PREM"
-msgstr "Mk4 mod. 1"
+msgstr "Mk4 mod. 1"
 
 msgid "IDS_PAUS400_SUO_RATTLEHEAD"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS401_SUO"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS402_SUO"
-msgstr "Mk5 mod. 2"
+msgstr "Mk5 mod. 2"
 
 msgid "IDS_PAUS403_SUO_HILL"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS404_SUO_OKLAHOMA"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS411_SUO"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS412_SUO"
-msgstr "Mk5 mod. 2"
+msgstr "Mk5 mod. 2"
 
 msgid "IDS_PAUS419_SUO_MB"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS421_SUO"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS422_SUO"
-msgstr "Mk5 mod. 2"
+msgstr "Mk5 mod. 2"
 
 msgid "IDS_PAUS431_SUO_CINCINNATI"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS441_SUO_TEXAS"
-msgstr "Mk5 mod. 1"
+msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS501_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS502_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUS503_CL6_STOCK_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS504_CL6_TOP_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUS506_MONAGHAN"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS507_CA6_STOCK_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS508_CA6_TOP_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUS509_SUO_WVIRGINIA"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS511_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS512_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUS521_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS531_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS532_SUO"
-msgstr "Mk6 mod. 2"
+msgstr "Mk6 mod. 2"
 
 msgid "IDS_PAUS541_SUO_ARIZONA"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS601_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS602_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUS603_CL7_STOCK_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS604_CL7_TOP_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUS605_CA7_STOCK_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS606_CA7_TOP_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUS607_SUO_CALIFORNIA"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS608_SUO_FLORIDA"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS609_SUO_BLACK_ATLANTA"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS610_SUO_WVIRGINIA_44"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS611_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS612_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUS613_SUO_MAYO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS614_D7_SUO_STOCK"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS621_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS631_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS632_SUO"
-msgstr "Mk7 mod. 2"
+msgstr "Mk7 mod. 2"
 
 msgid "IDS_PAUS641_SUO_INDIANAPOLIS"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS651_SUO_FLINT"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS680_SUO_BLACK_SIMS"
-msgstr "Mk6 mod. 1"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS691_C7_SUO_JULIO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS700_SUO_COLORFUL_N_CAROLINA"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS702_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS705_CL8_TOP_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS707_CA8_TOP_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS712_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS714_BB8_SUO_TOP"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS721_SUO"
-msgstr "Mk7 mod. 1"
+msgstr "Mk7 mod. 1"
 
 msgid "IDS_PAUS723_D8_SUO_STOCK"
-msgstr "Mk8 mod. 1"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUS732_SUO"
-msgstr "Mk8 mod. 2"
+msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUS802_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS804_CL9_TOP_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS806_CA9_TOP_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS810_BB9_SUO_TOP"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS812_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS820_D9_SUO_STOCK"
-msgstr "Mk9 mod. 1"
+msgstr "Mk9 mod. 1"
 
 msgid "IDS_PAUS822_SUO"
-msgstr "Mk9 mod. 2"
+msgstr "Mk9 mod. 2"
 
 msgid "IDS_PAUS902_SUO"
-msgstr "Mk10 mod. 2"
+msgstr "Mk10 mod. 2"
 
 msgid "IDS_PAUS916_SUO_N_HAMPSHIRE"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUS917_SUO_CHESAPEAKE"
-msgstr "Mk10 mod. 1"
+msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUS918_D10_SUO_STOCK"
 msgstr "Mk10"
 
 msgid "IDS_PAUS933_B11_SUO_STOCK"
-msgstr "Mk11 mod. 1"
+msgstr "Mk11 mod. 1"
 
 msgid "IDS_PAUT502_533_MARK_15_MOD_3"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT503_533_MARK_15_MOD_3_ATLANTA"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT504_FLINT"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT507_MONAGHAN2"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT531_533_4_PAPT001"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT602_D7_TORP_TOP"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT603_TORP_BLACK_ATLANTA"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT604_TORP_MAYO"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT605_D7_TORP_STOCK"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT631_533_PAPT015_SIMS"
-msgstr "Bliss Leavitt Mk7 mod. 2B"
+msgstr "Bliss Leavitt Mk7 mod. 2B"
 
 msgid "IDS_PAUT680_TORP_STOCK_BLACK_SIMS"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT681_TORP_TOP_BLACK_SIMS"
-msgstr "Bliss Leavitt Mk7 mod. 2B"
+msgstr "Bliss Leavitt Mk7 mod. 2B"
 
 msgid "IDS_PAUT701_D8_TORP_STOCK"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT702_D8_TORP_TOP"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT703_533_MARK_14_MOD_3"
-msgstr "Mk14 mod. 3"
+msgstr "Mk14 mod. 3"
 
 msgid "IDS_PAUT704_TORP_KIDD"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT706_TORP_ANCHORAGE"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT707_TORP_S_DIEGO"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT709_D8_TORP_STOCK"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT713_TORP_CONSTELLATION"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT801_D9_TORP_STOCK"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT804_D9_TORP_TOP"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT808_D9_TORP_STOCK"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT902_D10_NEW_STOCK"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT903_TORP_TST_GEARING"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT908_TORP_AUSTIN"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT913_TORP_BALAO_TEST"
-msgstr "Mk29 и Mk29 MIE"
+msgstr "Mk29 and Mk29 MIE"
 
 msgid "IDS_PAUT914_D10_TORP_STOCK"
-msgstr "Mk15 mod. 3"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT975_TORP_GEARING"
-msgstr "Mk16 mod. 1"
+msgstr "Mk16 mod. 1"
 
 msgid "IDS_PBEE001_UK_DESC"
 msgstr "Полотнище, сочетающее изображение креста святого Георга и флаг Соединённого Королевства. Используется в качестве британского военно-морского флага с 1801 г. до настоящего времени."
