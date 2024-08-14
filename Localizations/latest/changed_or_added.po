@@ -198,7 +198,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_ARIA_COMPLETED"
 msgstr "Complete the \"Forging Metal\" collection."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_KOTS_COMPLETED"
-msgstr "Complete the \"King of the Seas\" collection."
+msgstr "Complete the \"Tsar of the Seas\" collection."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_MAY_DAY_COMPLETED"
 msgstr "Complete the \"Victory Fleet\" collection."
@@ -234,7 +234,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_KEYTARGET_MATTER_OF_HONOR"
 msgstr "Destroy an enemy ship designated as a Bounty while also helming a Bounty ship."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_KOTS15"
-msgstr "Hard work and training pay off! Place among the top three teams in the \"King of the Seas\" tournament."
+msgstr "Hard work and training pay off! Place among the top three teams in the \"Tsar of the Seas\" tournament."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_LIQUIDATOR"
 msgstr "Cause flooding on an enemy ship and destroy her. Damage caused by flooding must amount to at least %(damageRatio_percent)s of the destroyed enemy ship's base HP."
@@ -324,7 +324,7 @@ msgid "IDS_ACHIEVEMENT_KEYTARGET_MATTER_OF_HONOR"
 msgstr "A Matter of Honor"
 
 msgid "IDS_ACHIEVEMENT_KOTS15"
-msgstr "\"King of the Seas\" XV Finalist"
+msgstr "\"Tsar of the Seas\" XV Finalist"
 
 msgid "IDS_ACHIEVEMENT_PRORYV"
 msgstr "Breakthrough"
@@ -1783,7 +1783,7 @@ msgstr ""
 "Four years later, the Allies returned to France in victory. The experience of organizing large-scale troop transportation at Dunkirk was used in 1944 during the Normandy landings, and Vice Admiral Bertram Ramsay and Captain William Tennant, who led the 1940 evacuation, became key figures in D-Day."
 
 msgid "IDS_DESCRIPTION_PCZA020_KOTS"
-msgstr "The collection is dedicated to the exciting competitions of 'World of Warships'! Individual players and entire teams compete in the art of battle and fight for the title of King of the Seas! Learn about the categories participants are divided into, why some judges prefer the stick to the carrot, what the duties of organizers include, and why destroyers turn their stern to capture a control point."
+msgstr "The collection is dedicated to the exciting competitions of 'World of Warships'! Individual players and entire teams compete in the art of battle and fight for the title of Tsar of the Seas! Learn about the categories participants are divided into, why some judges prefer the stick to the carrot, what the duties of organizers include, and why destroyers turn their stern to capture a control point."
 
 msgid "IDS_DESCRIPTION_PCZA030_MAY_DAY"
 msgstr "May 1945 marked the long-awaited end of the Great Patriotic War. Germany signed the act of unconditional surrender in Berlin on the evening of May 8, local time, and the last shots on the front were fired on May 11. The whole world breathed a sigh of relief. This collection features famous ships and outstanding commanders from different countries who contributed to the victory over the enemy."
@@ -2125,7 +2125,7 @@ msgid "IDS_DOGTAGS_EMBLEM_SPECIAL_SUBGROUP_MODMAKER"
 msgstr "Modder"
 
 msgid "IDS_DOGTAGS_EMBLEM_TOURNAMENTS_SUBGROUP_KING_OF_THE_SEA"
-msgstr "King of the Seas"
+msgstr "Tsar of the Seas"
 
 msgid "IDS_DOGTAG_PARAM_COUNTSHIPS"
 msgstr "Number of ships:"
@@ -2308,355 +2308,355 @@ msgid "IDS_DOGTAG_PCNB104_DESCRIPTION"
 msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB104_NAME"
-msgstr "Сербия"
+msgstr "Serbia"
 
 msgid "IDS_DOGTAG_PCNB105_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB105_NAME"
-msgstr "Иран"
+msgstr "Iran"
 
 msgid "IDS_DOGTAG_PCNB106_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB106_NAME"
-msgstr "Перу"
+msgstr "Peru"
 
 msgid "IDS_DOGTAG_PCNB107_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB107_NAME"
-msgstr "Бельгия"
+msgstr "Belgium"
 
 msgid "IDS_DOGTAG_PCNB108_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB108_NAME"
-msgstr "Дания"
+msgstr "Denmark"
 
 msgid "IDS_DOGTAG_PCNB109_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB109_NAME"
-msgstr "Исландия"
+msgstr "Iceland"
 
 msgid "IDS_DOGTAG_PCNB110_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB110_NAME"
-msgstr "Австралия"
+msgstr "Australia"
 
 msgid "IDS_DOGTAG_PCNB111_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB111_NAME"
-msgstr "Саудовская Аравия"
+msgstr "Saudi Arabia"
 
 msgid "IDS_DOGTAG_PCNB112_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB112_NAME"
-msgstr "Швеция"
+msgstr "Sweden"
 
 msgid "IDS_DOGTAG_PCNB113_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB113_NAME"
-msgstr "Швейцария"
+msgstr "Switzerland"
 
 msgid "IDS_DOGTAG_PCNB114_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB114_NAME"
-msgstr "Польша"
+msgstr "Poland"
 
 msgid "IDS_DOGTAG_PCNB115_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB115_NAME"
-msgstr "Аргентина"
+msgstr "Argentina"
 
 msgid "IDS_DOGTAG_PCNB116_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB116_NAME"
-msgstr "Португалия"
+msgstr "Portugal"
 
 msgid "IDS_DOGTAG_PCNB117_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB117_NAME"
-msgstr "Коста-Рика"
+msgstr "Costa Rica"
 
 msgid "IDS_DOGTAG_PCNB119_NAME"
-msgstr "9 Мая"
+msgstr "May 9"
 
 msgid "IDS_DOGTAG_PCNB120_DESCRIPTION"
-msgstr "1 ноября 1943 г. американская морская пехота под прикрытием боевых кораблей высадилась в заливе Императрицы Августы на острове Бугенвиль с целью создания берегового плацдарма. В ответ Япония направила авиацию и эскадру крейсеров. Сражение продлилось до 2 ноября и завершилось решительной победой американского соединения."
+msgstr "On November 1, 1943, the U.S. Marines, under the cover of warships, landed in Empress Augusta Bay on the island of Bougainville to establish a beachhead. In response, Japan sent aircraft and a cruiser squadron. The battle lasted until November 2 and ended in a decisive victory for the American forces."
 
 msgid "IDS_DOGTAG_PCNB120_NAME"
-msgstr "Цветок Сакуры"
+msgstr "Sakura Flower"
 
 msgid "IDS_DOGTAG_PCNB122_DESCRIPTION"
-msgstr "За участие в турнире King of the Sea."
+msgstr "For participating in the Tsar of the Seas tournament."
 
 msgid "IDS_DOGTAG_PCNB122_NAME"
-msgstr "King of the Sea"
+msgstr "Tsar of the Seas"
 
 msgid "IDS_DOGTAG_PCNB123_DESCRIPTION"
-msgstr "В честь соревнования Go Navy!"
+msgstr "In honor of the Go Navy! competition."
 
 msgid "IDS_DOGTAG_PCNB123_NAME"
-msgstr "Команда Sharks"
+msgstr "Team Sharks"
 
 msgid "IDS_DOGTAG_PCNB124_DESCRIPTION"
-msgstr "В честь соревнования Go Navy!"
+msgstr "In honor of the Go Navy! competition."
 
 msgid "IDS_DOGTAG_PCNB124_NAME"
-msgstr "Команда Eagles"
+msgstr "Team Eagles"
 
 msgid "IDS_DOGTAG_PCNB132_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "In honor of the release of a pin-up style music video."
 
 msgid "IDS_DOGTAG_PCNB132_NAME"
-msgstr "Командир Даша"
+msgstr "Commander Dasha"
 
 msgid "IDS_DOGTAG_PCNB133_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "In honor of the release of a pin-up style music video."
 
 msgid "IDS_DOGTAG_PCNB133_NAME"
-msgstr "Командир Алёна"
+msgstr "Commander Alena"
 
 msgid "IDS_DOGTAG_PCNB134_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "In honor of the release of a pin-up style music video."
 
 msgid "IDS_DOGTAG_PCNB134_NAME"
-msgstr "Пилот"
+msgstr "Pilot"
 
 msgid "IDS_DOGTAG_PCNB135_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "In honor of the release of a pin-up style music video."
 
 msgid "IDS_DOGTAG_PCNB135_NAME"
-msgstr "Кок"
+msgstr "Cook"
 
 msgid "IDS_DOGTAG_PCNB136_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "In honor of the release of a pin-up style music video."
 
 msgid "IDS_DOGTAG_PCNB136_NAME"
-msgstr "Наводчик"
+msgstr "Gunner"
 
 msgid "IDS_DOGTAG_PCNB137_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "In honor of the release of a pin-up style music video."
 
 msgid "IDS_DOGTAG_PCNB137_NAME"
-msgstr "Сигнальщик"
+msgstr "Signalman"
 
 msgid "IDS_DOGTAG_PCNB138_DESCRIPTION"
-msgstr "В честь выхода музыкального видео в стиле пинап."
+msgstr "In honor of the release of a pin-up style music video."
 
 msgid "IDS_DOGTAG_PCNB138_NAME"
-msgstr "Матрос"
+msgstr "Sailor"
 
 msgid "IDS_DOGTAG_PCNB142_DESCRIPTION"
-msgstr "Визитная карточка члена клуба «Коллекционеры»."
+msgstr "Business card of a member of the 'Collectors' Club'."
 
 msgid "IDS_DOGTAG_PCNB142_NAME"
-msgstr "Член клуба «Коллекционеры»"
+msgstr "Collectors' Club Member"
 
 msgid "IDS_DOGTAG_PCNB143_DESCRIPTION"
-msgstr "Проверка временем пройдена!"
+msgstr "Time-tested!"
 
 msgid "IDS_DOGTAG_PCNB143_NAME"
-msgstr "Двадцать лет"
+msgstr "Twenty Years"
 
 msgid "IDS_DOGTAG_PCNB148_DESCRIPTION"
-msgstr "В рамках конкурса «Нашивка командира» участникам предлагалось самим нарисовать знак различия, который они хотели бы видеть в игре. Работы победителей были добавлены после подведения итогов конкурса."
+msgstr "As part of the 'Commander Patch' contest, participants were invited to draw the insignia they wanted to see in the game. The winners' works were added after the contest results were announced."
 
 msgid "IDS_DOGTAG_PCNB148_NAME"
-msgstr "Благословение Посейдона"
+msgstr "Poseidon's Blessing"
 
 msgid "IDS_DOGTAG_PCNB155_DESCRIPTION"
-msgstr "В рамках конкурса «Нашивка командира» участникам предлагалось самим нарисовать знак различия, который они хотели бы видеть в игре. Работы победителей были добавлены после подведения итогов конкурса."
+msgstr "As part of the 'Commander Patch' contest, participants were invited to draw the insignia they wanted to see in the game. The winners' works were added after the contest results were announced."
 
 msgid "IDS_DOGTAG_PCNB155_NAME"
-msgstr "Винстон — морской пёс"
+msgstr "Winston - The Sea Dog"
 
 msgid "IDS_DOGTAG_PCNB167_DESCRIPTION"
-msgstr "В рамках конкурса «Нашивка командира» участникам предлагалось самим нарисовать знак различия, который они хотели бы видеть в игре. Работы победителей были добавлены после подведения итогов конкурса."
+msgstr "As part of the 'Commander Patch' contest, participants were invited to draw the insignia they wanted to see in the game. The winners' works were added after the contest results were announced."
 
 msgid "IDS_DOGTAG_PCNB167_NAME"
-msgstr "Кораблекрушитель"
+msgstr "Shipwreck Destroyer"
 
 msgid "IDS_DOGTAG_PCNB175_DESCRIPTION"
-msgstr "Ежегодно 11 ноября в США чествуют служивших в Вооружённых силах страны. Этот праздник был учреждён как День примирения в честь окончания военных действий в Первой мировой войне, но в 1954 г. был переименован в День ветеранов."
+msgstr "Every year on November 11, the United States honors those who served in the Armed Forces. This holiday was established as Armistice Day in honor of the end of hostilities in World War I but was renamed Veterans Day in 1954."
 
 msgid "IDS_DOGTAG_PCNB175_NAME"
-msgstr "День ветеранов"
+msgstr "Veterans Day"
 
 msgid "IDS_DOGTAG_PCNB176_DESCRIPTION"
-msgstr "История польского флота берёт своё начало ещё в XV в., но современные военно-морские силы Польши были основаны только после Первой мировой войны."
+msgstr "The history of the Polish Navy dates back to the 15th century, but modern naval forces in Poland were established only after World War I."
 
 msgid "IDS_DOGTAG_PCNB176_NAME"
-msgstr "100 лет польскому флоту"
+msgstr "100 Years of the Polish Navy"
 
 msgid "IDS_DOGTAG_PCNB178_NAME"
 msgstr "Fest 2018"
 
 msgid "IDS_DOGTAG_PCNB180_DESCRIPTION"
-msgstr "В ознаменование храбрости, проявленной бойцами Чехословацких легионов, и их важной роли в создании независимой Чехословацкой Республики в 1918 г."
+msgstr "In commemoration of the bravery shown by the Czechoslovak Legionnaires and their important role in the creation of the independent Czechoslovak Republic in 1918."
 
 msgid "IDS_DOGTAG_PCNB180_NAME"
-msgstr "Чехословацкие легионы"
+msgstr "Czechoslovak Legions"
 
 msgid "IDS_DOGTAG_PCNB190_DESCRIPTION"
-msgstr "В честь соревнования «Победа»."
+msgstr "In honor of the 'Victory' competition."
 
 msgid "IDS_DOGTAG_PCNB190_NAME"
-msgstr "Победа"
+msgstr "Victory"
 
 msgid "IDS_DOGTAG_PCNB191_DESCRIPTION"
-msgstr "В честь соревнования «Победа»."
+msgstr "In honor of the 'Victory' competition."
 
 msgid "IDS_DOGTAG_PCNB191_NAME"
-msgstr "Честь"
+msgstr "Honor"
 
 msgid "IDS_DOGTAG_PCNB192_DESCRIPTION"
-msgstr "В честь соревнования «Победа»."
+msgstr "In honor of the 'Victory' competition."
 
 msgid "IDS_DOGTAG_PCNB192_NAME"
-msgstr "Слава"
+msgstr "Glory"
 
 msgid "IDS_DOGTAG_PCNB193_DESCRIPTION"
-msgstr "За вклад в игру и развитие сообщества."
+msgstr "For contribution to the game and community development."
 
 msgid "IDS_DOGTAG_PCNB193_NAME"
-msgstr "Капер"
+msgstr "Privateer"
 
 msgid "IDS_DOGTAG_PCNB204_DESCRIPTION"
-msgstr "За участие в летнем марафоне Общего теста."
+msgstr "For participation in the Summer Public Test marathon."
 
 msgid "IDS_DOGTAG_PCNB204_NAME"
-msgstr "Летний сезон PT"
+msgstr "Summer PT Season"
 
 msgid "IDS_DOGTAG_PCNB208_DESCRIPTION"
-msgstr "История ВМС Соединённых Штатов уходит корнями в годы Войны за независимость: 13 октября 1775 г. Второй Континентальный конгресс санкционировал покупку двух судов для последующего вооружения. В 1794 г. Конгресс заказал постройку шести трёхмачтовых фрегатов. Сегодня USS Constitution, один из них, — старейший корабль в мире, находящийся на плаву. Фрегат всё ещё числится в составе флота."
+msgstr "The history of the United States Navy dates back to the War of Independence: on October 13, 1775, the Second Continental Congress authorized the purchase of two ships for arming. In 1794, Congress ordered the construction of six three-masted frigates. Today, the USS Constitution, one of them, is the oldest ship afloat in the world and is still listed in the fleet."
 
 msgid "IDS_DOGTAG_PCNB208_NAME"
-msgstr "День рождения ВМС США"
+msgstr "U.S. Navy Birthday"
 
 msgid "IDS_DOGTAG_PCNB209_DESCRIPTION"
-msgstr "История Корпуса морской пехоты США начинается с двух батальонов, сформированных 10 ноября 1775 г. в Филадельфии. Новый род вооружённых сил предназначался для выполнения боевых задач и в море, и на берегу."
+msgstr "The history of the U.S. Marine Corps begins with two battalions formed on November 10, 1775, in Philadelphia. This new branch of the armed forces was intended for combat tasks both at sea and on land."
 
 msgid "IDS_DOGTAG_PCNB209_NAME"
-msgstr "Годовщина образования морской пехоты США"
+msgstr "U.S. Marine Corps Anniversary"
 
 msgid "IDS_DOGTAG_PCNB211_DESCRIPTION"
-msgstr "Название японского эсминца Asashio переводится как «Утренний прилив». Asashio вступил в строй в 1937 г., став головным в серии однотипных кораблей, и погиб в битве в море Бисмарка в марте 1943 г."
+msgstr "The name of the Japanese destroyer Asashio translates as 'Morning Tide.' Asashio entered service in 1937 as the lead ship in a series of similar ships and perished in the Battle of the Bismarck Sea in March 1943."
 
 msgid "IDS_DOGTAG_PCNB211_NAME"
 msgstr "Asashio"
 
 msgid "IDS_DOGTAG_PCNB212_DESCRIPTION"
-msgstr "Японский тяжёлый крейсер Atago получил своё имя по названию расположенной недалеко от Киото горы, на вершине которой находится одно из самых почитаемых синтоистских святилищ."
+msgstr "The Japanese heavy cruiser Atago was named after a mountain near Kyoto, at the summit of which is one of the most revered Shinto shrines."
 
 msgid "IDS_DOGTAG_PCNB212_NAME"
 msgstr "Atago"
 
 msgid "IDS_DOGTAG_PCNB213_DESCRIPTION"
-msgstr "Знаменитый немецкий изобретатель и конструктор дирижаблей Фердинанд фон Цеппелин происходил из старинной дворянской семьи. Владения Цеппелинов располагались в Мекленбурге и Померании, а на родовом гербе изображена ослиная голова, повёрнутая направо."
+msgstr "The famous German inventor and dirigible designer Ferdinand von Zeppelin came from an ancient noble family. The Zeppelin estates were located in Mecklenburg and Pomerania, and their family crest features a donkey's head facing to the right."
 
 msgid "IDS_DOGTAG_PCNB213_NAME"
 msgstr "Graf Zeppelin"
 
 msgid "IDS_DOGTAG_PCNB215_DESCRIPTION"
-msgstr "Герб прусского генерала Герхарда фон Шарнхорста, ставшего национальным героем в ходе освободительной войны 1813 г. в Германии. Оба корабля типа Scharnhorst, названные в его честь, несли один и тот же герб."
+msgstr "The coat of arms of Prussian General Gerhard von Scharnhorst, who became a national hero during the Liberation War of 1813 in Germany. Both ships of the Scharnhorst class, named in his honor, bore the same coat of arms."
 
 msgid "IDS_DOGTAG_PCNB215_NAME"
 msgstr "Scharnhorst"
 
 msgid "IDS_DOGTAG_PCNB216_DESCRIPTION"
-msgstr "Адмирал Уильям Симс — один из главных реформаторов американского флота, благодаря усилиям которого ВМС США в первые десятилетия XX в. встали в один ряд с самими мощными на тот момент флотами мира. В 1939 г. вступил в строй названный в честь адмирала эсминец, головной в серии из двенадцати кораблей."
+msgstr "Admiral William Sims was one of the main reformers of the American Navy, whose efforts brought the U.S. Navy in the early 20th century to stand among the world's most powerful fleets at the time. In 1939, the destroyer USS Sims, the lead ship in a series of twelve ships, was named in his honor."
 
 msgid "IDS_DOGTAG_PCNB216_NAME"
 msgstr "USS Sims"
 
 msgid "IDS_DOGTAG_PCNB217_DESCRIPTION"
-msgstr "Самый крупный линкор из когда-либо построенных в Европе. Совершал рейды на союзные конвои, наводя ужас в водах Арктики и Атлантического океана."
+msgstr "The largest battleship ever built in Europe. It carried out raids on Allied convoys, striking terror in the waters of the Arctic and the Atlantic Ocean."
 
 msgid "IDS_DOGTAG_PCNB217_NAME"
 msgstr "Tirpitz"
 
 msgid "IDS_DOGTAG_PCNB218_DESCRIPTION"
-msgstr "Ещё в начале XX в. подводные лодки доказали свою боевую эффективность, став грозным оружием на пути к победе."
+msgstr "As early as the beginning of the 20th century, submarines proved their combat effectiveness, becoming a formidable weapon on the path to victory."
 
 msgid "IDS_DOGTAG_PCNB218_NAME"
-msgstr "Скрытая угроза"
+msgstr "Hidden Threat"
 
 msgid "IDS_DOGTAG_PCNB219_DESCRIPTION"
-msgstr "Ваше пристальное внимание помогает делать обновления действительно качественными!"
+msgstr "Your keen attention helps make updates truly high-quality!"
 
 msgid "IDS_DOGTAG_PCNB219_NAME"
-msgstr "Участник CST"
+msgstr "CST Participant"
 
 msgid "IDS_DOGTAG_PCNB220_DESCRIPTION"
-msgstr "За участие в осеннем марафоне Общего теста."
+msgstr "For participation in the Autumn Public Test marathon."
 
 msgid "IDS_DOGTAG_PCNB220_NAME"
-msgstr "Осенний сезон PT"
+msgstr "Autumn PT Season"
 
 msgid "IDS_DOGTAG_PCNB221_DESCRIPTION"
-msgstr "За участие в зимнем марафоне Общего теста."
+msgstr "For participation in the Winter Public Test marathon."
 
 msgid "IDS_DOGTAG_PCNB221_NAME"
-msgstr "Зимний сезон PT"
+msgstr "Winter PT Season"
 
 msgid "IDS_DOGTAG_PCNB222_DESCRIPTION"
-msgstr "За участие в весеннем марафоне Общего теста."
+msgstr "For participation in the Spring Public Test marathon."
 
 msgid "IDS_DOGTAG_PCNB222_NAME"
-msgstr "Весенний сезон PT"
+msgstr "Spring PT Season"
 
 msgid "IDS_DOGTAG_PCNB223_DESCRIPTION"
-msgstr "Вставшая на вечную стоянку в мемориальном военном парке в Маскоги, штат Оклахома, подводная лодка SS-310 доблестно выполняла свой долг во время Второй мировой войны, за что была награждена шестью боевыми звёздами и Благодарностью президента США за службу родине."
+msgstr "Permanently moored in the Memorial Military Park in Muskogee, Oklahoma, the submarine SS-310 bravely served during World War II, earning six battle stars and the U.S. President's Commendation for service to the nation."
 
 msgid "IDS_DOGTAG_PCNB223_NAME"
 msgstr "USS Batfish"
 
 msgid "IDS_DOGTAG_PCNB253_DESCRIPTION"
-msgstr "«Бой в пятницу 13-го», произошедший в ноябре 1942 г., стал роковым для лёгкого крейсера Atlanta. Однако спустя два года после гибели USS Atlanta «возродился из пепла», повторив судьбу города, в честь которого он был назван: уже в декабре 1944 г. в строй вошёл новый крейсер, нёсший это славное имя."
+msgstr "'The Friday the 13th Battle,' which took place in November 1942, was fatal for the light cruiser Atlanta. However, two years after the sinking of USS Atlanta, it 'rose from the ashes,' repeating the fate of the city it was named after: in December 1944, a new cruiser bearing this glorious name was commissioned."
 
 msgid "IDS_DOGTAG_PCNB253_NAME"
 msgstr "USS Atlanta"
 
 msgid "IDS_DOGTAG_PCNB254_DESCRIPTION"
-msgstr "Вступивший в строй в 1938 г. HMS Cossack прославился в ходе Второй мировой войны под командой Филиппа Виана во время инцидента с немецким танкером Altmark, в битве при Нарвике и при охоте на Bismarck."
+msgstr "Commissioned in 1938, HMS Cossack gained fame during World War II under the command of Philip Vian, during the Altmark incident, the Battle of Narvik, and the hunt for the Bismarck."
 
 msgid "IDS_DOGTAG_PCNB254_NAME"
 msgstr "HMS Cossack"
 
 msgid "IDS_DOGTAG_PCNB256_DESCRIPTION"
-msgstr "Имя легендарного дюнкеркского корсара Жана Бара, покрывшего себя славой во всех войнах на море, которые вела Франция в конце XVII в., носили несколько кораблей Французского флота. Среди них — линкор типа Richelieu, вступивший в строй в 1949 г."
+msgstr "The name of the legendary Dunkirk corsair Jean Bart, who covered himself with glory in all the naval wars that France fought at the end of the 17th century, was borne by several ships of the French Navy. Among them was the battleship of the Richelieu class, commissioned in 1949."
 
 msgid "IDS_DOGTAG_PCNB256_NAME"
 msgstr "Jean Bart"
 
 msgid "IDS_DOGTAG_PCNB258_DESCRIPTION"
-msgstr "Посвящено Военно-морским силам США эпохи мировых войн."
+msgstr "Dedicated to the United States Navy during the world wars."
 
 msgid "IDS_DOGTAG_PCNB258_NAME"
-msgstr "Крылья"
+msgstr "Wings"
 
 msgid "IDS_DOGTAG_PCNB259_DESCRIPTION"
-msgstr "Посвящено Военно-морским силам США эпохи мировых войн."
+msgstr "Dedicated to the United States Navy during the world wars."
 
 msgid "IDS_DOGTAG_PCNB259_NAME"
-msgstr "Звёзды"
+msgstr "Stars"
 
 msgid "IDS_DOGTAG_PCNB260_DESCRIPTION"
-msgstr "Посвящено Военно-морским силам США эпохи мировых войн."
+msgstr "Dedicated to the United States Navy during the world wars."
 
 msgid "IDS_DOGTAG_PCNB260_NAME"
-msgstr "Звёздно-полосатый флаг"
+msgstr "Star-Spangled Banner"
 
 msgid "IDS_DOGTAG_PCNB261_DESCRIPTION"
 msgstr "Lest we forget."
@@ -2665,667 +2665,668 @@ msgid "IDS_DOGTAG_PCNB261_NAME"
 msgstr "Remembrance Day"
 
 msgid "IDS_DOGTAG_PCNB262_DESCRIPTION"
-msgstr "Военная техника для сражений в условиях любых планет. Рассчитана на широкий спектр тактических ситуаций."
+msgstr "Military equipment for battles in any planetary conditions. Designed for a wide range of tactical situations."
 
 msgid "IDS_DOGTAG_PCNB262_NAME"
-msgstr "Корпорация Seatek"
+msgstr "Seatek Corporation"
 
 msgid "IDS_DOGTAG_PCNB263_DESCRIPTION"
-msgstr "Военная техника, основанная на непостижимых инопланетных научных разработках. Самая таинственная из космических корпораций."
+msgstr "Military equipment based on incomprehensible alien scientific developments. The most mysterious of the space corporations."
 
 msgid "IDS_DOGTAG_PCNB263_NAME"
-msgstr "Корпорация Phobos"
+msgstr "Phobos Corporation"
 
 msgid "IDS_DOGTAG_PCNB264_DESCRIPTION"
-msgstr "Военная техника для сражений на просторах самых далёких планет. Руководство корпорации славится особой беспринципностью."
+msgstr "Military equipment for battles across the most distant planets. The leadership of the corporation is known for its particular ruthlessness."
 
 msgid "IDS_DOGTAG_PCNB264_NAME"
-msgstr "Корпорация Pelamida"
+msgstr "Pelamida Corporation"
 
 msgid "IDS_DOGTAG_PCNB265_DESCRIPTION"
-msgstr "Морские чудовища, созданные с помощью сложнейших неземных технологий."
+msgstr "Sea monsters created with the help of the most complex extraterrestrial technologies."
 
 msgid "IDS_DOGTAG_PCNB265_NAME"
-msgstr "Монстры"
+msgstr "Monsters"
 
 msgid "IDS_DOGTAG_PCNB267_DESCRIPTION"
-msgstr "В корейской национальной кухне кимчи занимает особое место, его едят в качестве гарнира практически с любым блюдом. Существуют сотни видов кимчи, для их приготовления используют солёные и квашеные овощи, приправленные острыми специями. Раньше это блюдо хранили в глиняных сосудах, частично закопанных в землю: так продукт не замерзал зимой, а летом замедлялся процесс ферментации. Сегодня распространены специальные холодильники для кимчи."
+msgstr "In Korean national cuisine, kimchi holds a special place and is eaten as a side dish with almost any meal. There are hundreds of types of kimchi, made from salted and fermented vegetables seasoned with hot spices. In the past, this dish was stored in clay vessels partially buried in the ground: this way the product didn't freeze in winter, and the fermentation process slowed down in summer. Nowadays, special refrigerators for kimchi are common."
 
 msgid "IDS_DOGTAG_PCNB267_NAME"
-msgstr "Кимчи"
+msgstr "Kimchi"
 
 msgid "IDS_DOGTAG_PCNB268_DESCRIPTION"
-msgstr "В древности основным назначением маяков было указание входа в порт. Фаросский маяк, одно из семи чудес света, был разрушен в результате ряда землетрясений между 956 и 1323 гг. н. э. Современные маяки появились в начале XVIII в., потребность в них возросла из-за развития трансатлантической торговли. Назначение маяков постепенно изменилось: они предупреждают об опасных побережьях, отмелях, рифах, скалах и облегчают навигацию."
+msgstr "In ancient times, the main purpose of lighthouses was to indicate the entrance to a port. The Lighthouse of Alexandria, one of the Seven Wonders of the World, was destroyed by a series of earthquakes between 956 and 1323 A.D. Modern lighthouses appeared in the early 18th century, as the need for them increased due to the development of transatlantic trade. The role of lighthouses gradually changed: they now warn of dangerous coasts, shoals, reefs, and rocks, and facilitate navigation."
 
 msgid "IDS_DOGTAG_PCNB268_NAME"
-msgstr "Маяк"
+msgstr "Lighthouse"
 
 msgid "IDS_DOGTAG_PCNB272_DESCRIPTION"
-msgstr "У моряка нет трудного или лёгкого пути, есть только один путь — славный."
+msgstr "A sailor has no difficult or easy path, there is only one path — the glorious one."
 
 msgid "IDS_DOGTAG_PCNB272_NAME"
-msgstr "Чемпион"
+msgstr "Champion"
 
 msgid "IDS_DOGTAG_PCNB273_DESCRIPTION"
-msgstr "Участникам турнира Copa Latina-Americana Warships."
+msgstr "To the participants of the Copa Latina-Americana Warships tournament."
 
 msgid "IDS_DOGTAG_PCNB273_NAME"
 msgstr "Copa Latina-Americana Warships"
 
 msgid "IDS_DOGTAG_PCNB274_DESCRIPTION"
-msgstr "Победителям турнира Copa Latina-Americana Warships."
+msgstr "To the winners of the Copa Latina-Americana Warships tournament."
 
 msgid "IDS_DOGTAG_PCNB274_NAME"
 msgstr "Copa Latina-Americana Warships Winner"
 
 msgid "IDS_DOGTAG_PCNB275_DESCRIPTION"
-msgstr "Самым ценным игрокам турнира Copa Latina-Americana Warships."
+msgstr "To the most valuable players of the Copa Latina-Americana Warships tournament."
 
 msgid "IDS_DOGTAG_PCNB275_NAME"
 msgstr "Copa Latina-Americana Warships MVP"
 
 msgid "IDS_DOGTAG_PCNB282_DESCRIPTION"
-msgstr "Нагрудный Военный знак флота в Кригсмарине предназначался для награждения личного состава команд линкоров и крейсеров за боевую службу в открытом море. В число первых награждённых знаком вошли уцелевшие при гибели «Бисмарка»."
+msgstr "The Kriegsmarine Naval War Badge was intended to reward the personnel of battleships and cruisers for their combat service in the open sea. Among the first recipients of the badge were survivors of the sinking of the Bismarck."
 
 msgid "IDS_DOGTAG_PCNB282_NAME"
-msgstr "Охота на Bismarck"
+msgstr "Hunt for Bismarck"
 
 msgid "IDS_DOGTAG_PCNB283_DESCRIPTION"
-msgstr "За историю Королевского флота наименование Tiger несли 15 боевых кораблей. В 1944–1945 гг. это название сменили целых три строившихся крейсера. Вступивший в строй в 1959 г. Tiger получил бортовой номер C20."
+msgstr "Throughout the history of the Royal Navy, the name Tiger has been borne by 15 warships. From 1944 to 1945, this name was transferred to three cruisers under construction. The Tiger, which entered service in 1959, bore the hull number C20."
 
 msgid "IDS_DOGTAG_PCNB283_NAME"
 msgstr "HMS Tiger"
 
 msgid "IDS_DOGTAG_PCNB284_DESCRIPTION"
-msgstr "После падения монархии Германия с 1919 г. по принятой в Веймаре конституции стала республикой. Предлагалось заменить флаг ВМФ на вариант с новым государственным орлом и Железным крестом, но в итоге он не был принят."
+msgstr "After the fall of the monarchy, Germany became a republic in 1919 according to the constitution adopted in Weimar. It was proposed to replace the Navy flag with a version featuring the new state eagle and the Iron Cross, but in the end, it was not adopted."
 
 msgid "IDS_DOGTAG_PCNB284_NAME"
 msgstr "Weimar"
 
 msgid "IDS_DOGTAG_PCNB289_NAME"
-msgstr "The Beautiful Game"
+msgstr "The Beautiful Game"
 
 msgid "IDS_DOGTAG_PCNB290_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB290_NAME"
-msgstr "Австрия"
+msgstr "Austria"
 
 msgid "IDS_DOGTAG_PCNB291_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB291_NAME"
-msgstr "Венгрия"
+msgstr "Hungary"
 
 msgid "IDS_DOGTAG_PCNB292_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB292_NAME"
-msgstr "Италия"
+msgstr "Italy"
 
 msgid "IDS_DOGTAG_PCNB293_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB293_NAME"
-msgstr "Нидерланды"
+msgstr "Netherlands"
 
 msgid "IDS_DOGTAG_PCNB294_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB294_NAME"
-msgstr "Словакия"
+msgstr "Slovakia"
 
 msgid "IDS_DOGTAG_PCNB295_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB295_NAME"
-msgstr "Турция"
+msgstr "Turkey"
 
 msgid "IDS_DOGTAG_PCNB296_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB296_NAME"
-msgstr "Украина"
+msgstr "Ukraine"
 
 msgid "IDS_DOGTAG_PCNB297_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB297_NAME"
-msgstr "Уэльс"
+msgstr "Wales"
 
 msgid "IDS_DOGTAG_PCNB298_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB298_NAME"
-msgstr "Финляндия"
+msgstr "Finland"
 
 msgid "IDS_DOGTAG_PCNB299_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB299_NAME"
-msgstr "Чехия"
+msgstr "Czechia"
 
 msgid "IDS_DOGTAG_PCNB300_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB300_NAME"
-msgstr "Шотландия"
+msgstr "Scotland"
 
 msgid "IDS_DOGTAG_PCNB301_DESCRIPTION"
-msgstr "Спорт — это дух непримиримого соперничества, борьба самых амбициозных и целеустремлённых до победного конца. Но в то же время спорт объединяет, порождая настоящую дружбу и солидарность."
+msgstr "Sports embody the spirit of relentless competition, the struggle of the most ambitious and determined to the victorious end. But at the same time, sports unite, fostering true friendship and solidarity."
 
 msgid "IDS_DOGTAG_PCNB301_NAME"
-msgstr "Северная Македония"
+msgstr "North Macedonia"
 
 msgid "IDS_DOGTAG_PCNB307_DESCRIPTION"
-msgstr "Нидерландская деревня Киндердейк находится на слиянии двух рек — Лек и Норд, на осушённых и возделанных участках низменностей — польдерах. Около 1740 г. там была построена система из 19 ветряных мельниц. Она сохранилась до сих пор и является одной из самых главных достопримечательностей в Нидерландах."
+msgstr "The Dutch village of Kinderdijk is located at the confluence of the Lek and Noord rivers, on drained and cultivated lowlands known as polders. Around 1740, a system of 19 windmills was built there. It has been preserved to this day and is one of the main attractions in the Netherlands."
 
 msgid "IDS_DOGTAG_PCNB310_DESCRIPTION"
-msgstr "Посвящено Legend of the Galactic Heroes."
+msgstr "Dedicated to Legend of the Galactic Heroes."
 
 msgid "IDS_DOGTAG_PCNB310_NAME"
-msgstr "Звёздный флот"
+msgstr "Starfleet"
 
 msgid "IDS_DOGTAG_PCNB311_DESCRIPTION"
-msgstr "Посвящено Legend of the Galactic Heroes."
+msgstr "Dedicated to Legend of the Galactic Heroes."
 
 msgid "IDS_DOGTAG_PCNB311_NAME"
-msgstr "Флот Райнхарда"
+msgstr "Reinhard's Fleet"
 
 msgid "IDS_DOGTAG_PCNB312_DESCRIPTION"
-msgstr "Посвящено Legend of the Galactic Heroes."
+msgstr "Dedicated to Legend of the Galactic Heroes."
 
 msgid "IDS_DOGTAG_PCNB312_NAME"
-msgstr "Флот Кирхайса"
+msgstr "Kirchheis's Fleet"
 
 msgid "IDS_DOGTAG_PCNB313_DESCRIPTION"
-msgstr "Николай Поликарпов прежде всего известен как создатель истребителей, но его опытно-конструкторское бюро также спроектировало все первые советские штурмовики."
+msgstr "Nikolai Polikarpov is primarily known as a creator of fighter aircraft, but his design bureau also designed all the first Soviet ground attack aircraft."
 
 msgid "IDS_DOGTAG_PCNB313_NAME"
-msgstr "ОКБ Поликарпова"
+msgstr "Polikarpov Design Bureau"
 
 msgid "IDS_DOGTAG_PCNB314_DESCRIPTION"
-msgstr "После разработки серии морских разведчиков опытно-конструкторское бюро Игоря Четверикова спроектировало палубный торпедоносец для морской авиации СССР."
+msgstr "After developing a series of naval reconnaissance aircraft, Igor Chetverikov's design bureau designed a carrier-based torpedo bomber for the Soviet naval aviation."
 
 msgid "IDS_DOGTAG_PCNB314_NAME"
-msgstr "ОКБ Четверикова"
+msgstr "Chetverikov Design Bureau"
 
 msgid "IDS_DOGTAG_PCNB315_DESCRIPTION"
-msgstr "Опытно-конструкторское бюро Сергея Кочеригина спроектировало целый ряд самолётов разных классов. Самыми же прогрессивными его разработками стали бомбардировщики."
+msgstr "Sergei Kocherigin's design bureau designed a wide range of aircraft of various classes. However, his most advanced designs were bombers."
 
 msgid "IDS_DOGTAG_PCNB315_NAME"
-msgstr "ОКБ Кочеригина"
+msgstr "Kocherigin Design Bureau"
 
 msgid "IDS_DOGTAG_PCNB324_DESCRIPTION"
-msgstr "9 июля 1944 г. завершилась трёхнедельная битва за Сайпан. Морская пехота США при поддержке флота взяла под контроль остров, ставший одним из ключевых пунктов во всей Тихоокеанской кампании. На следующий день, 10 июля 1944 г., был заложен USS Saipan — лёгкий авианосец ВМС США."
+msgstr "On July 9, 1944, the three-week Battle of Saipan ended. The U.S. Marines, supported by the fleet, took control of the island, which became one of the key points in the entire Pacific campaign. The next day, on July 10, 1944, the USS Saipan, a light aircraft carrier of the U.S. Navy, was laid down."
 
 msgid "IDS_DOGTAG_PCNB324_NAME"
 msgstr "USS Saipan"
 
 msgid "IDS_DOGTAG_PCNB325_DESCRIPTION"
-msgstr "Крупные корабли ВМС Германии 1920–1930-х гг., как правило, получали названия в честь погибших в годы Первой мировой войны предшественников. Броненосец Pommern, носивший имя провинции на побережье Балтийского моря, был потоплен в Ютландском сражении."
+msgstr "Large ships of the German Navy in the 1920s and 1930s were usually named after their predecessors who died during World War I. The armored cruiser Pommern, named after a province on the Baltic Sea coast, was sunk in the Battle of Jutland."
 
 msgid "IDS_DOGTAG_PCNB325_NAME"
 msgstr "Pommern"
 
 msgid "IDS_DOGTAG_PCNB326_DESCRIPTION"
-msgstr "Гора Иосино с незапамятных времён славится тем, что склоны её усеяны деревьями сакуры. Первым кораблём японского флота, названным в её честь, был бронепалубный крейсер, погибший во время войны с Россией в 1904 г."
+msgstr "Mount Yoshino has been famous since ancient times for its slopes covered with cherry trees. The first ship of the Japanese fleet named after it was an armored cruiser that perished during the war with Russia in 1904."
 
 msgid "IDS_DOGTAG_PCNB326_NAME"
 msgstr "Yoshino"
 
 msgid "IDS_DOGTAG_PCNB328_DESCRIPTION"
-msgstr "Линейные корабли типа Dunkerque проектировались для противодействия «карманным линкорам» типа Deutschland. На момент введения в строй последними кораблями, которые могли сражаться с ними на равных, были линейные крейсеры Королевского флота Великобритании и Императорского флота Японии."
+msgstr "The Dunkerque-class battleships were designed to counter the Deutschland-class 'pocket battleships.' At the time of their commissioning, the only ships capable of fighting them on equal terms were the battlecruisers of the Royal Navy of Great Britain and the Imperial Japanese Navy."
 
 msgid "IDS_DOGTAG_PCNB328_NAME"
 msgstr "Dunkerque"
 
 msgid "IDS_DOGTAG_PCNB330_DESCRIPTION"
-msgstr "Герб лёгкого крейсера Belfast с изображением морского конька, являющегося частью большого герба столицы Северной Ирландии — города Белфаста."
+msgstr "The coat of arms of the light cruiser Belfast features a seahorse, which is part of the larger coat of arms of the capital of Northern Ireland — the city of Belfast."
 
 msgid "IDS_DOGTAG_PCNB330_NAME"
 msgstr "HMS Belfast"
 
 msgid "IDS_DOGTAG_PCNB333_NAME"
-msgstr "4 года в Steam"
+msgstr "4 Years in Steam"
 
 msgid "IDS_DOGTAG_PCNB353_DESCRIPTION"
-msgstr "Попутного ветра всем мореходам!"
+msgstr "Fair winds to all sailors!"
 
 msgid "IDS_DOGTAG_PCNB353_NAME"
-msgstr "ВМФ Китая"
+msgstr "China Navy"
 
 msgid "IDS_DOGTAG_PCNB354_DESCRIPTION"
-msgstr "Победителям турнира Copa Latina-Americana Warships 2022."
+msgstr "To the winners of the Copa Latina-Americana Warships 2022 tournament."
 
 msgid "IDS_DOGTAG_PCNB354_NAME"
-msgstr "Победитель Copa Latina-Americana Warships 2022"
+msgstr "Copa Latina-Americana Warships 2022 Winner"
 
 msgid "IDS_DOGTAG_PCNB364_DESCRIPTION"
-msgstr "В честь портальной кампании «Вокруг света»."
+msgstr "In honor of the 'Around the World' portal campaign."
 
 msgid "IDS_DOGTAG_PCNB364_NAME"
-msgstr "Компас"
+msgstr "Compass"
 
 msgid "IDS_DOGTAG_PCNB370_DESCRIPTION"
-msgstr "Рычащий тигр — символ оживлённого и пышного торжества. Звуки гонга и залпы салютов погружают в атмосферу радостного праздника."
+msgstr "The roaring tiger is a symbol of a lively and grand celebration. The sounds of gongs and the bursts of fireworks immerse you in the atmosphere of a joyous festival."
 
 msgid "IDS_DOGTAG_PCNB370_NAME"
-msgstr "Разъярённый тигр"
+msgstr "Angry Tiger"
 
 msgid "IDS_DOGTAG_PCNB371_DESCRIPTION"
-msgstr "Носовое украшение эскадренного броненосца Kearsarge, находившегося в строю с 1900 по 1923 г. Традиция помещать на форштевень боевого корабля богато декорированные скульптурные композиции продержалась в ВМС США вплоть до эпохи броненосного флота."
+msgstr "The figurehead of the battleship Kearsarge, which was in service from 1900 to 1923. The tradition of placing richly decorated sculptural compositions on the prow of a warship persisted in the U.S. Navy until the era of battleship fleets."
 
 msgid "IDS_DOGTAG_PCNB371_NAME"
 msgstr "USS Kearsarge"
 
 msgid "IDS_DOGTAG_PCNB372_DESCRIPTION"
-msgstr "В 1920–1930-х гг. лёгкие крейсеры ВМС Германии получали наименования в честь погибших в годы Первой мировой войны «малых крейсеров» Императорского флота. SMS Mainz был потоплен 28 августа 1914 г. в ходе сражения в Гельголандской бухте."
+msgstr "In the 1920s and 1930s, light cruisers of the German Navy were named after the 'small cruisers' of the Imperial Navy that perished during World War I. SMS Mainz was sunk on August 28, 1914, during the Battle of Heligoland Bight."
 
 msgid "IDS_DOGTAG_PCNB372_NAME"
 msgstr "Mainz"
 
 msgid "IDS_DOGTAG_PCNB374_DESCRIPTION"
-msgstr "В переводе с японского Shinonome означает «утренняя заря». В лучах восходящего солнца изображена гора Фудзи — священный символ в японской культуре."
+msgstr "In Japanese, Shinonome translates to 'morning dawn.' In the rays of the rising sun, Mount Fuji, a sacred symbol in Japanese culture, is depicted."
 
 msgid "IDS_DOGTAG_PCNB374_NAME"
 msgstr "Shinonome"
 
 msgid "IDS_DOGTAG_PCNB375_DESCRIPTION"
-msgstr "В честь игр «Мир кораблей», «Мир танков» и Tanks Blitz."
+msgstr "In honor of the games World of Warships, World of Tanks, and Tanks Blitz."
 
 msgid "IDS_DOGTAG_PCNB375_NAME"
-msgstr "Мир военной техники"
+msgstr "World of Military Vehicles"
 
 msgid "IDS_DOGTAG_PCNB376_DESCRIPTION"
-msgstr "В честь 5-й годовщины выхода в онлайн-сервисе Steam."
+msgstr "In honor of the 5th anniversary on the Steam online service."
 
 msgid "IDS_DOGTAG_PCNB376_NAME"
-msgstr "5 лет в Steam"
+msgstr "5 Years in Steam"
 
 msgid "IDS_DOGTAG_PCNB377_DESCRIPTION"
-msgstr "С начала XIV в., во время правления Анжуйской династии Неаполитанского королевства, символом Неаполя стало сочетание золотого и красного цветов. В 1866 г. гербовый щит увенчали короной с городскими башнями — символом муниципальной независимости."
+msgstr "Since the beginning of the 14th century, during the reign of the Angevin dynasty of the Kingdom of Naples, the combination of gold and red became the symbol of Naples. In 1866, the heraldic shield was crowned with a crown with city towers — a symbol of municipal independence."
 
 msgid "IDS_DOGTAG_PCNB377_NAME"
 msgstr "Napoli"
 
 msgid "IDS_DOGTAG_PCNB383_DESCRIPTION"
-msgstr "В честь совместного события в играх."
+msgstr "In honor of a joint event in games."
 
 msgid "IDS_DOGTAG_PCNB383_NAME"
-msgstr "Мир военных игр"
+msgstr "World of War Games"
 
 msgid "IDS_DOGTAG_PCNB386_DESCRIPTION"
-msgstr "Гербовый щит Роттердама пересечён белой полосой, которая обозначает реку Ротте. В верхней части расположены два красных и два чёрных льва, символизирующих Голландию и Эно соответственно. Традиционно считается, что герб был пожалован Роттердаму Вильгельмом I Добрым, графом Голландии и Эно."
+msgstr "The coat of arms of Rotterdam is crossed by a white stripe representing the river Rotte. In the upper part, there are two red and two black lions, symbolizing Holland and Hainaut respectively. Traditionally, it is believed that the coat of arms was granted to Rotterdam by William I the Good, Count of Holland and Hainaut."
 
 msgid "IDS_DOGTAG_PCNB386_NAME"
-msgstr "Роттердам"
+msgstr "Rotterdam"
 
 msgid "IDS_DOGTAG_PCNB389_DESCRIPTION"
-msgstr "В память о людях и подвигах, которые они совершали, приближая День Победы."
+msgstr "In memory of the people and deeds that brought Victory Day closer."
 
 msgid "IDS_DOGTAG_PCNB389_NAME"
-msgstr "Страницы памяти"
+msgstr "Pages of Memory"
 
 msgid "IDS_DOGTAG_PCNB391_DESCRIPTION"
-msgstr "Восьмиконечная звезда («зорка» с белор. — «звезда») считается одним из неофициальных символов Беларуси. Традиционно олицетворяет победу света над тьмой, а также является символом человека, земли-матери, урожая и богатства."
+msgstr "The eight-pointed star ('zorka' in Belarusian) is considered one of the unofficial symbols of Belarus. It traditionally symbolizes the victory of light over darkness, as well as being a symbol of humanity, the mother earth, harvest, and wealth."
 
 msgid "IDS_DOGTAG_PCNB391_NAME"
-msgstr "Зорка"
+msgstr "Zorka"
 
 msgid "IDS_DOGTAG_PCNB392_DESCRIPTION"
-msgstr "Медведь традиционно является олицетворением России: изображение этого животного встречается в геральдике и на ранних географических картах. Медведь занимает особое место в мифологии и фольклоре народов России, а его образ в национальном сознании ассоциируется с такими качествами, как сила, неуклюжесть и простодушие."
+msgstr "The bear is traditionally the personification of Russia: the image of this animal is found in heraldry and early geographical maps. The bear occupies a special place in the mythology and folklore of the peoples of Russia, and in the national consciousness, its image is associated with qualities such as strength, clumsiness, and simplicity."
 
 msgid "IDS_DOGTAG_PCNB392_NAME"
-msgstr "Русский медведь"
+msgstr "Russian Bear"
 
 msgid "IDS_DOGTAG_PCNB394_DESCRIPTION"
-msgstr "Легендарная советская и российская музыкальная группа, основанная в середине 1980-х гг. и работающая в жанре хеви-метала. За свою многолетнюю карьеру «Ария» записала десятки хитов, снискавших любовь как поклонников жанра, так и широкой аудитории."
+msgstr "A legendary Soviet and Russian music band, founded in the mid-1980s, performing in the heavy metal genre. Over their long career, 'Aria' recorded dozens of hits that gained the love of both genre fans and a wide audience."
 
 msgid "IDS_DOGTAG_PCNB394_NAME"
-msgstr "Ария"
+msgstr "Aria"
 
 msgid "IDS_DOGTAG_PCNB395_DESCRIPTION"
-msgstr "В память о героизме экипажей транспортов и кораблей сопровождения, участвовавших в проводке арктического конвоя PQ-17."
+msgstr "In memory of the heroism of the crews of transports and escort ships that participated in the Arctic convoy PQ-17."
 
 msgid "IDS_DOGTAG_PCNB395_NAME"
 msgstr "PQ-17"
 
 msgid "IDS_DOGTAG_PCNB396_DESCRIPTION"
-msgstr "Чей туфля?"
+msgstr "Whose shoe?"
 
 msgid "IDS_DOGTAG_PCNB396_NAME"
-msgstr "Трус"
+msgstr "Coward"
 
 msgid "IDS_DOGTAG_PCNB397_DESCRIPTION"
-msgstr "Бамбарбия! Киргуду!"
+msgstr "Bambarbia! Kirgudu!"
 
 msgid "IDS_DOGTAG_PCNB397_NAME"
-msgstr "Балбес"
+msgstr "Dunce"
 
 msgid "IDS_DOGTAG_PCNB398_DESCRIPTION"
-msgstr "Это же вам не лезгинка, а твист!"
+msgstr "This is not a lezginka, it's a twist!"
 
 msgid "IDS_DOGTAG_PCNB398_NAME"
-msgstr "Бывалый"
+msgstr "Experienced"
 
 msgid "IDS_DOGTAG_PCNB400_DESCRIPTION"
-msgstr "День рождения персонального компьютера отмечается 12 августа. Именно в этот день в 1981 г. была представлена массовая модель компьютера, предназначенного не для учёных и специалистов на предприятиях, а для обыкновенных пользователей."
+msgstr "The birthday of the personal computer is celebrated on August 12. It was on this day in 1981 that a mass-produced model of a computer was introduced, intended not for scientists and specialists at enterprises but for ordinary users."
 
 msgid "IDS_DOGTAG_PCNB400_NAME"
-msgstr "Здрав будь, боярин!"
+msgstr "Hail, Boyar!"
 
 msgid "IDS_DOGTAG_PCNB402_DESCRIPTION"
-msgstr "В честь события «Во имя прогресса!»."
+msgstr "In honor of the event 'In the Name of Progress!'"
 
 msgid "IDS_DOGTAG_PCNB402_NAME"
-msgstr "Навстречу Вселенной"
+msgstr "Towards the Universe"
 
 msgid "IDS_DOGTAG_PCNB406_DESCRIPTION"
-msgstr "Турнир «Прорыв» — динамичные состязания, полные эмоций, адреналина, духа соперничества и настоящего боевого товарищества."
+msgstr "The 'Breakthrough' tournament is dynamic competitions full of emotions, adrenaline, the spirit of rivalry, and true combat camaraderie."
 
 msgid "IDS_DOGTAG_PCNB406_NAME"
-msgstr "Прорыв"
+msgstr "Breakthrough"
 
 msgid "IDS_DOGTAG_PCNB407_DESCRIPTION"
 msgstr ""
-"И той стражи нет надежней,\n"
-"Ни храбрее, ни прилежней.\n"
+"And there is no guard more reliable,\n"
+"Nor braver, nor more diligent.\n"
 "\n"
-"В честь турнира «Царь морей»."
+"In honor of the 'Tsar of the Seas' tournament."
 
 msgid "IDS_DOGTAG_PCNB407_NAME"
-msgstr "Черномор"
+msgstr "Black Sea"
 
 msgid "IDS_DOGTAG_PCNB411_DESCRIPTION"
-msgstr "Все с чего-то начинали!"
+msgstr "Everyone started somewhere!"
 
 msgid "IDS_DOGTAG_PCNB411_NAME"
-msgstr "Новобранец"
+msgstr "Recruit"
 
 msgid "IDS_DOGTAG_PCNB412_DESCRIPTION"
-msgstr "В честь восьмого дня рождения игры."
+msgstr "In honor of the game's eighth birthday."
 
 msgid "IDS_DOGTAG_PCNB413_DESCRIPTION"
-msgstr "Сборник рассказов Эдуарда Овечкина посвящён учёбе в военно-морском училище и службе на подводной лодке ТК-20 (тип «Акула»). Рассказы описывают быт подводников на глубине и на суше."
+msgstr "Eduard Ovechkin's collection of stories is dedicated to studying at a naval school and serving on the submarine TK-20 (Typhoon-class). The stories describe the everyday life of submariners both underwater and on land."
 
 msgid "IDS_DOGTAG_PCNB413_NAME"
-msgstr "Акулы из стали"
+msgstr "Steel Sharks"
 
 msgid "IDS_DOGTAG_PCNB414_DESCRIPTION"
-msgstr "На территории России проживает более 190 народов. Согласно переписи, о принадлежности к самым малочисленным из них заявили не более десяти человек, представители же других народов исчисляются миллионами."
+msgstr "More than 190 ethnic groups live in Russia. According to the census, the smallest of them were identified by no more than ten people, while others count in the millions."
 
 msgid "IDS_DOGTAG_PCNB414_NAME"
-msgstr "День народного единства"
+msgstr "National Unity Day"
 
 msgid "IDS_DOGTAG_PCNB415_DESCRIPTION"
-msgstr "Создаём миры, объединяем людей."
+msgstr "Creating worlds, uniting people."
 
 msgid "IDS_DOGTAG_PCNB415_NAME"
 msgstr "Lesta Games"
 
 msgid "IDS_DOGTAG_PCNB416_DESCRIPTION"
-msgstr "Легендарная танковая онлайн-игра."
+msgstr "A legendary tank online game."
 
 msgid "IDS_DOGTAG_PCNB416_NAME"
-msgstr "Мир танков"
+msgstr "World of Tanks"
 
 msgid "IDS_DOGTAG_PCNB417_DESCRIPTION"
 msgstr ""
-"«Перестали потрескивать от мороза деревья, а снег начал падать густо, большими, мягкими хлопьями».\n"
+"The trees stopped crackling from the frost,\n"
+"And the snow began to fall thickly, in large, soft flakes.\n"
 "\n"
-"В честь празднования Нового года."
+"In honor of the New Year celebration."
 
 msgid "IDS_DOGTAG_PCNB417_NAME"
-msgstr "Снежинка"
+msgstr "Snowflake"
 
 msgid "IDS_DOGTAG_PCNB418_DESCRIPTION"
-msgstr "Поздравляем с лучшим результатом по итогам всех боёв на авианосцах за 2022 год!"
+msgstr "Congratulations on achieving the best results in all carrier battles for 2022!"
 
 msgid "IDS_DOGTAG_PCNB418_NAME"
-msgstr "Лучший командир авианосца 2022"
+msgstr "Best Carrier Commander 2022"
 
 msgid "IDS_DOGTAG_PCNB419_DESCRIPTION"
-msgstr "Поздравляем с лучшим результатом по итогам всех боёв на эсминцах за 2022 год!"
+msgstr "Congratulations on achieving the best results in all destroyer battles for 2022!"
 
 msgid "IDS_DOGTAG_PCNB419_NAME"
-msgstr "Лучший командир эсминца 2022"
+msgstr "Best Destroyer Commander 2022"
 
 msgid "IDS_DOGTAG_PCNB420_DESCRIPTION"
-msgstr "Поздравляем с лучшим результатом по итогам всех боёв на крейсерах за 2022 год!"
+msgstr "Congratulations on achieving the best results in all cruiser battles for 2022!"
 
 msgid "IDS_DOGTAG_PCNB420_NAME"
-msgstr "Лучший командир крейсера 2022"
+msgstr "Best Cruiser Commander 2022"
 
 msgid "IDS_DOGTAG_PCNB421_DESCRIPTION"
-msgstr "Поздравляем с лучшим результатом по итогам всех боёв на линкорах за 2022 год!"
+msgstr "Congratulations on achieving the best results in all battleship battles for 2022!"
 
 msgid "IDS_DOGTAG_PCNB421_NAME"
-msgstr "Лучший командир линкора 2022"
+msgstr "Best Battleship Commander 2022"
 
 msgid "IDS_DOGTAG_PCNB422_DESCRIPTION"
-msgstr "Поздравляем с лучшим результатом по итогам всех боёв на авианосцах за 2023 год!"
+msgstr "Congratulations on achieving the best results in all carrier battles for 2023!"
 
 msgid "IDS_DOGTAG_PCNB422_NAME"
-msgstr "Лучший командир авианосца 2023"
+msgstr "Best Carrier Commander 2023"
 
 msgid "IDS_DOGTAG_PCNB423_DESCRIPTION"
-msgstr "Поздравляем с лучшим результатом по итогам всех боёв на эсминцах за 2023 год!"
+msgstr "Congratulations on achieving the best results in all destroyer battles for 2023!"
 
 msgid "IDS_DOGTAG_PCNB423_NAME"
-msgstr "Лучший командир эсминца 2023"
+msgstr "Best Destroyer Commander 2023"
 
 msgid "IDS_DOGTAG_PCNB424_DESCRIPTION"
-msgstr "Поздравляем с лучшим результатом по итогам всех боёв на крейсерах за 2023 год!"
+msgstr "Congratulations on achieving the best results in all cruiser battles for 2023!"
 
 msgid "IDS_DOGTAG_PCNB424_NAME"
-msgstr "Лучший командир крейсера 2023"
+msgstr "Best Cruiser Commander 2023"
 
 msgid "IDS_DOGTAG_PCNB425_DESCRIPTION"
-msgstr "Поздравляем с лучшим результатом по итогам всех боёв на линкорах за 2023 год!"
+msgstr "Congratulations on achieving the best results in all battleship battles for 2023!"
 
 msgid "IDS_DOGTAG_PCNB425_NAME"
-msgstr "Лучший командир линкора 2023"
+msgstr "Best Battleship Commander 2023"
 
 msgid "IDS_DOGTAG_PCNB426_DESCRIPTION"
-msgstr "Поздравляем с лучшим результатом по итогам всех боёв на подводных лодках за 2023 год!"
+msgstr "Congratulations on achieving the best results in all submarine battles for 2023!"
 
 msgid "IDS_DOGTAG_PCNB426_NAME"
-msgstr "Лучший командир подводной лодки 2023"
+msgstr "Best Submarine Commander 2023"
 
 msgid "IDS_DOGTAG_PCNB427_DESCRIPTION"
-msgstr "Исторический герб города Смоленска известен с XVII в. На серебряном поле изображена чёрная пушка с золотым лафетом, стоящая на зелёной земле, а на пушке расположилась райская птица Гамаюн."
+msgstr "The historic coat of arms of the city of Smolensk has been known since the 17th century. On a silver field is depicted a black cannon with a golden carriage standing on green ground, and on the cannon is perched the heavenly bird Gamayun."
 
 msgid "IDS_DOGTAG_PCNB427_NAME"
-msgstr "Смоленск"
+msgstr "Smolensk"
 
 msgid "IDS_DOGTAG_PCNB428_DESCRIPTION"
 msgstr ""
-"Обладатель этого символа получил возможность выиграть гитару с автографами музыкантов «Арии».\n"
+"The holder of this symbol won a chance to win a guitar with the signatures of the musicians of 'Aria.'\n"
 "\n"
-"За сбор коллекции «Здесь куют металл»."
+"For completing the 'Forging Metal' collection."
 
 msgid "IDS_DOGTAG_PCNB428_NAME"
-msgstr "Здесь куют металл"
+msgstr "Forging Metal"
 
 msgid "IDS_DOGTAG_PCNB429_DESCRIPTION"
-msgstr "Офицеров — участников обороны Порт-Артура награждали серебряным нагрудным крестом. В центре медали на белой эмали был изображён силуэт эскадренного броненосца."
+msgstr "Officers who participated in the defense of Port Arthur were awarded a silver chest cross. In the center of the medal, on white enamel, was depicted the silhouette of a battleship."
 
 msgid "IDS_DOGTAG_PCNB429_NAME"
-msgstr "Крест «За Порт-Артур»"
+msgstr "Cross 'For Port Arthur'"
 
 msgid "IDS_DOGTAG_PCNB430_DESCRIPTION"
-msgstr "В честь Всемирного дня домашних животных."
+msgstr "In honor of World Pet Day."
 
 msgid "IDS_DOGTAG_PCNB430_NAME"
-msgstr "Кот-мореход"
+msgstr "Sea Cat"
 
 msgid "IDS_DOGTAG_PCNB432_DESCRIPTION"
-msgstr "Изображение борющихся акулы и крокодила олицетворяет борьбу индонезийского народа против колонизаторов и одновременно является символом города Сурабая. Именно здесь в 1959–64 гг. находилась главная военно-морская база контингента ВМФ СССР в Индонезии, а сейчас там стоит корабль-музей KRI Pasopati. Это бывшая советская подводная лодка С-79, переданная Индонезии и участвовавшая в операции «Трикора» по присоединению западной части острова Новая Гвинея."
+msgstr "The image of a fighting shark and a crocodile symbolizes the Indonesian people's struggle against colonizers and is simultaneously a symbol of the city of Surabaya. It was here that, from 1959 to 1964, the main naval base of the Soviet Navy contingent in Indonesia was located, and now the museum ship KRI Pasopati is moored. This former Soviet submarine S-79 was transferred to Indonesia and participated in Operation Trikora for the annexation of the western part of the island of New Guinea."
 
 msgid "IDS_DOGTAG_PCNB432_NAME"
-msgstr "Операция «Трикора»"
+msgstr "Operation Trikora"
 
 msgid "IDS_DOGTAG_PCNB433_DESCRIPTION"
-msgstr "Царство Вэй было одним из государств эпохи Троецарствия, боровшихся за контроль над Китаем в III в. Располагалось на севере. Чёрная черепаха, обвитая змеёй, традиционно считается животным-покровителем севера в китайской мифологии."
+msgstr "The Kingdom of Wei was one of the states of the Three Kingdoms period, fighting for control of China in the 3rd century. It was located in the north. The Black Tortoise, entwined with a snake, is traditionally considered the guardian animal of the north in Chinese mythology."
 
 msgid "IDS_DOGTAG_PCNB433_NAME"
-msgstr "Царство Вэй"
+msgstr "Kingdom of Wei"
 
 msgid "IDS_DOGTAG_PCNB434_DESCRIPTION"
-msgstr "Царство Шу было одним из государств эпохи Троецарствия, боровшихся за контроль над Китаем в III в. Располагалось на западе. Белый тигр традиционно считается животным-покровителем запада в китайской мифологии."
+msgstr "The Kingdom of Shu was one of the states of the Three Kingdoms period, fighting for control of China in the 3rd century. It was located in the west. The White Tiger is traditionally considered the guardian animal of the west in Chinese mythology."
 
 msgid "IDS_DOGTAG_PCNB434_NAME"
-msgstr "Царство Шу"
+msgstr "Kingdom of Shu"
 
 msgid "IDS_DOGTAG_PCNB435_DESCRIPTION"
-msgstr "Царство У было одним из государств эпохи Троецарствия, боровшихся за контроль над Китаем в III в. Располагалось на востоке и юге. Лазурный дракон традиционно считается животным-покровителем востока в китайской мифологии."
+msgstr "The Kingdom of Wu was one of the states of the Three Kingdoms period, fighting for control of China in the 3rd century. It was located in the east and south. The Azure Dragon is traditionally considered the guardian animal of the east in Chinese mythology."
 
 msgid "IDS_DOGTAG_PCNB435_NAME"
-msgstr "Царство У"
+msgstr "Kingdom of Wu"
 
 msgid "IDS_DOGTAG_PCNB436_DESCRIPTION"
-msgstr "Этот символ императорской власти появился в 221 г. до н. э., после объединения Китая под началом Цинь Шихуанди, основателя династии Цинь. Императорская печать тесно связана с китайской политической культурой и представлением об особой связи между правящей династией и небом. Считалось, что обладающий этой печатью имеет «небесный мандат» на царствование над всем Китаем. Печать оставалась символом императорской власти на протяжении тысячелетия, пока не была утрачена в X в. н. э."
+msgstr "This symbol of imperial power appeared in 221 B.C. after the unification of China under Qin Shi Huang, the founder of the Qin Dynasty. The Imperial Seal is closely related to Chinese political culture and the idea of a special connection between the ruling dynasty and heaven. It was believed that the possessor of this seal had the 'Mandate of Heaven' to rule all of China. The seal remained a symbol of imperial power for a millennium until it was lost in the 10th century A.D."
 
 msgid "IDS_DOGTAG_PCNB436_NAME"
-msgstr "Императорская печать"
+msgstr "Imperial Seal"
 
 msgid "IDS_DOGTAG_PCNB437_DESCRIPTION"
-msgstr "В БОЛЬ!"
+msgstr "INTO THE PAIN!"
 
 msgid "IDS_DOGTAG_PCNB437_NAME"
-msgstr "Леха Sn1p3r90"
+msgstr "Leha Sn1p3r90"
 
 msgid "IDS_DOGTAG_PCNB438_DESCRIPTION"
-msgstr "В современной России сложилась традиция отмечать День кошек 1 марта. Как правило, в разных городах страны в первый день весны проходят выставки, соревнования и благотворительные акции, посвящённые кошкам."
+msgstr "In modern Russia, there is a tradition to celebrate Cat Day on March 1. Typically, on the first day of spring, various cities across the country host exhibitions, competitions, and charity events dedicated to cats."
 
 msgid "IDS_DOGTAG_PCNB438_NAME"
-msgstr "День кошек"
+msgstr "Cat Day"
 
 msgid "IDS_DOGTAG_PCNB439_DESCRIPTION"
-msgstr "В честь Международного дня варки картофеля."
+msgstr "In honor of International Potato Cooking Day."
 
 msgid "IDS_DOGTAG_PCNB439_NAME"
-msgstr "К-АРРРРРРР-ТОФЕЛЬ!"
+msgstr "P-ARRRRR-TATO!"
 
 msgid "IDS_DOGTAG_PCNB440_DESCRIPTION"
-msgstr "В благодарность ветеранам Великой Отечественной войны."
+msgstr "In gratitude to the veterans of the Great Patriotic War."
 
 msgid "IDS_DOGTAG_PCNB440_NAME"
-msgstr "Красная гвоздика"
+msgstr "Red Carnation"
 
 msgid "IDS_DOGTAG_PCNB441_DESCRIPTION"
 msgstr ""
-"Впервые рыбный день на предприятиях общественного питания в СССР был введён в 1932 г., однако за определённым днём недели — четвергом — он был закреплён только в 1970-х гг.\n"
+"Fish Day was first introduced at catering establishments in the USSR in 1932, but it was only in the 1970s that it was assigned to a specific day of the week — Thursday.\n"
 "\n"
-"Победителю розыгрыша «Рыбный четверг»."
+"To the winner of the 'Fish Thursday' draw."
 
 msgid "IDS_DOGTAG_PCNB441_NAME"
-msgstr "Рыбный четверг"
+msgstr "Fish Thursday"
 
 msgid "IDS_DOGTAG_PCNB442_DESCRIPTION"
-msgstr "Пустыня — песчаный океан."
+msgstr "The desert is a sandy ocean."
 
 msgid "IDS_DOGTAG_PCNB442_NAME"
-msgstr "Каракумы"
+msgstr "Karakum"
 
 msgid "IDS_DOGTAG_PCNB443_DESCRIPTION"
-msgstr "Международный день собак — неофициальный праздник, который в ряде стран отмечают 2 июля. Собаки были одомашнены более 15 000 лет назад, а сегодня в мире насчитывается около 400 пород, которые были выведены для различных целей: охоты, выпаса скота, охраны, тяги транспорта и т. д."
+msgstr "International Dog Day is an unofficial holiday celebrated on July 2 in several countries. Dogs were domesticated over 15,000 years ago, and today there are about 400 breeds bred for various purposes: hunting, herding, guarding, transportation, etc."
 
 msgid "IDS_DOGTAG_PCNB443_NAME"
-msgstr "Международный день собак"
+msgstr "International Dog Day"
 
 msgid "IDS_DOGTAG_PCNB445_DESCRIPTION"
-msgstr "Двуглавый орёл и всадник-драконоборец становятся постоянными символами на печатях русских государей со времён Ивана III. Образ всадника с копьём, поражающего змия, появляется на княжеских печатях с XIII в., а двуглавого орла, увенчанного коронами, можно найти на великокняжеской печати, которой была скреплена жалованная грамота 1497 г."
+msgstr "The double-headed eagle and the dragon-slaying rider have been constant symbols on the seals of Russian rulers since the time of Ivan III. The image of a rider with a spear piercing a serpent appeared on princely seals from the 13th century, and the double-headed eagle crowned with crowns can be found on the Grand Duke's seal, which sealed the charter of 1497."
 
 msgid "IDS_DOGTAG_PCNB445_NAME"
-msgstr "Двуглавый орёл"
+msgstr "Double-Headed Eagle"
 
 msgid "IDS_DOGTAG_PCNB446_DESCRIPTION"
-msgstr "По одной из версий, происхождение российского триколора неразрывно связано с зарождением флота. Во второй половине XVII в. был построен парусный военный корабль «Орёл», предназначавшийся для охраны русских торговых судов. Из сохранившихся документов известно, что для изготовления морского флага были заказаны белая, синяя и красная ткани."
+msgstr "According to one version, the origin of the Russian tricolor is inextricably linked to the birth of the fleet. In the second half of the 17th century, a sailing warship called the 'Eagle' was built to protect Russian merchant ships. According to surviving documents, white, blue, and red fabrics were ordered to make the naval flag."
 
 msgid "IDS_DOGTAG_PCNB446_NAME"
-msgstr "Российский триколор"
+msgstr "Russian Tricolor"
 
 msgid "IDS_DOGTAG_PCNB447_DESCRIPTION"
-msgstr "Российско-американская компания — торговая организация, созданная русскими купцами и утверждённая Павлом I в 1799 г. Основной деятельностью компании были торговля пушниной и управление русскими владениями в Новом Свете. Флаг компании, утверждённый Александром I в 1806 г., использовался как морской и крепостной флаг."
+msgstr "The Russian-American Company was a trading organization created by Russian merchants and approved by Paul I in 1799. The company's main activities were fur trade and the management of Russian possessions in the New World. The company's flag, approved by Alexander I in 1806, was used as both a naval and fortress flag."
 
 msgid "IDS_DOGTAG_PCNB447_NAME"
-msgstr "Русская Аляска"
+msgstr "Russian Alaska"
 
 msgid "IDS_DOGTAG_PCNB448_DESCRIPTION"
 msgstr ""
-"В третий раз закинул он невод, —\n"
-"Пришёл невод с одною рыбкой,\n"
-"С непростою рыбкой, — золотою.\n"
+"For the third time, he cast the net, —\n"
+"The net came up with only one fish,\n"
+"A special fish, — a golden one.\n"
 "\n"
-"Обладатель этого символа внёс вклад в формирование призового фонда турнира «Царь морей»."
+"The holder of this symbol contributed to the prize pool of the 'Tsar of the Seas' tournament."
 
 msgid "IDS_DOGTAG_PCNB448_NAME"
-msgstr "Золотая рыбка"
+msgstr "Golden Fish"
 
 msgid "IDS_DOGTAG_PCNU106_DESCRIPTION"
-msgstr "Турнир «Прорыв» — динамичные состязания, полные эмоций, адреналина, духа соперничества и настоящего боевого товарищества."
+msgstr "The 'Breakthrough' tournament is dynamic competitions full of emotions, adrenaline, the spirit of rivalry, and true combat camaraderie."
 
 msgid "IDS_DOGTAG_PCNU106_NAME"
-msgstr "Прорыв. Новичок"
+msgstr "Breakthrough. Rookie"
 
 msgid "IDS_DOGTAG_PCNU107_DESCRIPTION"
-msgstr "Турнир «Прорыв» — динамичные состязания, полные эмоций, адреналина, духа соперничества и настоящего боевого товарищества."
+msgstr "The 'Breakthrough' tournament is dynamic competitions full of emotions, adrenaline, the spirit of rivalry, and true combat camaraderie."
 
 msgid "IDS_DOGTAG_PCNU107_NAME"
-msgstr "Прорыв. Ветеран"
+msgstr "Breakthrough. Veteran"
 
 msgid "IDS_DOGTAG_PCNU108_DESCRIPTION"
-msgstr "Турнир «Прорыв» — динамичные состязания, полные эмоций, адреналина, духа соперничества и настоящего боевого товарищества."
+msgstr "The 'Breakthrough' tournament is dynamic competitions full of emotions, adrenaline, the spirit of rivalry, and true combat camaraderie."
 
 msgid "IDS_DOGTAG_PCNU108_NAME"
-msgstr "Прорыв. Элита"
+msgstr "Breakthrough. Elite"
 
 msgid "IDS_DOGTAG_PCNU109_DESCRIPTION"
-msgstr "Турнир «Прорыв» — динамичные состязания, полные эмоций, адреналина, духа соперничества и настоящего боевого товарищества."
+msgstr "The 'Breakthrough' tournament is dynamic competitions full of emotions, adrenaline, the spirit of rivalry, and true combat camaraderie."
 
 msgid "IDS_DOGTAG_PCNU109_NAME"
-msgstr "Прорыв. Победитель"
+msgstr "Breakthrough. Winner"
 
 msgid "IDS_DOGTAG_PCNU110_DESCRIPTION"
-msgstr "Это самые престижные и захватывающие соревнования в «Мире кораблей». Масштабный турнир, организованный по инициативе самих игроков, в котором команды соревнуются в искусстве ведения боя и сражаются за звание лучших!"
+msgstr "These are the most prestigious and exciting competitions in World of Warships. A large-scale tournament organized on the initiative of the players themselves, where teams compete in the art of combat and fight for the title of the best!"
 
 msgid "IDS_DOGTAG_PCNU110_NAME"
-msgstr "Царь морей. Новичок"
+msgstr "Tsar of the Seas: Rookie"
 
 msgid "IDS_DOGTAG_PCNU111_DESCRIPTION"
-msgstr "Это самые престижные и захватывающие соревнования в «Мире кораблей». Масштабный турнир, организованный по инициативе самих игроков, в котором команды соревнуются в искусстве ведения боя и сражаются за звание лучших!"
+msgstr "These are the most prestigious and exciting competitions in World of Warships. A large-scale tournament organized on the initiative of the players themselves, where teams compete in the art of combat and fight for the title of the best!"
 
 msgid "IDS_DOGTAG_PCNU111_NAME"
-msgstr "Царь морей. Ветеран"
+msgstr "Tsar of the Seas: Veteran"
 
 msgid "IDS_DOGTAG_PCNU112_DESCRIPTION"
-msgstr "Это самые престижные и захватывающие соревнования в «Мире кораблей». Масштабный турнир, организованный по инициативе самих игроков, в котором команды соревнуются в искусстве ведения боя и сражаются за звание лучших!"
+msgstr "These are the most prestigious and exciting competitions in World of Warships. A large-scale tournament organized on the initiative of the players themselves, where teams compete in the art of combat and fight for the title of the best!"
 
 msgid "IDS_DOGTAG_PCNU112_NAME"
-msgstr "Царь морей. Элита"
+msgstr "Tsar of the Seas: Elite"
 
 msgid "IDS_DOGTAG_PCNU113_DESCRIPTION"
-msgstr "Это самые престижные и захватывающие соревнования в «Мире кораблей». Масштабный турнир, организованный по инициативе самих игроков, в котором команды соревнуются в искусстве ведения боя и сражаются за звание лучших!"
+msgstr "These are the most prestigious and exciting competitions in World of Warships. A large-scale tournament organized on the initiative of the players themselves, where teams compete in the art of combat and fight for the title of the best!"
 
 msgid "IDS_DOGTAG_PCNU113_NAME"
-msgstr "Царь морей. Победитель"
+msgstr "Tsar of the Seas: Winner"
 
 msgid "IDS_DROZDOV"
-msgstr "Валентин Дрозд"
+msgstr "Valentin Drozd"
 
 msgid "IDS_DUAL_CAS_SSC_HANG"
-msgstr "Обшивка ангара"
+msgstr "Hangar Sheathing"
 
 msgid "IDS_DUBININ_ARIA"
-msgstr "Виталий Дубинин"
+msgstr "Vitaly Dubinin"
 
 msgid "IDS_DUPLICATE_STAMP"
-msgstr "ДУБЛИКАТ"
+msgstr "DUPLICATE"
 
 msgid "IDS_DZHABRAILOV"
-msgstr "Тимур Джабраилов"
+msgstr "Timur Dzhabrailov"
 
 msgid "IDS_ECONOMIC_BOOSTS_EXPENDABLE_AUTOPURCHASE_TOOLTIP_DESCRIPTION"
 msgstr "Стандартные и особые бонусы будут покупаться автоматически, если вы выходите в бой с последними бонусами этих типов."
