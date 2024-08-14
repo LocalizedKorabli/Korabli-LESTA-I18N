@@ -6511,7 +6511,7 @@ msgid "IDS_PAUH820_D9_HULL_STOCK"
 msgstr "Maffitt"
 
 msgid "IDS_PAUH917_B10_HULL_STOCK"
-msgstr "Vermont Test"
+msgstr "Vermont (EM)"
 
 msgid "IDS_PAUH919_N_HAMPSHIRE"
 msgstr "New Hampshire"
@@ -7126,7 +7126,7 @@ msgid "IDS_PBUE500_ENG_BLACK_REPULSE"
 msgstr "Propulsion: 119,025 hp"
 
 msgid "IDS_PBUE718_ENG_TIGER_TEST"
-msgstr "Propulsion: 80,000 hp"
+msgstr "Propulsion: 80,000 hp"
 
 msgid "IDS_PBUF301_CV4_FC"
 msgstr "Mk4 mod. 1"
@@ -7402,250 +7402,250 @@ msgid "IDS_PBUS812_B9_SUO_TOP"
 msgstr "Mk IX mod. 2"
 
 msgid "IDS_PBUT201_CAMPBELTOWN"
-msgstr "Bliss Leavitt Mk8 mod. 2"
+msgstr "Bliss Leavitt Mk8 mod. 2"
 
 msgid "IDS_PCEC021_VALENTINE_TILE"
-msgstr "День святого Валентина"
+msgstr "Valentine's Day"
 
 msgid "IDS_PCEC086_KOTSCAMO"
-msgstr "Царь морей"
+msgstr "Tsar of the Seas"
 
 msgid "IDS_PCEC118_KOTS13_RED_CAMO"
-msgstr "Царь морей — Красный"
+msgstr "Tsar of the Seas — Red"
 
 msgid "IDS_PCEC119_KOTS13_GREEN_CAMO"
-msgstr "Царь морей — Зелёный"
+msgstr "Tsar of the Seas — Green"
 
 msgid "IDS_PCEC133_MS_STORE"
-msgstr "5 лет в Microsoft Store"
+msgstr "5 Years in Microsoft Store"
 
 msgid "IDS_PCEC137_MASLENNICA_CAMO"
-msgstr "Солнечный"
+msgstr "Sunny"
 
 msgid "IDS_PCEC140_SPACEDAY_BRO"
-msgstr "Космический кадет"
+msgstr "Space Cadet"
 
 msgid "IDS_PCEC141_SPACEDAY_NOT_BRO"
-msgstr "Огонь соперничества"
+msgstr "Rivalry Fire"
 
 msgid "IDS_PCEE013_SEASONFLAG03_DESCRIPTION"
-msgstr "В 1889 г. ВМС США создали военно-морскую базу на Гавайях. Утром 7 декабря 1941 г. база Пёрл-Харбор была атакована японской морской авиацией и субмаринами, что послужило причиной для вступления США во Вторую мировую войну."
+msgstr "In 1889, the US Navy established a naval base in Hawaii. On the morning of December 7, 1941, the Pearl Harbor base was attacked by Japanese naval aviation and submarines, leading to the United States entering World War II."
 
 msgid "IDS_PCEE015_JOLLY_ROGER_2"
 msgstr ""
-"Весёлый Роджер\n"
-"II степени"
+"Jolly Roger\n"
+"II Degree"
 
 msgid "IDS_PCEE018_FLAG_VAL_PLAYER_DESCRIPTION"
-msgstr "Вы ценный игрок сообщества!"
+msgstr "You are a valued community player!"
 
 msgid "IDS_PCEE032_ARIZONA_MEMORIAL_DESCRIPTION"
 msgstr ""
-"Во время нападения на базу Пёрл-Харбор в линкор Arizona попала несколько бомб. Корабль взорвался и лёг на грунт, унеся с собой жизни 1177 моряков.\n"
-"Останки корабля покоятся на дне бухты Пёрл-Харбор. Прямо над ними возведён мемориальный комплекс Arizona Memorial."
+"During the attack on Pearl Harbor, the battleship Arizona was hit by several bombs. The ship exploded and sank, taking the lives of 1,177 sailors.\n"
+"The remains of the ship rest at the bottom of Pearl Harbor. A memorial complex, the Arizona Memorial, was built directly above them."
 
 msgid "IDS_PCEE058_WG_FEST"
 msgstr "Fest 2016"
 
 msgid "IDS_PCEE058_WG_FEST_DESCRIPTION"
-msgstr "За участие в Fest 2016."
+msgstr "For participating in Fest 2016."
 
 msgid "IDS_PCEE059_PEARL_HARBOR"
-msgstr "75-я годовщина трагических событий в Пёрл-Харбор"
+msgstr "75th Anniversary of the Tragic Events at Pearl Harbor"
 
 msgid "IDS_PCEE059_PEARL_HARBOR_DESCRIPTION"
-msgstr "Утром 7 декабря 1941 г. японская авиация и силы Японского императорского флота предприняли внезапную массированную атаку на американскую военную базу в Пёрл-Харбор, в результате которой погибло более 2000 военнослужащих. США объявили войну Японии 8 декабря, тем самым вступив во Вторую мировую войну на Европейском и Тихоокеанском театрах военных действий."
+msgstr "On the morning of December 7, 1941, Japanese aviation and forces of the Imperial Japanese Navy launched a surprise massive attack on the American military base at Pearl Harbor, resulting in the deaths of over 2,000 servicemen. The United States declared war on Japan on December 8, thus entering World War II in both the European and Pacific theaters."
 
 msgid "IDS_PCEE060_OLEG_FLAG_DESCRIPTION"
-msgstr "Вскоре после начала Октябрьской революции 1917 г. экипаж бронепалубного крейсера «Олег» перешёл на сторону большевиков. Условиями Брест-Литовского мирного договора стране советов было предписано покинуть базу в г. Хельсинки в марте 1918 г., невзирая на то, что Финский залив был всё ещё покрыт льдом. В случае отказа все советские корабли подлежали переходу в собственность получившей независимость Финляндии. В труднейших ледовых условиях «Олег» вынужден был прорываться в Кронштадт в рамках операции, получившей название «Ледовый переход»."
+msgstr "Shortly after the start of the October Revolution in 1917, the crew of the armored cruiser Oleg joined the Bolsheviks. Under the terms of the Brest-Litovsk Peace Treaty, the Soviet forces were required to leave the base in Helsinki in March 1918, despite the Gulf of Finland still being covered in ice. If they refused, all Soviet ships were to be transferred to the newly independent Finland. Under the difficult ice conditions, Oleg had to break through to Kronstadt as part of the operation known as the 'Ice March.'"
 
 msgid "IDS_PCEE062_KING_OF_THE_SEA"
-msgstr "Морская схватка"
+msgstr "Naval Battle"
 
 msgid "IDS_PCEE062_KING_OF_THE_SEA_DESCRIPTION"
-msgstr "Вы сражаетесь на равных с любым противником. В условиях суровых морских сражений вы доказали своё превосходство, возведя его в ранг искусства. Вы царь морей и останетесь таковым до тех пор, пока не придёт тот, кто сможет отнять у вас этот титул."
+msgstr "You fight on equal terms with any opponent. In the harsh conditions of naval battles, you have proven your superiority, elevating it to an art form. You are the Tsar of the Seas and will remain so until someone comes along who can take this title from you."
 
 msgid "IDS_PCEE062_KING_OF_THE_SEA_EXTRA_DESCRIPTION"
-msgstr "В честь турнира «Царь морей»."
+msgstr "In honor of the 'Tsar of the Seas' tournament."
 
 msgid "IDS_PCEE072_VALENTINES"
-msgstr "День святого Валентина"
+msgstr "Valentine's Day"
 
 msgid "IDS_PCEE074_OSCAR_AWARDS_DESCRIPTION"
 msgstr ""
-"А вот и претенденты на награду в номинации «За лучший фильм»:\n"
+"And here are the nominees for the award in the category of 'Best Film':\n"
 "\n"
-"- «Крейсер и необычная расплата»\n"
-"- «Эсминец? Мы едва знакомы!»\n"
-"- «Ави-ОНО-сец» Стивена Кинга\n"
-"- «Это совсем другой ко-ЛИНКОР»"
+"- 'The Cruiser and the Unusual Reckoning'\n"
+"- 'Destroyer? We Barely Know Each Other!'\n"
+"- 'The Carrier? Stephen King's One'\n"
+"- 'This is a Completely Different Battleship'"
 
 msgid "IDS_PCEE082_BLUE_MERMAID_DESCRIPTION"
 msgstr ""
-"Эмблема «Голубых русалок».\n"
-"«Голубые русалки» — элитная женская организация, отвечающая за поддержание безопасности на море.\n"
-"Друзья детства Akeno Misaki и Moeka China мечтают присоединиться к «Голубым русалкам», для чего девушки поступают в Морскую академию в Йокоске. Живут у моря, охраняя его просторы и покоряя их...\n"
-"Это «Голубые русалки»!"
+"Emblem of the 'Blue Mermaids'.\n"
+"The 'Blue Mermaids' are an elite women's organization responsible for maintaining maritime safety.\n"
+"Childhood friends Akeno Misaki and Moeka China dream of joining the 'Blue Mermaids,' for which the girls enroll in the Yokosuka Maritime Academy. They live by the sea, protecting and conquering its expanses...\n"
+"These are the 'Blue Mermaids!'"
 
 msgid "IDS_PCEE120_WG_SUMMER_FEST_2017"
 msgstr "Summer Fest 2017"
 
 msgid "IDS_PCEE120_WG_SUMMER_FEST_2017_DESCRIPTION"
-msgstr "За участие в первом Summer Fest."
+msgstr "For participating in the first Summer Fest."
 
 msgid "IDS_PCEE128_IRON_DUKE_FLAG_DESCRIPTION"
-msgstr "Линкор Iron Duke, названный в честь «железного герцога» фельдмаршала Веллингтона, больше двух лет был флагманом британского Гранд-Флита в ходе Первой мировой войны, в том числе и во время знаменитого Ютландского сражения."
+msgstr "The battleship Iron Duke, named after the 'Iron Duke' Field Marshal Wellington, was the flagship of the British Grand Fleet for over two years during World War I, including during the famous Battle of Jutland."
 
 msgid "IDS_PCEE134_WARGAMING_ANNIVERSARY"
-msgstr "Девятнадцать лет"
+msgstr "Nineteen Years"
 
 msgid "IDS_PCEE134_WARGAMING_ANNIVERSARY_DESCRIPTION"
-msgstr "Проверка временем пройдена!"
+msgstr "Time-tested!"
 
 msgid "IDS_PCEE135_WG_FEST_2017"
 msgstr "Fest 2017"
 
 msgid "IDS_PCEE135_WG_FEST_2017_DESCRIPTION"
-msgstr "За участие в Fest 2017."
+msgstr "For participating in Fest 2017."
 
 msgid "IDS_PCEE163_ROMA_FLAG_DESCRIPTION"
-msgstr "Линкор Roma, названный в честь столицы Италии, вступил в строй в августе 1942 г. Чуть более чем через год, в сентябре 1943 г., после подписания перемирия Италии с союзниками он был потоплен немецкой авиацией во время перехода на Мальту."
+msgstr "The battleship Roma, named after the capital of Italy, was commissioned in August 1942. A little over a year later, in September 1943, after Italy signed an armistice with the Allies, it was sunk by German aviation while en route to Malta."
 
 msgid "IDS_PCEE165_SALEM_FLAG_DESCRIPTION"
-msgstr "USS Salem, крейсер типа Des Moines, вступил в строй в 1949 г. В настоящий момент он находится в г. Куинси (Массачусетс, США) в качестве корабля-музея, являясь последним в мире сохранившимся до наших дней тяжёлым крейсером."
+msgstr "The USS Salem, a Des Moines-class cruiser, was commissioned in 1949. It is currently located in Quincy, Massachusetts, USA, as a museum ship, being the last surviving heavy cruiser in the world."
 
 msgid "IDS_PCEE171_COSSACK_FLAG_DESCRIPTION"
-msgstr "Вступивший в строй в 1938 г. HMS Cossack прославился в ходе Второй мировой войны под командой Филиппа Вайена во время инцидента с немецким танкером Altmark, в битве при Нарвике и при охоте на Bismarck."
+msgstr "Commissioned in 1938, HMS Cossack gained fame during World War II under the command of Philip Vian during the Altmark incident, the Battle of Narvik, and the hunt for Bismarck."
 
 msgid "IDS_PCEE183_VARYAG_FLAG_DESCRIPTION"
-msgstr "«Варяг», один из самых знаменитых русских крейсеров, прославился в самом начале Русско-японской войны 1904–1905 гг., когда блокированный японской эскадрой он отказался сдаться и вступил в неравный бой с четырнадцатью кораблями противника."
+msgstr "The 'Varyag,' one of the most famous Russian cruisers, became famous at the very beginning of the Russo-Japanese War of 1904–1905 when, blocked by a Japanese squadron, it refused to surrender and engaged in an unequal battle with fourteen enemy ships."
 
 msgid "IDS_PCEE184_Z_39_FLAG_DESCRIPTION"
-msgstr "Эсминец Z-39, вступивший в строй в августе 1943 г., имел неофициальное название Hermes. Это имя он получил по существовавшей среди кораблей типа «Нарвик» традиции наследовать имена погибших «одноклассников». Ранее имя Hermes носил эсминец ZG-3, бывший греческий Vasilefs Georgios, потопленный в Средиземном море в мае 1943 г., экипаж которого влился в команду Z-39."
+msgstr "The destroyer Z-39, commissioned in August 1943, had the unofficial name Hermes. This name was inherited from the lost destroyer ZG-3, formerly the Greek Vasilefs Georgios, which was sunk in the Mediterranean in May 1943, and whose crew joined the Z-39."
 
 msgid "IDS_PCEE185_KRONSHTADT_FLAG_DESCRIPTION"
-msgstr "Почётный Революционный флаг вручался за выдающиеся заслуги кораблям и их соединениям. Полотнище представляло собой Военно-морской флаг СССР с изображением ордена Красного Знамени. Этим орденом был награждён в 1922 г. советский Балтийский флот, а в 1954 — морская крепость Кронштадт."
+msgstr "The Honorary Revolutionary Flag was awarded for outstanding merits to ships and their formations. The cloth represented the Naval Flag of the USSR with the image of the Order of the Red Banner. This order was awarded in 1922 to the Soviet Baltic Fleet, and in 1954 to the naval fortress of Kronstadt."
 
 msgid "IDS_PCEE193_STALINGRAD_FLAG_DESCRIPTION"
-msgstr "Официальная закладка головного крейсера проекта 82, получившего имя «Сталинград» в честь города на реке Волге, состоялась 31 декабря 1951 г. Этот корабль должен был стать символом несокрушимой мощи и своеобразной «визитной карточкой» Советского Союза."
+msgstr "The official laying of the lead cruiser of Project 82, named 'Stalingrad' in honor of the city on the Volga River, took place on December 31, 1951. This ship was intended to become a symbol of invincible power and a kind of 'calling card' of the Soviet Union."
 
 msgid "IDS_PCEE195_SEASONFLAG09_DESCRIPTION"
-msgstr "На верфи в Бруклине были спущены на воду многие знаменитые корабли ВМС США, среди которых крейсеры New Orleans, Pensacola, Brooklyn, Helena, а также линкоры Iowa, Missouri, North Carolina, Arizona, New Mexico и New York."
+msgstr "Many famous US Navy ships, including the cruisers New Orleans, Pensacola, Brooklyn, Helena, and the battleships Iowa, Missouri, North Carolina, Arizona, New Mexico, and New York, were launched at the Brooklyn Navy Yard."
 
 msgid "IDS_PCEE195_SEASONFLAG09_EXTRA_DESCRIPTION"
-msgstr "За достижение 15-го ранга в 9-м сезоне старых Ранговых боёв."
+msgstr "For achieving 15th rank in the 9th season of the old Ranked Battles."
 
 msgid "IDS_PCEE222_WG_FEST_2018_FLAG_DESCRIPTION"
-msgstr "Официально подтверждаем: обладатель этого флага задал жару на Fest 2018."
+msgstr "Officially confirmed: the bearer of this flag rocked the Fest 2018."
 
 msgid "IDS_PCEE243_SAIPAN_FLAG_DESCRIPTION"
-msgstr "Трёхнедельная битва за Сайпан завершилась 9 июля 1944 г. Морская пехота США при поддержке флота взяла под контроль остров, ставший одним из ключевых пунктов во всей Тихоокеанской кампании. На следующий день, 10 июля 1944 г., был заложен USS Saipan — лёгкий авианосец ВМС США."
+msgstr "The three-week Battle of Saipan ended on July 9, 1944. The US Marines, with the support of the fleet, took control of the island, which became one of the key points in the entire Pacific campaign. The next day, on July 10, 1944, the USS Saipan, a light aircraft carrier of the US Navy, was laid down."
 
 msgid "IDS_PCEE260_WOWSL_FLAG"
 msgstr "Legends"
 
 msgid "IDS_PCEE260_WOWSL_FLAG_DESCRIPTION"
-msgstr "В честь настоящих морских легенд."
+msgstr "In honor of true naval legends."
 
 msgid "IDS_PCEE262_SIROCO_FLAG_DESCRIPTION"
-msgstr "Вступивший в строй в 1927 г. французский эсминец Siroco получил своё имя в честь характерного для Средиземноморья сильного и жаркого ветра, рождающегося в пустыне Сахара."
+msgstr "Commissioned in 1927, the French destroyer Siroco was named after a strong and hot wind, characteristic of the Mediterranean, originating in the Sahara Desert."
 
 msgid "IDS_PCEE270_PARAGRAF_FLAG_DESCRIPTION"
-msgstr "Затопление Флота открытого моря в Скапа-Флоу 21 июня 1919 г."
+msgstr "Scuttling of the High Seas Fleet at Scapa Flow on June 21, 1919."
 
 msgid "IDS_PCEE272_HILL_FLAG_DESCRIPTION"
-msgstr "Свою медаль Почёта петти-офицер ВМС США Уильям Лоуэлл Хилл получил в 1884 г. за спасение жизни сослуживца, упавшего за борт USS Minnesota."
+msgstr "US Navy Petty Officer William Lowell Hill received his Medal of Honor in 1884 for saving the life of a comrade who fell overboard from the USS Minnesota."
 
 msgid "IDS_PCEE274_COLBERT_FLAG_DESCRIPTION"
-msgstr "Имя одного из самых знаменитых французских государственных деятелей Жан-Батиста Кольбера (1619–1683) носил целый ряд кораблей ВМС Франции. Шестым кораблём с этим именем был крейсер ПВО, вступивший в строй в 1959 г."
+msgstr "Jean-Baptiste Colbert (1619–1683), one of the most famous French statesmen, had several French Navy ships named after him. The sixth ship with this name was an anti-aircraft cruiser commissioned in 1959."
 
 msgid "IDS_PCEE330_KOTSX_FLAG"
-msgstr "Морской трон"
+msgstr "Marine Throne"
 
 msgid "IDS_PCEE330_KOTSX_FLAG_DESCRIPTION"
 msgstr ""
-"Там трон — жемчугами усыпанный янтарь,\n"
-"На нём сидит волнам седым подобный Царь.\n"
-"В заливы, в океан десницу простирает,\n"
-"Сапфирным скипетром водам повелевает."
+"There is a throne — adorned with pearls and amber,\n"
+"Upon it sits a King like the old waves.\n"
+"He stretches his hand to the bay, to the ocean,\n"
+"And with a sapphire scepter, he commands the waters."
 
 msgid "IDS_PCEE330_KOTSX_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь турнира «Царь морей»."
+msgstr "In honor of the 'Tsar of the Seas' tournament."
 
 msgid "IDS_PCEE331_WINTERTEST_FLAG_DESCRIPTION"
-msgstr "За участие в зимнем марафоне Общего теста."
+msgstr "For participating in the Winter Marathon Public Test."
 
 msgid "IDS_PCEE332_SEASONFLAG15_DESCRIPTION"
-msgstr "Девонпорт, графство Девоншир, — одна из старейших военно-морских баз Королевского флота, которая в течение нескольких столетий являлась одним из центров британского кораблестроения."
+msgstr "Devonport, Devon County, is one of the oldest Royal Navy bases, which for several centuries was one of the centers of British shipbuilding."
 
 msgid "IDS_PCEE381_RANKEDFLAG_1_EXTRA_DESCRIPTION"
-msgstr "За достижение 1-го ранга в Бронзовой лиге в тестовом ранговом сезоне."
+msgstr "For achieving 1st rank in the Bronze League in the test ranked season."
 
 msgid "IDS_PCEE392_VERIZON_FLAG"
-msgstr "Чемпион"
+msgstr "Champion"
 
 msgid "IDS_PCEE392_VERIZON_FLAG_DESCRIPTION"
-msgstr "У моряка нет трудного или лёгкого пути, есть только один путь — славный."
+msgstr "A sailor has no easy or hard path; there is only one path — the glorious one."
 
 msgid "IDS_PCEE396_RANKEDFLAG_2_DESCRIPTION"
-msgstr "Командующим итальянским Королевским флотом являлся начальник его штаба, а высшим военно-морским званием был гранд-адмирал. Если должность главнокомандующего занимал гранд-адмирал, то на его флаге четыре пятиконечные жёлтые звезды обрамлялись жёлтым прямоугольником."
+msgstr "The commander of the Italian Royal Navy was its Chief of Staff, and the highest naval rank was Grand Admiral. If the position of Commander-in-Chief was held by a Grand Admiral, his flag bore four five-pointed yellow stars framed by a yellow rectangle."
 
 msgid "IDS_PCEE411_BEAUGAME"
-msgstr "The Beautiful Game"
+msgstr "The Beautiful Game"
 
 msgid "IDS_PCEE421_RANKEDFLAG_3_EXTRA_DESCRIPTION"
-msgstr "За достижение 1-го ранга в Бронзовой лиге в 3-м сезоне Ранговых боёв."
+msgstr "For achieving 1st rank in the Bronze League in the 3rd season of Ranked Battles."
 
 msgid "IDS_PCEE434_RANKEDFLAG_4_EXTRA_DESCRIPTION"
-msgstr "За достижение 1-го ранга в Бронзовой лиге в 4-м сезоне Ранговых боёв."
+msgstr "For achieving 1st rank in the Bronze League in the 4th season of Ranked Battles."
 
 msgid "IDS_PCEE441_ARIRANG_FLAG_DESCRIPTION"
-msgstr "«Ариран» — корейская народная песня, одна из самых известных в этой стране. Она настолько популярна, что зачастую её считают неофициальным гимном. В 2012 г. ЮНЕСКО включила песню в список нематериального культурного наследия человечества."
+msgstr "'Arirang' is a Korean folk song, one of the most famous in the country. It is so popular that it is often considered an unofficial anthem. In 2012, UNESCO included the song in the list of intangible cultural heritage of humanity."
 
 msgid "IDS_PCEE460_STEAM_ANNIVERSARY_FLAG"
-msgstr "4 года в Steam"
+msgstr "4 Years in Steam"
 
 msgid "IDS_PCEE471_RANKEDFLAG_5_EXTRA_DESCRIPTION"
-msgstr "За достижение 1-го ранга в Бронзовой лиге в 5-м сезоне Ранговых боёв."
+msgstr "For achieving 1st rank in the Bronze League in the 5th season of Ranked Battles."
 
 msgid "IDS_PCEE560_WOWS_WOT_FLAG_DESCRIPTION"
-msgstr "В честь игр «Мир кораблей», «Мир танков» и Tanks Blitz."
+msgstr "In honor of the games 'World of Warships,' 'World of Tanks,' and 'Tanks Blitz.'"
 
 msgid "IDS_PCEE563_CHKALOVBLACK_FLAG"
-msgstr "Чкалов Ч"
+msgstr "Chkalov C"
 
 msgid "IDS_PCEE583_KOTS15_FLAG"
-msgstr "Морской владыка"
+msgstr "Lord of the Sea"
 
 msgid "IDS_PCEE583_KOTS15_FLAG_DESCRIPTION"
-msgstr "Страшен гнев владыки морского: волны до неба вздымаются, ветра рвут в клочья паруса, чудища грозят утянуть в подводное царство."
+msgstr "The wrath of the Lord of the Sea is terrifying: waves rise to the heavens, winds tear sails to shreds, and monsters threaten to drag you into the underwater kingdom."
 
 msgid "IDS_PCEE583_KOTS15_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь турнира «Царь морей»."
+msgstr "In honor of the 'Tsar of the Seas' tournament."
 
 msgid "IDS_PCEE604_FAMILYDAY_FLAG"
-msgstr "День семьи, любви и верности"
+msgstr "Family Day, Love, and Fidelity"
 
 msgid "IDS_PCEE604_FAMILYDAY_FLAG_DESCRIPTION"
-msgstr "Счастлив тот, кто счастлив у себя дома."
+msgstr "Happy is the one who is happy at home."
 
 msgid "IDS_PCEE607_MOSFILM_FLAG"
-msgstr "Мосфильм"
+msgstr "Mosfilm"
 
 msgid "IDS_PCEE607_MOSFILM_FLAG_DESCRIPTION"
-msgstr "Одна из старейших и крупнейших кинокомпаний СССР и России. Датой основания 1-й фабрики Госкино принято считать 30 января 1924 г., когда состоялась премьера фильма «На крыльях ввысь». Позже новые корпуса с большими съёмочными павильонами были построены на Воробьёвых горах, а своё современное название киностудия «Мосфильм» получила в середине 30-х гг."
+msgstr "One of the oldest and largest film companies in the USSR and Russia. The date of the foundation of the 1st State Cinema Factory is considered to be January 30, 1924, when the premiere of the film 'Up in the Air' took place. Later, new buildings with large filming pavilions were built on the Vorobyovy Gory, and the film studio 'Mosfilm' received its modern name in the mid-1930s."
 
 msgid "IDS_PCEE612_POPEYE"
 msgstr " "
 
 msgid "IDS_PCEE613_SCARLET_THUNDER_FLAG_DESCRIPTION"
-msgstr "Представители Министерства прогресса и вездесущие репортёры называют чудом инженерной мысли Интернациональную космическую эстакаду. Но не меньшее чудо — корабль «Алый гром», после переоснащения воплотивший в себе последние достижения робототехники. Продуман и отлажен до мелочей — от мощных магнитных тороидов и до самой крохотной заклёпки."
+msgstr "Representatives of the Ministry of Progress and ubiquitous reporters call the International Space Overpass a marvel of engineering. But no less a marvel is the ship 'Scarlet Thunder,' after re-equipment embodying the latest achievements in robotics. Thought out and refined to the smallest detail — from powerful magnetic toroids to the tiniest rivet."
 
 msgid "IDS_PCEE615_RUSSIA_FLAG"
-msgstr "Российский триколор"
+msgstr "Russian Tricolor"
 
 msgid "IDS_PCEE615_RUSSIA_FLAG_DESCRIPTION"
-msgstr "По одной из версий, происхождение российского триколора неразрывно связано с зарождением флота. Во второй половине XVII в. был построен парусный военный корабль «Орёл», предназначавшийся для охраны русских торговых судов. Из сохранившихся документов известно, что для изготовления морского флага были заказаны белая, синяя и красная ткани."
+msgstr "According to one version, the origin of the Russian tricolor is inextricably linked with the birth of the fleet. In the second half of the 17th century, the sailing warship 'Eagle' was built, intended to protect Russian merchant ships. It is known from surviving documents that white, blue, and red fabrics were ordered to make the naval flag."
 
 msgid "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG"
 msgstr " "
@@ -7657,548 +7657,548 @@ msgid "IDS_PCEE624_ASUS_ROG_FLAG_EXTRA_DESCRIPTION"
 msgstr " "
 
 msgid "IDS_PCEE628_BD8_SCARLET_FUTURE_FLAG_DESCRIPTION"
-msgstr "В честь восьмого дня рождения игры."
+msgstr "In honor of the game's eighth birthday."
 
 msgid "IDS_PCEE631_STRIPED_VEST_FLAG_DESCRIPTION"
-msgstr "В российском флоте тельняшка появилась во второй половине XIX в.: белые и синие полосы соответствовали цветам Андреевского флага. Неотъемлемый атрибут революционных матросов в Гражданскую войну и советских морских пехотинцев в Великую Отечественную, тельняшка в народном сознании стала романтическим символом морского быта, удали и отваги."
+msgstr "The striped vest appeared in the Russian fleet in the second half of the 19th century: the white and blue stripes corresponded to the colors of the St. Andrew's flag. An integral attribute of revolutionary sailors in the Civil War and Soviet marines in the Great Patriotic War, the striped vest became a romantic symbol of maritime life, daring, and courage in the popular consciousness."
 
 msgid "IDS_PCEE632_USSR_SS_EA_FLAG"
-msgstr "Подводные лодки СССР"
+msgstr "Soviet Submarines"
 
 msgid "IDS_PCEE632_USSR_SS_EA_FLAG_DESCRIPTION"
-msgstr "В честь выхода подводных лодок СССР в ранний доступ в обновлении 12.8."
+msgstr "In honor of the release of Soviet submarines in early access in update 12.8."
 
 msgid "IDS_PCEE633_PRORYV_FLAG"
-msgstr "Прорыв"
+msgstr "Breakthrough"
 
 msgid "IDS_PCEE633_PRORYV_FLAG_DESCRIPTION"
-msgstr "Турнир «Прорыв» — динамичные состязания, полные эмоций, адреналина, духа соперничества и настоящего боевого товарищества."
+msgstr "The 'Breakthrough' tournament is dynamic competitions full of emotions, adrenaline, a spirit of rivalry, and true camaraderie."
 
 msgid "IDS_PCEE635_BLACKBLACK_FLAG"
-msgstr "Black Black"
+msgstr "Black Black"
 
 msgid "IDS_PCEE636_LAZOBLACK_FLAG"
-msgstr "Лазо Ч"
+msgstr "Lazo C"
 
 msgid "IDS_PCEE640_SMOLENSKBLACK_FLAG"
-msgstr "Смоленск Ч"
+msgstr "Smolensk C"
 
 msgid "IDS_PCEE641_THREEKINGDOMS_FLAG"
-msgstr "Царство Шу"
+msgstr "Shu Kingdom"
 
 msgid "IDS_PCEE641_THREEKINGDOMS_FLAG_DESCRIPTION"
-msgstr "Царство Шу было одним из государств эпохи Троецарствия, боровшихся за контроль над Китаем в III в. Располагалось на западе. Название Шу отсылает к одноимённому царству эпохи Чжоу, занимавшему приблизительно ту же территорию. Лю Бэй, основатель царства Шу, претендовал на родство с императорской династией Хань, называя себя законным наследником."
+msgstr "The Shu Kingdom was one of the states of the Three Kingdoms period, which fought for control over China in the 3rd century. It was located in the west. The name Shu refers to the kingdom of the same name from the Zhou dynasty, which occupied approximately the same territory. Liu Bei, the founder of the Shu Kingdom, claimed to be related to the Han imperial dynasty, calling himself the legitimate heir."
 
 msgid "IDS_PCEE642_THREEKINGDOMS_FLAG"
-msgstr "Царство У"
+msgstr "Wu Kingdom"
 
 msgid "IDS_PCEE642_THREEKINGDOMS_FLAG_DESCRIPTION"
-msgstr "Царство У было одним из государств эпохи Троецарствия, боровшихся за контроль над Китаем в III в. Располагалось на востоке и юге. Считается что Сунь Цюань, правитель царства, был потомком Сунь-цзы — знаменитого автора «Искусства войны». Сунь Цюань провозгласил себя императором, унаследовав земли от старшего брата, и стал самым молодым из трёх знаменитых лидеров эпохи Троецарствия."
+msgstr "The Wu Kingdom was one of the states of the Three Kingdoms period, which fought for control over China in the 3rd century. It was located in the east and south. It is believed that Sun Quan, the ruler of the kingdom, was a descendant of Sun Tzu, the famous author of 'The Art of War.' Sun Quan proclaimed himself emperor, inheriting the lands from his elder brother, and became the youngest of the three famous leaders of the Three Kingdoms period."
 
 msgid "IDS_PCEE643_THREEKINGDOMS_FLAG"
-msgstr "Царство Вэй"
+msgstr "Wei Kingdom"
 
 msgid "IDS_PCEE643_THREEKINGDOMS_FLAG_DESCRIPTION"
-msgstr "Царство Вэй было одним из государств эпохи Троецарствия, боровшихся за контроль над Китаем в III в. Располагалось на севере. Основателем царства был Цао Цао, государственный деятель, фактически правивший империей Хань на её закате. Император пожаловал Цао Цао земли с десятью городами, которые и стали царством Вэй."
+msgstr "The Wei Kingdom was one of the states of the Three Kingdoms period, which fought for control over China in the 3rd century. It was located in the north. The founder of the kingdom was Cao Cao, a statesman who effectively ruled the Han Empire at its decline. The emperor granted Cao Cao lands with ten cities, which became the kingdom of Wei."
 
 msgid "IDS_PCEE645_TSARMOREY2023_FLAG"
-msgstr "Черномор"
+msgstr "Black Sea"
 
 msgid "IDS_PCEE645_TSARMOREY2023_FLAG_DESCRIPTION"
 msgstr ""
-"И той стражи нет надежней,\n"
-"Ни храбрее, ни прилежней."
+"And there is no more reliable guard,\n"
+"Nor braver, nor more diligent."
 
 msgid "IDS_PCEE645_TSARMOREY2023_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь турнира «Царь морей»."
+msgstr "In honor of the 'Tsar of the Seas' tournament."
 
 msgid "IDS_PCEE646_SHARK_OF_STEEL_FLAG"
-msgstr "Акулы из стали"
+msgstr "Steel Sharks"
 
 msgid "IDS_PCEE646_SHARK_OF_STEEL_FLAG_DESCRIPTION"
-msgstr "Сборник рассказов Эдуарда Овечкина посвящён учёбе в военно-морском училище и службе на подводной лодке ТК-20 (тип «Акула»). Рассказы описывают быт подводников на глубине и на суше."
+msgstr "Eduard Ovechkin's collection of stories is dedicated to the training at the naval academy and the service on the submarine TK-20 (Typhoon-class). The stories describe the life of submariners both at sea and on land."
 
 msgid "IDS_PCEE647_I54_FLAG_DESCRIPTION"
-msgstr "За неполные семь месяцев службы I-54 успела принять участие в операции A-Go по защите Марианских островов в июне 1944 г. и в сражении в заливе Лейте в октябре 1944 г., в ходе которого подводная лодка пропала без вести."
+msgstr "In less than seven months of service, the I-54 participated in Operation A-Go to defend the Mariana Islands in June 1944 and the Battle of Leyte Gulf in October 1944, during which the submarine went missing."
 
 msgid "IDS_PCEE654_ARIA_FLAG"
-msgstr "Ария"
+msgstr "Aria"
 
 msgid "IDS_PCEE654_ARIA_FLAG_DESCRIPTION"
-msgstr "Легендарная советская и российская музыкальная группа, основанная в середине 1980-х гг. и работающая в жанре хеви-метала. За свою многолетнюю карьеру «Ария» записала десятки хитов, снискавших любовь как поклонников жанра, так и широкой аудитории."
+msgstr "Legendary Soviet and Russian music band, founded in the mid-1980s, working in the heavy metal genre. During its long career, 'Aria' recorded dozens of hits that won the love of both genre fans and a wide audience."
 
 msgid "IDS_PCEE655_JAP_EA_126_DESCRIPTION"
-msgstr "В честь выхода новых японских линкоров в ранний доступ в обновлении 12.9."
+msgstr "In honor of the release of new Japanese battleships in early access in update 12.9."
 
 msgid "IDS_PCEE656_FRANCESCO_FERRUCCIO_FLAG_DESCRIPTION"
-msgstr "Франческо Ферруччи — флорентийский полководец, сражавшийся в Итальянских войнах. На гербе Ферруччи изображён сине-золотой щит."
+msgstr "Francesco Ferruccio was a Florentine commander who fought in the Italian Wars. Ferruccio's coat of arms depicts a blue-gold shield."
 
 msgid "IDS_PCEE657_FAREAST_FLAG"
-msgstr "Флаг наместника Его Императорского Величества на Дальнем Востоке"
+msgstr "Flag of His Imperial Majesty's Governor-General in the Far East"
 
 msgid "IDS_PCEE657_FAREAST_FLAG_DESCRIPTION"
-msgstr "Должность наместника Его Императорского Величества на Дальнем Востоке существовала с 1903 по 1905 г., единственным наместником был адмирал Е. И. Алексеев. В его руках находилось командование армией и флотом на Дальнем Востоке, в том числе во время Русско-японской войны 1904–1905 гг. В центре флага изображён Малый герб Российской империи."
+msgstr "The position of His Imperial Majesty's Governor-General in the Far East existed from 1903 to 1905, with Admiral E.I. Alekseev being the only Governor-General. He was in command of the army and navy in the Far East, including during the Russo-Japanese War of 1904–1905. The center of the flag depicts the Small Coat of Arms of the Russian Empire."
 
 msgid "IDS_PCEE658_12_MONTHS_FLAG"
-msgstr "Зимняя сказка"
+msgstr "Winter Fairy Tale"
 
 msgid "IDS_PCEE658_12_MONTHS_FLAG_DESCRIPTION"
-msgstr "«Перестали потрескивать от мороза деревья, а снег начал падать густо, большими, мягкими хлопьями»."
+msgstr "'The trees stopped crackling from the frost, and the snow began to fall thickly, in large, soft flakes.'"
 
 msgid "IDS_PCEE658_12_MONTHS_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь празднования Нового года."
+msgstr "In honor of the New Year's celebration."
 
 msgid "IDS_PCEE659_PATAGONIA_FLAG"
 msgstr "ARA Patagonia"
 
 msgid "IDS_PCEE659_PATAGONIA_FLAG_DESCRIPTION"
-msgstr "Патагония — область в Южной Америке, которая располагается на территории Аргентины и Чили. Во второй половине XIX в. валлийскими поселенцами здесь была основана колония. Флаг поселения содержал традиционные для Аргентины голубой и белый цвета, а посередине был изображён красный валлийский дракон."
+msgstr "Patagonia is a region in South America that is located in Argentina and Chile. In the second half of the 19th century, a colony was founded here by Welsh settlers. The settlement's flag featured the traditional Argentine blue and white colors, with a red Welsh dragon depicted in the center."
 
 msgid "IDS_PCEE660_ST_ANDREW_FLAG"
-msgstr "Андреевский флаг"
+msgstr "St. Andrew's Flag"
 
 msgid "IDS_PCEE660_ST_ANDREW_FLAG_DESCRIPTION"
-msgstr "Флаг с синим крестом святого Андрея Первозванного на белом поле. Официально утверждён в качестве военно-морского флага Российского императорского флота в 1865 г."
+msgstr "The flag with the blue cross of St. Andrew on a white field was officially adopted as the naval flag of the Russian Imperial Navy in 1865."
 
 msgid "IDS_PCEE661_PETS_DAY_FLAG"
-msgstr "Корги-мореход"
+msgstr "Sailor Corgi"
 
 msgid "IDS_PCEE661_PETS_DAY_FLAG_DESCRIPTION"
-msgstr "В честь Всемирного дня домашних животных."
+msgstr "In honor of World Pet Day."
 
 msgid "IDS_PCEE662_JAP_AIRCRAFT_FLAG"
-msgstr "Японские авианосцы"
+msgstr "Japanese Aircraft Carriers"
 
 msgid "IDS_PCEE662_JAP_AIRCRAFT_FLAG_DESCRIPTION"
-msgstr "В честь выхода новых японских авианосцев в ранний доступ в обновлении 13.0."
+msgstr "In honor of the release of new Japanese aircraft carriers in early access in update 13.0."
 
 msgid "IDS_PCEE663_NEW_HAMPSHIRE_FLAG"
 msgstr "USS New Hampshire"
 
 msgid "IDS_PCEE663_NEW_HAMPSHIRE_FLAG_DESCRIPTION"
-msgstr "Неофициальный флаг Новой Англии представляет собой красное поле с зелёной сосной, размещённой в белом крыже. Веймутова сосна считается символом региона с конца XVII в. и встречается на множестве региональных флагов."
+msgstr "The unofficial flag of New England is a red field with a green pine tree placed in the white canton. The Weymouth pine has been considered a symbol of the region since the late 17th century and is found on many regional flags."
 
 msgid "IDS_PCEE664_PASOPATI_FLAG"
 msgstr "KRI Pasopati"
 
 msgid "IDS_PCEE664_PASOPATI_FLAG_DESCRIPTION"
-msgstr "На эмблеме подводных сил Индонезии изображена подводная лодка, по бокам от неё — две акулы. Первыми индонезийскими субмаринами стали приобретённые в СССР подводные лодки проекта 613. Одной из них была C-79, вошедшая в состав индонезийского флота под именем Pasopati."
+msgstr "The emblem of Indonesia's submarine forces depicts a submarine, with two sharks on either side. The first Indonesian submarines were Soviet Project 613 submarines. One of them was C-79, which entered the Indonesian Navy as Pasopati."
 
 msgid "IDS_PCEE665_MAYO_FLAG"
 msgstr "USS Mayo"
 
 msgid "IDS_PCEE665_MAYO_FLAG_DESCRIPTION"
-msgstr "7-я эскадра эсминцев ВМС США была впервые создана в 1920 г. и ликвидирована в 1922 г. Вновь сформированная в годы Второй мировой войны эскадра состояла из новых эсминцев типов Benson и Gleaves. Четыре корабля из этой эскадры, включая USS Mayo, стояли в Токийском заливе во время подписания акта о капитуляции Японии."
+msgstr "The 7th Destroyer Squadron of the US Navy was first formed in 1920 and disbanded in 1922. Reformed during World War II, the squadron consisted of new Benson and Gleaves-class destroyers. Four ships from this squadron, including the USS Mayo, were in Tokyo Bay during the signing of the act of Japan's surrender."
 
 msgid "IDS_PCEE666_SEVEROMORSK_FLAG"
-msgstr "Североморск"
+msgstr "Severomorsk"
 
 msgid "IDS_PCEE666_SEVEROMORSK_FLAG_DESCRIPTION"
-msgstr "После перевода главной базы Северного флота в посёлок Ваенга в 1951 г. был образован город Североморск. Новое название было дано в честь моряков-североморцев, героев Великой Отечественной войны. Флаг Североморска, утверждённый в 2001 г., был создан на основе современного герба города."
+msgstr "After the main base of the Northern Fleet was moved to the village of Vaenga in 1951, the city of Severomorsk was established. The new name was given in honor of the Northern Fleet sailors, heroes of the Great Patriotic War. The Severomorsk flag, approved in 2001, was created based on the city's modern coat of arms."
 
 msgid "IDS_PCEE667_23FEBRUARY_FLAG"
-msgstr "На страже Отечества"
+msgstr "On Guard for the Motherland"
 
 msgid "IDS_PCEE667_23FEBRUARY_FLAG_DESCRIPTION"
-msgstr "В ряде постсоветских стран 23 февраля отмечается День защитника Отечества. Праздник был учреждён в 1922 г. как годовщина образования Красной армии: считается, что именно в этот день в 1918 г. начали формироваться силы, давшие отпор немецким и австро-венгерским войскам, возобновившим наступление на территории бывшей Российской империи."
+msgstr "In several post-Soviet countries, February 23 is celebrated as Defender of the Fatherland Day. The holiday was established in 1922 as the anniversary of the formation of the Red Army: it is believed that on this day in 1918, the forces that repelled the German and Austro-Hungarian armies, which had resumed their offensive on the territory of the former Russian Empire, began to form."
 
 msgid "IDS_PCEE668_KERCH_FLAG"
-msgstr "Керчь"
+msgstr "Kerch"
 
 msgid "IDS_PCEE668_KERCH_FLAG_DESCRIPTION"
-msgstr "Традиционным геральдическим символом Керчи является грифон, держащий ключ от Азовского и Чёрного морей. Мифическое крылатое существо с головой орла и телом льва впервые появляется ещё на золотых и серебряных монетах Боспорского царства — античного государства, располагавшегося в области Керченского пролива."
+msgstr "The traditional heraldic symbol of Kerch is a griffin holding the key to the Azov and Black Seas. The mythical winged creature with the head of an eagle and the body of a lion first appears on the gold and silver coins of the Bosporan Kingdom, an ancient state located in the area of the Kerch Strait."
 
 msgid "IDS_PCEE669_CALLENBURGH_FLAG"
 msgstr "HNLMS Callenburgh"
 
 msgid "IDS_PCEE669_CALLENBURGH_FLAG_DESCRIPTION"
-msgstr "Герард Калленбюрг — адмирал нидерландского флота XVII в. Свои самые блистательные и знаменитые победы — в сражении у залива Виго и в бою при Малаге — Калленбюрг одержал, будучи адмирал-лейтенантом в Адмиралтействе Западной Фрисландии."
+msgstr "Gerard Callenburgh was a 17th-century admiral of the Dutch fleet. His most brilliant and famous victories — in the Battle of Vigo Bay and the Battle of Malaga — were won while he was a lieutenant admiral in the Admiralty of West Friesland."
 
 msgid "IDS_PCEE670_CHANGZHENG_FLAG"
 msgstr "Changzheng"
 
 msgid "IDS_PCEE670_CHANGZHENG_FLAG_DESCRIPTION"
-msgstr "Флаг Рабоче-крестьянской Красной армии Китая, использовавшийся с 1934 г. до её расформирования. Под этим флагом армия совершила Великий поход (кит. «Чанчжэн») — стратегическое отступление в провинцию Шэньси. Китайские коммунисты во главе с Мао Цзэдуном преодолели тысячи километров, отбиваясь от сил Гоминьдана и теряя бойцов. В Китае Великий поход символизирует стойкость духа и возможность достичь всего, невзирая на любые трудности."
+msgstr "The flag of the Chinese Workers' and Peasants' Red Army, used from 1934 until its disbandment. Under this flag, the army undertook the Long March (Chinese 'Changzheng') — a strategic retreat to Shaanxi Province. The Chinese Communists, led by Mao Zedong, covered thousands of kilometers, fighting off Kuomintang forces and losing soldiers. In China, the Long March symbolizes resilience and the ability to achieve anything despite any difficulties."
 
 msgid "IDS_PCEE671_SUBMARINERS_FLAG"
-msgstr "Отличник ВМФ"
+msgstr "Navy Excellence"
 
 msgid "IDS_PCEE671_SUBMARINERS_FLAG_DESCRIPTION"
-msgstr "С 1957 г. морякам экипажей подводных лодок СССР присваивался нагрудный знак «Отличник ВМФ» вместо существовавших ранее знаков «Отличный подводник» и «Отличный торпедист»."
+msgstr "Since 1957, sailors of Soviet submarine crews have been awarded the 'Navy Excellence' badge instead of the previous 'Excellent Submariner' and 'Excellent Torpedo Operator' badges."
 
 msgid "IDS_PCEE672_YELLOW_PANTS_FLAG"
-msgstr "Жёлтые штаны"
+msgstr "Yellow Pants"
 
 msgid "IDS_PCEE672_YELLOW_PANTS_FLAG_DESCRIPTION"
-msgstr "Если у меня немножко КЦ есть, я имею право носить жёлтые штаны, и передо мной пацак должен не один, а два раза приседать."
+msgstr "If I have a little KTs, I have the right to wear yellow pants, and a guy must squat in front of me not once, but twice."
 
 msgid "IDS_PCEE673_CRIMSON_PANTS_FLAG"
-msgstr "Малиновые штаны"
+msgstr "Crimson Pants"
 
 msgid "IDS_PCEE673_CRIMSON_PANTS_FLAG_DESCRIPTION"
-msgstr "Если у меня много КЦ есть, я имею право носить малиновые штаны, и передо мной и пацак должен два раза приседать, и чатланин «ку» делать, и эцилопп меня не имеет права бить по ночам... Никогда!.."
+msgstr "If I have a lot of KTs, I have the right to wear crimson pants, and not only must a guy squat twice before me, but also a chatlanin must 'ku' me, and an etsilop doesn't have the right to hit me at night... Never!.."
 
 msgid "IDS_PCEE674_NIKOLAY_I_FLAG"
-msgstr "Император Николай I"
+msgstr "Emperor Nicholas I"
 
 msgid "IDS_PCEE674_NIKOLAY_I_FLAG_DESCRIPTION"
-msgstr "Генералы, адмиралы и офицеры сухопутных и военно-морских сил, отличившиеся по службе и пользовавшиеся доверием императора, с начала XIX в. составляли его Свиту и имели особые свитские звания. В годы правления Николая I главным отличительным знаком у всех чинов Свиты на свитском и общевойсковом мундире являлся вензель императора на эполетах."
+msgstr "Generals, admirals, and officers of the land and naval forces who distinguished themselves in service and enjoyed the trust of the emperor formed his Suite and had special suite ranks from the early 19th century. During the reign of Nicholas I, the main distinctive sign for all suite ranks on the suite and general uniform was the emperor's monogram on the epaulettes."
 
 msgid "IDS_PCEE675_PIRATE_POTATO_FLAG"
-msgstr "К-АРРРРРРР-ТОФЕЛЬ!"
+msgstr "P-ARRRRRRR-TATO!"
 
 msgid "IDS_PCEE675_PIRATE_POTATO_FLAG_DESCRIPTION"
-msgstr "В честь Международного дня варки картофеля."
+msgstr "In honor of International Potato Boiling Day."
 
 msgid "IDS_PCEE676_SOV_BB_EA_FLAG"
-msgstr "Советские линкоры"
+msgstr "Soviet Battleships"
 
 msgid "IDS_PCEE676_SOV_BB_EA_FLAG_DESCRIPTION"
-msgstr "Флаг народного комиссара ВМФ СССР, использовавшийся в 1938–1950 гг."
+msgstr "Flag of the People's Commissar of the Navy of the USSR, used from 1938 to 1950."
 
 msgid "IDS_PCEE676_SOV_BB_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода новых советских линкоров в ранний доступ в обновлении 13.3."
+msgstr "In honor of the release of new Soviet battleships in early access in update 13.3."
 
 msgid "IDS_PCEE677_PFALZ_FLAG"
 msgstr "Pfalz"
 
 msgid "IDS_PCEE677_PFALZ_FLAG_DESCRIPTION"
-msgstr "Флаг курфюршества Пфальц объединяет родовые символы Гогенштауфенов и Виттельсбахов — двух династий, правивших Пфальцем. Родовой символ Гогенштауфенов — лев — стал символом Пфальца, а с династией Виттельсбахов связано появление на флаге бело-голубого ромбовидного узора, ставшего впоследствии символом Баварии."
+msgstr "The flag of the Electorate of the Palatinate combines the heraldic symbols of the Hohenstaufen and Wittelsbach dynasties — two families that ruled the Palatinate. The heraldic symbol of the Hohenstaufens, the lion, became the symbol of the Palatinate, and the white-blue diamond pattern on the flag is associated with the Wittelsbach dynasty, later becoming the symbol of Bavaria."
 
 msgid "IDS_PCEE678_CHESAPEAKE_FLAG"
 msgstr "USS Chesapeake"
 
 msgid "IDS_PCEE678_CHESAPEAKE_FLAG_DESCRIPTION"
-msgstr "В Чесапикском заливе в 1781 г. состоялось морское сражение, решившее судьбу Американской войны за независимость. Почти через год была учреждена первая военная награда в истории США — нагрудный знак «За военные заслуги», которым награждались особо отличившиеся в бою солдаты Континентальной армии."
+msgstr "In Chesapeake Bay in 1781, a naval battle took place that decided the outcome of the American War of Independence. Nearly a year later, the first military award in US history was established — the Badge of Military Merit, awarded to soldiers of the Continental Army who distinguished themselves in battle."
 
 msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG"
 msgstr "Andalucía CLR"
 
 msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG_DESCRIPTION"
-msgstr "Андалусия — самый южный регион Испании, отделённый от Северной Африки Гибралтарским проливом. На гербе Андалусии расположено символическое изображение Геркулесовых столбов — высот, обрамляющих вход в пролив. Между столбами стоит Геракл, укрощающий двух львов."
+msgstr "Andalusia is the southernmost region of Spain, separated from North Africa by the Strait of Gibraltar. The coat of arms of Andalusia depicts a symbolic image of the Pillars of Hercules — the heights flanking the entrance to the strait. Between the pillars stands Hercules, taming two lions."
 
 msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода ослепительно ярких кораблей."
+msgstr "In honor of the release of dazzlingly bright ships."
 
 msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG"
 msgstr "Schlieffen CLR"
 
 msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_DESCRIPTION"
-msgstr "Шлиффены — немецкий дворянский род из Померании, первые упоминания о нём относятся к XIV в. Одним из самых знаменитых представителей этой семьи стал полководец и военный стратег Альфред фон Шлиффен (1833–1913)."
+msgstr "The Schlieffen family is a German noble family from Pomerania, first mentioned in the 14th century. One of the most famous members of this family was the military strategist and commander Alfred von Schlieffen (1833–1913)."
 
 msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода ослепительно ярких кораблей."
+msgstr "In honor of the release of dazzlingly bright ships."
 
 msgid "IDS_PCEE681_TSARMOREY2024_FLAG"
-msgstr "Лукоморье"
+msgstr "Lukomorye"
 
 msgid "IDS_PCEE681_TSARMOREY2024_FLAG_DESCRIPTION"
 msgstr ""
-"У лукоморья дуб зелёный;\n"
-"Златая цепь на дубе том:\n"
-"И днём и ночью кот учёный\n"
-"Всё ходит по цепи кругом;\n"
-"Идёт направо — песнь заводит,\n"
-"Налево — сказку говорит."
+"By the bay there stands a green oak tree;\n"
+"A golden chain is on that oak:\n"
+"And day and night a learned cat\n"
+"Walks around the chain;\n"
+"Goes right — he sings a song,\n"
+"Goes left — he tells a tale."
 
 msgid "IDS_PCEE681_TSARMOREY2024_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь турнира «Царь морей»."
+msgstr "In honor of the 'Tsar of the Seas' tournament."
 
 msgid "IDS_PCEE682_RED_CARNATION_CHARITY_FLAG"
-msgstr "Красная гвоздика"
+msgstr "Red Carnation"
 
 msgid "IDS_PCEE682_RED_CARNATION_CHARITY_FLAG_DESCRIPTION"
-msgstr "В благодарность ветеранам Великой Отечественной войны."
+msgstr "In gratitude to the veterans of the Great Patriotic War."
 
 msgid "IDS_PCEE683_RUSSIAN_ALASKA_FLAG"
-msgstr "Русская Аляска"
+msgstr "Russian Alaska"
 
 msgid "IDS_PCEE683_RUSSIAN_ALASKA_FLAG_DESCRIPTION"
-msgstr "Российско-американская компания — торговая организация, созданная русскими купцами и утверждённая Павлом I в 1799 г. Основной деятельностью компании были торговля пушниной и управление русскими владениями в Новом Свете. Флаг компании, утверждённый Александром I в 1806 г., использовался как морской и крепостной флаг."
+msgstr "The Russian-American Company was a trading organization established by Russian merchants and sanctioned by Paul I in 1799. The company's main activities were fur trade and the management of Russian territories in the New World. The company's flag, approved by Alexander I in 1806, was used as a naval and fortress flag."
 
 msgid "IDS_PCEE684_TOGLIATTI_FLAG"
-msgstr "Тольятти"
+msgstr "Togliatti"
 
 msgid "IDS_PCEE684_TOGLIATTI_FLAG_DESCRIPTION"
-msgstr "Пальмиро Тольятти (1893–1964) — лидер компартии Италии, видный представитель мирового коммунистического движения. В 1935–1943 гг. Тольятти являлся одним из руководителей Коминтерна — международной организации, объединявшей коммунистические партии по всему миру."
+msgstr "Palmiro Togliatti (1893–1964) was the leader of the Communist Party of Italy and a prominent figure in the world communist movement. From 1935 to 1943, Togliatti was one of the leaders of the Comintern, an international organization uniting communist parties worldwide."
 
 msgid "IDS_PCEE685_CONQUISTADOR_FLAG"
 msgstr "Conquistador"
 
 msgid "IDS_PCEE685_CONQUISTADOR_FLAG_DESCRIPTION"
-msgstr "Бургундский крест стал частью символики Испанской империи, когда на её трон взошла династия Габсбургов, имевшая титул герцогов Бургундии. В эпоху конкистадоров использовался на флагах испанских владений в Новом Свете, а также на флагах армии и флота Испании."
+msgstr "The Burgundy Cross became part of the symbolism of the Spanish Empire when the Habsburg dynasty, holding the title of Dukes of Burgundy, ascended the throne. During the age of the conquistadors, it was used on the flags of Spanish possessions in the New World, as well as on the flags of the Spanish army and navy."
 
 msgid "IDS_PCEE686_CHATEAURENAULT_FLAG"
 msgstr "Châteaurenault"
 
 msgid "IDS_PCEE686_CHATEAURENAULT_FLAG_DESCRIPTION"
-msgstr "Герб французского корабля Châteaurenault. Такое имя корабли французского флота традиционно получают в честь вице-адмирала Франсуа Луи Русселе де Шато-Рено, проявившего себя в войнах и морских сражениях конца XVII — начала XVIII в."
+msgstr "The coat of arms of the French ship Châteaurenault. Such a name is traditionally given to French Navy ships in honor of Vice Admiral François Louis Rousselet de Châteaurenault, who distinguished himself in the wars and naval battles of the late 17th to early 18th centuries."
 
 msgid "IDS_PCEE687_SCHERBAKOV_FLAG"
-msgstr "Щербаков"
+msgstr "Shcherbakov"
 
 msgid "IDS_PCEE687_SCHERBAKOV_FLAG_DESCRIPTION"
-msgstr "Александр Сергеевич Щербаков (1901–1945) — советский государственный и партийный деятель, генерал-полковник. В годы Великой Отечественной войны руководил Совинформбюро и Главным политуправлением Красной армии, а также занимал должность заместителя народного комиссара обороны СССР. В 1937–1945 гг. являлся депутатом Верховного Совета."
+msgstr "Alexander Sergeyevich Shcherbakov (1901–1945) was a Soviet statesman and party figure, Colonel General. During the Great Patriotic War, he headed the Soviet Information Bureau and the Main Political Directorate of the Red Army, and also served as Deputy People's Commissar of Defense of the USSR. From 1937 to 1945, he was a deputy of the Supreme Soviet."
 
 msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG"
 msgstr "Akizuki CLR"
 
 msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG_DESCRIPTION"
-msgstr "В переводе с японского Akizuki означает «осенняя луна». В середине осени в Японии отмечают праздник, посвящённый луне: в эти дни принято любоваться ночным светилом, украшать дома и готовить особые угощения."
+msgstr "Akizuki translates from Japanese as 'Autumn Moon.' In mid-autumn, Japan celebrates a festival dedicated to the moon: during these days, it is customary to admire the night light, decorate homes, and prepare special treats."
 
 msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода ослепительно ярких кораблей."
+msgstr "In honor of the release of dazzlingly bright ships."
 
 msgid "IDS_PCEE689_LOTHRINGEN_FLAG"
 msgstr "Lothringen"
 
 msgid "IDS_PCEE689_LOTHRINGEN_FLAG_DESCRIPTION"
-msgstr "Эльзас и Лотарингия вошли в состав Германской империи по итогам Франко-прусской войны 1870–1871 гг. и стали «имперской землёй», не получив статус полноценной провинции. На флаге этой земли изображены государственные цвета и герб Германской империи, а в левом верхнем углу расположен объединённый герб Нижнего Эльзаса, Верхнего Эльзаса и Лотарингии."
+msgstr "Alsace and Lorraine were incorporated into the German Empire following the Franco-Prussian War of 1870–1871 and became 'imperial land,' without achieving the status of a full province. The flag of this land depicted the national colors and the coat of arms of the German Empire, with the combined coat of arms of Lower Alsace, Upper Alsace, and Lorraine in the upper left corner."
 
 msgid "IDS_PCEE690_NATSUKAZE_FLAG"
 msgstr "Natsukaze"
 
 msgid "IDS_PCEE690_NATSUKAZE_FLAG_DESCRIPTION"
-msgstr "Natsukaze в переводе с японского означает «летний бриз». Бриз — это тип прибрежного ветра с суточной периодичностью. Днём прохладный воздух движется с моря к тёплому побережью, а ночью с нагретого за день моря тёплый воздух движется к быстро остывающей суше."
+msgstr "Natsukaze translates from Japanese as 'Summer Breeze.' A breeze is a type of coastal wind with a daily periodicity. During the day, cool air moves from the sea to the warm shore, and at night, warm air from the sea moves to the rapidly cooling land."
 
 msgid "IDS_PCEE691_OYODO_FLAG"
 msgstr "Ōyodo"
 
 msgid "IDS_PCEE691_OYODO_FLAG_DESCRIPTION"
-msgstr "Оёдо — река на острове Кюсю, которая протекает через префектуру Миядзаки. В эпоху феодальной раздробленности на этих землях властвовали четыре княжества, одним из которых было Оби. Изображение цветка в доме помещалось на камоне — родовом знаке — клана Ито, который правил княжеством Оби вплоть до упразднения системы сёгуната."
+msgstr "Ōyodo is a river on the island of Kyushu, which flows through Miyazaki Prefecture. In the era of feudal fragmentation, these lands were ruled by four principalities, one of which was Obi. The image of a flower was placed on the kamon — the clan emblem — of the Ito clan, which ruled the Obi principality until the abolition of the shogunate system."
 
 msgid "IDS_PCEE692_USA_DD_EA_FLAG"
-msgstr "Эсминцы США"
+msgstr "US Destroyers"
 
 msgid "IDS_PCEE692_USA_DD_EA_FLAG_DESCRIPTION"
-msgstr "Non sibi sed patriae."
+msgstr "Not for self but for country."
 
 msgid "IDS_PCEE692_USA_DD_EA_FLAG_EXTRA_DESCRIPTION"
-msgstr "В честь выхода новых эсминцев США в ранний доступ в обновлении 13.6."
+msgstr "In honor of the release of new US destroyers in early access in update 13.6."
 
 msgid "IDS_PCEE693_PIORUN_FLAG"
 msgstr "ORP Piorun"
 
 msgid "IDS_PCEE693_PIORUN_FLAG_DESCRIPTION"
-msgstr "Орден Virtuti Militari — высший польский военный орден, который вручают за выдающиеся боевые заслуги. Один из старейших военных орденов в мире. Учреждён королём Речи Посполитой Станиславом Августом Понятовским в 1792 г. Девиз ордена: «Честь и Родина»."
+msgstr "The Virtuti Militari Order is Poland's highest military order, awarded for outstanding combat achievements. One of the oldest military orders in the world. Established by the King of the Polish-Lithuanian Commonwealth Stanisław August Poniatowski in 1792. The order's motto: 'Honor and Homeland.'"
 
 msgid "IDS_PCEE695_EVERLASTING_SUMMER_FLAG"
-msgstr "Бесконечное лето"
+msgstr "Everlasting Summer"
 
 msgid "IDS_PCEE695_EVERLASTING_SUMMER_FLAG_DESCRIPTION"
-msgstr "Внезапно захотелось плюнуть на всё, забыть о вчерашней зиме и просто поверить, что всё это на самом деле, что так и надо, что всё это, в конце концов, к лучшему..."
+msgstr "Suddenly wanted to spit on everything, forget about yesterday's winter, and just believe that all this is real, that this is how it should be, that all this, in the end, is for the better..."
 
 msgid "IDS_PCEE695_EVERLASTING_SUMMER_FLAG_EXTRA_DESCRIPTION"
-msgstr "Из игры «Бесконечное лето»."
+msgstr "From the game 'Everlasting Summer.'"
 
 msgid "IDS_PCEE696_SCARLET_SAILS_FLAG"
-msgstr "Алые Паруса"
+msgstr "Scarlet Sails"
 
 msgid "IDS_PCEE696_SCARLET_SAILS_FLAG_DESCRIPTION"
-msgstr "«Алые паруса» — единственное в мире грандиозное представление, посвящённое выпускникам школ. Первый праздник состоялся 27 июня 1968 г. В этот день ленинградские школьники впервые встретили на берегах Невы бригантину под алыми парусами — как символ надежды, веры в будущее и исполнения заветных желаний. Праздник выпускников проводился до 1979 г., а затем, после длительного перерыва, традиция была возрождена в 2005 г."
+msgstr "'Scarlet Sails' is the only grand spectacle in the world dedicated to school graduates. The first celebration took place on June 27, 1968. On this day, Leningrad schoolchildren first greeted a brigantine under scarlet sails on the banks of the Neva — as a symbol of hope, faith in the future, and the fulfillment of cherished desires. The graduation celebration was held until 1979, and then, after a long break, the tradition was revived in 2005."
 
 msgid "IDS_PCEE698_KORTENAER_FLAG"
 msgstr "HNLMS Kortenaer"
 
 msgid "IDS_PCEE698_KORTENAER_FLAG_DESCRIPTION"
-msgstr "Один из британских эсминцев типа S был назван Scorpion после гибели речной канонерской лодки с этим именем. В 1945 г. эсминец был продан Нидерландам, где был назван Kortenaer — в честь выдающегося адмирала XVII в. Эгберта Бартоломеуса Кортенара, родившегося в городе Гронинген."
+msgstr "One of the British S-class destroyers was named Scorpion after the river gunboat of the same name was lost. In 1945, the destroyer was sold to the Netherlands, where it was named Kortenaer — in honor of the outstanding 17th-century admiral Egbert Bartolomeus Kortenaer, born in the city of Groningen."
 
 msgid "IDS_PCEF101_HPBOOST_SIGNALFLAG_1"
 msgstr "November"
 
 msgid "IDS_PCEF101_HPBOOST_SIGNALFLAG_1_1"
-msgstr "November — Стандартный"
+msgstr "November — Standard"
 
 msgid "IDS_PCEF102_HPBOOST_SIGNALFLAG_2"
 msgstr "November"
 
 msgid "IDS_PCEF102_HPBOOST_SIGNALFLAG_2_2"
-msgstr "November — Особый"
+msgstr "November — Special"
 
 msgid "IDS_PCEF103_HPBOOST_SIGNALFLAG_3"
 msgstr "November"
 
 msgid "IDS_PCEF103_HPBOOST_SIGNALFLAG_3_3"
-msgstr "November — Редкий"
+msgstr "November — Rare"
 
 msgid "IDS_PCEF104_HPBOOST_SIGNALFLAG_4"
 msgstr "November"
 
 msgid "IDS_PCEF104_HPBOOST_SIGNALFLAG_4_4"
-msgstr "November — Элитный"
+msgstr "November — Elite"
 
 msgid "IDS_PCEF111_GM_SIGNALFLAG_1"
 msgstr "Yankee"
 
 msgid "IDS_PCEF111_GM_SIGNALFLAG_1_1"
-msgstr "Yankee — Стандартный"
+msgstr "Yankee — Standard"
 
 msgid "IDS_PCEF112_GM_SIGNALFLAG_2"
 msgstr "Yankee"
 
 msgid "IDS_PCEF112_GM_SIGNALFLAG_2_2"
-msgstr "Yankee — Особый"
+msgstr "Yankee — Special"
 
 msgid "IDS_PCEF113_GM_SIGNALFLAG_3"
 msgstr "Yankee"
 
 msgid "IDS_PCEF113_GM_SIGNALFLAG_3_3"
-msgstr "Yankee — Редкий"
+msgstr "Yankee — Rare"
 
 msgid "IDS_PCEF114_GM_SIGNALFLAG_4"
 msgstr "Yankee"
 
 msgid "IDS_PCEF114_GM_SIGNALFLAG_4_4"
-msgstr "Yankee — Элитный"
+msgstr "Yankee — Elite"
 
 msgid "IDS_PCEF121_ATBA_SIGNALFLAG_1"
 msgstr "Foxtrot"
 
 msgid "IDS_PCEF121_ATBA_SIGNALFLAG_1_1"
-msgstr "Foxtrot — Стандартный"
+msgstr "Foxtrot — Standard"
 
 msgid "IDS_PCEF122_ATBA_SIGNALFLAG_2"
 msgstr "Foxtrot"
 
 msgid "IDS_PCEF122_ATBA_SIGNALFLAG_2_2"
-msgstr "Foxtrot — Особый"
+msgstr "Foxtrot — Special"
 
 msgid "IDS_PCEF123_ATBA_SIGNALFLAG_3"
 msgstr "Foxtrot"
 
 msgid "IDS_PCEF123_ATBA_SIGNALFLAG_3_3"
-msgstr "Foxtrot — Редкий"
+msgstr "Foxtrot — Rare"
 
 msgid "IDS_PCEF124_ATBA_SIGNALFLAG_4"
 msgstr "Foxtrot"
 
 msgid "IDS_PCEF124_ATBA_SIGNALFLAG_4_4"
-msgstr "Foxtrot — Элитный"
+msgstr "Foxtrot — Elite"
 
 msgid "IDS_PCEF131_SPEED_SIGNALFLAG_1"
 msgstr "Sierra"
 
 msgid "IDS_PCEF131_SPEED_SIGNALFLAG_1_1"
-msgstr "Sierra — Стандартный"
+msgstr "Sierra — Standard"
 
 msgid "IDS_PCEF132_SPEED_SIGNALFLAG_2"
 msgstr "Sierra"
 
 msgid "IDS_PCEF132_SPEED_SIGNALFLAG_2_2"
-msgstr "Sierra — Особый"
+msgstr "Sierra — Special"
 
 msgid "IDS_PCEF133_SPEED_SIGNALFLAG_3"
 msgstr "Sierra"
 
 msgid "IDS_PCEF133_SPEED_SIGNALFLAG_3_3"
-msgstr "Sierra — Редкий"
+msgstr "Sierra — Rare"
 
 msgid "IDS_PCEF134_SPEED_SIGNALFLAG_4"
 msgstr "Sierra"
 
 msgid "IDS_PCEF134_SPEED_SIGNALFLAG_4_4"
-msgstr "Sierra — Элитный"
+msgstr "Sierra — Elite"
 
 msgid "IDS_PCEF141_CONSUMABLE_SIGNALFLAG_1"
 msgstr "India"
 
 msgid "IDS_PCEF141_CONSUMABLE_SIGNALFLAG_1_1"
-msgstr "India — Стандартный"
+msgstr "India — Standard"
 
 msgid "IDS_PCEF142_CONSUMABLE_SIGNALFLAG_2"
 msgstr "India"
 
 msgid "IDS_PCEF142_CONSUMABLE_SIGNALFLAG_2_2"
-msgstr "India — Особый"
+msgstr "India — Special"
 
 msgid "IDS_PCEF143_CONSUMABLE_SIGNALFLAG_3"
 msgstr "India"
 
 msgid "IDS_PCEF143_CONSUMABLE_SIGNALFLAG_3_3"
-msgstr "India — Редкий"
+msgstr "India — Rare"
 
 msgid "IDS_PCEF144_CONSUMABLE_SIGNALFLAG_4"
 msgstr "India"
 
 msgid "IDS_PCEF144_CONSUMABLE_SIGNALFLAG_4_4"
-msgstr "India — Элитный"
+msgstr "India — Elite"
 
 msgid "IDS_PCEF151_SHIFT_SIGNALFLAG_1"
 msgstr "Charlie"
 
 msgid "IDS_PCEF151_SHIFT_SIGNALFLAG_1_1"
-msgstr "Charlie — Стандартный"
+msgstr "Charlie — Standard"
 
 msgid "IDS_PCEF152_SHIFT_SIGNALFLAG_2"
 msgstr "Charlie"
 
 msgid "IDS_PCEF152_SHIFT_SIGNALFLAG_2_2"
-msgstr "Charlie — Особый"
+msgstr "Charlie — Special"
 
 msgid "IDS_PCEF153_SHIFT_SIGNALFLAG_3"
 msgstr "Charlie"
 
 msgid "IDS_PCEF153_SHIFT_SIGNALFLAG_3_3"
-msgstr "Charlie — Редкий"
+msgstr "Charlie — Rare"
 
 msgid "IDS_PCEF154_SHIFT_SIGNALFLAG_4"
 msgstr "Charlie"
 
 msgid "IDS_PCEF154_SHIFT_SIGNALFLAG_4_4"
-msgstr "Charlie — Элитный"
+msgstr "Charlie — Elite"
 
 msgid "IDS_PCEP311_PERMO_LUSHUN"
-msgstr "Флот Жёлтого моря"
+msgstr "Yellow Sea Fleet"
 
 msgid "IDS_PCJM001_PURCHASEDISCOUNT_5_LVL"
-msgstr "Эллинг для кораблей V уровня"
+msgstr "Shipyard for Tier V Ships"
 
 msgid "IDS_PCJM002_PURCHASEDISCOUNT_6_LVL"
-msgstr "Эллинг для кораблей VI уровня"
+msgstr "Shipyard for Tier VI Ships"
 
 msgid "IDS_PCJM003_PURCHASEDISCOUNT_7_LVL"
-msgstr "Эллинг для кораблей VII уровня"
+msgstr "Shipyard for Tier VII Ships"
 
 msgid "IDS_PCJM004_PURCHASEDISCOUNT_8_LVL"
-msgstr "Эллинг для кораблей VIII уровня"
+msgstr "Shipyard for Tier VIII Ships"
 
 msgid "IDS_PCQM054_DESCR"
-msgstr "Адмирал Ямамото принадлежал к числу флотоводцев, предвидевших решающую роль авианосцев в надвигающихся морских сражениях. Однако, возражая против строительства суперлинкоров, он признавал значение линейных кораблей как символа и опоры могущества любой морской державы. Среди руководящих верхов ВМС Японии была чрезвычайно популярна идея генерального сражения линейных флотов как единственного пути к победе на океанском театре — своего рода новая Цусима. Ямамото, за время службы хорошо изучивший США, понимал, что Японии в противостоянии на море с этим промышленным гигантом может дать шанс только внезапный удар с воздуха по кораблям Соединённых Штатов. Так родилась идея атаки на Пёрл-Харбор — главную базу американского Тихоокеанского флота. Блестяще спланированная Ямамото и осуществлённая его детищем, 1-м ударным соединением авианосцев, операция вошла в историю. Японские торпедоносцы и бомбардировщики добились впечатляющих результатов, повторив успех адмирала Того, — семь линкоров противника были выведены из строя, некоторые из них навсегда."
+msgstr "Admiral Yamamoto was among the naval commanders who foresaw the decisive role of aircraft carriers in the impending naval battles. However, while opposing the construction of super battleships, he recognized the significance of battleships as a symbol and pillar of power for any maritime nation. Among the top brass of the Japanese Navy, the idea of a decisive battle between battleship fleets as the only path to victory in the ocean theater was extremely popular — a kind of new Tsushima. Yamamoto, who had studied the United States well during his service, understood that in a naval confrontation with this industrial giant, Japan's only chance was a surprise air strike on US ships. Thus, the idea of attacking Pearl Harbor, the main base of the US Pacific Fleet, was born. Brilliantly planned by Yamamoto and executed by his brainchild, the 1st Carrier Strike Force, the operation went down in history. Japanese torpedo bombers and bombers achieved impressive results, repeating Admiral Togo's success — seven enemy battleships were disabled, some of them permanently."
 
 msgid "IDS_PCQM071_DESCR"
 msgstr ""
-"Произведённый в 1906 году в первое офицерское звание, Хэлси на борту эскадренного броненосца Kansas в 1907–1909 годах принял участие в легендарном походе «Великого белого флота» — кругосветном круизе 16 новейших американских линкоров, призванном продемонстрировать миру возросшую морскую мощь США. Во время похода при посещении Японии ему довелось подняться на борт знаменитого флагмана Объединённого флота, Mikasa. Овеянный боевой славой японский броненосец на Хэлси впечатления не произвёл… Вернувшись из круиза, молодой лейтенант оставил «корабли с большими пушками» ради службы на небольших и быстроходных миноносцах.\n"
+"Commissioned as an officer in 1906, Halsey participated in the legendary 'Great White Fleet' voyage — a round-the-world cruise of 16 of America's newest battleships, intended to showcase the United States' growing naval power. During the voyage, when visiting Japan, he had the opportunity to board the famous flagship of the Combined Fleet, Mikasa. The battle-honored Japanese battleship did not impress Halsey... After returning from the cruise, the young lieutenant left 'big gun ships' for service on small and fast torpedo boats.\n"
 "\n"
-"Во время Первой мировой войны Хэлси наконец-то стал командиром корабля, это был USS Shaw — эсминец типа Sampson. Оказавшись однажды во главе отряда из двух американских эсминцев и двух британских шлюпов, он вспоминал потом, что был при этом «горд, как собака с двумя хвостами». По окончании войны грудь Хэлси украсил Военно-морской крест."
+"During World War I, Halsey finally became a ship commander, commanding the destroyer USS Shaw, a Sampson-class destroyer. Finding himself once in command of a detachment of two American destroyers and two British sloops, he later recalled that he was 'as proud as a dog with two tails.' After the war, Halsey's chest was adorned with the Navy Cross."
 
 msgid "IDS_PCQM074_DESCR"
 msgstr ""
-"В битве за Гуадалканал адмирал Хэлси опять оказался тем, кто был нужен США именно в это время и в этом месте. Своей бившей через край энергией и воинственностью он вселял уверенность во всех своих подчинённых до последнего матроса или морского пехотинца. Он наносил удары японцам раз за разом, отправляя в узкие проливы Соломоновых островов новейшие линкоры и авианосцы, если дело того стоило.\n"
+"In the Battle of Guadalcanal, Admiral Halsey again proved to be the right man for the job at the right time and place for the United States. With his overflowing energy and belligerence, he instilled confidence in all his subordinates, down to the last sailor or marine. He struck the Japanese repeatedly, sending the latest battleships and aircraft carriers into the narrow straits of the Solomon Islands when the situation warranted it.\n"
 "\n"
-"Когда в феврале 1943 года Гуадалканал окончательно остался за американцами, Хэлси развернул борьбу за остальные острова архипелага, первым на Тихом океане применив стратегию «перепрыгивания» через наиболее крепкие оборонительные пункты японцев. «Пока у меня есть хоть один пилот и хоть один самолёт, я буду наступать»: шаг за шагом адмирал продвигался вперёд, рисковал, ошибался, нёс потери, далеко не всегда оправданные. Кульминационный момент в карьере флотоводца наступил 2 сентября 1945 года. В этот день на борту USS Missouri — флагманского корабля адмирала Уильяма Хэлси, командующего Третьим Флотом — самым мощным соединением ВМС США, была подписана капитуляция Японии."
+"When Guadalcanal finally remained in American hands in February 1943, Halsey turned his attention to the rest of the islands of the archipelago, being the first in the Pacific to apply the strategy of 'leapfrogging' the strongest Japanese defensive points. 'As long as I have at least one pilot and at least one plane, I will advance': step by step, the admiral advanced, took risks, made mistakes, suffered losses, some of which were far from justified. The culminating moment in the career of the naval commander came on September 2, 1945. On that day, aboard the USS Missouri — the flagship of Admiral William Halsey, commander of the Third Fleet — the most powerful formation of the US Navy, the surrender of Japan was signed."
 
 msgid "IDS_PCQM094_SHIPS_DESCR"
 msgstr ""
-"В первой половине 1930-х годов Великобритания предприняла огромные усилия, чтобы сохранить и укрепить систему международных договоров по ограничению военно-морских вооружений. Причина заключалась не в пацифизме англичан, а в том, что слабеющая Британская империя уже не могла уверенно удерживать трезубец Нептуна. В Лондоне в 1930 и 1936 гг. состоялись две конференции, по итогам которых существовавшие по Вашингтонскому соглашению 1922 года лимиты на количество, размеры и вооружение боевых кораблей были ужесточены. Помимо этого, был принят ряд новых ограничений, которые с этого момента распространялись на авианосцы, эсминцы, подлодки и все крейсеры.\n"
+"In the first half of the 1930s, Great Britain made enormous efforts to maintain and strengthen the system of international naval armament limitation treaties. The reason was not pacifism among the British but that the weakening British Empire could no longer confidently hold the trident of Neptune. Two conferences were held in London in 1930 and 1936, resulting in the tightening of existing limits on the number, size, and armament of warships under the Washington Agreement of 1922. In addition, several new restrictions were introduced, which from then on applied to aircraft carriers, destroyers, submarines, and all cruisers.\n"
 "\n"
-"Достигнутые договорённости во многом были обесценены: Италия отказалась их подписывать, а Япония вообще вышла из системы морских соглашений. Не удались также попытки подключить к двусторонним договорам (по вашингтонско-лондонской системе) Германию и СССР, несмотря на то что эти страны рвались на океанские просторы с середины 1930-х годов.\n"
+"The agreements reached were largely devalued: Italy refused to sign them, and Japan withdrew from the naval agreement system altogether. Attempts to involve Germany and the USSR in bilateral treaties (under the Washington-London system) also failed, despite these countries' desire to enter the open seas from the mid-1930s.\n"
 "\n"
-"Тем не менее лондонские морские соглашения оказали заметное влияние на военное кораблестроение. Поскольку Япония и Италия отказались присоединиться к договору 1936 г., США, Франция и Великобритания внесли в него изменение, увеличив допустимое водоизмещение разрешённых к постройке капитальных кораблей. Также увеличили главный калибр — с 356 до 406 мм. Однако сами англичане спроектировали и заложили свои новые линкоры типа King George V с прежним ограничением по водоизмещению и 14-дюймовыми орудиями. В свою очередь американцы, последовательно продвигавшиеся к концепции быстроходных линейных кораблей, успели установить на новых линкорах типа North Carolina и South Dakota 16-дюймовый главный калибр. Наиболее сбалансированные корабли этого класса с учётом договорных ограничений построили во Франции — ими стали корабли типа Richelieu с 380-мм орудиями. Это был симметричный ответ на строившиеся итальянцами новые линейные корабли типа Littorio. Наконец, в закрытый клуб обладателей полноценных современных линкоров во второй половине 1930-х годов стремительно ворвалась Германия с отлично защищёнными кораблями типа Bismarck.\n"
+"Nevertheless, the London naval agreements significantly influenced military shipbuilding. Since Japan and Italy refused to join the 1936 treaty, the United States, France, and Great Britain amended it, increasing the allowed displacement of capital ships. They also increased the main caliber from 356 to 406 mm. However, the British themselves designed and laid down their new King George V-class battleships with the previous displacement restriction and 14-inch guns. In turn, the Americans, consistently advancing toward the concept of fast battleships, managed to install 16-inch main guns on the new North Carolina and South Dakota-class battleships. The most balanced ships of this class, considering treaty limitations, were built in France — these were the Richelieu-class ships with 380 mm guns. This was a symmetrical response to the new Italian Littorio-class battleships. Finally, in the late 1930s, Germany rapidly entered the closed club of owners of full-fledged modern battleships with the excellently protected Bismarck-class ships.\n"
 "\n"
-"Сильнее всего лондонские договоры отразились на крейсеростроении. Были определены подклассы тяжёлых и лёгких крейсеров, причём строительство первых было сперва ограничено, а потом и вовсе запрещено. Это позволило Великобритании сосредоточиться на создании именно лёгких крейсеров нового поколения с 152-мм главным калибром — Британская империя нуждалась в большом количестве подобных кораблей. Впрочем, появление мощнейших японских крейсеров типа Mogami и Tone с 155-мм орудиями, которые на самом деле легко заменялись на 203-мм, привело к необходимости наращивания боевых качеств лёгких крейсеров ВМФ Британии и ВМС США. Пожалуй, наиболее совершенным тяжёлым крейсером 1930-х стал построенный в единственном экземпляре французский Algérie, а самыми защищёнными — итальянские крейсеры типа Zara. Среди лёгких крейсеров лучшими по соотношению стоимости и боевой эффективности считались французские корабли типа La Galissonnière.\n"
+"The London treaties had the most significant impact on cruiser construction. Subclasses of heavy and light cruisers were defined, with the construction of the former initially restricted and then banned altogether. This allowed Great Britain to focus on creating a new generation of light cruisers with 152 mm main guns — the British Empire needed many such ships. However, the emergence of powerful Japanese Mogami and Tone-class cruisers with 155 mm guns, which could easily be replaced with 203 mm guns, led to the need to enhance the combat qualities of light cruisers of the British Navy and the US Navy. Perhaps the most advanced heavy cruiser of the 1930s was the French Algérie, built as a single unit, while the best-protected were the Italian Zara-class cruisers. Among the light cruisers, the French La Galissonnière-class ships were considered the best in terms of cost-effectiveness and combat efficiency.\n"
 "\n"
-"Что касается эскадренных миноносцев, то во второй половине 1930-х к мощным японским эсминцам и быстроходным французским лидерам добавились довольно крупные, хорошо вооружённые новые эскадренные миноносцы Германии. Ввиду договорных ограничений США и Великобритания ответили на это созданием более лёгких кораблей. Они обладали не столь выдающимися характеристиками и вооружением, однако мощная промышленность позволяла строить такие эсминцы в несопоставимо большем количестве.\n"
+"As for destroyers, in the second half of the 1930s, powerful Japanese destroyers and fast French leaders were joined by relatively large, well-armed new German destroyers. Due to treaty limitations, the United States and Great Britain responded by creating lighter ships. They did not have outstanding characteristics or armament, but the powerful industry allowed them to be built in incomparably larger numbers.\n"
 "\n"
-"К концу 1930-х годов договорные ограничения уже фактически не соблюдались. От открытой полномасштабной гонки военно-морских вооружений великие державы удерживали разве что рамки дипломатических приличий и бюджетные ограничения мирного времени, но и от этих рамок отказались уже с началом Второй мировой войны."
+"By the late 1930s, treaty limitations were virtually ignored. What held back a full-scale naval arms race among the great powers was only the diplomatic framework of propriety and peacetime budgetary constraints, but even these were abandoned with the onset of World War II."
 
 msgid "IDS_PCQT001_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона огнём орудий главного калибра."
+msgstr "Deal %(count)s damage to enemy ships with main battery guns."
 
 msgid "IDS_PCQT004_1"
-msgstr "Нанесите корабельными торпедами %(count)s ед. урона кораблям противника."
+msgstr "Deal %(count)s damage to enemy ships with ship torpedoes."
 
 msgid "IDS_PCQT008_1"
-msgstr "Заработайте %(count)s ед. опыта."
+msgstr "Earn %(count)s experience."
 
 msgid "IDS_PCQT012_1"
 msgid_plural "IDS_PCQT012_1"
