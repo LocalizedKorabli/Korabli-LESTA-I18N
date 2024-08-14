@@ -4391,184 +4391,184 @@ msgid "IDS_HOLSTININ_ARIA"
 msgstr "Vladimir Holstinin"
 
 msgid "IDS_IGNORE_PLAYER"
-msgstr "Добавить в чёрный список"
+msgstr "Add to blacklist"
 
 msgid "IDS_INFO_CARRIER_SQUADRON_READY_MINE"
-msgstr "Постановщики мин к взлёту готовы"
+msgstr "Mine-laying squadrons ready for takeoff"
 
 msgid "IDS_INSTALL_BEST_SIGNALS"
-msgstr "Установить лучшие"
+msgstr "Install best"
 
 msgid "IDS_INSTALL_BEST_SIGNALS_HINT"
-msgstr "Установить лучшие сигналы на этот корабль"
+msgstr "Install the best signals on this ship"
 
 msgid "IDS_INSTRUCTION_CAMERA_EXCURSION_RESET"
-msgstr "Нажмите, чтобы сбросить положение камеры"
+msgstr "Press to reset the camera position"
 
 msgid "IDS_INSTRUCTION_HIDE_INTERFACE"
-msgstr "Зажмите, чтобы скрыть интерфейс"
+msgstr "Hold to hide the interface"
 
 msgid "IDS_IN_DIVISION"
-msgstr "В отряде"
+msgstr "In division"
 
 msgid "IDS_IN_EVENTBATTLE"
-msgstr "в Генеральном сражении"
+msgstr "in the Grand Battle"
 
 msgid "IDS_IN_PCVE020"
-msgstr "в Асимметричном бою"
+msgstr "in Asymmetric Battle"
 
 msgid "IDS_IN_PCVE022"
-msgstr "в состязании «К высотам мастерства»"
+msgstr "in the 'To the Heights of Mastery' contest"
 
 msgid "IDS_IN_PCVE026"
-msgstr "в Скрытых манёврах"
+msgstr "in Conceal Maneuvers"
 
 msgid "IDS_IN_TRAININGBATTLE"
-msgstr "в Тренировочном бою"
+msgstr "in Training Battle"
 
 msgid "IDS_JORICK_ARIA"
-msgstr "Жорик"
+msgstr "Jorick"
 
 msgid "IDS_JUST_GOAL"
-msgstr "Задача"
+msgstr "Objective"
 
 msgid "IDS_KARMA_COLON"
-msgstr "Карма:"
+msgstr "Karma:"
 
 msgid "IDS_KEY_TARGET"
-msgstr "Ключевая цель"
+msgstr "Bounty"
 
 msgid "IDS_KEY_TARGET_ALLY"
-msgstr "Ключевая цель"
+msgstr "Bounty"
 
 msgid "IDS_KEY_TARGET_SELF"
-msgstr "Вы назначены Ключевой целью"
+msgstr "You are designated as a Bounty"
 
 msgid "IDS_KEY_TARGET_TOOLTIP_ALLY"
-msgstr "Поддержите корабль союзника с меткой «Ключевая цель» — противник будет стремиться уничтожить его в первую очередь!"
+msgstr "Support the allied ship marked as a Bounty' – the enemy will aim to destroy it first!"
 
 msgid "IDS_KHARITONOV"
-msgstr "Александр Харитонов"
+msgstr "Alexander Kharitonov"
 
 msgid "IDS_KOSHEJ"
-msgstr "Кощей Бессмертный"
+msgstr "Koschei the Deathless"
 
 msgid "IDS_LAST_CHANCE"
-msgstr "Последний шанс!"
+msgstr "Last chance!"
 
 msgid "IDS_LEAVE_BATTLE_FIRST_TO_OPERATE_MODERNIZATION"
-msgstr "Дождитесь возвращения корабля из боя для изменения модернизаций."
+msgstr "Wait for the ship to return from battle to change the upgrades."
 
 msgid "IDS_LENA_SUMMER"
-msgstr "Лена"
+msgstr "Lena"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL10_21"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL10_22"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL11_21"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL11_22"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL12_21"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL12_22"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL13_21"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL13_22"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL14_21"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL14_22"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL15_21"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL15_22"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL2_27"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_33"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_39"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_31"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_34"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_38"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_20"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_23"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_25"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_22"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_23"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_22"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_23"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_21"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_22"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL9_21"
-msgstr "«Корректировщик огня» увеличивает дальность стрельбы главного калибра."
+msgstr "'Spotting Aircraft' increases the main battery's firing range."
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL9_22"
-msgstr "Для эффективного использования «Аварийной команды» убедитесь в отсутствии новых угроз."
+msgstr "To effectively use 'Damage Control Party', ensure no new threats are present."
 
 msgid "IDS_LONGEST_MAIN_GUN_MAX_DIST"
-msgstr "Самая большая дальность стрельбы орудий ГК"
+msgstr "Longest main battery firing range"
 
 msgid "IDS_LOOTBOX_GOT"
-msgstr "Получен"
+msgstr "Received"
 
 msgid "IDS_LOOTBOX_NOT_RECEIVED"
-msgstr "Контейнер не получен"
+msgstr "Container not received"
 
 msgid "IDS_LOOTBOX_PURCHASE_WILL_BE_AVAILABLE_AFTER"
-msgstr "Следующий контейнер будет доступен через"
+msgstr "Next container will be available in"
 
 msgid "IDS_LOOTBOX_RECEIVED"
-msgstr "Получен контейнер"
+msgstr "Container received"
 
 msgid "IDS_LOOTBOX_REWARDS_PROBABILITIES"
-msgstr "Содержимое контейнеров"
+msgstr "Container contents"
 
 msgid "IDS_LOOTBOX_REWARDS_PROBABILITIES_TOOLTIP"
-msgstr "Узнать о вероятностях получения содержимого из контейнеров"
+msgstr "Learn about the probabilities of receiving container contents"
 
 msgid "IDS_MAIN_AIRSMOKES"
 msgstr "Доступно снаряжение «Авиационный дымогенератор»"
