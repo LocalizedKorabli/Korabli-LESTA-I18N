@@ -3416,856 +3416,856 @@ msgid "IDS_EXTERIOR_UNAVAILABLE_BY_MAINTENANCE"
 msgstr "Необходимо провести обслуживание корабля для изменения внешнего вида"
 
 msgid "IDS_FEAT_BAD_ACOUSTICTORP_DAMAGE"
-msgstr "Торпеды с акустическим наведением наносят малый урон"
+msgstr "Acoustic torpedoes deal low damage"
 
 msgid "IDS_FEAT_BAD_ACOUSTICTORP_SPEED"
-msgstr "Низкая скорость хода торпед с акустическим наведением"
+msgstr "Low speed of acoustic torpedoes"
 
 msgid "IDS_FEAT_BAD_ALTTORP_DAMAGE"
-msgstr "Альтернативные торпеды наносят малый урон"
+msgstr "Alternative torpedoes deal low damage"
 
 msgid "IDS_FEAT_BAD_ALTTORP_SLOW_SPEED"
-msgstr "Низкая скорость хода альтернативных торпед"
+msgstr "Low speed of alternative torpedoes"
 
 msgid "IDS_FEAT_BAD_BMB_BOMBDAMAGE"
-msgstr "Бомбы наносят малый урон"
+msgstr "Bombs deal low damage"
 
 msgid "IDS_FEAT_BAD_CONS_LIMITED_CHOICE"
-msgstr "Малый выбор снаряжения"
+msgstr "Limited selection of consumables"
 
 msgid "IDS_FEAT_BAD_DUR_BELT_CIT"
-msgstr "Цитадель особенно уязвима для попаданий бронебойными снарядами в борт корабля"
+msgstr "Citadel is particularly vulnerable to armor-piercing hits on the ship's side"
 
 msgid "IDS_FEAT_BAD_LOW_DAMAGE_PER_BOMB"
-msgstr "Каждая бомба наносит малый урон"
+msgstr "Each bomb deals low damage"
 
 msgid "IDS_FEAT_BAD_MC_PEN"
-msgstr "Низкое бронепробитие снарядов"
+msgstr "Low shell penetration"
 
 msgid "IDS_FEAT_BAD_MOVE_SPEED_SURFACE"
-msgstr "Низкая скорость хода в надводном положении"
+msgstr "Low surface speed"
 
 msgid "IDS_FEAT_BAD_MOVE_SPEED_UNDERWATER"
-msgstr "Низкая скорость хода под водой"
+msgstr "Low underwater speed"
 
 msgid "IDS_FEAT_BAD_NO_REGENCREW"
-msgstr "Недоступно снаряжение «Ремонтная команда»"
+msgstr "Repair Party consumable is unavailable"
 
 msgid "IDS_FEAT_BAD_NO_T_BOMBERS"
-msgstr "Нет торпедоносцев"
+msgstr "No torpedo bombers"
 
 msgid "IDS_FEAT_BAD_SAP_ONLY"
-msgstr "Доступны только полубронебойные снаряды"
+msgstr "Only semi-armor-piercing shells available"
 
 msgid "IDS_FEAT_BAD_SURFACESPEED"
-msgstr "Низкая скорость хода в надводном положении"
+msgstr "Low surface speed"
 
 msgid "IDS_FEAT_BAD_TORP_DMG"
-msgstr "Торпеды наносят малый урон"
+msgstr "Torpedoes deal low damage"
 
 msgid "IDS_FEAT_BAD_TORP_DMG_8"
-msgstr "Торпеды наносят малый урон с VIII уровня"
+msgstr "Torpedoes deal low damage from Tier VIII"
 
 msgid "IDS_FEAT_BAD_TORP_MANYFORETUBES"
-msgstr "Малое количество торпедных аппаратов в носовой группе"
+msgstr "Few torpedo tubes in the forward group"
 
 msgid "IDS_FEAT_BAD_TORP_RELOAD"
-msgstr "Медленная перезарядка торпедных аппаратов"
+msgstr "Slow torpedo tube reload"
 
 msgid "IDS_FEAT_BAD_WAVE_DURATION"
-msgstr "Малое время действия отмеченного сектора"
+msgstr "Short duration of the marked sector"
 
 msgid "IDS_FEAT_CONSUMABLE_SPOTTERACCURACY"
-msgstr "Доступно снаряжение «Корректировщик огня с высокоточной оптикой»"
+msgstr "High-Precision Spotter consumable available"
 
 msgid "IDS_FEAT_CRASHCREW_LONG_GOOD"
-msgstr "Увеличено время работы снаряжения «Аварийная команда»"
+msgstr "Extended duration of Damage Control Party consumable"
 
 msgid "IDS_FEAT_DEEPWATERTORP"
-msgstr "Глубоководные торпеды"
+msgstr "Deepwater torpedoes"
 
 msgid "IDS_FEAT_DEEPWATERTORP_BB_CRUISER_CV_DESC"
-msgstr "Имеют низкую заметность, поражают только линкоры, крейсеры и авианосцы."
+msgstr "Low detectability, only affects battleships, cruisers, and aircraft carriers."
 
 msgid "IDS_FEAT_DEEPWATERTORP_BB_CV_DESC"
-msgstr "Имеют низкую заметность, поражают только линкоры и авианосцы."
+msgstr "Low detectability, only affects battleships and aircraft carriers."
 
 msgid "IDS_FEAT_FIGHTERS_UPGRADE"
-msgstr "Доступны перехватчики"
+msgstr "Interceptors available"
 
 msgid "IDS_FEAT_FIGHTERS_UPGRADE_DESC"
-msgstr "Не обнаруживают корабли противника, но имеют больший радиус патрулирования и уменьшенную задержку перед атакой."
+msgstr "Do not detect enemy ships, but have a larger patrol radius and a reduced delay before attack."
 
 msgid "IDS_FEAT_GOOD_ACOUSTICTORP_DAMAGE"
-msgstr "Торпеды с акустическим наведением наносят большой урон"
+msgstr "Acoustic torpedoes deal high damage"
 
 msgid "IDS_FEAT_GOOD_AIRSMOKES"
-msgstr "Доступно снаряжение «Авиационный дымогенератор»"
+msgstr "Airborne Smoke Generator consumable available"
 
 msgid "IDS_FEAT_GOOD_AIRSMOKES_DESC"
-msgstr "Создаёт дымовую завесу на поверхности, уменьшающую вероятность обнаружения противником союзных кораблей."
+msgstr "Creates a smoke screen on the surface, reducing the likelihood of allied ships being detected by the enemy."
 
 msgid "IDS_FEAT_GOOD_AIRSTRIKE_RELOAD"
-msgstr "Быстрая подготовка авиаудара"
+msgstr "Quick airstrike preparation"
 
 msgid "IDS_FEAT_GOOD_AIR_SUPPORT_HE"
-msgstr "Доступен авиаудар"
+msgstr "Airstrike available"
 
 msgid "IDS_FEAT_GOOD_AIR_SUPPORT_HE_6"
-msgstr "Авиаудар доступен с VI уровня"
+msgstr "Airstrike available from Tier VI"
 
 msgid "IDS_FEAT_GOOD_ALTTORPS_6"
-msgstr "Альтернативные торпеды доступны с VI уровня"
+msgstr "Alternative torpedoes available from Tier VI"
 
 msgid "IDS_FEAT_GOOD_ALTTORP_SPEED"
-msgstr "Высокая скорость хода альтернативных торпед"
+msgstr "High speed of alternative torpedoes"
 
 msgid "IDS_FEAT_GOOD_ALTTORP_VISIBILITY"
-msgstr "Низкая заметность альтернативных торпед"
+msgstr "Low visibility of alternative torpedoes"
 
 msgid "IDS_FEAT_GOOD_ATBARANGEDAMAGE"
-msgstr "Большой урон и дальность стрельбы вспомогательным калибром"
+msgstr "High secondary battery damage and range"
 
 msgid "IDS_FEAT_GOOD_BONUSRADAR_VIS_VS_SMOKE"
-msgstr "Доступна установка снаряжения «Поисковая РЛС» вместо «Дымогенератора»"
+msgstr "Surveillance Radar consumable can be equipped instead of Smoke Generator"
 
 msgid "IDS_FEAT_GOOD_BURSTFIRE_DELAY"
-msgstr "Короткий минимальный интервал между залпами в серии"
+msgstr "Short minimum interval between bursts in a series"
 
 msgid "IDS_FEAT_GOOD_CONS_MANYCONS"
-msgstr "Можно одновременно установить снаряжение «Гидроакустический поиск», «Поисковая РЛС» и «Заградительный огонь ПВО»"
+msgstr "Can simultaneously equip Hydroacoustic Search, Surveillance Radar, and Defensive AA Fire consumables"
 
 msgid "IDS_FEAT_GOOD_DUR_EHEAL_CITADEL_CHARGES_RELOAD_DESC"
-msgstr "Повреждения цитадели корабля устраняются с повышенной эффективностью. Увеличено количество снаряжения. Быстрая перезарядка снаряжения."
+msgstr "Citadel damage is repaired with increased efficiency. Increased number of charges. Fast consumable reload."
 
 msgid "IDS_FEAT_GOOD_HANGAR_LOWHP"
-msgstr "Авиационный ангар получает меньше урона от попаданий"
+msgstr "Aircraft hangar receives less damage from hits"
 
 msgid "IDS_FEAT_GOOD_HAS_MAIN_GUNS"
-msgstr "Есть орудия главного калибра"
+msgstr "Has main battery guns"
 
 msgid "IDS_FEAT_GOOD_MANYLOADERS"
-msgstr "Большое количество заряжающих"
+msgstr "High number of loaders"
 
 msgid "IDS_FEAT_GOOD_MANYTORPLAUNCHERS"
-msgstr "Большое количество торпедных аппаратов"
+msgstr "High number of torpedo launchers"
 
 msgid "IDS_FEAT_GOOD_MANY_PLANES"
-msgstr "Большое количество самолётов на палубе"
+msgstr "High number of aircraft on deck"
 
 msgid "IDS_FEAT_GOOD_MC_AP_SUPER_OVERMATCH"
-msgstr "Бронебойные снаряды не рикошетят об обшивку кораблей"
+msgstr "Armor-piercing shells do not ricochet off ship plating"
 
 msgid "IDS_FEAT_GOOD_MC_BOW_TURN_360"
-msgstr "Носовая башня главного калибра вращается на 360 градусов"
+msgstr "The bow main battery turret rotates 360 degrees"
 
 msgid "IDS_FEAT_GOOD_MC_STERN_TURN_360"
-msgstr "Кормовая башня главного калибра вращается на 360 градусов"
+msgstr "The stern main battery turret rotates 360 degrees"
 
 msgid "IDS_FEAT_GOOD_MOVE_ACCELERATION_6"
-msgstr "Быстрый набор скорости при разгоне с VI уровня"
+msgstr "Quick acceleration from Tier VI"
 
 msgid "IDS_FEAT_GOOD_MOVE_EFORSAGE_SPEED_DURATION_COOLDOWN_CHARGES_DESC"
-msgstr "Использование возможно только в надводном положении и на перископной глубине, при погружении оставшееся время работы снаряжения теряется. Увеличены бонус к максимальной скорости корабля, время работы снаряжения и количество снаряжения. Уменьшено время перезарядки."
+msgstr "Can only be used on the surface and at periscope depth; remaining time is lost when diving. Increased maximum ship speed bonus, duration, and number of charges. Reduced cooldown."
 
 msgid "IDS_FEAT_GOOD_MOVE_SPEED_SURFACE"
-msgstr "Высокая скорость хода в надводном положении"
+msgstr "High surface speed"
 
 msgid "IDS_FEAT_GOOD_PLANE_REGEN"
-msgstr "Быстрая подготовка самолётов"
+msgstr "Quick aircraft preparation"
 
 msgid "IDS_FEAT_GOOD_RADAR_SPECIAL_LONGRANGE_SHORTTIME"
-msgstr "Доступно снаряжение «Поисковая РЛС» с особыми характеристиками"
+msgstr "Surveillance Radar with special characteristics available"
 
 msgid "IDS_FEAT_GOOD_RAGEMODE_CHANGZHENG"
-msgstr "Есть боевые инструкции «Оперативные ремонтные мероприятия»"
+msgstr "Combat Instructions 'Emergency Repair Measures' available"
 
 msgid "IDS_FEAT_GOOD_RAGEMODE_CHANGZHENG_DESC"
-msgstr "Восстанавливает боеспособность корабля. Чтобы получить доступ к активации, необходимо попадать из орудий ПМК по кораблям противника."
+msgstr "Restores ship HP. To activate, you need to hit enemy ships with secondary battery guns."
 
 msgid "IDS_FEAT_GOOD_RAGEMODE_SEVEROMORSK"
-msgstr "Есть боевые инструкции «Оперативная подготовка эскадрилий»"
+msgstr "Combat Instructions 'Rapid Squadron Preparation' available"
 
 msgid "IDS_FEAT_GOOD_RAGEMODE_SEVEROMORSK_DESC"
-msgstr "Значительно ускоряют подготовку самолётов и перезарядку снаряжения. Чтобы получить доступ к активации, необходимо получить определённое количество потенциального урона."
+msgstr "Significantly speeds up aircraft preparation and consumable reload. To activate, you need to receive a certain amount of potential damage."
 
 msgid "IDS_FEAT_GOOD_TORP_TUBES_ALL_CAN_LOAD_SAME_TIME"
-msgstr "Все торпедные аппараты могут перезаряжаться одновременно"
+msgstr "All torpedo launchers can reload simultaneously"
 
 msgid "IDS_FEAT_GOOD_VIS_BONUSASDIC_DESC"
-msgstr "Увеличивает дистанцию гарантированного обнаружения кораблей, торпед и мин противника. Нехарактерное снаряжение для этого класса кораблей."
+msgstr "Increases the assured detection range of enemy ships, torpedoes, and mines. Unusual consumable for this class of ships."
 
 msgid "IDS_FEAT_GOOD_VIS_BONUSRADAR"
-msgstr "Доступно снаряжение «Поисковая РЛС»"
+msgstr "Surveillance Radar available"
 
 msgid "IDS_FEAT_GOOD_VIS_BONUSRADAR_8"
-msgstr "Доступно снаряжение «Поисковая РЛС» с VIII уровня"
+msgstr "Surveillance Radar available from Tier VIII"
 
 msgid "IDS_FEAT_GOOD_VIS_BONUSRADAR_OPTION_DESC"
-msgstr "«Поисковая РЛС» значительно увеличивает дистанцию гарантированного обнаружения кораблей и подводных лодок в надводном положении, в том числе в зоне дымовой завесы."
+msgstr "Surveillance Radar significantly increases the assured detection range of ships and submarines on the surface, including within the smoke screen area."
 
 msgid "IDS_FEAT_GOOD_VIS_BONUSRADAR_VS_SMOKE_8"
-msgstr "Доступна установка снаряжения «Поисковая РЛС» вместо «Дымогенератора» с VIII уровня"
+msgstr "Surveillance Radar can be equipped instead of Smoke Generator from Tier VIII"
 
 msgid "IDS_FEAT_HYBRID_BOMBERS_SKIPBOMBERS"
-msgstr "Корабль-гибрид, доступны бомбардировщики и топмачтовые бомбардировщики"
+msgstr "Hybrid ship, bombers and skip bombers available"
 
 msgid "IDS_FEAT_IS_TACTICAL"
-msgstr "Тактическая эскадрилья"
+msgstr "Tactical Squadron"
 
 msgid "IDS_FEAT_IS_TACTICAL_DESC"
-msgstr "Состоит из одного звена. После атаки эскадрилья не возвращается на палубу, самолёты подготавливаются на корабле сразу всем звеном."
+msgstr "Consists of a single flight. After the attack, the squadron does not return to the deck; the planes are prepared on the ship for the entire flight at once."
 
 msgid "IDS_FEAT_JATO_DESC"
-msgstr "Увеличивают скорость самолётов при взлёте."
+msgstr "Increases aircraft speed during takeoff."
 
 msgid "IDS_FEAT_MINEFIELD"
-msgstr "Минное заграждение"
+msgstr "Minefield"
 
 msgid "IDS_FEAT_MINEFIELD_DESC"
-msgstr "Устанавливается в отмеченной области. Мины наносят значительный потенциальный урон и имеют высокую вероятность вызова затопления."
+msgstr "Deployed in a marked area. Mines deal significant potential damage and have a high chance of causing flooding."
 
 msgid "IDS_FEAT_MOV_SPECFORSAGE_DESC"
-msgstr "Большое количество снаряжения и значительный бонус к максимальной скорости корабля. Короткое время работы снаряжения."
+msgstr "High number of charges and a significant bonus to maximum ship speed. Short consumable duration."
 
 msgid "IDS_FEAT_SUBMARINELOCATOR_GOODRANGE_PREPARATION_DESC"
-msgstr "Увеличена дальность действия, уменьшено время подготовки снаряжения."
+msgstr "Increased range and reduced preparation time of the consumable."
 
 msgid "IDS_FEAT_TORP_FASTRELOAD_FEWLOADERS"
-msgstr "Быстрая перезарядка торпедных аппаратов, но малое количество заряжающих"
+msgstr "Fast torpedo tube reload, but few loaders"
 
 msgid "IDS_FEEDBACK_RAGE_MODE_USELESS"
-msgstr "Использование не требуется"
+msgstr "Usage not required"
 
 msgid "IDS_FINISH_ACCOUNT_COMPLETION"
-msgstr "Создать аккаунт Lesta"
+msgstr "Create Lesta account"
 
 msgid "IDS_FIRST_ARIA_NAME"
-msgstr "Альбомы"
+msgstr "Albums"
 
 msgid "IDS_FIRST_BATTLE_DESCRIPTION"
-msgstr "В дальнейшем вы сможете выходить в бой на кораблях других наций."
+msgstr "In the future, you will be able to engage in battles with ships from other nations."
 
 msgid "IDS_FIRST_SCARLET_BIRTHDAY_NAME"
-msgstr "«Мудростью» славна робототехника"
+msgstr "\"Wisdom\" glorifies robotics"
 
 msgid "IDS_FLAG"
-msgstr "Флаги"
+msgstr "Flags"
 
 msgid "IDS_FLOOD_CHANCE_FACTOR_TORPEDO_CHANGED"
-msgstr "Вероятность вызова затопления корабельными торпедами увеличена"
+msgstr "Increased chance of flooding from ship torpedoes"
 
 msgid "IDS_FLOOD_DAMAGE_HIGH"
-msgstr "Большой урон от затоплений"
+msgstr "High flooding damage"
 
 msgid "IDS_FLOOD_DAMAGE_LOW"
-msgstr "Малый урон от затоплений"
+msgstr "Low flooding damage"
 
 msgid "IDS_FOGHORN"
-msgstr "Корабельный гудок"
+msgstr "Ship horn"
 
 msgid "IDS_FOGHORN_PREF_TOOLTIP_DESCRIPTION"
-msgstr "Подать гудок, удерживая клавишу."
+msgstr "Sound the horn by holding the key."
 
 msgid "IDS_FOG_OF_WAR"
-msgstr "Противник неизвестен"
+msgstr "Enemy unknown"
 
 msgid "IDS_FOG_OF_WAR_AND_VIEW_SHIP_INFO_DISABLED"
-msgstr "Информация об оснащении кораблей противника скрыта. При обнаружении или уничтожении корабля станут известны только его класс, уровень и название."
+msgstr "Information about enemy ship equipment is hidden. When a ship is detected or destroyed, only its class, tier, and name will be revealed."
 
 msgid "IDS_FOG_OF_WAR_FOR_NOTDETECTED_SHIP"
-msgstr "Не обнаружен"
+msgstr "Not detected"
 
 msgid "IDS_FOG_OF_WAR_IN_TRAINING"
-msgstr "Противник неизвестен"
+msgstr "Enemy unknown"
 
 msgid "IDS_FOG_OF_WAR_IN_TRAINING_DISABLED"
-msgstr "Отключено"
+msgstr "Disabled"
 
 msgid "IDS_FOG_OF_WAR_IN_TRAINING_ENABLED"
-msgstr "Включено"
+msgstr "Enabled"
 
 msgid "IDS_FOG_OF_WAR_IN_TRAINING_TOOLTIP"
-msgstr "Информация о кораблях противника скрыта, пока они не будут обнаружены или уничтожены"
+msgstr "Information about enemy ships is hidden until they are detected or destroyed."
 
 msgid "IDS_FOG_OF_WAR_RULES"
-msgstr "Состав команды противника неизвестен"
+msgstr "Enemy team composition unknown"
 
 msgid "IDS_FOG_OF_WAR_TIPS"
-msgstr "Информация о кораблях противника скрыта, пока они не будут обнаружены или уничтожены."
+msgstr "Information about enemy ships is hidden until they are detected or destroyed."
 
 msgid "IDS_FORM_DIVISION"
-msgstr "Собрать отряд"
+msgstr "Form a division"
 
 msgid "IDS_FORWARD_ENGINE_FORSAG_HIGH"
-msgstr "Быстрый набор скорости при разгоне"
+msgstr "Fast acceleration"
 
 msgid "IDS_FORWARD_ENGINE_FORSAG_LOW"
-msgstr "Медленный набор скорости при разгоне"
+msgstr "Slow acceleration"
 
 msgid "IDS_FOURTH_ARIA_NAME"
-msgstr "Выступления"
+msgstr "Performances"
 
 msgid "IDS_FOURTH_SCARLET_BIRTHDAY_NAME"
-msgstr "Слава мировой науке!"
+msgstr "Glory to world science!"
 
 msgid "IDS_FREE_SKILLPOINTS_LEFT_TOOLTIP_TEXT"
-msgstr "Свободных очков навыков: %(skillPoints)s"
+msgstr "Free skill points: %(skillPoints)s"
 
 msgid "IDS_GAMEMODE_MAP_COMBINED"
-msgstr "%(_gameMode)s / %(_map)s"
+msgstr "%(_gameMode)s / %(_map)s"
 
 msgid "IDS_GO_TO_PROFILE_MOUSE_INSTRUCTION"
-msgstr "Перейти к экрану «Профиль»"
+msgstr "Go to the 'Profile' screen"
 
 msgid "IDS_GO_TO_REPAIR_DOCK_MOUSE_INSTRUCTION"
-msgstr "Перейти к экрану «Ремонтный док» "
+msgstr "Go to the 'Repair Dock' screen"
 
 msgid "IDS_GO_TO_SSE_BATTLEPASS_MOUSE_INSTRUCTION"
-msgstr "Перейти к экрану «Боевой пропуск»"
+msgstr "Go to the 'Battle Pass' screen"
 
 msgid "IDS_GO_TO_STRATEGIC_ACTIONS_MOUSE_INSTRUCTION"
-msgstr "Перейти к экрану события «Рейд во льдах»"
+msgstr "Go to the 'Raid in the Ice' event screen"
 
 msgid "IDS_GUIDING_TIP_101_DESC"
-msgstr "Повышайте уровень командира и изучайте навыки."
+msgstr "Level up your commander and learn skills."
 
 msgid "IDS_GUIDING_TIP_102_DESC"
-msgstr "Командир позволит улучшить характеристики корабля и получить новые возможности в бою."
+msgstr "A commander will improve your ship's characteristics and provide new capabilities in battle."
 
 msgid "IDS_GUIDING_TIP_102_HEADER"
-msgstr "Назначьте командира"
+msgstr "Assign a commander"
 
 msgid "IDS_GUIDING_TIP_103_DESC"
-msgstr "Чтобы повысить уровень командира и изучить навыки, зарабатывайте опыт командира в бою."
+msgstr "To level up your commander and learn skills, earn commander experience in battle."
 
 msgid "IDS_GUIDING_TIP_104_DESC"
-msgstr "Выберите навык командира и изучите его. Убедитесь, что он эффективен для вашего корабля."
+msgstr "Choose a commander skill and learn it. Ensure it is effective for your ship."
 
 msgid "IDS_GUIDING_TIP_105_DESC"
-msgstr "Подтвердите ваш выбор. Если вы захотите распределить очки заново, вы можете сбросить навыки за дублоны или элитный опыт командира."
+msgstr "Confirm your choice. If you wish to redistribute points later, you can reset skills for doubloons or elite commander experience."
 
 msgid "IDS_GUIDING_TIP_106_DESC"
-msgstr "Выполняйте боевые задачи и получайте награды!"
+msgstr "Complete combat missions and earn rewards!"
 
 msgid "IDS_GUIDING_TIP_107_DESC"
-msgstr "Боевые задачи могут выполняться в определённых типах боя на кораблях разных классов, уровней и наций. Внимательно изучите условия задачи, которую собираетесь выполнить."
+msgstr "Combat missions can be completed in certain battle types on ships of different classes, tiers, and nations. Carefully review the mission requirements before starting."
 
 msgid "IDS_GUIDING_TIP_10_DESC"
-msgstr "Выберите Случайный бой."
+msgstr "Select Random Battle."
 
 msgid "IDS_GUIDING_TIP_110_DESC"
-msgstr "Улучшайте боевые характеристики вашего корабля с помощью модернизаций."
+msgstr "Enhance your ship's combat capabilities with upgrades."
 
 msgid "IDS_GUIDING_TIP_111_DESC"
-msgstr "Установите модернизации на корабль, изучив их характеристики. Чем выше уровень корабля, тем больше модернизаций на него можно установить."
+msgstr "Install upgrades on your ship by reviewing their characteristics. The higher the ship's tier, the more upgrades it can have."
 
 msgid "IDS_GUIDING_TIP_115_DESC"
-msgstr "Чтобы завершить миссию, вы должны набрать определённое количество звёзд, выполняя задания. Звёзды необходимы, чтобы разблокировать финальное задание миссии."
+msgstr "To complete a mission, you need to earn a certain number of stars by completing tasks. Stars are required to unlock the mission's final task."
 
 msgid "IDS_GUIDING_TIP_116_DESC"
-msgstr "Наберите необходимое количество звёзд, чтобы открыть финальное задание миссии. Выполните финальные задания всех миссий, чтобы пройти кампанию."
+msgstr "Earn the required number of stars to unlock the mission's final task. Complete the final tasks of all missions to finish the campaign."
 
 msgid "IDS_GUIDING_TIP_117_HEADER"
-msgstr "Посетите Адмиралтейство"
+msgstr "Visit the Admiralty"
 
 msgid "IDS_GUIDING_TIP_11_DESC"
-msgstr "Сражайтесь против других игроков в Случайных боях и совершенствуйте своё мастерство. Некоторые корабли в командах могут управляться ИИ."
+msgstr "Fight against other players in Random Battles and improve your skills. Some ships in the teams may be controlled by AI."
 
 msgid "IDS_GUIDING_TIP_121_DESC"
-msgstr "Изучите накопленные вами предметы на экране «Имущество»."
+msgstr "Review the items you've accumulated on the 'Inventory' screen."
 
 msgid "IDS_GUIDING_TIP_124_DESC"
-msgstr "Испытайте свои силы в Ранговых боях, сразившись с другими игроками. Правила Ранговых боёв и награды за них могут существенно различаться в зависимости от сезона."
+msgstr "Test your skills in Ranked Battles against other players. Ranked Battle rules and rewards may vary significantly depending on the season."
 
 msgid "IDS_GUIDING_TIP_125_DESC"
-msgstr "Присоединитесь к одному из существующих кланов или создайте свой."
+msgstr "Join an existing clan or create your own."
 
 msgid "IDS_GUIDING_TIP_132_DESC"
-msgstr "Установлен статус «Готов к бою в отряде». Нажмите «Не готов», чтобы изменить внешний вид корабля."
+msgstr "You are now ready for battle in a division. Click 'Not Ready' to change your ship's appearance."
 
 msgid "IDS_GUIDING_TIP_132_HEADER"
-msgstr "Камуфляж корабля"
+msgstr "Ship camouflage"
 
 msgid "IDS_GUIDING_TIP_134_DESC"
-msgstr "Проведите обслуживание корабля или выберите другой корабль."
+msgstr "Service your ship or choose a different one."
 
 msgid "IDS_GUIDING_TIP_134_HEADER"
-msgstr "Камуфляж корабля"
+msgstr "Ship camouflage"
 
 msgid "IDS_GUIDING_TIP_13_DESC"
-msgstr "Вы можете установить флаг на свой корабль."
+msgstr "You can install a flag on your ship."
 
 msgid "IDS_GUIDING_TIP_13_HEADER"
-msgstr "Флаги"
+msgstr "Flags"
 
 msgid "IDS_GUIDING_TIP_14_DESC"
-msgstr "Используйте камуфляжи и флаги, чтобы придать своему кораблю уникальный внешний вид."
+msgstr "Use camouflages and flags to give your ship a unique appearance."
 
 msgid "IDS_GUIDING_TIP_14_HEADER"
-msgstr "Внешний вид корабля"
+msgstr "Ship appearance"
 
 msgid "IDS_GUIDING_TIP_15_DESC"
-msgstr "Вы можете установить постоянный или расходуемый камуфляж на свой корабль."
+msgstr "You can install permanent or expendable camouflage on your ship."
 
 msgid "IDS_GUIDING_TIP_15_HEADER"
-msgstr "Камуфляж корабля"
+msgstr "Ship camouflage"
 
 msgid "IDS_GUIDING_TIP_16_DESC"
-msgstr "Постоянные камуфляжи не расходуются и не требуют пополнения."
+msgstr "Permanent camouflages do not get consumed and do not require replenishment."
 
 msgid "IDS_GUIDING_TIP_16_HEADER"
-msgstr "Постоянные камуфляжи"
+msgstr "Permanent camouflages"
 
 msgid "IDS_GUIDING_TIP_17_DESC"
-msgstr "Расходуемые камуфляжи списываются за проведённый бой и могут быть куплены за кредиты."
+msgstr "Expendable camouflages are consumed after each battle and can be purchased for credits."
 
 msgid "IDS_GUIDING_TIP_18_DESC"
-msgstr "Установите любой камуфляж на ваш корабль."
+msgstr "Install any camouflage on your ship."
 
 msgid "IDS_GUIDING_TIP_18_HEADER"
-msgstr "Установка камуфляжа"
+msgstr "Camouflage installation"
 
 msgid "IDS_GUIDING_TIP_20_DESC"
-msgstr "Установите на корабль сигналы, чтобы улучшить его боевые характеристики."
+msgstr "Install signals on your ship to enhance its combat characteristics."
 
 msgid "IDS_GUIDING_TIP_21_DESC"
-msgstr "Установите сигналы на корабль. Обратите внимание на то, какие характеристики они улучшают."
+msgstr "Install signals on your ship. Pay attention to the characteristics they improve."
 
 msgid "IDS_GUIDING_TIP_22_DESC"
-msgstr "Свободный опыт начисляется в размере 10% от полученного за бой опыта корабля без учёта возможных бонусов."
+msgstr "Free experience is earned at a rate of 10% of the ship's battle experience, excluding possible bonuses."
 
 msgid "IDS_GUIDING_TIP_23_DESC"
-msgstr "Используйте доступный свободный опыт для исследования корабля или модуля."
+msgstr "Use available free experience to research ships or modules."
 
 msgid "IDS_GUIDING_TIP_24_DESC"
-msgstr "Исследуйте новый модуль. Если у вас недостаточно опыта корабля, вы можете использовать свободный опыт или заработать больше опыта в бою."
+msgstr "Research a new module. If you do not have enough ship experience, you can use free experience or earn more experience in battle."
 
 msgid "IDS_GUIDING_TIP_250_DESC"
-msgstr "Сбросьте прогресс этой ветки и получите возможность заработать очки исследования. Очки исследования можно потратить в Адмиралтействе на особые корабли, элитные модернизации и другое ценное имущество."
+msgstr "Reset the progress of this branch to earn Research Points. Research Points can be spent in the Admiralty on special ships, elite upgrades, and other valuable items."
 
 msgid "IDS_GUIDING_TIP_256_HEADER"
-msgstr "Морское братство"
+msgstr "Brotherhood of the Sea"
 
 msgid "IDS_GUIDING_TIP_258_DESC"
-msgstr "Примите участие в легендарном противостоянии: выбирайте команду, выполняйте задачи и получайте награды!"
+msgstr "Participate in the legendary confrontation: choose a team, complete tasks, and earn rewards!"
 
 msgid "IDS_GUIDING_TIP_258_HEADER"
-msgstr "Троецарствие"
+msgstr "Three Kingdoms"
 
 msgid "IDS_GUIDING_TIP_267_DESC"
-msgstr "Достигните всех уровней Улучшенного пропуска, чтобы получить особо ценную награду!"
+msgstr "Reach all levels of the Enhanced Pass to earn a particularly valuable reward!"
 
 msgid "IDS_GUIDING_TIP_267_HEADER"
-msgstr "К финальной награде"
+msgstr "To the final reward"
 
 msgid "IDS_GUIDING_TIP_26_DESC"
-msgstr "Исследуйте корабль. Если у вас недостаточно опыта корабля, вы можете использовать свободный опыт или заработать больше опыта в бою."
+msgstr "Research a ship. If you do not have enough ship experience, you can use free experience or earn more experience in battle."
 
 msgid "IDS_GUIDING_TIP_273_DESC"
-msgstr "Текущая задача меняется с каждым боем. Выходя в следующий бой, вы начинаете выполнять новую задачу."
+msgstr "The current task changes with each battle. When you enter the next battle, a new task begins."
 
 msgid "IDS_GUIDING_TIP_274_DESC"
-msgstr "Заберите награды и продолжайте устанавливать контроль над территориями! Следующая территория уже выбрана, но вы можете сменить её на любую доступную."
+msgstr "Claim your rewards and continue gaining control over territories! The next territory is already selected, but you can change it to any available one."
 
 msgid "IDS_GUIDING_TIP_275_DESC"
-msgstr "В выбранном типе боя корабли обладают изменёнными боевыми характеристиками."
+msgstr "In the selected battle type, ships have modified combat characteristics."
 
 msgid "IDS_GUIDING_TIP_276_DESC"
-msgstr "Перейдите к территории, чтобы увидеть прогресс, текущую задачу и награды."
+msgstr "Go to the territory to view progress, the current task, and rewards."
 
 msgid "IDS_GUIDING_TIP_276_HEADER"
-msgstr "Выбранная территория"
+msgstr "Selected territory"
 
 msgid "IDS_GUIDING_TIP_277_DESC"
-msgstr "На каждой территории есть список задач, в одном бою можно выполнить только одну из них. Текущая задача меняется с каждым боем."
+msgstr "Each territory has a list of tasks, but only one can be completed per battle. The current task changes with each battle."
 
 msgid "IDS_GUIDING_TIP_277_HEADER"
-msgstr "Задачи"
+msgstr "Tasks"
 
 msgid "IDS_GUIDING_TIP_278_DESC"
-msgstr "Чтобы взять территорию под контроль, нужно зарабатывать очки территории, выполняя задачи."
+msgstr "To take control of a territory, you need to earn territory points by completing tasks."
 
 msgid "IDS_GUIDING_TIP_278_HEADER"
-msgstr "Прогресс"
+msgstr "Progress"
 
 msgid "IDS_GUIDING_TIP_279_DESC"
-msgstr "Награды станут доступны только после полного контроля над территорией."
+msgstr "Rewards become available only after full control over the territory."
 
 msgid "IDS_GUIDING_TIP_279_HEADER"
-msgstr "Награды"
+msgstr "Rewards"
 
 msgid "IDS_GUIDING_TIP_280_DESC"
-msgstr "Пора испытать ваш новый корабль!"
+msgstr "It's time to test your new ship!"
 
 msgid "IDS_GUIDING_TIP_280_HEADER"
-msgstr "Отправляйтесь в бой"
+msgstr "Enter battle"
 
 msgid "IDS_GUIDING_TIP_281_DESC"
-msgstr "Пора испытать ваш новый корабль!"
+msgstr "It's time to test your new ship!"
 
 msgid "IDS_GUIDING_TIP_281_HEADER"
-msgstr "Отправляйтесь в бой"
+msgstr "Enter battle"
 
 msgid "IDS_GUIDING_TIP_282_DESC"
-msgstr "Установите сигналы на корабль, чтобы улучшить его боевые характеристики."
+msgstr "Install signals on your ship to enhance its combat characteristics."
 
 msgid "IDS_GUIDING_TIP_282_HEADER"
-msgstr "Установка сигналов"
+msgstr "Signal installation"
 
 msgid "IDS_GUIDING_TIP_283_DESC"
-msgstr "Сигналы улучшают боевые характеристики корабля."
+msgstr "Signals improve your ship's combat characteristics."
 
 msgid "IDS_GUIDING_TIP_283_HEADER"
-msgstr "Сигналы"
+msgstr "Signals"
 
 msgid "IDS_GUIDING_TIP_284_DESC"
-msgstr "Из контейнеров вы можете получить различное имущество."
+msgstr "You can obtain various items from containers."
 
 msgid "IDS_GUIDING_TIP_284_HEADER"
-msgstr "Раздел контейнеров"
+msgstr "Container section"
 
 msgid "IDS_GUIDING_TIP_285_DESC"
-msgstr "Из контейнеров вы можете получить различное имущество."
+msgstr "You can obtain various items from containers."
 
 msgid "IDS_GUIDING_TIP_285_HEADER"
-msgstr "Раздел контейнеров"
+msgstr "Container section"
 
 msgid "IDS_GUIDING_TIP_286_DESC"
-msgstr "Когда у вас появятся свободные очки, вы сможете потратить их на изучение навыков. Убедитесь в том, что эти навыки подходят вашему кораблю."
+msgstr "When you have available skill points, you can use them to learn skills. Make sure these skills are suitable for your ship."
 
 msgid "IDS_GUIDING_TIP_286_HEADER"
-msgstr "Очки навыков командира"
+msgstr "Commander skill points"
 
 msgid "IDS_GUIDING_TIP_287_DESC"
-msgstr "Когда у вас появятся свободные очки, вы сможете потратить их на изучение навыков. Убедитесь в том, что эти навыки подходят вашему кораблю."
+msgstr "When you have available skill points, you can use them to learn skills. Make sure these skills are suitable for your ship."
 
 msgid "IDS_GUIDING_TIP_287_HEADER"
-msgstr "Очки навыков командира"
+msgstr "Commander skill points"
 
 msgid "IDS_GUIDING_TIP_288_DESC"
-msgstr "В вашем Резерве есть командир, вы можете назначить его на корабль."
+msgstr "There is a commander in your Reserve. You can assign them to a ship."
 
 msgid "IDS_GUIDING_TIP_288_HEADER"
-msgstr "Назначьте командира"
+msgstr "Assign a commander"
 
 msgid "IDS_GUIDING_TIP_289_DESC"
-msgstr "В вашем Резерве есть командир, вы можете назначить его на корабль."
+msgstr "There is a commander in your Reserve. You can assign them to a ship."
 
 msgid "IDS_GUIDING_TIP_289_HEADER"
-msgstr "Назначьте командира"
+msgstr "Assign a commander"
 
 msgid "IDS_GUIDING_TIP_290_DESC"
-msgstr "Рекрутируйте нового командира, чтобы назначить его на корабль."
+msgstr "Recruit a new commander to assign them to a ship."
 
 msgid "IDS_GUIDING_TIP_290_HEADER"
-msgstr "Новый командир"
+msgstr "New commander"
 
 msgid "IDS_GUIDING_TIP_291_DESC"
-msgstr "Рекрутируйте нового командира, чтобы назначить его на корабль."
+msgstr "Recruit a new commander to assign them to a ship."
 
 msgid "IDS_GUIDING_TIP_291_HEADER"
-msgstr "Новый командир"
+msgstr "New commander"
 
 msgid "IDS_GUIDING_TIP_292_DESC"
-msgstr "Каждая установленная модернизация улучшает определённые характеристики корабля. Чем выше уровень корабля, тем больше модернизаций на него можно установить."
+msgstr "Each installed upgrade enhances certain ship characteristics. The higher the ship's tier, the more upgrades can be installed."
 
 msgid "IDS_GUIDING_TIP_292_HEADER"
-msgstr "Установка модернизаций"
+msgstr "Installing upgrades"
 
 msgid "IDS_GUIDING_TIP_293_DESC"
-msgstr "Каждая установленная модернизация улучшает определённые характеристики корабля. Чем выше уровень корабля, тем больше модернизаций на него можно установить."
+msgstr "Each installed upgrade enhances certain ship characteristics. The higher the ship's tier, the more upgrades can be installed."
 
 msgid "IDS_GUIDING_TIP_293_HEADER"
-msgstr "Установка модернизаций"
+msgstr "Installing upgrades"
 
 msgid "IDS_GUIDING_TIP_294_DESC"
-msgstr "В Ремонтном доке новые корабли! Отремонтируйте их, чтобы они стали вашими."
+msgstr "New ships are available in the Repair Dock! Repair them to make them yours."
 
 msgid "IDS_GUIDING_TIP_294_HEADER"
-msgstr "Ремонтный док"
+msgstr "Repair Dock"
 
 msgid "IDS_GUIDING_TIP_295_DESC"
-msgstr "При получении конструкций соответствующий корабль появится в вашем Ремонтном доке. Отремонтируйте его, и вы сможете выходить на нём в бой!"
+msgstr "When you receive constructions, the corresponding ship will appear in your Repair Dock. Repair it, and you will be able to take it into battle!"
 
 msgid "IDS_GUIDING_TIP_295_HEADER"
-msgstr "Корабль требует ремонта"
+msgstr "Ship requires repair"
 
 msgid "IDS_GUIDING_TIP_296_DESC"
-msgstr "Для ремонта корабля нужно 100 конструкций. Если у вас есть хотя бы 50 конструкций этого корабля, вы можете завершить ремонт с помощью заготовок соответствующего уровня."
+msgstr "To repair a ship, you need 100 constructions. If you have at least 50 constructions of this ship, you can complete the repair using templates of the corresponding tier."
 
 msgid "IDS_GUIDING_TIP_296_HEADER"
-msgstr "Cобирайте конструкции корабля"
+msgstr "Collect ship constructions"
 
 msgid "IDS_GUIDING_TIP_297_DESC"
-msgstr "Здесь можно посмотреть, сколько у вас есть конструкций и заготовок."
+msgstr "Here you can see how many constructions and templates you have."
 
 msgid "IDS_GUIDING_TIP_297_HEADER"
-msgstr "Ремонтные материалы"
+msgstr "Repair materials"
 
 msgid "IDS_GUIDING_TIP_298_DESC"
-msgstr "У вас достаточно материалов, чтобы отремонтировать корабль!"
+msgstr "You have enough materials to repair the ship!"
 
 msgid "IDS_GUIDING_TIP_298_HEADER"
-msgstr "Отремонтируйте корабль"
+msgstr "Repair the ship"
 
 msgid "IDS_GUIDING_TIP_299_DESC"
-msgstr "Выберите корабль, который готов к ремонту."
+msgstr "Select a ship ready for repair."
 
 msgid "IDS_GUIDING_TIP_299_HEADER"
-msgstr "Готов к ремонту"
+msgstr "Ready for repair"
 
 msgid "IDS_GUIDING_TIP_29_DESC"
-msgstr "Установите бонусы, чтобы зарабатывать больше ресурсов в бою."
+msgstr "Install bonuses to earn more resources in battle."
 
 msgid "IDS_GUIDING_TIP_29_HEADER"
-msgstr "Установка экономических бонусов"
+msgstr "Installing economic bonuses"
 
 msgid "IDS_GUIDING_TIP_300_DESC"
-msgstr "Нажмите «Отремонтировать», чтобы корабль стал вашим!"
+msgstr "Click 'Repair' to make the ship yours!"
 
 msgid "IDS_GUIDING_TIP_300_HEADER"
-msgstr "Ремонт корабля"
+msgstr "Ship repair"
 
 msgid "IDS_GUIDING_TIP_301_DESC"
-msgstr "Вы получили заготовки, которые вы сможете использовать для ремонта кораблей! Первый корабль появится в вашем Ремонтном доке, когда у вас будут соответствующие конструкции."
+msgstr "You received templates that you can use to repair ships! The first ship will appear in your Repair Dock when you have the corresponding constructions."
 
 msgid "IDS_GUIDING_TIP_301_HEADER"
-msgstr "Ремонтный док"
+msgstr "Repair Dock"
 
 msgid "IDS_GUIDING_TIP_302_DESC"
-msgstr "Здесь можно посмотреть, сколько у вас есть конструкций и заготовок."
+msgstr "Here you can see how many constructions and templates you have."
 
 msgid "IDS_GUIDING_TIP_302_HEADER"
-msgstr "Ремонтные материалы"
+msgstr "Repair materials"
 
 msgid "IDS_GUIDING_TIP_303_DESC"
 msgstr ""
-"Для ремонта корабля нужно 100 конструкций. Если у вас есть хотя бы 50 конструкций этого корабля, вы можете завершить ремонт с помощью заготовок соответствующего уровня.\n"
+"To repair a ship, you need 100 constructions. If you have at least 50 constructions of this ship, you can complete the repair using templates of the corresponding tier.\n"
 "\n"
-"Нажмите «Отремонтировать», чтобы корабль стал вашим!"
+"Click 'Repair' to make the ship yours!"
 
 msgid "IDS_GUIDING_TIP_303_HEADER"
-msgstr "Ремонт корабля"
+msgstr "Ship repair"
 
 msgid "IDS_GUIDING_TIP_304_DESC"
-msgstr "С помощью соответствующих экономических бонусов вы сможете получать больше кредитов, опыта корабля, опыта командира и свободного опыта за каждый бой."
+msgstr "With the appropriate economic bonuses, you can earn more credits, ship experience, commander experience, and free experience for each battle."
 
 msgid "IDS_GUIDING_TIP_304_HEADER"
-msgstr "Установите экономические бонусы"
+msgstr "Install economic bonuses"
 
 msgid "IDS_GUIDING_TIP_305_DESC"
-msgstr "С помощью соответствующих экономических бонусов вы сможете получать больше кредитов, опыта корабля, опыта командира и свободного опыта за каждый бой."
+msgstr "With the appropriate economic bonuses, you can earn more credits, ship experience, commander experience, and free experience for each battle."
 
 msgid "IDS_GUIDING_TIP_305_HEADER"
-msgstr "Установите экономические бонусы"
+msgstr "Install economic bonuses"
 
 msgid "IDS_GUIDING_TIP_306_DESC"
-msgstr "Перейдите на экран «Развитие», чтобы ознакомиться с особенностями кораблей."
+msgstr "Go to the 'Tech Tree' screen to learn about the characteristics of ships."
 
 msgid "IDS_GUIDING_TIP_306_HEADER"
-msgstr "Особенности кораблей"
+msgstr "Ship characteristics"
 
 msgid "IDS_GUIDING_TIP_307_DESC"
-msgstr "Нажмите, чтобы узнать о боевых характеристиках и сложности освоения кораблей этой ветки."
+msgstr "Click to learn about the combat characteristics and difficulty of mastering ships of this branch."
 
 msgid "IDS_GUIDING_TIP_307_HEADER"
-msgstr "Особенности ветки"
+msgstr "Branch characteristics"
 
 msgid "IDS_GUIDING_TIP_308_DESC"
-msgstr "Здесь показана сложность освоения ветки кораблей. Сложность можно посмотреть и у каждого корабля отдельно."
+msgstr "Here you can see the difficulty of mastering a ship branch. The difficulty can also be viewed for each individual ship."
 
 msgid "IDS_GUIDING_TIP_308_HEADER"
-msgstr "Сложность освоения"
+msgstr "Mastery difficulty"
 
 msgid "IDS_GUIDING_TIP_309_DESC"
-msgstr "Перейдите к кораблю, чтобы ознакомиться с его боевыми характеристиками и сложностью освоения."
+msgstr "Go to the ship to learn about its combat characteristics and mastery difficulty."
 
 msgid "IDS_GUIDING_TIP_309_HEADER"
-msgstr "Особенности корабля"
+msgstr "Ship characteristics"
 
 msgid "IDS_GUIDING_TIP_30_DESC"
-msgstr "С помощью соответствующих экономических бонусов вы сможете получать больше кредитов, опыта корабля, опыта командира и свободного опыта за каждый бой."
+msgstr "With the appropriate economic bonuses, you can earn more credits, ship experience, commander experience, and free experience for each battle."
 
 msgid "IDS_GUIDING_TIP_30_HEADER"
-msgstr "Установите экономические бонусы"
+msgstr "Install economic bonuses"
 
 msgid "IDS_GUIDING_TIP_310_DESC"
-msgstr "Перейдите к нации с особенностями веток кораблей."
+msgstr "Go to the nation with the branch characteristics."
 
 msgid "IDS_GUIDING_TIP_310_HEADER"
-msgstr "Особенности ветки"
+msgstr "Branch characteristics"
 
 msgid "IDS_GUIDING_TIP_31_DESC"
-msgstr "Вы получили несколько контейнеров — откройте их и получите награды!"
+msgstr "You received several containers—open them to get rewards!"
 
 msgid "IDS_GUIDING_TIP_32_DESC"
-msgstr "Зарабатывайте опыт в бою и получайте до 3 контейнеров с наградами ежедневно."
+msgstr "Earn experience in battle and receive up to 3 containers with rewards daily."
 
 msgid "IDS_GUIDING_TIP_36_DESC"
-msgstr "Повышайте уровень командира и изучайте навыки."
+msgstr "Level up your commander and learn skills."
 
 msgid "IDS_GUIDING_TIP_37_DESC"
-msgstr "Командир позволит улучшить характеристики корабля и получить новые возможности в бою."
+msgstr "A commander will improve your ship's characteristics and provide new capabilities in battle."
 
 msgid "IDS_GUIDING_TIP_37_HEADER"
-msgstr "Назначьте командира"
+msgstr "Assign a commander"
 
 msgid "IDS_GUIDING_TIP_38_DESC"
-msgstr "Чтобы повысить уровень командира и изучить навыки, зарабатывайте опыт командира в бою."
+msgstr "To level up your commander and learn skills, earn commander experience in battle."
 
 msgid "IDS_GUIDING_TIP_39_DESC"
-msgstr "Выберите навык командира и изучите его. Убедитесь, что он эффективен для вашего корабля."
+msgstr "Choose a commander skill and learn it. Ensure it is effective for your ship."
 
 msgid "IDS_GUIDING_TIP_3_DESC"
-msgstr "Узнайте, как исследовать и покупать новые корабли во вкладке «Развитие»."
+msgstr "Learn how to research and purchase new ships in the 'Tech Tree' tab."
 
 msgid "IDS_GUIDING_TIP_3_HEADER"
-msgstr "Дерево развития"
+msgstr "Tech Tree"
 
 msgid "IDS_GUIDING_TIP_40_DESC"
-msgstr "Подтвердите ваш выбор. Если вы захотите распределить очки заново, вы можете сбросить навыки за дублоны или элитный опыт командира."
+msgstr "Confirm your choice. If you wish to redistribute points later, you can reset skills for doubloons or elite commander experience."
 
 msgid "IDS_GUIDING_TIP_41_DESC"
-msgstr "Выполняйте боевые задачи и получайте награды!"
+msgstr "Complete combat missions and earn rewards!"
 
 msgid "IDS_GUIDING_TIP_42_DESC"
-msgstr "Боевые задачи могут выполняться в определённых типах боя на кораблях разных классов, уровней и наций. Внимательно изучите условия задачи, которую собираетесь выполнить."
+msgstr "Combat missions can be completed in certain battle types on ships of different classes, tiers, and nations. Carefully review the mission requirements before starting."
 
 msgid "IDS_GUIDING_TIP_45_DESC"
-msgstr "Улучшайте боевые характеристики вашего корабля с помощью модернизаций."
+msgstr "Enhance your ship's combat capabilities with upgrades."
 
 msgid "IDS_GUIDING_TIP_46_DESC"
-msgstr "Установите модернизации на корабль, изучив их характеристики. Чем выше уровень корабля, тем больше модернизаций на него можно установить."
+msgstr "Install upgrades on your ship by reviewing their characteristics. The higher the ship's tier, the more upgrades it can have."
 
 msgid "IDS_GUIDING_TIP_49_DESC"
-msgstr "Выполняйте миссии кампании и получайте награды."
+msgstr "Complete campaign missions and earn rewards."
 
 msgid "IDS_GUIDING_TIP_4_DESC"
-msgstr "Чтобы корабль появился в вашем Порту, его нужно исследовать за опыт, а затем купить за кредиты. Как видите, корабль I уровня уже исследован!"
+msgstr "To get a ship in your Port, you need to research it for experience and then purchase it for credits. As you can see, the Tier I ship is already researched!"
 
 msgid "IDS_GUIDING_TIP_50_DESC"
-msgstr "Чтобы завершить миссию, вы должны набрать определённое количество звёзд, выполняя задания. Звёзды необходимы, чтобы разблокировать финальное задание миссии."
+msgstr "To complete a mission, you need to earn a certain number of stars by completing tasks. Stars are required to unlock the mission's final task."
 
 msgid "IDS_GUIDING_TIP_51_DESC"
-msgstr "Наберите необходимое количество звёзд, чтобы открыть финальное задание миссии. Выполните финальные задания всех миссий, чтобы пройти кампанию."
+msgstr "Earn the required number of stars to unlock the mission's final task. Complete the final tasks of all missions to finish the campaign."
 
 msgid "IDS_GUIDING_TIP_52_HEADER"
-msgstr "Посетите Адмиралтейство"
+msgstr "Visit the Admiralty"
 
 msgid "IDS_GUIDING_TIP_56_DESC"
-msgstr "Изучите накопленные вами предметы на экране «Имущество»."
+msgstr "Review the items you've accumulated on the 'Inventory' screen."
 
 msgid "IDS_GUIDING_TIP_57_DESC"
-msgstr "Продайте имущество, которое вы не используете, чтобы получить кредиты."
+msgstr "Sell items you don't use to earn credits."
 
 msgid "IDS_GUIDING_TIP_59_DESC"
-msgstr "Испытайте свои силы в Ранговых боях, сразившись с другими игроками. Правила Ранговых боёв и награды за них могут существенно различаться в зависимости от сезона."
+msgstr "Test your skills in Ranked Battles against other players. Ranked Battle rules and rewards may vary significantly depending on the season."
 
 msgid "IDS_GUIDING_TIP_60_DESC"
-msgstr "Присоединитесь к одному из существующих кланов или создайте свой."
+msgstr "Join an existing clan or create your own."
 
 msgid "IDS_GUIDING_TIP_61_DESC"
-msgstr "На этот корабль нельзя установить камуфляж. Выберите другой корабль"
+msgstr "You cannot apply camouflage to this ship. Choose a different ship."
 
 msgid "IDS_GUIDING_TIP_61_HEADER"
-msgstr "Камуфляж корабля"
+msgstr "Ship camouflage"
 
 msgid "IDS_GUIDING_TIP_6_DESC"
-msgstr "Обратите внимание, что опыт, заработанный в бою на корабле, может быть использован только для исследования модулей этого корабля и для исследования следующего корабля в ветке."
+msgstr "Note that experience earned in battle on a ship can only be used to research that ship's modules and the next ship in the branch."
 
 msgid "IDS_GUIDING_TIP_70_DESC"
-msgstr "Узнайте, как исследовать и покупать новые корабли во вкладке «Развитие»."
+msgstr "Learn how to research and purchase new ships in the 'Tech Tree' tab."
 
 msgid "IDS_GUIDING_TIP_70_HEADER"
-msgstr "Дерево развития"
+msgstr "Tech Tree"
 
 msgid "IDS_GUIDING_TIP_71_DESC"
-msgstr "Чтобы корабль появился в вашем Порту, его нужно исследовать за опыт, а затем купить за кредиты. Как видите, корабль I уровня уже исследован!"
+msgstr "To get a ship in your Port, you need to research it for experience and then purchase it for credits. As you can see, the Tier I ship is already researched!"
 
 msgid "IDS_GUIDING_TIP_73_DESC"
-msgstr "Обратите внимание, что опыт, заработанный в бою на корабле, может быть использован только для исследования модулей этого корабля и для исследования следующего корабля в ветке."
+msgstr "Note that experience earned in battle on a ship can only be used to research that ship's modules and the next ship in the branch."
 
 msgid "IDS_GUIDING_TIP_75_DESC"
-msgstr "Используйте опыт для исследования, а кредиты — для покупки корабля. Если вам не хватает ресурсов, продолжайте участвовать в боях, чтобы их заработать."
+msgstr "Use experience for research and credits for purchasing a ship. If you lack resources, continue participating in battles to earn more."
 
 msgid "IDS_GUIDING_TIP_76_DESC"
-msgstr "Выберите Случайный бой."
+msgstr "Select Random Battle."
 
 msgid "IDS_GUIDING_TIP_77_DESC"
-msgstr "Сражайтесь против других игроков в Случайных боях и совершенствуйте своё мастерство. Некоторые корабли в командах могут управляться ИИ."
+msgstr "Fight against other players in Random Battles and improve your skills. Some ships in the teams may be controlled by AI."
 
 msgid "IDS_GUIDING_TIP_79_DESC"
-msgstr "Вы можете установить флаг на свой корабль."
+msgstr "You can install a flag on your ship."
 
 msgid "IDS_GUIDING_TIP_79_HEADER"
-msgstr "Флаги"
+msgstr "Flags"
 
 msgid "IDS_GUIDING_TIP_80_DESC"
-msgstr "Используйте камуфляжи и флаги, чтобы придать своему кораблю уникальный внешний вид."
+msgstr "Use camouflages and flags to give your ship a unique appearance."
 
 msgid "IDS_GUIDING_TIP_80_HEADER"
-msgstr "Внешний вид корабля"
+msgstr "Ship appearance"
 
 msgid "IDS_GUIDING_TIP_81_DESC"
-msgstr "Вы можете установить постоянный или расходуемый камуфляж на свой корабль."
+msgstr "You can install permanent or expendable camouflage on your ship."
 
 msgid "IDS_GUIDING_TIP_81_HEADER"
-msgstr "Камуфляж корабля"
+msgstr "Ship camouflage"
 
 msgid "IDS_GUIDING_TIP_82_DESC"
-msgstr "Постоянные камуфляжи не расходуются и не требуют пополнения."
+msgstr "Permanent camouflages do not get consumed and do not require replenishment."
 
 msgid "IDS_GUIDING_TIP_82_HEADER"
-msgstr "Постоянные камуфляжи"
+msgstr "Permanent camouflages"
 
 msgid "IDS_GUIDING_TIP_83_DESC"
-msgstr "Расходуемые камуфляжи списываются за проведённый бой и могут быть куплены за кредиты."
+msgstr "Expendable camouflages are consumed after each battle and can be purchased for credits."
 
 msgid "IDS_GUIDING_TIP_83_HEADER"
-msgstr "Расходуемые камуфляжи"
+msgstr "Expendable camouflages"
 
 msgid "IDS_GUIDING_TIP_85_DESC"
-msgstr "Установите на корабль сигналы, чтобы улучшить его боевые характеристики"
+msgstr "Install signals on your ship to enhance its combat characteristics."
 
 msgid "IDS_GUIDING_TIP_86_DESC"
-msgstr "Установите сигналы на корабль. Обратите внимание на то, какие характеристики они улучшают."
+msgstr "Install signals on your ship. Pay attention to the characteristics they improve."
 
 msgid "IDS_GUIDING_TIP_87_DESC"
-msgstr "Свободный опыт начисляется в размере 10% от полученного за бой опыта корабля без учёта возможных бонусов."
+msgstr "Free experience is earned at a rate of 10% of the ship's battle experience, excluding possible bonuses."
 
 msgid "IDS_GUIDING_TIP_88_DESC"
-msgstr "Используйте доступный свободный опыт для исследования корабля или модуля."
+msgstr "Use available free experience to research ships or modules."
 
 msgid "IDS_GUIDING_TIP_89_DESC"
-msgstr "Исследуйте новый модуль. Если у вас недостаточно опыта корабля, вы можете использовать свободный опыт или заработать больше опыта в бою."
+msgstr "Research a new module. If you do not have enough ship experience, you can use free experience or earn more experience in battle."
 
 msgid "IDS_GUIDING_TIP_8_DESC"
-msgstr "Используйте опыт для исследования, а кредиты — для покупки корабля. Если вам не хватает ресурсов, продолжайте участвовать в боях, чтобы их заработать."
+msgstr "Use experience for research and credits for purchasing a ship. If you lack resources, continue participating in battles to earn more."
 
 msgid "IDS_GUIDING_TIP_91_DESC"
-msgstr "Исследуйте корабль. Если у вас недостаточно опыта корабля, вы можете использовать свободный опыт или заработать больше опыта в бою."
+msgstr "Research a ship. If you do not have enough ship experience, you can use free experience or earn more experience in battle."
 
 msgid "IDS_GUIDING_TIP_94_DESC"
-msgstr "Установите бонусы, чтобы зарабатывать больше ресурсов в бою."
+msgstr "Install bonuses to earn more resources in battle."
 
 msgid "IDS_GUIDING_TIP_94_HEADER"
-msgstr "Установка экономических бонусов"
+msgstr "Installing economic bonuses"
 
 msgid "IDS_GUIDING_TIP_95_DESC"
-msgstr "С помощью соответствующих экономических бонусов вы сможете получать больше кредитов, опыта корабля, опыта командира и свободного опыта за каждый бой."
+msgstr "With the appropriate economic bonuses, you can earn more credits, ship experience, commander experience, and free experience for each battle."
 
 msgid "IDS_GUIDING_TIP_95_HEADER"
-msgstr "Установите экономические бонусы"
+msgstr "Install economic bonuses"
 
 msgid "IDS_GUIDING_TIP_96_DESC"
-msgstr "Вы получили несколько контейнеров — откройте их и получите награды!"
+msgstr "You received several containers—open them to get rewards!"
 
 msgid "IDS_GUIDING_TIP_97_DESC"
-msgstr "Зарабатывайте опыт в бою и получайте до 3 контейнеров с наградами ежедневно."
+msgstr "Earn experience in battle and receive up to 3 containers with rewards daily."
 
 msgid "IDS_GUIDING_TIP_9_HEADER"
-msgstr "Исследуйте и купите корабль"
+msgstr "Research and purchase a ship"
 
 msgid "IDS_HAVE_NOT_ANY_READY_PLAYER_IN_TEAMS"
 msgstr "В командах нет готовых к бою игроков."
