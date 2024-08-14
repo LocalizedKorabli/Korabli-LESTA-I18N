@@ -6098,13 +6098,13 @@ msgid "IDS_PASB917_DESCR"
 msgstr "This ship is a copy of the Montana ship and is intended for Clan battles only."
 
 msgid "IDS_PASB990"
-msgstr "Vermont (EM)"
+msgstr "Vermont Test"
 
 msgid "IDS_PASB990_DESCR"
 msgstr "A copy of the ship for testing elite modernization."
 
 msgid "IDS_PASB990_FULL"
-msgstr "Vermont (EM)"
+msgstr "Vermont Test"
 
 msgid "IDS_PASB990_YEAR"
 msgstr "1945"
@@ -6511,7 +6511,7 @@ msgid "IDS_PAUH820_D9_HULL_STOCK"
 msgstr "Maffitt"
 
 msgid "IDS_PAUH917_B10_HULL_STOCK"
-msgstr "Vermont (EM)"
+msgstr "Vermont Test"
 
 msgid "IDS_PAUH919_N_HAMPSHIRE"
 msgstr "New Hampshire"
@@ -6916,64 +6916,64 @@ msgid "IDS_PAUT975_TORP_GEARING"
 msgstr "Mk16 mod. 1"
 
 msgid "IDS_PBEE001_UK_DESC"
-msgstr "Полотнище, сочетающее изображение креста святого Георга и флаг Соединённого Королевства. Используется в качестве британского военно-морского флага с 1801 г. до настоящего времени."
+msgstr "The canvas combines the image of the St. George's Cross with the flag of the United Kingdom. It has been used as the British naval flag since 1801 to the present day."
 
 msgid "IDS_PBEP307_HOOD_PERMO_2"
 msgstr "1941"
 
 msgid "IDS_PBES380_ST_VINCENT_ARIA"
-msgstr "Химера"
+msgstr "Chimera"
 
 msgid "IDS_PBGA167_4IN45_QF_MK_XIX"
-msgstr "102-мм/45 QF Mk.XVI* в установке Mk.XIX"
+msgstr "102 mm/45 QF Mk.XVI* in a Mk.XIX mount"
 
 msgid "IDS_PBPA980_406MM_HE_T10"
-msgstr "406-мм ОФ обр. 1937 г."
+msgstr "406 mm HE Mod. 1937"
 
 msgid "IDS_PBPB121_EAGLE_JET"
-msgstr "1000 lb G.P. Bomb"
+msgstr "1000 lb G.P. Bomb"
 
 msgid "IDS_PBPR121_EAGLE_JET"
-msgstr "RP-3 60 lb No2 Mk.I"
+msgstr "RP-3 60 lb No2 Mk.I"
 
 msgid "IDS_PBPR308_COLOSSUS_STOCK"
-msgstr "127-мм HVAR"
+msgstr "127 mm HVAR"
 
 msgid "IDS_PBPT112_MALTA_STOCK"
 msgstr "Mark XVII"
 
 msgid "IDS_PBSA106_DESCR"
-msgstr "HMS Furious был заложен как лёгкий линейный крейсер типа Courageous, однако в ходе Первой мировой войны было решено перестроить корабль в носитель аэропланов: вместо надстроек установили ангар и полётную палубу. Во Вторую мировую войну авианосец участвовал в охоте на Gneisenau, в противолодочных патрулях, в Норвежской кампании. В 1943 г. Furious принял участие в охоте на Tirpitz, прячущийся в норвежских фьордах."
+msgstr "HMS Furious was laid down as a light battlecruiser of the Courageous class, but during World War I it was decided to convert the ship into an aircraft carrier: the superstructures were replaced with a hangar and a flight deck. During World War II, the carrier participated in the hunt for the Gneisenau, in anti-submarine patrols, and in the Norwegian campaign. In 1943, Furious participated in the hunt for the Tirpitz hiding in the Norwegian fjords."
 
 msgid "IDS_PBSA204_DESCR"
-msgstr "Первый в мире корабль, заложенный как авианосец. Базировался на корпусе крейсера типа D. Начав службу, Hermes отправился на Средиземное море, а потом на Китайскую станцию, где служил десять лет. Во Вторую мировую войну Hermes участвовал в противолодочном патрулировании, в налёте на Дакар и в поисках «карманного линкора» Graf Spee. Зимой 1941–42 гг. авианосец прибыл на Шри-Ланку для подготовки вторжения на Мадагаскар. Hermes был потоплен самолётами с японских авианосцев 9 апреля 1942 г."
+msgstr "The first ship in the world laid down as an aircraft carrier. It was based on a cruiser hull of the D type. After beginning service, Hermes was sent to the Mediterranean, and later to the China Station, where it served for ten years. During World War II, Hermes participated in anti-submarine patrols, the raid on Dakar, and the search for the pocket battleship Graf Spee. In the winter of 1941–42, the carrier arrived in Sri Lanka to prepare for the invasion of Madagascar. Hermes was sunk by aircraft from Japanese carriers on April 9, 1942."
 
 msgid "IDS_PBSA508_DESCR"
-msgstr "HMS Indomitable, четвёртый корабль типа Illustrious, являлся попыткой устранить проблему с малой численностью авиагруппы: ангар был увеличен за счёт дополнительного «полуангара», что позволило нести 48 самолётов, но привело к снижению бронирования стенок. Особенностью архитектуры авианосца стала его аэродинамическая форма. Авианосец участвовал в высадке союзных войск на Мадагаскар и в операции «Пьедестал». После войны Indomitable заменил линкор Vanguard в качестве флагмана Флота метрополии."
+msgstr "HMS Indomitable, the fourth ship of the Illustrious class, was an attempt to address the problem of the small number of aircraft: the hangar was expanded by an additional 'half-hangar', allowing it to carry 48 aircraft, but leading to a reduction in armor thickness. The carrier's distinctive feature was its aerodynamic shape. The carrier participated in the Allied landings in Madagascar and Operation Pedestal. After the war, Indomitable replaced the battleship Vanguard as the flagship of the Home Fleet."
 
 msgid "IDS_PBSA910_DESCR"
-msgstr "Этот корабль является копией корабля Audacious и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of the Audacious ship and is intended for Clan Battles only."
 
 msgid "IDS_PBSB002_DESCR"
-msgstr "HMS Warspite вошёл в состав 5-й эскадры линкоров в 1915 г. Участвовал в Ютландском сражении, после Первой мировой войны был флагманом Средиземноморского флота. С началом Второй мировой был переведён во Флот метрополии, участвовал в битве при Нарвике, где потопил немецкий эсминец. В 1940 г. вернулся в Средиземное море, в бою у Пунто-Стило поразил флагман итальянского флота. В 1941 г. в сражении у мыса Матапан потопил два итальянских тяжёлых крейсера. В 1943–1944 гг. в составе Восточного флота прикрывал высадку союзных войск на Сицилии и Нормандии."
+msgstr "HMS Warspite joined the 5th Battle Squadron in 1915. It participated in the Battle of Jutland and, after World War I, served as the flagship of the Mediterranean Fleet. With the start of World War II, it was transferred to the Home Fleet, participating in the Battle of Narvik, where it sank a German destroyer. In 1940, it returned to the Mediterranean, where it damaged the flagship of the Italian fleet in the Battle of Punta Stilo. In 1941, at the Battle of Cape Matapan, it sank two Italian heavy cruisers. In 1943–1944, as part of the Eastern Fleet, it covered the Allied landings in Sicily and Normandy."
 
 msgid "IDS_PBSB103_DESCR"
-msgstr "В процессе строительства Dreadnought были очевидны преимущества кораблей этого типа над эскадренными броненосцами. В 1906 г. были выделены средства на постройку трёх новых кораблей. От предшественника Bellerophon отличался крупным калибром противоминных орудий, наличием противоторпедных переборок и изменённым бронированием. В 1909 г. корабль вошёл в состав Флота метрополии. Во время Первой мировой войны был в 4-й эскадре линкоров Гранд-Флита, участвовал в Ютландском сражении."
+msgstr "During the construction of Dreadnought, the advantages of ships of this type over pre-dreadnought battleships became evident. In 1906, funds were allocated for the construction of three new ships. The Bellerophon differed from its predecessor by having a larger caliber of anti-torpedo guns, the presence of anti-torpedo bulkheads, and modified armor. In 1909, the ship joined the Home Fleet. During World War I, it served in the 4th Battle Squadron of the Grand Fleet and participated in the Battle of Jutland."
 
 msgid "IDS_PBSB104_DESCR"
-msgstr "Первые корабли с орудиями калибра 343 мм, типа Orion, получившие известность как «супердредноуты», были построены по программе 1909 г. Их особенностью было увеличенное водоизмещение и отсутствие орудийных башен у бортов. HMS Orion вошёл в строй в 1912 г. в качестве флагмана 2-й эскадры линкоров Флота метрополии, где служил и во время Первой мировой войны. Корабль принял участие в Ютландском сражении. В 1922 г. был выведен из состава флота по условиям Вашингтонского военно-морского соглашения."
+msgstr "The first ships with 343 mm caliber guns, the Orion class, known as 'superdreadnoughts', were built under the 1909 program. Their features included increased displacement and the absence of side-mounted gun turrets. HMS Orion entered service in 1912 as the flagship of the 2nd Battle Squadron of the Home Fleet, where it served during World War I. The ship participated in the Battle of Jutland. In 1922, it was decommissioned under the terms of the Washington Naval Treaty."
 
 msgid "IDS_PBSB107_DESCR"
-msgstr "В 1933 г. в британском Адмиралтействе началось проектирование линкоров нового поколения. К 1935 г. было представлено несколько проектов, основным был выбран вариант с 356-мм орудиями в трёх башнях, получивший индекс 14O. Позже он был переработан в сторону усиления бронирования и получил индекс 14P. По нему в 1937 г. был заложен King George V. В 1941 г. линкор участвовал в потоплении Bismarck, нанеся ему серьёзные повреждения. Позже, в 1943 г., был переведён в Средиземное море, где прикрывал высадку союзных войск на Сицилию."
+msgstr "In 1933, the British Admiralty began designing a new generation of battleships. By 1935, several designs had been proposed, with the main option chosen being the one with 356 mm guns in three turrets, designated 14O. Later, it was revised to enhance armor and was designated 14P. Based on this, the King George V was laid down in 1937. In 1941, the battleship participated in the sinking of the Bismarck, inflicting significant damage. Later, in 1943, it was transferred to the Mediterranean, where it covered the Allied landings in Sicily."
 
 msgid "IDS_PBSB111_YEAR"
-msgstr "1952 г."
+msgstr "1952"
 
 msgid "IDS_PBSB203_DESCR"
-msgstr "Корабли типа Invincible не могли вести огонь из бортовых башен на противоположный борт, поэтому башни следующих трёх линейных крейсеров были более разнесёнными. HMS Indefatigable был заложен в 1909 г., вступил в строй в 1911 г. в составе 1-й эскадры линейных крейсеров. В 1913 г. корабль был переведён в Средиземное море, где принял участие в поисках линейного крейсера Goeben и блокаде Дарданелл. В 1915 г. Indefatigable вернулся во Флот метрополии. На следующий год погиб в Ютландском сражении от детонации погребов."
+msgstr "The Invincible class ships could not fire their side turrets across to the opposite side, so the turrets of the next three battlecruisers were more widely spaced. HMS Indefatigable was laid down in 1909 and entered service in 1911 as part of the 1st Battlecruiser Squadron. In 1913, the ship was transferred to the Mediterranean, where it participated in the search for the battlecruiser Goeben and the blockade of the Dardanelles. In 1915, Indefatigable returned to the Home Fleet. The following year, it was destroyed at the Battle of Jutland by the detonation of its magazines."
 
 msgid "IDS_PBSB206_DESCR"
-msgstr "Вернувшись на пост Первого морского лорда, адмирал Дж. Фишер пролоббировал постройку двух линейных крейсеров: Repulse и Renown. HMS Renown был спущен на воду в 1916 г. и в том же году вступил в строй. В период Второй мировой войны корабль участвовал в охоте на немецкие рейдеры Graf Spee и Bismarck, в Норвежской кампании, охранял мальтийские конвои, прикрывал высадку союзников в Северной Африке, а также использовался в дипломатических целях, перевозя У. Черчилля. В 1944 г. принял участие в заключительном этапе войны в составе Восточного флота."
+msgstr "Returning to the post of First Sea Lord, Admiral J. Fisher lobbied for the construction of two battlecruisers: Repulse and Renown. HMS Renown was launched in 1916 and entered service the same year. During World War II, the ship participated in the hunt for the German raiders Graf Spee and Bismarck, the Norwegian campaign, guarded the Malta convoys, covered the Allied landings in North Africa, and was also used for diplomatic purposes, transporting Winston Churchill. In 1944, it participated in the final stages of the war as part of the Eastern Fleet."
 
 msgid "IDS_PBSB210"
 msgstr "St. Vincent"
@@ -6982,43 +6982,43 @@ msgid "IDS_PBSB210_FULL"
 msgstr "St. Vincent"
 
 msgid "IDS_PBSB503_DESCR"
-msgstr "На рубеже веков возникла идея о линкоре нового типа взамен классического эскадренного броненосца. В. Куниберти описал идеальный корабль для британского флота с 305-мм орудиями. В 1902 г. была разработана концепция корабля, несущего только орудия большого калибра. Основой послужил проект H с пятью двухорудийными башнями главного калибра. HMS Dreadnought ознаменовал начало новой эпохи в истории военно-морского флота. В 1907–12 гг. был флагманом Флота метрополии, в 1912–16 гг. — 4-й эскадры линкоров. В 1915 г. тараном потопил подводную лодку U-29."
+msgstr "At the turn of the century, the idea of a new type of battleship to replace the classic pre-dreadnought battleship emerged. V. Cuniberti described the ideal ship for the British fleet with 305 mm guns. In 1902, the concept of a ship carrying only large-caliber guns was developed. The design was based on project H, featuring five twin main caliber gun turrets. HMS Dreadnought marked the beginning of a new era in naval history. From 1907 to 1912, it was the flagship of the Home Fleet, and from 1912 to 1916, it served in the 4th Battle Squadron. In 1915, it rammed and sank the submarine U-29."
 
 msgid "IDS_PBSB507_DESCR"
-msgstr "В 1915 г. началась разработка нового линейного крейсера с улучшенной мореходностью в условиях Северного моря. После гибели трёх британских крейсеров в Ютландском сражении проект был пересмотрен в сторону усиления защиты. Hood вступил в состав Атлантического флота в мае 1920 г., став сильнейшим кораблём мира. Во время Второй мировой был флагманом Соединения H в Гибралтаре. В 1940–41 гг. занимался патрульными миссиями в Атлантике, сопровождал конвои. 20 мая 1941 г. Hood столкнулся с Bismarck и Prinz Eugen и погиб от детонации погребов."
+msgstr "In 1915, the development of a new battlecruiser with improved seaworthiness in the conditions of the North Sea began. After the loss of three British cruisers at the Battle of Jutland, the design was revised to enhance protection. Hood joined the Atlantic Fleet in May 1920, becoming the world's most powerful ship. During World War II, it served as the flagship of Force H in Gibraltar. In 1940–41, it conducted patrol missions in the Atlantic, escorting convoys. On May 20, 1941, Hood encountered Bismarck and Prinz Eugen and was destroyed by the detonation of its magazines."
 
 msgid "IDS_PBSB510_DESCR"
-msgstr "Развитие британских крейсеров после закладки Vanguard стремилось в сторону увеличения линейных размеров корабля. В том числе рассматривался вариант с 457-мм орудиями, которые разрабатывались после Первой мировой войны для линкоров и линейных крейсеров проектов G–N."
+msgstr "The development of British cruisers after the laying down of Vanguard aimed at increasing the linear dimensions of the ship. Among other options, a version with 457 mm guns, which were developed after World War I for the G–N class battleships and battlecruisers, was considered."
 
 msgid "IDS_PBSB517_YEAR"
-msgstr "1927 г."
+msgstr "1927"
 
 msgid "IDS_PBSB526_DESCR"
-msgstr "Второй корабль типа Renown, HMS Repulse, был заложен в 1915 г., вступил в строй в 1916 г., успев поучаствовать во втором бою у Гельголанда. В 1923–24 гг. участвовал в круизе по империи, защищал международное судоходство во время Испанской гражданской войны. В начале Второй мировой участвовал в охоте на Bismarck, в Норвежской кампании. В 1941 г. вошёл в состав Соединения Z, которое должно было сдерживать японскую агрессию на Дальнем Востоке. Repulse был потоплен японской авиацией в Южно-Китайском море 10 декабря 1941 г."
+msgstr "The second ship of the Renown class, HMS Repulse, was laid down in 1915 and entered service in 1916, just in time to participate in the Second Battle of Heligoland Bight. In 1923–24, it participated in the Empire Cruise, protected international shipping during the Spanish Civil War. At the start of World War II, it participated in the hunt for Bismarck and the Norwegian campaign. In 1941, it became part of Force Z, which was supposed to deter Japanese aggression in the Far East. Repulse was sunk by Japanese aircraft in the South China Sea on December 10, 1941."
 
 msgid "IDS_PBSB527_DESCR"
-msgstr "HMS Duke of York, третий линкор типа King George V, был заложен в 1937 г. в Клайдбэнке и вступил в строй в ноябре 1941 г. Корабль участвовал в операциях по прикрытию конвоев, прикрывал высадку союзных войск в Северной Африке в 1942 г. 26 декабря 1943 г. потопил немецкий линкор Scharnhorst. Позже, после капитального ремонта, был флагманом Тихоокеанского флота, а в 1947–49 гг. — Флота метрополии."
+msgstr "HMS Duke of York, the third battleship of the King George V class, was laid down in 1937 at Clydebank and entered service in November 1941. The ship participated in convoy operations, covering the Allied landings in North Africa in 1942. On December 26, 1943, it sank the German battleship Scharnhorst. Later, after a major overhaul, it served as the flagship of the Pacific Fleet, and from 1947 to 1949, as the flagship of the Home Fleet."
 
 msgid "IDS_PBSB536_DESCR"
-msgstr "Второй корабль типа Renown, HMS Repulse, был заложен в 1915 г., вступил в строй в 1916 г., успев поучаствовать во втором бою у Гельголанда. В 1923–24 гг. участвовал в круизе по империи, защищал международное судоходство во время Испанской гражданской войны. В начале Второй мировой участвовал в охоте на Bismarck, в Норвежской кампании. В 1941 г. вошёл в состав Соединения Z, которое должно было сдерживать японскую агрессию на Дальнем Востоке. Repulse был потоплен японской авиацией в Южно-Китайском море 10 декабря 1941 г."
+msgstr "The second ship of the Renown class, HMS Repulse, was laid down in 1915 and entered service in 1916, just in time to participate in the Second Battle of Heligoland Bight. In 1923–24, it participated in the Empire Cruise, protected international shipping during the Spanish Civil War. At the start of World War II, it participated in the hunt for Bismarck and the Norwegian campaign. In 1941, it became part of Force Z, which was supposed to deter Japanese aggression in the Far East. Repulse was sunk by Japanese aircraft in the South China Sea on December 10, 1941."
 
 msgid "IDS_PBSB547_DESCR"
-msgstr "HMS Renown был заложен в 1915 г. и вступил в строй в сентябре 1916 г. Корабль не успел принять участие в боевых действиях Первой мировой войны. Пройдя модернизацию в межвоенное время, во время Второй мировой Renown участвовал в охоте на немецкие рейдеры Graf Spee и Bismarck, в Норвежской кампании, охранял мальтийские конвои в составе Соединения H, а также осуществлял дипломатическую службу. В 1944 г. был передан в Восточный флот и принял участие в заключительном этапе Второй мировой войны."
+msgstr "HMS Renown was laid down in 1915 and entered service in September 1916. The ship did not have time to participate in the combat operations of World War I. After undergoing modernization in the interwar period, during World War II, Renown participated in the hunt for the German raiders Graf Spee and Bismarck, in the Norwegian campaign, guarded the Malta convoys as part of Force H, and also carried out diplomatic service. In 1944, it was transferred to the Eastern Fleet and participated in the final stage of World War II."
 
 msgid "IDS_PBSB609"
 msgstr "S. Thunder"
 
 msgid "IDS_PBSB609_DESCR"
-msgstr "Представители Министерства прогресса и вездесущие репортёры называют чудом инженерной мысли Интернациональную космическую эстакаду. Но не меньшее чудо — корабль «Алый гром», после переоснащения воплотивший в себе последние достижения робототехники. Продуман и отлажен до мелочей — от мощных магнитных тороидов и до самой крохотной заклёпки."
+msgstr "Representatives of the Ministry of Progress and ubiquitous reporters call the International Space Elevator a marvel of engineering. But no less a marvel is the ship 'Scarlet Thunder,' which, after re-equipment, embodies the latest advancements in robotics. It is meticulously designed and refined to the smallest detail—from the powerful magnetic toroids to the tiniest rivet."
 
 msgid "IDS_PBSB609_YEAR"
-msgstr "1971 г."
+msgstr "1971"
 
 msgid "IDS_PBSB610_DESCR"
-msgstr "Когда адмирал Дж. Фишер вернулся на пост Первого морского лорда в 1915 г., перед руководством британского флота стоял вопрос о высадке десанта на балтийском побережье Германии. Планировалось, что прикрытием будут российские войска, и для этого требовались корабли с максимально крупными орудиями. В рамках этой концепции были построены лёгкие линейные крейсеры Courageous, Furious и Glorious, а их развитием должен был быть Incomparable с самыми крупными в мире 508-мм орудиями."
+msgstr "When Admiral J. Fisher returned to the post of First Sea Lord in 1915, the British fleet's leadership faced the question of landing troops on the Baltic coast of Germany. It was planned that the cover would be provided by Russian troops, and for this purpose, ships with the largest possible guns were required. Within this concept, the light battlecruisers Courageous, Furious, and Glorious were built, and their development was to be Incomparable with the world's largest 508 mm guns."
 
 msgid "IDS_PBSB910_DESCR"
-msgstr "Этот корабль является копией корабля Conqueror и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of the Conqueror ship and is intended for Clan Battles only."
 
 msgid "IDS_PBSB998"
 msgstr "St. Lawrence"
@@ -7027,28 +7027,28 @@ msgid "IDS_PBSB998_FULL"
 msgstr "St. Lawrence"
 
 msgid "IDS_PBSC109_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PBSC110_DESCR"
-msgstr "Проектирование лёгкого крейсера продолжилось в 1946 г. с появлением проекта двухорудийной универсальной установки калибра 152 мм. Новый проект должен был нести 4–5 таких установок вместо четырёх трёхорудийных. В 1947 г. был представлен финальный проект пятибашенной версии, сравнимый по боевым качествам с американскими крейсерами типа Worcester. Головной корабль серии из шести крейсеров этого типа должен был называться Minotaur."
+msgstr "The design of the light cruiser continued in 1946 with the appearance of the project of a dual-purpose twin-gun turret of 152 mm caliber. The new project was supposed to carry 4-5 such turrets instead of four triple-gun turrets. In 1947, the final design of the five-turret version was presented, comparable in combat capabilities to the American Worcester-class cruisers. The lead ship of the series of six cruisers of this type was to be named Minotaur."
 
 msgid "IDS_PBSC206_DESCR"
-msgstr "В рамках разработки крейсеров-защитников торговли в 1923 г. было представлено пять проектов. Все корабли, построенные по выбранному для производства проекту, почти не несли брони, поэтому в 1936–41 гг. на часть крейсеров был установлен полноценный бронепояс. HMS Devonshire был заложен в 1926 г. С началом Второй мировой войны он служил в составе Флота метрополии, участвовал в охоте на немецкие рейдеры и Норвежской кампании, в ходе которой эвакуировал норвежского короля. В 1942 г. прикрывал высадку на Мадагаскаре, затем конвои в Австралию."
+msgstr "As part of the development of trade protection cruisers, five projects were presented in 1923. All ships built according to the production project carried almost no armor, so in 1936–41, a full-fledged armor belt was installed on part of the cruisers. HMS Devonshire was laid down in 1926. At the beginning of World War II, it served in the Home Fleet, participated in the hunt for German raiders and the Norwegian campaign, during which it evacuated the Norwegian king. In 1942, it covered the landings in Madagascar, then convoys to Australia."
 
 msgid "IDS_PBSC505_DESCR"
-msgstr "По программам 1926 и 1927 гг. планировалось построить четыре 10 000-тонных крейсера, но в целях экономии бюджета было решено построить крейсеры уменьшенного тоннажа. HMS Exeter вступил в строй в июле 1931 г. В межвоенное время служил в составе Атлантического и Средиземноморского флотов и в Вест-Индии. В начале Второй мировой войны участвовал в охоте на немецкие рейдеры. В 1939 г. сражался в бою у Ла-Платы. 27 февраля 1942 г., сражаясь в первой битве в Яванском море, получил повреждения от огня японских крейсеров. Во второй битве Exeter затонул."
+msgstr "Under the 1926 and 1927 programs, it was planned to build four 10,000-ton cruisers, but in order to save the budget, it was decided to build reduced-tonnage cruisers. HMS Exeter entered service in July 1931. During the interwar period, it served in the Atlantic and Mediterranean Fleets and in the West Indies. At the start of World War II, it participated in the hunt for German raiders. In 1939, it fought in the Battle of the River Plate. On February 27, 1942, while fighting in the first Battle of the Java Sea, it was damaged by Japanese cruisers' fire. In the second battle, Exeter sank."
 
 msgid "IDS_PBSC516_DESCR"
-msgstr "HMS London, головной корабль второй серии крейсеров типа County, до начала Второй мировой войны был флагманом 1-й эскадры крейсеров. Во время войны London участвовал в охоте на Bismarck, в сопровождении северных конвоев. Пройдя ремонт в 1943 г., корабль был переведён в состав Восточного флота, а после окончания войны служил на Китайской станции."
+msgstr "HMS London, the lead ship of the second series of County-class cruisers, served as the flagship of the 1st Cruiser Squadron before World War II. During the war, London participated in the hunt for Bismarck and the escort of Arctic convoys. After undergoing repairs in 1943, the ship was transferred to the Eastern Fleet, and after the war, it served on the China Station."
 
 msgid "IDS_PBSC526_DESCR"
-msgstr "После подписания Лондонского договора возникла дискуссия о малых флотских крейсерах. В 1936 г. был представлен проект с пятью скорострельными спаренными установками. Головной корабль серии, HMS Dido, вступил в строй в сентябре 1940 г. В начале Второй мировой войны он сопровождал конвои в Атлантике, затем перешёл в Средиземное море. В 1942 г. участвовал во втором бою в заливе Сирт, в 1943 г. — в высадке на Сицилии, в 1944 г. — на юге Франции. В 1945 г. сопровождал арктические конвои и прикрывал удары по Норвегии."
+msgstr "After the signing of the London Naval Treaty, a discussion arose about small fleet cruisers. In 1936, a design with five rapid-fire twin turrets was presented. The lead ship of the series, HMS Dido, entered service in September 1940. At the start of World War II, it escorted convoys in the Atlantic, then moved to the Mediterranean. In 1942, it participated in the Second Battle of Sirte, in 1943 in the landing in Sicily, in 1944 in southern France. In 1945, it escorted Arctic convoys and covered strikes on Norway."
 
 msgid "IDS_PBSC538_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PBSC548_DESCR"
-msgstr "После подписания Вашингтонского морского соглашения Великобритания приступила к проектированию крейсеров. Одним из энтузиастов разработки нового типа крейсера был Дж. Тёрстон, ранее разработавший корабли Kongō и Erin. В 1923 г. он опубликовал эссе, в котором описал общие черты будущих крейсеров, а в 1926 г. представил три проекта крейсера для ВМФ Великобритании: в одном из них башни главного калибра были скомпонованы в носовой оконечности, чтобы достичь лучшего сосредоточения огня."
+msgstr "After the signing of the Washington Naval Treaty, the United Kingdom began designing cruisers. One of the enthusiasts of the development of a new type of cruiser was J. Thurston, who had previously developed the Kongō and Erin ships. In 1923, he published an essay in which he described the general features of future cruisers, and in 1926, he presented three cruiser designs for the Royal Navy: in one of them, the main caliber turrets were grouped in the forward section to achieve better concentration of fire."
 
 msgid "IDS_PBSC558_NUMBER"
 msgstr " "
@@ -7057,7 +7057,7 @@ msgid "IDS_PBSC710"
 msgstr "Monmouth"
 
 msgid "IDS_PBSC710_DESCR"
-msgstr "После провала Лондонского морского договора 1936 г. британское Адмиралтейство вновь приступило к проектированию тяжёлых крейсеров. В январе 1938 г. ведущий инженер Департамента кораблестроения предложил ряд проектов тяжёлого крейсера водоизмещением в 20 000 т, вооружение было представлено орудиями калибра 203–234 мм. Один из вариантов компоновки предполагал три четырёхорудийных башни. К похожему варианту вооружения вернулись в сентябре 1939 г. при предварительных проработках крейсера типа А."
+msgstr "After the failure of the London Naval Treaty of 1936, the British Admiralty resumed the design of heavy cruisers. In January 1938, the Chief Engineer of the Shipbuilding Department proposed several heavy cruiser designs with a displacement of 20,000 tons and armament of 203–234 mm guns. One of the layout options included three quadruple gun turrets. A similar armament option was returned to in September 1939 during the preliminary studies of the Type A cruiser."
 
 msgid "IDS_PBSC710_FULL"
 msgstr "Monmouth"
@@ -7066,7 +7066,7 @@ msgid "IDS_PBSC710_NUMBER"
 msgstr "1"
 
 msgid "IDS_PBSC710_YEAR"
-msgstr "1947 г."
+msgstr "1947"
 
 msgid "IDS_PBSC888"
 msgstr "STAR Edinburgh"
@@ -7075,22 +7075,22 @@ msgid "IDS_PBSC888_FULL"
 msgstr "STAR Edinburgh"
 
 msgid "IDS_PBSC910"
-msgstr "Goliath (ЭМ)"
+msgstr "Goliath Test"
 
 msgid "IDS_PBSC910_DESCR"
-msgstr "Копия корабля для тестирования элитной модернизации."
+msgstr "A copy of the ship for testing elite upgrades."
 
 msgid "IDS_PBSC910_FULL"
-msgstr "Goliath (ЭМ)"
+msgstr "Goliath Test"
 
 msgid "IDS_PBSC910_YEAR"
-msgstr "1949 г."
+msgstr "1949"
 
 msgid "IDS_PBSC918"
 msgstr "Cougar"
 
 msgid "IDS_PBSC918_DESCR"
-msgstr "Копия корабля Tiger '59 для тестирования механизма барабанной стрельбы."
+msgstr "A copy of the Tiger '59 ship for testing the drum firing mechanism."
 
 msgid "IDS_PBSC918_FULL"
 msgstr "Cougar"
@@ -7099,34 +7099,34 @@ msgid "IDS_PBSC918_NUMBER"
 msgstr "3"
 
 msgid "IDS_PBSC918_YEAR"
-msgstr "1959 г."
+msgstr "1959"
 
 msgid "IDS_PBSD109_DESCR"
-msgstr "Тип Battle стал результатом осмысления опыта эсминцев в первые годы Второй мировой войны: акцент сместился на ПВО и ПЛО. HMS Jutland, изначально носивший имя Malplaquet, был построен в 1945–47 гг. Корабль служил в составе 4-й флотилии эсминцев, в 4-м и 7-м дивизионах эсминцев. В 1953 г. Jutland принимал участие во флотском смотре по случаю коронации Елизаветы II."
+msgstr "The Battle class was the result of lessons learned from destroyers in the early years of World War II: the focus shifted to air defense and anti-submarine warfare. HMS Jutland, originally named Malplaquet, was built between 1945 and 1947. The ship served in the 4th Destroyer Flotilla, in the 4th and 7th Destroyer Divisions. In 1953, Jutland participated in the fleet review for the coronation of Queen Elizabeth II."
 
 msgid "IDS_PBSD110_DESCR"
-msgstr "Последние, самые крупные и самые современные торпедно-артиллерийские эсминцы британского флота, корабли типа Daring, стали развитием предыдущего типа — Battle. Эти эсминцы получили три спаренных установки универсальных орудий и три спаренных 40-мм зенитных автомата. Вступив в строй, HMS Daring вошёл в состав Флота метрополии. В августе 1953 г. эсминец принимал участие в спасении жителей острова Кефалонии от последствий землетрясения."
+msgstr "The last, largest, and most advanced torpedo-artillery destroyers of the British fleet, the Daring class ships were a development of the previous Battle class. These destroyers received three twin universal gun mounts and three twin 40 mm anti-aircraft guns. Upon entering service, HMS Daring joined the Home Fleet. In August 1953, the destroyer participated in the rescue of the inhabitants of the island of Kefalonia from the effects of an earthquake."
 
 msgid "IDS_PBSS106_DESCR"
-msgstr "Подводные лодки типа U задумывались как невооружённые мишени для противолодочной подготовки, но после утверждения проекта было решено вооружить их торпедами. Носовая оконечность была переработана для размещения шести торпедных аппаратов. Для движения использовались электродвигатели, а дизельные двигатели выступали исключительно в роли генераторов. С началом Второй мировой войны HMS Undine принимала участие в боевых походах в составе 6-й флотилии подводных лодок. 7 января 1940 г. потоплена немецкими вспомогательными тральщиками."
+msgstr "The U-class submarines were initially conceived as unarmed targets for anti-submarine training, but after the project was approved, it was decided to arm them with torpedoes. The bow section was redesigned to accommodate six torpedo tubes. For propulsion, electric motors were used, and diesel engines acted solely as generators. At the start of World War II, HMS Undine participated in combat patrols as part of the 6th Submarine Flotilla. It was sunk on January 7, 1940, by German auxiliary minesweepers."
 
 msgid "IDS_PBSS108_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PBSS110_DESCR"
-msgstr "Подводные лодки типа Т появились в середине 1930-х гг. для замены больших лодок типов O, P и R. Корабли военной постройки отличались от довоенных систершипов сварным корпусом и дополнительным кормовым торпедным аппаратом. HMS Thrasher строился на верфи Cammell Laird в Беркенхеде. С началом Второй мировой войны лодку перевели на Средиземное море, где она добилась потопления судов общим тоннажем 20 000 т. В 1945 г. лодка перешла на Тихоокеанский театр военных действий, где уничтожила 24 судна противника."
+msgstr "The T-class submarines appeared in the mid-1930s to replace the large O, P, and R-class boats. The wartime-built ships differed from their pre-war sisters by their welded hulls and an additional stern torpedo tube. HMS Thrasher was built at the Cammell Laird shipyard in Birkenhead. At the start of World War II, the boat was transferred to the Mediterranean, where it achieved the sinking of ships totaling 20,000 tons. In 1945, the boat moved to the Pacific theater, where it destroyed 24 enemy vessels."
 
 msgid "IDS_PBSS508_DESCR"
-msgstr "Подводные лодки типа Amphion были спроектированы для службы в Тихом океане. По сравнению с предшественниками они имели большую надводную скорость и улучшенную обитаемость. По своей конструкции они были двухкорпусными, а торпедные аппараты были распределены более равномерно между носом и кормой. При постройке были использованы технические решения, опробованные на предыдущем типе T, в частности цельносварной прочный корпус. С 1981 г. HMS Alliance является кораблём-музеем в Госпорте."
+msgstr "The Amphion-class submarines were designed for service in the Pacific. Compared to their predecessors, they had a higher surface speed and improved habitability. Structurally, they were double-hulled, and the torpedo tubes were more evenly distributed between the bow and stern. During construction, technical solutions tested on the previous T-class were used, in particular, the all-welded pressure hull. Since 1981, HMS Alliance has been a museum ship in Gosport."
 
 msgid "IDS_PBUA714_ART_TIGER_TEST"
-msgstr "152-мм/50 QF Mk.V в установке Mk.XXVI"
+msgstr "152 mm/50 QF Mk.V in a Mk.XXVI mount"
 
 msgid "IDS_PBUE500_ENG_BLACK_REPULSE"
-msgstr "ЭУ 119 025 л.с."
+msgstr "Propulsion: 119,025 hp"
 
 msgid "IDS_PBUE718_ENG_TIGER_TEST"
-msgstr "ЭУ 80 000 л.с."
+msgstr "Propulsion: 80,000 hp"
 
 msgid "IDS_PBUF301_CV4_FC"
 msgstr "Mk4 mod. 1"
@@ -7141,7 +7141,7 @@ msgid "IDS_PBUH726_HULL_TIGER_TEST"
 msgstr "Cougar"
 
 msgid "IDS_PBUH990_CYCLOPS"
-msgstr "Goliath (ЭМ)"
+msgstr "Goliath Test"
 
 msgid "IDS_PBUQ501_S6_SONAR_STOCK"
 msgstr "ASDIC 6 Mod. A"
