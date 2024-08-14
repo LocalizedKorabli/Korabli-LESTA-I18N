@@ -4571,400 +4571,400 @@ msgid "IDS_LOOTBOX_REWARDS_PROBABILITIES_TOOLTIP"
 msgstr "Learn about the probabilities of receiving container contents"
 
 msgid "IDS_MAIN_AIRSMOKES"
-msgstr "Доступно снаряжение «Авиационный дымогенератор»"
+msgstr "Aviation Smoke Generator available"
 
 msgid "IDS_MAIN_AIR_SUPPORT_HE"
-msgstr "Доступен авиаудар"
+msgstr "Airstrike available"
 
 msgid "IDS_MAIN_AIR_SUPPORT_HE_6"
-msgstr "Авиаудар доступен с VI уровня"
+msgstr "Airstrike available from Tier VI"
 
 msgid "IDS_MAIN_BONUSRADAR_8"
-msgstr "Доступно снаряжение «Поисковая РЛС» с VIII уровня"
+msgstr "Surveillance Radar available from Tier VIII"
 
 msgid "IDS_MAIN_BONUSREPAIR_SUB_DESC"
-msgstr "Использование возможно только в надводном положении. При погружении оставшееся время работы снаряжения теряется."
+msgstr "Usable only on the surface. Remaining active time is lost upon submersion."
 
 msgid "IDS_MAIN_CONSUMABLE_RLSSEARCH"
-msgstr "Доступно снаряжение «Поисковая РЛС»"
+msgstr "Surveillance Radar available"
 
 msgid "IDS_MAIN_CONSUMABLE_SPOTTERACCURACY"
-msgstr "Доступно снаряжение «Корректировщик огня с высокоточной оптикой»"
+msgstr "Spotting Aircraft with High-Precision Optics available"
 
 msgid "IDS_MAIN_CONS_LIMITED_CHOICE"
-msgstr "Малый выбор снаряжения"
+msgstr "Limited choice of consumables"
 
 msgid "IDS_MAIN_FASTLONGLOWDMGTORP"
-msgstr "Высокая скорость и большая дальность хода торпед. Малый урон"
+msgstr "High speed and long-range torpedoes with low damage"
 
 msgid "IDS_MAIN_GOOD_MAIN_RANGE"
-msgstr "Большая дальность стрельбы главным калибром"
+msgstr "Long main battery firing range"
 
 msgid "IDS_MAIN_GUN_AMMO_AP_ALPHA_HIGH"
-msgstr "ББ-снаряды наносят большой урон"
+msgstr "AP shells deal high damage"
 
 msgid "IDS_MAIN_GUN_AMMO_AP_ALPHA_LOW"
-msgstr "ББ-снаряды наносят малый урон"
+msgstr "AP shells deal low damage"
 
 msgid "IDS_MAIN_GUN_AMMO_HE_ALPHA_HIGH"
-msgstr "ОФ-снаряды наносят большой урон"
+msgstr "HE shells deal high damage"
 
 msgid "IDS_MAIN_GUN_AMMO_HE_ALPHA_LOW"
-msgstr "ОФ-снаряды наносят малый урон"
+msgstr "HE shells deal low damage"
 
 msgid "IDS_MAIN_GUN_AMMO_HE_PIERCING_HIGH"
-msgstr "Высокое бронепробитие ОФ-снарядов"
+msgstr "High HE shell penetration"
 
 msgid "IDS_MAIN_GUN_AMMO_HE_PIERCING_LOW"
-msgstr "Низкое бронепробитие ОФ-снарядов"
+msgstr "Low HE shell penetration"
 
 msgid "IDS_MAIN_GUN_ANY_DISTANCE_SHOOTING_ACCURACY_HIGH"
-msgstr "Высокая точность стрельбы на всех дистанциях"
+msgstr "High accuracy at all ranges"
 
 msgid "IDS_MAIN_GUN_ANY_DISTANCE_SHOOTING_ACCURACY_LOW"
-msgstr "Низкая точность стрельбы на всех дистанциях"
+msgstr "Low accuracy at all ranges"
 
 msgid "IDS_MAIN_GUN_AP_EFFICIENCY_HIGH"
-msgstr "Высокая эффективность ББ-снарядов"
+msgstr "High AP shell efficiency"
 
 msgid "IDS_MAIN_GUN_AP_EFFICIENCY_LOW"
-msgstr "Низкая эффективность ББ-снарядов"
+msgstr "Low AP shell efficiency"
 
 msgid "IDS_MAIN_GUN_AP_FLY_TIME_FAST"
-msgstr "Низкая траектория полёта снаряда упрощает прицеливание, но усложняет ведение огня через препятствия"
+msgstr "Low shell arc simplifies aiming but complicates firing over obstacles"
 
 msgid "IDS_MAIN_GUN_AP_FLY_TIME_SLOW"
-msgstr "Высокая траектория полёта снаряда позволяет вести огонь через препятствия, но усложняет стрельбу на дальние дистанции"
+msgstr "High shell arc facilitates firing over obstacles but complicates long-range engagements"
 
 msgid "IDS_MAIN_GUN_AP_PENETRATION_HIGH"
-msgstr "Высокое бронепробитие ББ-снарядов"
+msgstr "High AP shell penetration"
 
 msgid "IDS_MAIN_GUN_AP_PENETRATION_LOW"
-msgstr "Низкое бронепробитие ББ-снарядов"
+msgstr "Low AP shell penetration"
 
 msgid "IDS_MAIN_GUN_BARRELS_NUM_HIGH"
-msgstr "Большое количество орудий ГК"
+msgstr "High number of main battery guns"
 
 msgid "IDS_MAIN_GUN_BARRELS_NUM_LOW"
-msgstr "Малое количество орудий ГК"
+msgstr "Low number of main battery guns"
 
 msgid "IDS_MAIN_GUN_CS_AMMO_AVAILABLE"
-msgstr "Доступны ПББ-снаряды"
+msgstr "SAP shells available"
 
 msgid "IDS_MAIN_GUN_DAMAGE_HIGH"
-msgstr "Орудия ГК наносят большой урон"
+msgstr "Main battery guns deal high damage"
 
 msgid "IDS_MAIN_GUN_DAMAGE_LOW"
-msgstr "Орудия ГК наносят малый урон"
+msgstr "Main battery guns deal low damage"
 
 msgid "IDS_MAIN_GUN_DAMAGE_PER_MINUTE_AP_HIGH"
-msgstr "ББ-снаряды наносят большой урон за минуту"
+msgstr "AP shells deal high damage per minute"
 
 msgid "IDS_MAIN_GUN_DAMAGE_PER_MINUTE_AP_LOW"
-msgstr "ББ-снаряды наносят малый урон за минуту"
+msgstr "AP shells deal low damage per minute"
 
 msgid "IDS_MAIN_GUN_DAMAGE_PER_MINUTE_HE_HIGH"
-msgstr "ОФ-снаряды наносят большой урон за минуту"
+msgstr "HE shells deal high damage per minute"
 
 msgid "IDS_MAIN_GUN_DAMAGE_PER_MINUTE_HE_LOW"
-msgstr "ОФ-снаряды наносят малый урон за минуту"
+msgstr "HE shells deal low damage per minute"
 
 msgid "IDS_MAIN_GUN_HE_EFFICIENCY_HIGH"
-msgstr "Высокая эффективность ОФ-снарядов"
+msgstr "High HE shell efficiency"
 
 msgid "IDS_MAIN_GUN_HE_EFFICIENCY_LOW"
-msgstr "Низкая эффективность ОФ-снарядов"
+msgstr "Low HE shell efficiency"
 
 msgid "IDS_MAIN_GUN_LONG_DISTANCE_SHOOTING_ACCURACY_HIGH"
-msgstr "Высокая точность ГК на дальней дистанции"
+msgstr "High accuracy at long range"
 
 msgid "IDS_MAIN_GUN_LONG_DISTANCE_SHOOTING_ACCURACY_LOW"
-msgstr "Низкая точность ГК на дальней дистанции"
+msgstr "Low accuracy at long range"
 
 msgid "IDS_MAIN_GUN_MAX_DIST_HIGH"
-msgstr "Большая дальность стрельбы ГК"
+msgstr "Long main battery firing range"
 
 msgid "IDS_MAIN_GUN_MAX_DIST_LOW"
-msgstr "Малая дальность стрельбы ГК"
+msgstr "Short main battery firing range"
 
 msgid "IDS_MAIN_GUN_NO_RICOCHET"
-msgstr "ББ-снаряды не рикошетируют о носовую и кормовую обшивку равных и более низких по уровню кораблей"
+msgstr "AP shells do not ricochet off the bow or stern plating of equal or lower tier ships"
 
 msgid "IDS_MAIN_GUN_ROTATION_SPEED_HIGH"
-msgstr "Высокая скорость поворота орудий ГК"
+msgstr "High main battery turret traverse speed"
 
 msgid "IDS_MAIN_GUN_ROTATION_SPEED_LOW"
-msgstr "Низкая скорость поворота орудий ГК"
+msgstr "Low main battery turret traverse speed"
 
 msgid "IDS_MAIN_GUN_SALVO_WEIGHT_AP_HIGH"
-msgstr "Большой вес залпа ББ-снарядов"
+msgstr "High AP salvo weight"
 
 msgid "IDS_MAIN_GUN_SALVO_WEIGHT_AP_LOW"
-msgstr "Малый вес залпа ББ-снарядов"
+msgstr "Low AP salvo weight"
 
 msgid "IDS_MAIN_GUN_SALVO_WEIGHT_HE_HIGH"
-msgstr "Большой вес залпа ОФ-снарядов"
+msgstr "High HE salvo weight"
 
 msgid "IDS_MAIN_GUN_SALVO_WEIGHT_HE_HIGH_SECONDARY"
-msgstr "Большой вес залпа ОФ-снарядов"
+msgstr "High HE salvo weight"
 
 msgid "IDS_MAIN_GUN_SALVO_WEIGHT_HE_LOW"
-msgstr "Малый вес залпа ОФ-снарядов"
+msgstr "Low HE salvo weight"
 
 msgid "IDS_MAIN_GUN_SHORT_DISTANCE_SHOOTING_ACCURACY_HIGH"
-msgstr "Высокая точность ГК на ближней дистанции"
+msgstr "High accuracy at short range"
 
 msgid "IDS_MAIN_GUN_SHORT_DISTANCE_SHOOTING_ACCURACY_LOW"
-msgstr "Низкая точность ГК на ближней дистанции"
+msgstr "Low accuracy at short range"
 
 msgid "IDS_MAIN_GUN_SHOT_DELAY_HIGH"
-msgstr "Высокая скорострельность орудий ГК"
+msgstr "High main battery rate of fire"
 
 msgid "IDS_MAIN_GUN_SHOT_DELAY_LOW"
-msgstr "Низкая скорострельность орудий ГК"
+msgstr "Low main battery rate of fire"
 
 msgid "IDS_MAIN_MINEBOMBERS"
-msgstr "Доступны постановщики мин"
+msgstr "Mine bombers available"
 
 msgid "IDS_MAIN_MOVE_SPEED_SURFACE_GOOD"
-msgstr "Высокая скорость хода в надводном положении"
+msgstr "High surface speed"
 
 msgid "IDS_MAIN_NO_T_BOMBERS"
-msgstr "Нет торпедоносцев"
+msgstr "No torpedo bombers"
 
 msgid "IDS_MAIN_SPEEDBOOST_GOOD"
-msgstr "Доступно снаряжение «Форсаж»"
+msgstr "Engine Boost available"
 
 msgid "IDS_MAIN_TORPEDO_ACOUSTIC_RANGE_DAMAGE_BAD"
-msgstr "Малый урон и дальность хода торпед с акустическим наведением"
+msgstr "Low damage and range for acoustic torpedoes"
 
 msgid "IDS_MAIN_TORPEDO_ALT_RANGE_SPEED_GOOD"
-msgstr "Высокая скорость и большая дальность хода альтернативных торпед"
+msgstr "High speed and long range for alternative torpedoes"
 
 msgid "IDS_MAKE_TRAINING_ROOM_CLOSED"
-msgstr "Закрытая комната"
+msgstr "Closed room"
 
 msgid "IDS_MAKE_TRAINING_ROOM_CLOSED_TOOLTIP"
-msgstr "Вход в тренировочную комнату будет доступен только по паролю или приглашению"
+msgstr "Entry to the training room will be available only by password or invitation"
 
 msgid "IDS_MANEUVER_HIGH"
-msgstr "Высокая манёвренность"
+msgstr "High maneuverability"
 
 msgid "IDS_MANEUVER_LOW"
-msgstr "Низкая манёвренность"
+msgstr "Low maneuverability"
 
 msgid "IDS_MARKER_NEW"
-msgstr "НОВОЕ"
+msgstr "NEW"
 
 msgid "IDS_MARK_KEY_TARGET_DIVISION"
-msgstr "ЗАЩИЩАЙТЕ"
+msgstr "DEFEND"
 
 msgid "IDS_MAX_FRAME_RATE"
-msgstr "Ограничение частоты кадров"
+msgstr "Frame rate limit"
 
 msgid "IDS_MAX_FRAME_RATE_DESCRIPTION"
-msgstr "Частота, с которой обновляется изображение на экране. Понизьте значение этого параметра, если вам необходимо уменьшить энергопотребление и нагрузку на видеокарту. Слишком высокая частота кадров может негативно сказаться на производительности."
+msgstr "The rate at which the screen image is updated. Lower this setting if you need to reduce power consumption and GPU load. A frame rate that is too high can negatively affect performance."
 
 msgid "IDS_MAX_FRAME_RATE_UNLIMITED"
-msgstr "Без ограничений"
+msgstr "Unlimited"
 
 msgid "IDS_MINEBOMBER"
-msgstr "Постановщики мин"
+msgstr "Mine bombers"
 
 msgid "IDS_MINES"
-msgstr "Мины"
+msgstr "Mines"
 
 msgid "IDS_MINES_RELEASED"
-msgstr "Сброшено мин"
+msgstr "Mines released"
 
 msgid "IDS_MINES_SPENT"
-msgstr "Израсходовано мин"
+msgstr "Mines spent"
 
 msgid "IDS_MINE_BOMBER_AIRSUP"
-msgstr "Авиаудар. Минные бомбардировщики"
+msgstr "Airstrike. Mine bombers"
 
 msgid "IDS_MINIMAP_OPTIONS_AVIAVISIONRADIUSENABLED"
-msgstr "Зона обнаружения авиацией"
+msgstr "Aircraft detection area"
 
 msgid "IDS_MINIMAP_OPTIONS_MINIMAPVISIBILITYSHIPENABLED"
-msgstr "Обнаружение союзного корабля"
+msgstr "Allied ship detection"
 
 msgid "IDS_MODAL_EXCLUDE_BOT_OUT_OF_TEAM_OF_TRAINING_ROOM"
-msgstr "Удалить всех ботов из команды?"
+msgstr "Remove all bots from the team?"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_HEADER"
-msgstr "Эпоха Троецарствия"
+msgstr "Era of the Three Kingdoms"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_1_TEXT_1"
-msgstr "В III в. н. э. Китай раскололся на три государства: Вэй, Шу и У. Правитель каждого из них называл себя императором и претендовал на власть над всем Китаем. Этот период вошёл в историю как Троецарствие."
+msgstr "In the 3rd century AD, China split into three states: Wei, Shu, and Wu. Each of their rulers claimed to be the emperor and sought power over all of China. This period is known as the Three Kingdoms."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_1_TEXT_2"
-msgstr "На протяжении нескольких десятилетий власть династии Хань слабела, в то время как позиции региональных правителей и военачальников усиливались. В результате борьбы за власть после смерти императора юный Сянь-ди, унаследовавший престол, был вынужден покинуть разорённую столицу. Это означало падение центральной власти."
+msgstr "For several decades, the power of the Han dynasty weakened, while the positions of regional rulers and warlords strengthened. As a result of the power struggle after the death of the emperor, the young Xiandi, who inherited the throne, was forced to leave the ravaged capital. This marked the fall of central authority."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_1"
-msgstr "После периода междоусобиц на территории Китая возвысились три лидера, руководившие собственными царствами: Цао Цао, Лю Бэй и Сунь Цюань."
+msgstr "After a period of civil war, three leaders emerged in China, each ruling their own kingdom: Cao Cao, Liu Bei, and Sun Quan."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_2"
-msgstr "Царство Вэй располагалось на севере Китая. Основателем царства был Цао Цао, государственный деятель империи Хань, который фактически правил страной при юном императоре Сянь-ди."
+msgstr "The kingdom of Wei was located in northern China. Its founder, Cao Cao, was a statesman of the Han Empire who effectively ruled the country under the young Emperor Xiandi."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_3"
-msgstr "Царство Шу располагалось на западе Китая. Лю Бэй, основатель царства, претендовал на родство с императорской династией Хань, называя себя законным наследником."
+msgstr "The kingdom of Shu was located in western China. Its founder, Liu Bei, claimed to be related to the imperial Han dynasty, calling himself the legitimate heir."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_4"
-msgstr "Царство У располагалось на востоке и юге Китая. Считается, что Сунь Цюань, правитель царства, был потомком Сунь-цзы — знаменитого автора «Искусства войны». Сунь Цюань провозгласил себя императором, унаследовав земли от старшего брата, и стал самым молодым из трёх знаменитых лидеров эпохи Троецарствия."
+msgstr "The kingdom of Wu was located in eastern and southern China. It is believed that Sun Quan, the ruler of Wu, was a descendant of Sun Tzu, the famous author of 'The Art of War.' Sun Quan proclaimed himself emperor after inheriting the lands from his elder brother and became the youngest of the three famous leaders of the Three Kingdoms era."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_3_TEXT_1"
-msgstr "Зимой 208–209 гг. состоялась легендарная битва у Красной скалы. Цао Цао собрал огромные силы, чтобы захватить земли к югу от реки Янцзы. Его воины не имели опыта сражений на воде, и Цао скрепил корабли цепями, чтобы предотвратить качку. Объединённые силы У и Шу под предводительством Сунь Цюаня и Лю Бэя уступали войску Цао по численности, но смогли победить благодаря хитрости: объявив, что сдаются, союзники направили к силам Цао корабли, наполненные горючим, и подожгли их."
+msgstr "In the winter of 208-209 AD, the legendary Battle of Red Cliffs took place. Cao Cao gathered a massive force to conquer the lands south of the Yangtze River. His troops had little experience in naval battles, so Cao chained his ships together to prevent them from rocking. The combined forces of Wu and Shu, led by Sun Quan and Liu Bei, were outnumbered, but they managed to win through cunning: pretending to surrender, the allies sent ships filled with flammable material towards Cao's forces and set them on fire."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_3_TEXT_2"
-msgstr "Флотилия Цао Цао была сожжена, но войска Шу и У не смогли развить наступление из-за численного превосходства противника. Наступил этап противоборства Лю Бэя и Сунь Цюаня."
+msgstr "Cao Cao's fleet was burned, but the Shu and Wu forces were unable to advance due to the enemy's numerical superiority. This led to a prolonged standoff between Liu Bei and Sun Quan."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_1"
-msgstr "После смерти Цао Цао царство Вэй унаследовал его сын Цао Пи, который заставил императора Сянь-ди отречься от престола и сам взошёл на трон. Лю Бэй и Сунь Цюянь не признали Цао Пи императором — наступил новый этап борьбы между тремя царствами. В этот период реальная власть в царстве Вэй постепенно переходила к военачальнику и государственному деятелю Сыма И, семья которого стала фактически правящей династией. Его сын завоевал царство Шу, а его внук Сыма Янь сместил последнего правителя Цао и стал первым императором новой династии Цзинь."
+msgstr "After Cao Cao's death, his son Cao Pi inherited the kingdom of Wei, forced Emperor Xiandi to abdicate, and took the throne himself. Liu Bei and Sun Quan did not recognize Cao Pi as emperor, leading to a new phase of the struggle among the three kingdoms. During this period, real power in Wei gradually shifted to the military leader and statesman Sima Yi, whose family effectively became the ruling dynasty. His son conquered the kingdom of Shu, and his grandson Sima Yan deposed the last ruler of Cao's family and became the first emperor of the new Jin dynasty."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_2"
-msgstr "В 280 г. империя Цзинь завоевала царство У и эпоха Троецарствия подошла к концу."
+msgstr "In 280 AD, the Jin Empire conquered the kingdom of Wu, bringing the era of the Three Kingdoms to an end."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_3"
-msgstr "Троецарствие стало одним из самых кровопролитных периодов китайской истории. Эпоха нашла отражение во множестве произведений культуры Китая и других стран Восточной Азии."
+msgstr "The Three Kingdoms period was one of the bloodiest in Chinese history. The era has been immortalized in numerous cultural works in China and other East Asian countries."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_1"
-msgstr "Закат империи Хань"
+msgstr "The Fall of the Han Empire"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_2"
-msgstr "Три царства"
+msgstr "The Three Kingdoms"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_3"
-msgstr "Битва у Красной скалы"
+msgstr "The Battle of Red Cliffs"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_4"
-msgstr "Новая династия"
+msgstr "The New Dynasty"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "«Троецарствие» — это соревнование 3 команд, которое проходит в 4 этапа. Каждый этап длится неделю. За участие вы сможете получить жетоны Троецарствия, а также уникальные награды, которые зависят от того, за какую команду вы сражались в данном этапе. Помимо этого, вы сможете получить одно памятное достижение за участие в событии."
+msgstr "'Three Kingdoms' is a competition of 3 teams that takes place over 4 stages, each lasting a week. For participating, you can earn Three Kingdoms tokens, as well as unique rewards depending on the team you fought for during the stage. Additionally, you can earn a commemorative achievement for participating in the event."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "Событие доступно для кораблей V уровня и выше в Кооперативных, Случайных и Ранговых боях, а также в Операциях (обратите внимание: некоторые задачи события учитывают только половину результата в Операциях)."
+msgstr "The event is available for Tier V ships and above in Co-op, Random, and Ranked battles, as well as in Operations (note: some event tasks only count half of the results in Operations)."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Для участия в событии нужно выбрать команду, за которую вы будете сражаться на протяжении всего этапа. Когда начнётся следующий этап, вы сможете сменить команду, чтобы получить другие награды."
+msgstr "To participate in the event, you need to choose a team to fight for throughout the stage. When the next stage begins, you can switch teams to earn different rewards."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "Для получения наград нужно выполнять задачи, которые постепенно выдаются всем участникам события. Задачи обновляются каждые 2 часа. Если результаты не успели засчитаться в конце боя, то они будут учтены в задаче следующего двухчасового периода."
+msgstr "To earn rewards, you must complete tasks that are gradually assigned to all event participants. Tasks refresh every 2 hours. If your results weren't counted at the end of a battle, they will be included in the task for the next two-hour period."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_TEXT_3"
-msgstr "Результат выполнения задач учитывается в личном и командном прогрессе. Чем активнее вы выполняете задачи, тем быстрее вы получите личные награды. В свою очередь, ваша активность отражается на рейтинге команды: чем он выше, тем больше ваша команда получит очков, с помощью которых можно разблокировать командные награды. Очки прогресса команды начисляются после завершения задачи."
+msgstr "Task completion results are tracked in both personal and team progress. The more actively you complete tasks, the faster you will earn personal rewards. Your activity also affects your team's ranking: the higher it is, the more points your team will receive, which can unlock team rewards. Team progress points are awarded after a task is completed."
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_4"
-msgstr "камуфляжи, флаги, сигналы и расходуемые экономические бонусы будут сняты;"
+msgstr "Camouflages, flags, signals, and expendable economic bonuses will be removed;"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_5"
-msgstr "привязанные экономические комплекты и постоянные камуфляжи останутся доступны на кораблях, когда вы их снова исследуете;"
+msgstr "Attached economic kits and permanent camouflages will remain available on ships when you research them again;"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_6"
-msgstr "модернизации будут бесплатно демонтированы;"
+msgstr "Upgrades will be demounted for free;"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_7"
-msgstr "командиры будут отправлены в Резерв;"
+msgstr "Commanders will be sent to the Reserve;"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_8"
-msgstr "опыт кораблей ветки будет переведён на корабль I уровня."
+msgstr "Ship experience in the branch will be transferred to the Tier I ship."
 
 msgid "IDS_MODAL_WINDOW_PCVE020_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Вам предстоит сразиться вместе с другими игроками против ботов. Противник превосходит вас числом, но уступает в боевой мощи."
+msgstr "You will fight alongside other players against bots. The enemy outnumbers you but is inferior in combat power."
 
 msgid "IDS_MODAL_WINDOW_PCVE020_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "Команда противника состоит из кораблей Японии II–III уровня. В вашей команде вдвое меньше участников, но вы можете выходить в бой на кораблях III–IV уровня любых наций."
+msgstr "The enemy team consists of Japanese ships from Tiers II-III. Your team has half as many participants, but you can enter the battle on ships of Tiers III-IV from any nation."
 
 msgid "IDS_MODAL_WINDOW_PCVE020_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Вы можете выйти в бой в одиночку или в составе отряда."
+msgstr "You can enter the battle alone or as part of a division."
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_HEADER"
-msgstr "К высотам мастерства"
+msgstr "To the Heights of Mastery"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
+msgstr "Battle Features"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Вам предстоит побороться с другими игроками в состязании, состоящем из 5 раундов."
+msgstr "You will compete with other players in a contest consisting of 5 rounds."
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "В каждом раунде вы примете участие в одном из испытаний, выбранном случайным образом: «Боевая стойкость», «Скоростные манёвры», «Огневая мощь», «Ликвидация целей» и «Меткость стрельбы»."
+msgstr "In each round, you will participate in one of the challenges selected at random: 'Combat Endurance,' 'Speed Maneuvers,' 'Firepower,' 'Target Elimination,' and 'Shooting Accuracy.'"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_3"
-msgstr "В разных испытаниях к характеристикам вашего корабля будут применены определённые изменения и ограничения. На протяжении всего состязания вы не сможете пользоваться снаряжением."
+msgstr "In different challenges, certain changes and restrictions will be applied to your ship's characteristics. You will not be able to use consumables throughout the contest."
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_4"
-msgstr "По итогам каждого раунда обновляется турнирная таблица, и игрок с самым низким результатом выбывает из состязания. Из двух игроков с одинаковым результатом более высокое место в таблице достанется тому, который первым достиг этого результата."
+msgstr "At the end of each round, the leaderboard is updated, and the player with the lowest score is eliminated from the contest. Of two players with the same score, the one who reached it first will take the higher position on the leaderboard."
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_2_HEADER"
-msgstr "Условия участия"
+msgstr "Participation Conditions"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Вы можете выйти в бой в одиночку или в составе отряда до 3 участников."
+msgstr "You can enter the battle alone or as part of a division of up to 3 participants."
 
 msgid "IDS_MODAL_WINDOW_PCVE025_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "В бою участвуют 2 команды по 12 кораблей. Вы можете выйти в бой в одиночку или в составе отряда до 3 участников."
+msgstr "The battle involves 2 teams of 12 ships each. You can enter the battle alone or as part of a division of up to 3 participants."
 
 msgid "IDS_MODAL_WINDOW_PCVE026_RULES_HEADER"
-msgstr "Скрытые манёвры"
+msgstr "Covert Maneuvers"
 
 msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_1_HEADER"
-msgstr "Особенности боя"
+msgstr "Battle Features"
 
 msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Самолёты могут обнаружить корабль противника только в области вокруг авианосца или корабля-гибрида, с которого эти самолёты были подняты в воздух."
+msgstr "Aircraft can only detect an enemy ship in the area around the aircraft carrier or hybrid ship from which these aircraft were launched."
 
 msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "Вдали от авианесущего корабля самолёты могут обнаружить корабль противника, только если они залетят в область действия его ПВО."
+msgstr "Away from the carrier, aircraft can only detect an enemy ship if they enter the ship's AA defense area."
 
 msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_2_HEADER"
-msgstr "Условия участия"
+msgstr "Participation Conditions"
 
 msgid "IDS_MODAL_WINDOW_PCVE026_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Вы можете выйти в бой в одиночку или в составе отряда до 3 участников."
+msgstr "You can enter the battle alone or as part of a division of up to 3 participants."
 
 msgid "IDS_MODAL_WINDOW_PCVO031_EV_HL_23_E02_HALLOWEEN_2023_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "В бою к вашему кораблю будет применён модификатор, который изменит его боевые характеристики. Вы также будете получать улучшения за каждого уничтоженного союзника."
+msgstr "In combat, a modifier will be applied to your ship that will change its combat characteristics. You will also receive an upgrade for each ally destroyed."
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_4"
-msgstr "200 кораблей: +2 награды за 600 ед. опыта"
+msgstr "200 ships: +2 rewards for 600 XP"
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_8"
-msgstr "600 кораблей: +6 наград за 1300 ед. опыта"
+msgstr "600 ships: +6 rewards for 1300 XP"
 
 msgid "IDS_MODAL_WINDOW_TITLE_CAMOUFLAGE_PURCHASE"
-msgstr "Покупка камуфляжа"
+msgstr "Camouflage Purchase"
 
 msgid "IDS_MODAL_WINDOW_TITLE_PERMOFLAGE_LINK"
-msgstr "Привязка постоянного камуфляжа"
+msgstr "Permanent Camouflage Link"
 
 msgid "IDS_MODERNIZATION_3"
-msgstr "Элитная модернизация"
+msgstr "Elite Modernization"
 
 msgid "IDS_MODERNIZATION_TYPE_LEGENDARY"
-msgstr "Есть элитная модернизация"
+msgstr "Has elite modernization"
 
 msgid "IDS_MODULE_TYPE_MINEBOMBER"
-msgstr "Постановщики мин"
+msgstr "Mine-layers"
 
 msgid "IDS_MOUSE_INSTRUCTION_GO_TO_PREVIEW"
-msgstr "Перейти к исторической справке о корабле"
+msgstr "Go to historical information about the ship"
 
 msgid "IDS_MOUSE_INSTRUCTION_PURCHASE_SIGNAL"
-msgstr "Купить и установить сигнал"
+msgstr "Purchase and install a signal"
 
 msgid "IDS_MOUSE_INSTRUCTION_SESSION_STATS_RESET"
-msgstr "Сбросить текущие значения"
+msgstr "Reset current values"
 
 msgid "IDS_MOUSE_INSTRUCTION_SHIP_FEATURES"
-msgstr "Перейти к особенностям корабля"
+msgstr "Go to ship features"
 
 msgid "IDS_MOVEBYMINIMAP"
-msgstr "Перемещение по миникарте"
+msgstr "Move by minimap"
 
 msgid "IDS_MSKIN_NOT_LINKED"
-msgstr "Не привязан. После привязки камуфляжа его нельзя будет установить на другой корабль."
+msgstr "Not linked. Once linked, the camouflage cannot be installed on another ship."
 
 msgid "IDS_NAME11"
 msgstr "Target"
@@ -5015,473 +5015,473 @@ msgid "IDS_NAMEA4"
 msgstr "Target"
 
 msgid "IDS_NATION_COMPLEXITY_DESCTIPTION_1"
-msgstr "Корабли этой нации наиболее просты в освоении."
+msgstr "Ships of this nation are the easiest to master."
 
 msgid "IDS_NATION_COMPLEXITY_DESCTIPTION_2"
-msgstr "Корабли этой нации подойдут большинству игроков."
+msgstr "Ships of this nation are suitable for most players."
 
 msgid "IDS_NATION_COMPLEXITY_DESCTIPTION_3"
-msgstr "Корабли этой нации требуют больше времени и усилий для освоения."
+msgstr "Ships of this nation require more time and effort to master."
 
 msgid "IDS_NEWBIE_GIFTS_NATIONS_BUTTON_TOOLTIP"
-msgstr "Доступен бесплатный корабль"
+msgstr "Free ship available"
 
 msgid "IDS_NEWBIE_QUESTS_10_DESCRIPTION"
-msgstr "Боевые задачи представляют собой набор определённых целей, которых необходимо достичь в бою. В зависимости от конкретной боевой задачи вам могут понадобиться корабли разных классов, уровней и наций."
+msgstr "Combat missions consist of a set of specific goals to be achieved in battle. Depending on the specific combat mission, you may need ships of different classes, tiers, and nations."
 
 msgid "IDS_NEWBIE_QUESTS_10_NAME"
-msgstr "Выполните 3 боевые задачи"
+msgstr "Complete 3 combat missions"
 
 msgid "IDS_NEWBIE_QUESTS_11_DESCRIPTION"
-msgstr "Модернизации позволяют развить сильные стороны корабля и скорректировать слабые."
+msgstr "Modernizations allow you to enhance the strengths of a ship and adjust its weaknesses."
 
 msgid "IDS_NEWBIE_QUESTS_11_NAME"
-msgstr "Установите модернизацию на корабль"
+msgstr "Install a modernization on a ship"
 
 msgid "IDS_NEWBIE_QUESTS_12_DESCRIPTION"
-msgstr "Кампании — это цепочки из миссий и заданий, объединённых определённой тематикой. Проходя кампании, вы сможете получить множество наград."
+msgstr "Campaigns are chains of missions and tasks united by a specific theme. By completing campaigns, you can earn a variety of rewards."
 
 msgid "IDS_NEWBIE_QUESTS_12_NAME"
-msgstr "Выполните 3 задания в любых кампаниях"
+msgstr "Complete 3 tasks in any campaigns"
 
 msgid "IDS_NEWBIE_QUESTS_13_DESCRIPTION"
-msgstr "Адмиралтейство — это магазин игровых товаров в «Мире кораблей». Здесь вы можете приобрести премиум корабли и другое имущество, а также принять участие в различных событиях. Во вкладке «Рекомендованное» часто можно найти бесплатные наборы!"
+msgstr "The Admiralty is the in-game store in World of Warships. Here you can purchase premium ships and other assets, as well as participate in various events. In the Recommended tab, you can often find free bundles!"
 
 msgid "IDS_NEWBIE_QUESTS_13_NAME"
-msgstr "Получите любое имущество в Адмиралтействе"
+msgstr "Obtain any asset from the Admiralty"
 
 msgid "IDS_NEWBIE_QUESTS_14_DESCRIPTION"
-msgstr "Операции — это тип боя, в котором вам предстоит выполнять сюжетные задания вместе с другими игроками, сражаясь против ботов. Каждая операция обладает уникальными сюжетными элементами."
+msgstr "Operations are a type of battle where you must complete story missions together with other players, fighting against bots. Each operation has unique story elements."
 
 msgid "IDS_NEWBIE_QUESTS_14_NAME"
-msgstr "Победите в Операциях"
+msgstr "Win in Operations"
 
 msgid "IDS_NEWBIE_QUESTS_15_DESCRIPTION"
-msgstr "По мере прогресса у вас будет накапливаться имущество, которое вы не используете. Продайте ненужное имущество, чтобы получить кредиты."
+msgstr "As you progress, you will accumulate assets that you do not use. Sell unwanted assets to earn credits."
 
 msgid "IDS_NEWBIE_QUESTS_15_NAME"
-msgstr "Продайте имущество на 50 000 кредитов"
+msgstr "Sell assets for 50,000 credits"
 
 msgid "IDS_NEWBIE_QUESTS_16_DESCRIPTION"
-msgstr "В Ранговых боях вам предстоит побороться за ценные награды, продвигаясь по рангам и лигам. Правила могут меняться от сезона к сезону."
+msgstr "In Ranked Battles, you will compete for valuable rewards by advancing through ranks and leagues. Rules may change from season to season."
 
 msgid "IDS_NEWBIE_QUESTS_16_NAME"
-msgstr "Победите в Ранговом бою"
+msgstr "Win a Ranked Battle"
 
 msgid "IDS_NEWBIE_QUESTS_17_DESCRIPTION"
-msgstr "Участники кланов могут сражаться в Клановых боях, а также строить и улучшать клановую базу, чтобы получать дополнительные ресурсы и скидки. Вы можете вступить в клан или создать свой."
+msgstr "Clan members can fight in Clan Battles, as well as build and upgrade the clan base to receive additional resources and discounts. You can join a clan or create your own."
 
 msgid "IDS_NEWBIE_QUESTS_17_NAME"
-msgstr "Вступите в клан"
+msgstr "Join a clan"
 
 msgid "IDS_NEWBIE_QUESTS_2_DESCRIPTION"
 msgstr ""
-"Исследуйте и купите корабль II уровня, затем выйдите на нём в бой. Для исследования вам понадобится опыт предыдущего корабля в ветке,\n"
-"а для покупки — кредиты."
+"Research and purchase a Tier II ship, then take it into battle. To research it, you will need experience from the previous ship in the branch,\n"
+"and credits for the purchase."
 
 msgid "IDS_NEWBIE_QUESTS_2_NAME"
-msgstr "Выйдите в бой на корабле II уровня"
+msgstr "Enter battle with a Tier II ship"
 
 msgid "IDS_NEWBIE_QUESTS_3_DESCRIPTION"
-msgstr "Пришло время сразиться с другими игроками! Случайный бой — серьёзный вызов, но в нём можно заработать больше опыта и кредитов, чем в Кооперативном."
+msgstr "It's time to fight against other players! Random Battle is a serious challenge, but you can earn more experience and credits in it than in a Co-op Battle."
 
 msgid "IDS_NEWBIE_QUESTS_3_NAME"
-msgstr "Победите в Случайном бою"
+msgstr "Win a Random Battle"
 
 msgid "IDS_NEWBIE_QUESTS_4_DESCRIPTION"
-msgstr "С помощью камуфляжей вы можете изменять внешний вид ваших кораблей. Камуфляжи можно купить за кредиты или дублоны, а также получить за участие в различных событиях."
+msgstr "With camouflages, you can change the appearance of your ships. Camouflages can be purchased for credits or doubloons, or obtained by participating in various events."
 
 msgid "IDS_NEWBIE_QUESTS_4_NAME"
-msgstr "Установите камуфляж на свой корабль"
+msgstr "Install camouflage on your ship"
 
 msgid "IDS_NEWBIE_QUESTS_5_DESCRIPTION"
-msgstr "С помощью сигналов можно повысить живучесть корабля, эффективность вооружения и снаряжения, а также увеличить максимальную скорость корабля."
+msgstr "Signals can improve ship survivability, weapon and equipment effectiveness, and increase the ship's maximum speed."
 
 msgid "IDS_NEWBIE_QUESTS_5_NAME"
-msgstr "Установите 3 сигнала на корабль"
+msgstr "Install 3 signals on a ship"
 
 msgid "IDS_NEWBIE_QUESTS_6_DESCRIPTION"
-msgstr "Свободный опыт можно использовать тогда, когда вам не хватает опыта корабля или командира. Он начисляется за каждый бой в размере 10% от полученного опыта корабля."
+msgstr "Free experience can be used when you don't have enough ship or commander experience. It is earned at a rate of 10% of the ship experience earned in each battle."
 
 msgid "IDS_NEWBIE_QUESTS_6_NAME"
-msgstr "Исследуйте корабль или модуль за свободный опыт"
+msgstr "Research a ship or module with free experience"
 
 msgid "IDS_NEWBIE_QUESTS_7_DESCRIPTION"
-msgstr "С помощью экономических бонусов вы сможете получать больше кредитов и опыта за бой."
+msgstr "With economic bonuses, you can earn more credits and experience per battle."
 
 msgid "IDS_NEWBIE_QUESTS_7_NAME"
-msgstr "Установите 3 экономических бонуса на корабль"
+msgstr "Install 3 economic bonuses on a ship"
 
 msgid "IDS_NEWBIE_QUESTS_8_DESCRIPTION"
-msgstr "Открывая контейнеры, вы можете получить самое разнообразное имущество: камуфляжи, сигналы, экономические бонусы, различные ресурсы и даже корабли!"
+msgstr "By opening containers, you can obtain a wide variety of assets: camouflages, signals, economic bonuses, various resources, and even ships!"
 
 msgid "IDS_NEWBIE_QUESTS_8_NAME"
-msgstr "Откройте 3 контейнера"
+msgstr "Open 3 containers"
 
 msgid "IDS_NEWBIE_QUESTS_9_DESCRIPTION"
-msgstr "Навыки командира позволяют получить преимущества и новые возможности в бою. Для изучения новых навыков вам понадобятся очки навыков, которые можно получить, зарабатывая опыт командира в бою."
+msgstr "Commander skills provide advantages and new opportunities in battle. To learn new skills, you need skill points, which can be earned by gaining commander experience in battle."
 
 msgid "IDS_NEWBIE_QUESTS_9_NAME"
-msgstr "Изучите навык командира"
+msgstr "Learn a commander skill"
 
 msgid "IDS_NO_SIGNALS_ON_STORAGE_HINT"
-msgstr "У вас нет сигналов"
+msgstr "You have no signals"
 
 msgid "IDS_OPEN_ALL_LOOTBOXES_CONFIRM"
-msgstr "Открыть все контейнеры?"
+msgstr "Open all containers?"
 
 msgid "IDS_OPTIONS_ALWAYS_SHOW_LAMP_VISIBILITY"
-msgstr "Обнаружение союзного корабля противником"
+msgstr "Detection of an allied ship by the enemy"
 
 msgid "IDS_OPTIONS_ALWAYS_SHOW_LAMP_VISIBILITY_DESCRIPTION"
-msgstr "Отображать индикатор обнаружения союзного корабля противником."
+msgstr "Display the indicator for the detection of an allied ship by the enemy."
 
 msgid "IDS_OPTIONS_FOV_DESCRIPTION"
-msgstr "Позволяет выбрать угол обзора в бою. Не влияет на режим «Бинокль»."
+msgstr "Allows you to select the field of view in battle. Does not affect 'Binocular' mode."
 
 msgid "IDS_OPTION_BARRAGE_OR_FORSAGE_OR_RADAR_GOOD"
-msgstr "Доступен выбор снаряжения: «Заградительный огонь ПВО», «Форсаж» или «Поисковая РЛС»"
+msgstr "Available equipment options: 'Defensive AA Fire', 'Engine Boost', or 'Surveillance Radar'"
 
 msgid "IDS_OPTION_RADAR_OR_FIGHTER_GOOD"
-msgstr "Доступен выбор снаряжения: «Поисковая РЛС» или «Истребитель»"
+msgstr "Available equipment options: 'Surveillance Radar' or 'Fighter'"
 
 msgid "IDS_OPTION_RADAR_OR_HYDRO_GOOD"
-msgstr "Доступен выбор снаряжения: «Поисковая РЛС» или «Гидроакустический поиск»"
+msgstr "Available equipment options: 'Surveillance Radar' or 'Hydroacoustic Search'"
 
 msgid "IDS_OPTION_RADAR_OR_SPOTTER_GOOD"
-msgstr "Доступен выбор снаряжения: «Поисковая РЛС» или «Корректировщик»"
+msgstr "Available equipment options: 'Surveillance Radar' or 'Spotting Aircraft'"
 
 msgid "IDS_OP_01_01_MESSAGE_ENEMY_SHIPS_I_SEE"
 msgstr ""
-"Обнаружены линкоры противника.\n"
-"Действуйте осмотрительно!"
+"Enemy battleships detected.\n"
+"Proceed with caution!"
 
 msgid "IDS_OP_01_01_MESSAGE_FOUND_WAVE2"
-msgstr "В северо-западном направлении обнаружены корабли противника."
+msgstr "Enemy ships detected in the northwest direction."
 
 msgid "IDS_OP_01_02_ENEMY_REINFORCEMENT_TOP_SPAWN_01"
-msgstr "К противнику подходит подкрепление."
+msgstr "Enemy reinforcements are approaching."
 
 msgid "IDS_OP_01_02_ENEMY_REINFORCEMENT_TOP_SPAWN_02"
-msgstr "К противнику подходит вторая группа подкрепления."
+msgstr "A second group of enemy reinforcements is approaching."
 
 msgid "IDS_OP_01_02_ENEMY_REINFORCEMENT_TOP_SPAWN_03"
-msgstr "К противнику подходит третья группа подкрепления."
+msgstr "A third group of enemy reinforcements is approaching."
 
 msgid "IDS_OP_01_02_ENEMY_REINFORCEMENT_TOP_SPAWN_04"
-msgstr "К противнику подходит четвёртая группа подкрепления."
+msgstr "A fourth group of enemy reinforcements is approaching."
 
 msgid "IDS_OP_01_02_ENEMY_REINFORCEMENT_TOP_SPAWN_05"
-msgstr "К противнику подходит пятая группа подкрепления."
+msgstr "A fifth group of enemy reinforcements is approaching."
 
 msgid "IDS_OP_01_02_MAIN_TASK_PHRASE_1"
-msgstr "Атакуйте базу противника в указанных направлениях!"
+msgstr "Attack the enemy base in the indicated directions!"
 
 msgid "IDS_OP_01_02_MAIN_TASK_PROGRESSED"
 msgstr ""
-"Отойдите в указанную точку!\n"
-"Достичь её должно не менее половины кораблей."
+"Retreat to the designated point!\n"
+"At least half of the ships must reach it."
 
 msgid "IDS_OP_01_03_CSM_002_BRIEFING"
 msgstr ""
-"Приказ «Механику»: восстановить ход авианосца.\n"
-"«Арсеналу» и «Авиатору»: пополнить боеприпасы и авиагруппу «Раптора»."
+"Order to 'Mechanic': restore the carrier's mobility.\n"
+"'Arsenal' and 'Aviator': replenish the 'Raptor' air group and munitions."
 
 msgid "IDS_OP_01_03_CSM_003_RUNNER_GO"
 msgstr ""
-"«Раптор» отремонтирован и начинает движение.\n"
-"Защищайте авианосец на всём пути следования."
+"'Raptor' is repaired and on the move.\n"
+"Protect the carrier along its route."
 
 msgid "IDS_OP_01_03_CSM_004_TIME_IS_OVER"
 msgstr ""
-"Операция провалена.\n"
-"«Раптор» не успеет покинуть зону боевых действий."
+"Operation failed.\n"
+"'Raptor' will not escape the combat zone in time."
 
 msgid "IDS_OP_01_03_CSM_007_MAIN_TASK_COMPLETE_CARRIER_SAVE"
 msgstr ""
-"Операция выполнена!\n"
-"Авианосец «Раптор» вышел в точку «Рандеву»."
+"Operation completed!\n"
+"The carrier 'Raptor' has reached the rendezvous point."
 
 msgid "IDS_OP_01_03_CSM_009_FIXERISDEAD"
 msgstr ""
-"Операция провалена.\n"
-"Плавмастерская «Механик» потеряна."
+"Operation failed.\n"
+"The floating workshop 'Mechanic' has been lost."
 
 msgid "IDS_OP_01_04_0021_WARNING_OF_TEAM"
-msgstr "Наше соединение понесло тяжёлые потери."
+msgstr "Our formation has suffered heavy losses."
 
 msgid "IDS_OP_01_04_0031_DEFENSE_MAIN_TASK_SUCCESS"
 msgstr ""
-"Операция выполнена!\n"
-"Силы противника уничтожены."
+"Operation completed!\n"
+"Enemy forces have been destroyed."
 
 msgid "IDS_OP_01_04_0032_DEFENSE_MAIN_TASK_SUCCESS"
 msgstr ""
-"Операция выполнена!\n"
-"Союзная эскадра достигла базы."
+"Operation completed!\n"
+"The allied squadron has reached the base."
 
 msgid "IDS_OP_01_04_004_DEFENSE_MAIN_TASK_FAIL1"
 msgstr ""
-"Операция провалена.\n"
-"Все суда обеспечения и сооружения базы уничтожены."
+"Operation failed.\n"
+"All supply ships and base structures have been destroyed."
 
 msgid "IDS_OP_01_04_005_DEFENSE_MAIN_TASK_FAIL2"
 msgstr ""
-"Операция провалена.\n"
-"Ваше соединение уничтожено."
+"Operation failed.\n"
+"Your formation has been destroyed."
 
 msgid "IDS_OP_01_04_011_ENEMYS_AIRCR_GO_TO_BATTLE"
 msgstr ""
-"Противник прорвал нашу оборону.\n"
-"Начинается главная атака!"
+"The enemy has broken through our defenses.\n"
+"The main attack is beginning!"
 
 msgid "IDS_OP_01_04_025_NEW_POST_NORTH_TEMP"
-msgstr "Внимание! Авианосец вошёл в зону боевых действий."
+msgstr "Attention! The carrier has entered the combat zone."
 
 msgid "IDS_OP_01_04_026_NEW_POST_WEST6_TEMP"
-msgstr "Авианосец «Ромео» достиг базы."
+msgstr "The 'Romeo' carrier has reached the base."
 
 msgid "IDS_OP_01_04_0291_ENEMYS_BOSS_1_TEMP"
 msgstr ""
-"Уничтожьте силы противника до начала главной атаки\n"
-"и обеспечьте отступление авианосца «Ромео» на базу."
+"Destroy the enemy forces before the main attack begins\n"
+"and ensure the 'Romeo' carrier's retreat to the base."
 
 msgid "IDS_OP_01_04_0291_ENEMYS_BOSS_2_TEMP"
-msgstr "Уничтожьте противника до начала главной атаки, чтобы авианосец «Ромео» смог вернуться на базу."
+msgstr "Destroy the enemy before the main attack begins to allow the 'Romeo' carrier to return to the base."
 
 msgid "IDS_OP_01_04_032_ENEMYS_AVIR_1_TEMP"
-msgstr "В зону боевых действий вошёл крупный авианосец противника. Приказываю уничтожить!"
+msgstr "A large enemy carrier has entered the combat zone. I order its destruction!"
 
 msgid "IDS_OP_01_04_032_ENEMYS_AVIR_2_TEMP"
 msgstr ""
-"Авианосец «Коку-Бокан» уничтожен!\n"
-"Задача выполнена."
+"The carrier 'Koku-Bokan' has been destroyed!\n"
+"Task accomplished."
 
 msgid "IDS_OP_01_04_034_ALLY_AVIR_1_TEMP"
-msgstr "Отлично! Наш авианосец вошёл в зону боевых действий."
+msgstr "Excellent! Our carrier has entered the combat zone."
 
 msgid "IDS_OP_01_04_034_ALLY_AVIR_2_TEMP"
-msgstr "Наш авианосец уничтожен. Дополнительная задача провалена."
+msgstr "Our carrier has been destroyed. The additional task has failed."
 
 msgid "IDS_OP_01_04_034_ALLY_AVIR_3_TEMP"
-msgstr "Докладываю! Крейсера противника вошли в зону боевых действий и преследуют наш авианосец."
+msgstr "Report! Enemy cruisers have entered the combat zone and are pursuing our carrier."
 
 msgid "IDS_OP_01_04_ARTILLERY_BATTERY_BIG_L"
-msgstr "Бaтарея № 1"
+msgstr "Battery No. 1"
 
 msgid "IDS_OP_01_04_ARTILLERY_BATTERY_BIG_R"
-msgstr "Бaтарея № 2"
+msgstr "Battery No. 2"
 
 msgid "IDS_OP_01_04_ATAKER_C14"
-msgstr "Коку-Бокан"
+msgstr "Koku-Bokan"
 
 msgid "IDS_OP_02_02_CSM_001_SQUADRONS_ARRIVED"
 msgstr ""
-"В секторах [sm_check_pointAir] обеспечьте прикрытие\n"
-"для прибывающей ударной и транспортной авиации."
+"Ensure cover in sectors [sm_check_pointAir]\n"
+"for the arriving strike and transport aviation."
 
 msgid "IDS_OP_02_02_CSM_002_SQUADRONS_ARRIVED"
 msgstr ""
-"К моменту подлёта авиации\n"
-"очистите сектора [sm_check_pointAir] от кораблей противника."
+"By the time the aviation arrives\n"
+"clear sectors [sm_check_pointAir] of enemy ships."
 
 msgid "IDS_OP_02_02_CSM_003_FREIGHTERS_LOADING"
 msgstr ""
-"Не допустите уничтожения аэродрома\n"
-"во время подготовки транспортных самолётов."
+"Do not allow the airfield to be destroyed\n"
+"during the preparation of transport aircraft."
 
 msgid "IDS_OP_02_02_CSM_004_SECOND_TASK_02_OPEN"
 msgstr ""
-"Не дайте эсминцам c позывными «Виски»\n"
-"прорваться в акваторию ремонтной базы!"
+"Do not let the destroyers with callsigns 'Whiskey'\n"
+"break through into the repair base waters!"
 
 msgid "IDS_OP_02_02_CSM_005_SECOND_TASK_02_ALARM"
 msgstr ""
-"Срочно уничтожьте эсминец «Виски»,\n"
-"вставший на якорь у ремонтной базы!"
+"Urgently destroy the 'Whiskey' destroyer\n"
+"that has anchored near the repair base!"
 
 msgid "IDS_OP_02_02_CSM_006_SECOND_TASK_04_OPEN"
 msgstr ""
-"Сосредоточьте огонь на кораблях,\n"
-"которые атакует союзная авиация!"
+"Concentrate fire on the ships\n"
+"being attacked by allied aviation!"
 
 msgid "IDS_OP_02_02_CSM_014_RED_ALERT"
 msgstr ""
-"Корабли противника прорываются в акваторию базы.\n"
-"Уничтожайте их в первую очередь!"
+"Enemy ships are breaking through into the base waters.\n"
+"Destroy them as a priority!"
 
 msgid "IDS_OP_02_03_AT_TRANSPORT_A_1"
-msgstr "Десантный транспорт № 1"
+msgstr "Assault Transport No. 1"
 
 msgid "IDS_OP_02_03_AT_TRANSPORT_A_2"
-msgstr "Десантный транспорт № 2"
+msgstr "Assault Transport No. 2"
 
 msgid "IDS_OP_02_03_AT_TRANSPORT_A_3"
-msgstr "Десантный транспорт № 3"
+msgstr "Assault Transport No. 3"
 
 msgid "IDS_OP_02_03_AT_TRANSPORT_A_4"
-msgstr "Десантный транспорт № 4"
+msgstr "Assault Transport No. 4"
 
 msgid "IDS_OP_02_03_AT_TRANSPORT_E_7"
-msgstr "Грузовой № 1"
+msgstr "Freighter No. 1"
 
 msgid "IDS_OP_02_03_AT_TRANSPORT_E_8"
-msgstr "Грузовой № 2"
+msgstr "Freighter No. 2"
 
 msgid "IDS_OP_02_03_CSM_001_MAIN_MESSAGE_1"
 msgstr ""
-"Защищайте транспорт-лидер!\n"
-"Ему приказано захватить ремонтный док противника."
+"Protect the lead transport!\n"
+"It is ordered to capture the enemy repair dock."
 
 msgid "IDS_OP_02_03_CSM_004_MAIN_MESSAGE_TASK_2"
 msgstr ""
-"Сопроводите десантные корабли к базе\n"
-"и очистите акваторию порта от противника."
+"Escort the landing ships to the base\n"
+"and clear the port waters of the enemy."
 
 msgid "IDS_OP_02_03_CSM_009_MAIN_MESSAGE_7"
 msgstr ""
-"Операция провалена.\n"
-"Акватория не очищена от кораблей противника."
+"Operation failed.\n"
+"The waters have not been cleared of enemy ships."
 
 msgid "IDS_OP_02_03_CSM_010_SECOND_TASK_04_HINT"
 msgstr ""
-"Уничтожьте все транспорты противника до того,\n"
-"как они достигнут зоны эвакуации."
+"Destroy all enemy transports before\n"
+"they reach the evacuation zone."
 
 msgid "IDS_OP_02_03_CSM_015_TASK_MESSAGE_1_AIRCR"
 msgstr ""
-"В акватории базы противника замечен авианосец «Кинг».\n"
-"Командование приказывает уничтожить его!"
+"The 'King' carrier has been spotted in the enemy base waters.\n"
+"Command orders its destruction!"
 
 msgid "IDS_OP_02_04_CSM_ACHTUNG_MINEN"
-msgstr "Минные поля обозначены на миникарте красным."
+msgstr "Minefields are marked in red on the minimap."
 
 msgid "IDS_OP_09_CSM_ANTI_AIR_HINT"
 msgstr ""
-"Выберите приоритетный сектор ПВО,\n"
-"чтобы увеличить урон: [KEY_O] или [KEY_GRAVE]."
+"Select a priority AA sector\n"
+"to increase damage: [KEY_O] or [KEY_GRAVE]."
 
 msgid "IDS_OP_09_FINAL_GSM"
 msgstr ""
-"Защищайте флагман «Руан»,\n"
-"пока он не покинет зону боевых действий."
+"Protect the flagship 'Rouen',\n"
+"until it leaves the combat zone."
 
 msgid "IDS_OP_09_MAIN_TASK_BRIEFING"
 msgstr ""
-"Сопроводите эскадру в указанный сектор.\n"
-"Флагман «Руан» должен быть сохранён."
+"Escort the squadron to the designated sector.\n"
+"The flagship 'Rouen' must be preserved."
 
 msgid "IDS_OP_09_MAIN_TASK_TASK_WILL_END_F"
 msgstr ""
-"Операция провалена.\n"
-"Все союзные силы уничтожены."
+"Operation failed.\n"
+"All allied forces have been destroyed."
 
 msgid "IDS_OP_09_START_CYCLONE"
 msgstr ""
-"В грозовом фронте снижаются видимость и заметность.\n"
-"Время увеличенной заметности после выстрела сокращается до 7 секунд."
+"In the thunderstorm front, visibility and detection are reduced.\n"
+"The time of increased visibility after firing is reduced to 7 seconds."
 
 msgid "IDS_OP_09_THIRD_READY_GSM"
 msgstr ""
-"Двигайтесь через грозовой фронт:\n"
-"попасть по вашим кораблям будет сложнее."
+"Move through the thunderstorm front:\n"
+"it will be harder to hit your ships."
 
 msgid "IDS_OP_09_WEATHER_FIRE"
-msgstr "Точность стрельбы в грозовом фронте снижена!"
+msgstr "Accuracy is reduced in the thunderstorm front!"
 
 msgid "IDS_OP_10_CSM_001_BRIEF_1"
 msgstr ""
-"Выдвигайтесь в залив Императрицы Августы.\n"
-"Постарайтесь перехватить японскую эскадру."
+"Move into the Empress Augusta Bay.\n"
+"Try to intercept the Japanese squadron."
 
 msgid "IDS_OP_10_CSM_007_KILL_AIRPLANES"
 msgstr ""
-"Используйте заградительный огонь\n"
-"для увеличения интенсивности огня ПВО."
+"Use the defensive AA fire\n"
+"to increase the intensity of AA fire."
 
 msgid "IDS_OP_10_CSM_009_KILL_DA_BOSS"
-msgstr "Уничтожьте флагман «Кояма»."
+msgstr "Destroy the flagship 'Koyama'."
 
 msgid "IDS_OP_10_CSM_013_HINT_RADAR"
 msgstr ""
-"Используйте РЛС или ГАП для обнаружения\n"
-"кораблей противника при плохой видимости."
+"Use radar or hydroacoustic search\n"
+"to detect enemy ships in low visibility."
 
 msgid "IDS_OP_NE_WP_MK3_BRIEFING"
 msgstr ""
-"Прорвитесь через группы боевого охранения [sm_attack]\n"
-"и уничтожьте вражеский конвой [sm_attack_enemy]!"
+"Break through the escort groups [sm_attack]\n"
+"and destroy the enemy convoy [sm_attack_enemy]!"
 
 msgid "IDS_OP_NE_WP_MK3_BRIEFING_PART_2"
 msgstr ""
-"Уничтожьте транспорты конвоя,\n"
-"прежде чем они покинут зону боевых действий [sm_finish_enemy]!"
+"Destroy the convoy transports\n"
+"before they leave the combat zone [sm_finish_enemy]!"
 
 msgid "IDS_OP_NE_WP_MK3_MAIN_TASK_END_F_ESCAPE"
 msgstr ""
-"Операция провалена.\n"
-"Транспорты конвоя покинули зону боевых действий."
+"Operation failed.\n"
+"The convoy transports have left the combat zone."
 
 msgid "IDS_OP_NE_WP_MK3_MAIN_TASK_END_S"
 msgstr ""
-"Операция выполнена!\n"
-"Транспорты противника уничтожены."
+"Operation completed!\n"
+"The enemy transports have been destroyed."
 
 msgid "IDS_OP_NE_WP_MK3_MAIN_TASK_WILL_END_F"
 msgstr ""
-"Операция провалена.\n"
-"Все союзные подводные лодки потеряны."
+"Operation failed.\n"
+"All allied submarines have been lost."
 
 msgid "IDS_ORDER_AIRPLANES_MAP"
-msgstr "Отдать приказ на миникарте"
+msgstr "Give order on the minimap"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_AIR_DEFENSE"
-msgstr "ПВО"
+msgstr "AA Defense"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_AUXILIARY_WEAPON"
-msgstr "Вспомогательный калибр"
+msgstr "Secondary Battery"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_DISGUISE"
-msgstr "Маскировка и обнаружение"
+msgstr "Camouflage and Detection"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_FIGHTERS"
-msgstr "Штурмовики"
+msgstr "Attack Aircraft"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_MAIN_GUN"
-msgstr "Главный калибр"
+msgstr "Main Battery"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_MINES_BOMBERS"
-msgstr "Постановщики мин"
+msgstr "Mine-layers"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_MINE_BOMBERS"
-msgstr "Постановщики мин"
+msgstr "Mine-layers"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_PINGER_GUN"
-msgstr "Сонар"
+msgstr "Sonar"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_SPECIAL"
-msgstr "Особое"
+msgstr "Special"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_SURVIVABILITY"
-msgstr "Живучесть"
+msgstr "Survivability"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_TACT_BOMBERS"
-msgstr "Тактические бомбардировщики"
+msgstr "Tactical Bombers"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_TACT_FIGHTERS"
-msgstr "Тактические штурмовики"
+msgstr "Tactical Attack Aircraft"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_TACT_SKIP_BOMBERS"
-msgstr "Тактические топмачтовые бомбардировщики"
+msgstr "Tactical Skip Bombers"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_TACT_TORPEDO_BOMBER"
-msgstr "Тактические торпедоносцы"
+msgstr "Tactical Torpedo Bombers"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_TORPEDO"
-msgstr "Торпеды"
+msgstr "Torpedoes"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_TORPEDO_BOMBER"
-msgstr "Торпедоносцы"
+msgstr "Torpedo Bombers"
 
 msgid "IDS_PAAB218_YORKTOWN_TOP"
 msgstr "SB2C Helldiver"
@@ -5496,28 +5496,28 @@ msgid "IDS_PAAF118_YORKTOWN_STOCK"
 msgstr "F6F Hellcat"
 
 msgid "IDS_PAEE001_USA1908_DESC"
-msgstr "Звёздно-полосатое знамя с соответствующими изменениями расположения и числа звёзд — символов штатов. Используется в качестве военно-морского флага США с 1777 г. до настоящего времени."
+msgstr "The Star-Spangled Banner with corresponding changes in the arrangement and number of stars—symbols of the states. Used as the U.S. Navy flag from 1777 to the present day."
 
 msgid "IDS_PAEE002_USA1912_DESC"
-msgstr "Звёздно-полосатое знамя с соответствующими изменениями расположения и числа звёзд — символов штатов. Используется в качестве военно-морского флага США с 1777 г. до настоящего времени."
+msgstr "The Star-Spangled Banner with corresponding changes in the arrangement and number of stars—symbols of the states. Used as the U.S. Navy flag from 1777 to the present day."
 
 msgid "IDS_PAEE003_USA1959_DESC"
-msgstr "Звёздно-полосатое знамя с соответствующими изменениями расположения и числа звёзд — символов штатов. Используется в качестве военно-морского флага США с 1777 г. до настоящего времени."
+msgstr "The Star-Spangled Banner with corresponding changes in the arrangement and number of stars—symbols of the states. Used as the U.S. Navy flag from 1777 to the present day."
 
 msgid "IDS_PAES369_SUMMER_MAINE"
-msgstr "Курортный"
+msgstr "Resort"
 
 msgid "IDS_PAES491_CHESAPEAKE_CEREMONIAL"
-msgstr "Парадный"
+msgstr "Ceremonial"
 
 msgid "IDS_PAES511_HOGG_MIAMI"
-msgstr "Палм-Кост"
+msgstr "Palm Coast"
 
 msgid "IDS_PAES512_MAFFITT_MIAMI"
-msgstr "Орландо"
+msgstr "Orlando"
 
 msgid "IDS_PAES513_LYNCH_MIAMI"
-msgstr "Санрайз"
+msgstr "Sunrise"
 
 msgid "IDS_PAGM080_16IN50_MK7"
 msgstr "406-мм/50 Mk.7 в башенной установке"
