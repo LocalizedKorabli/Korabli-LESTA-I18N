@@ -3398,22 +3398,22 @@ msgid "IDS_EVENTUM_9_COLON"
 msgstr "Корабельные жетоны:"
 
 msgid "IDS_EVENT_AGGREGATOR_1"
-msgstr "150 лет Военно-морскому институту США"
+msgstr "150th Anniversary of the U.S. Naval Institute"
 
 msgid "IDS_EV_SPACE2024"
-msgstr "К высотам мастерства"
+msgstr "To the Heights of Mastery"
 
 msgid "IDS_EXPENDABLE_ECOBOOST_BULLETLIST_AUTOPURCHASE_CONDITION"
-msgstr "При включённой автопокупке стандартные и особые бонусы будут покупаться автоматически, если вы выходите в бой с последними бонусами этих типов."
+msgstr "With auto-purchase enabled, standard and special bonuses will be automatically purchased if you enter a battle with the last bonuses of these types."
 
 msgid "IDS_EXPENDABLE_ECOBOOST_BULLETLIST_BOOSTS_RARITY"
-msgstr "Стандартные и особые бонусы можно купить за дублоны. Редкие и элитные бонусы можно получить за участие в событиях."
+msgstr "Standard and special bonuses can be purchased for doubloons. Rare and elite bonuses can be obtained by participating in events."
 
 msgid "IDS_EXP_TO_NEXT_LOOTBOX"
-msgstr "До следующего контейнера:"
+msgstr "To the next container:"
 
 msgid "IDS_EXTERIOR_UNAVAILABLE_BY_MAINTENANCE"
-msgstr "Необходимо провести обслуживание корабля для изменения внешнего вида"
+msgstr "Ship maintenance is required to change the exterior."
 
 msgid "IDS_FEAT_BAD_ACOUSTICTORP_DAMAGE"
 msgstr "Acoustic torpedoes deal low damage"
@@ -4268,127 +4268,127 @@ msgid "IDS_GUIDING_TIP_9_HEADER"
 msgstr "Research and purchase a ship"
 
 msgid "IDS_HAVE_NOT_ANY_READY_PLAYER_IN_TEAMS"
-msgstr "В командах нет готовых к бою игроков."
+msgstr "No players in the teams are ready for battle."
 
 msgid "IDS_HEALTH_HIGH"
-msgstr "Большое количество очков боеспособности"
+msgstr "High health points"
 
 msgid "IDS_HEALTH_LOW"
-msgstr "Малое количество очков боеспособности"
+msgstr "Low health points"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_SONARSEARCH"
-msgstr "Увеличивает дистанцию гарантированного обнаружения кораблей, торпед и мин, в том числе в зоне дымовой завесы."
+msgstr "Increases the guaranteed detection range of ships, torpedoes, and mines, including in smoke screens."
 
 msgid "IDS_HIDE_ENEMY_SHIPS"
-msgstr "Корабли противника скрыты"
+msgstr "Enemy ships are hidden"
 
 msgid "IDS_HIDE_ENEMY_SHIPS_TOOLTIP"
-msgstr "Игроки не смогут увидеть выбранные корабли противников в тренировочной комнате"
+msgstr "Players won't be able to see the selected enemy ships in the training room."
 
 msgid "IDS_HIGHEST_ACOUSTIC_TORPEDO_ALPHA_DAMAGE"
-msgstr "Самый большой урон торпед с акустическим наведением "
+msgstr "Highest acoustic torpedo damage"
 
 msgid "IDS_HIGHEST_ACOUSTIC_TORPEDO_MAX_DIST"
-msgstr "Самая большая дальность торпед с акустическим наведением"
+msgstr "Longest acoustic torpedo range"
 
 msgid "IDS_HIGHEST_ACOUSTIC_TORPEDO_SPEED"
-msgstr "Самая высокая скорость торпед с акустическим наведением"
+msgstr "Highest acoustic torpedo speed"
 
 msgid "IDS_HIGHEST_AIR_DEFENSE_DISTANCE"
-msgstr "Самая большая дальность стрельбы ПВО"
+msgstr "Longest AA defense range"
 
 msgid "IDS_HIGHEST_AIR_DEFENSE_DPS"
-msgstr "Самый большой постоянный урон ПВО"
+msgstr "Highest AA defense DPS"
 
 msgid "IDS_HIGHEST_BATTERY_CAPACITY"
-msgstr "Самый большой запас автономности"
+msgstr "Largest battery capacity"
 
 msgid "IDS_HIGHEST_DISGUISE"
-msgstr "Самая высокая маскировка"
+msgstr "Highest concealment"
 
 msgid "IDS_HIGHEST_HEALTH"
-msgstr "Самое большое количество очков боеспособности"
+msgstr "Highest health points"
 
 msgid "IDS_HIGHEST_MAIN_GUN_AMMO_AP_ALPHA"
-msgstr "Самый большой урон ББ-снарядов"
+msgstr "Highest AP shell damage"
 
 msgid "IDS_HIGHEST_MAIN_GUN_AMMO_HE_ALPHA"
-msgstr "Самый большой урон ОФ-снарядов"
+msgstr "Highest HE shell damage"
 
 msgid "IDS_HIGHEST_MAIN_GUN_ANY_DISTANCE_SHOOTING_ACCURACY"
-msgstr "Самая высокая точность ГК на всех дистанциях"
+msgstr "Highest main gun accuracy at all ranges"
 
 msgid "IDS_HIGHEST_MAIN_GUN_AP_PENETRATION"
-msgstr "Самое высокое бронепробитие ББ-снарядов"
+msgstr "Highest AP shell penetration"
 
 msgid "IDS_HIGHEST_MAIN_GUN_BARRELS_NUM"
-msgstr "Самое большое количество орудий ГК"
+msgstr "Highest number of main gun barrels"
 
 msgid "IDS_HIGHEST_MAIN_GUN_LONG_DISTANCE_SHOOTING_ACCURACY"
-msgstr "Самая высокая точность ГК на дальней дистанции"
+msgstr "Highest main gun accuracy at long range"
 
 msgid "IDS_HIGHEST_MAIN_GUN_MAX_DIST"
-msgstr "Самая большая дальность стрельбы орудий ГК"
+msgstr "Longest main gun firing range"
 
 msgid "IDS_HIGHEST_MAIN_GUN_SHORT_DISTANCE_SHOOTING_ACCURACY"
-msgstr "Самая высокая точность ГК на ближней дистанции"
+msgstr "Highest main gun accuracy at short range"
 
 msgid "IDS_HIGHEST_MAIN_GUN_SHOT_DELAY"
-msgstr "Самая высокая скорострельность орудий ГК"
+msgstr "Shortest main gun reload time"
 
 msgid "IDS_HIGHEST_MANEUVER"
-msgstr "Самая высокая манёвренность"
+msgstr "Highest maneuverability"
 
 msgid "IDS_HIGHEST_RANK"
-msgstr "Максимальный уровень командира"
+msgstr "Maximum commander rank"
 
 msgid "IDS_HIGHEST_SPEED"
-msgstr "Самая высокая скорость хода"
+msgstr "Highest speed"
 
 msgid "IDS_HIGHEST_SUBMARINE_SPEED_DEEP_WATER"
-msgstr "Самая высокая скорость хода в подводном положении"
+msgstr "Highest submarine speed underwater"
 
 msgid "IDS_HIGHEST_SUBMARINE_SPEED_SURFACE"
-msgstr "Самая высокая скорость хода в надводном положении"
+msgstr "Highest submarine speed on the surface"
 
 msgid "IDS_HIGHEST_TORPEDO_ALPHA_DAMAGE"
-msgstr "Самый большой урон торпед"
+msgstr "Highest torpedo damage"
 
 msgid "IDS_HIGHEST_TORPEDO_BARRELS_NUM"
-msgstr "Самое большое количество торпедных труб"
+msgstr "Highest number of torpedo tubes"
 
 msgid "IDS_HIGHEST_TORPEDO_MAX_DIST"
-msgstr "Самая большая дальность хода торпед"
+msgstr "Longest torpedo range"
 
 msgid "IDS_HIGHEST_TORPEDO_RELOAD_FAST"
-msgstr "Самая быстрая перезарядка ТА"
+msgstr "Shortest torpedo reload time"
 
 msgid "IDS_HIGHEST_TORPEDO_SPEED"
-msgstr "Самая высокая скорость торпед"
+msgstr "Highest torpedo speed"
 
 msgid "IDS_HIGHEST_VISIBILITY_FACTOR"
-msgstr "Самая низкая заметность"
+msgstr "Lowest visibility"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL"
-msgstr "Показать корабли %(level)s уровня"
+msgstr "Show ships of level %(level)s"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL_NOT_AVAILABLE"
-msgstr "У вас нет кораблей %(level)s уровня"
+msgstr "You do not have ships of level %(level)s"
 
 msgid "IDS_HINT_LEFT_CLICK_TO_GET_DETAILED_SHIP_INFO"
-msgstr "Подробнее о корабле"
+msgstr "More about the ship"
 
 msgid "IDS_HINT_LEFT_CLICK_TO_HIDE_DETAILED_SHIP_INFO"
-msgstr "Скрыть подробную информацию"
+msgstr "Hide detailed information"
 
 msgid "IDS_HINT_WAREHOUSE"
-msgstr "Продавайте имущество, которое вы не используете."
+msgstr "Sell unused items."
 
 msgid "IDS_HISTORICAL_INFORMATION"
-msgstr "ИСТОРИЧЕСКАЯ СПРАВКА"
+msgstr "HISTORICAL INFORMATION"
 
 msgid "IDS_HOLSTININ_ARIA"
-msgstr "Владимир Холстинин"
+msgstr "Vladimir Holstinin"
 
 msgid "IDS_IGNORE_PLAYER"
 msgstr "Добавить в чёрный список"
