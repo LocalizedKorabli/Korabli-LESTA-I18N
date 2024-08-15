@@ -9527,172 +9527,172 @@ msgid "IDS_PCZC882_JAP_BB_EA_DRAGONS_PUZZLE_60"
 msgstr "Mosaic fragment"
 
 msgid "IDS_PCZC883_ARIA_1_1"
-msgstr "Мания величия"
+msgstr "Delusions of Grandeur"
 
 msgid "IDS_PCZC883_ARIA_1_1_DESCRIPTION"
-msgstr "Дебютный альбом группы, был записан в 1985 г. и первоначально распространялся на кассетах. Инструментальная композиция «Мания величия» по традиции завершает концерты «Арии», когда музыканты выходят на поклон."
+msgstr "The debut album of the band, recorded in 1985 and initially distributed on cassette tapes. The instrumental composition 'Delusions of Grandeur' traditionally closes Aria's concerts when the musicians come out for a bow."
 
 msgid "IDS_PCZC884_ARIA_1_2"
-msgstr "Герой асфальта"
+msgstr "Hero of Asphalt"
 
 msgid "IDS_PCZC884_ARIA_1_2_DESCRIPTION"
-msgstr "Третий альбом группы, записан в 1987 г. «Герой асфальта» стал первым альбомом «Арии», официально выпущенным на грампластинке, и разошёлся рекордными тиражами."
+msgstr "The third album of the band, recorded in 1987. 'Hero of Asphalt' became the first Aria album officially released on vinyl and achieved record sales."
 
 msgid "IDS_PCZC885_ARIA_1_3"
-msgstr "Химера"
+msgstr "Chimera"
 
 msgid "IDS_PCZC885_ARIA_1_3_DESCRIPTION"
-msgstr "Восьмой альбом «Арии», вышел в 2001 г. Именно на обложке этого альбома впервые появился талисман группы — Жорик."
+msgstr "Aria's eighth album, released in 2001. The group's mascot, Zhorik, appeared on the album cover for the first time."
 
 msgid "IDS_PCZC886_ARIA_1_4"
-msgstr "Крещение огнём"
+msgstr "Baptism by Fire"
 
 msgid "IDS_PCZC886_ARIA_1_4_DESCRIPTION"
-msgstr "Девятый альбом группы, вышел в 2003 г. В темах текстов песен преобладает военно-историческая тематика."
+msgstr "The band's ninth album, released in 2003. The themes of the song lyrics are predominantly military-historical."
 
 msgid "IDS_PCZC887_ARIA_1_5"
-msgstr "Проклятье морей"
+msgstr "Curse of the Seas"
 
 msgid "IDS_PCZC887_ARIA_1_5_DESCRIPTION"
-msgstr "Тринадцатый альбом группы, вышел в 2018 г. «Проклятье морей» стал самым длинным студийным альбомом «Арии», для которого было записано 11 песен общей продолжительностью около 76 минут."
+msgstr "The band's thirteenth album, released in 2018. 'Curse of the Seas' became Aria's longest studio album, featuring 11 songs with a total duration of about 76 minutes."
 
 msgid "IDS_PCZC888_ARIA_2_1"
-msgstr "Беспечный ангел"
+msgstr "Carefree Angel"
 
 msgid "IDS_PCZC888_ARIA_2_1_DESCRIPTION"
-msgstr "Легендарная баллада, один из первых каверов, записанных группой. Именно с этой песни начался успех «Арии» на радио."
+msgstr "A legendary ballad, one of the first covers recorded by the band. It was this song that marked Aria's success on the radio."
 
 msgid "IDS_PCZC889_ARIA_2_2"
-msgstr "Осколок льда"
+msgstr "Shard of Ice"
 
 msgid "IDS_PCZC889_ARIA_2_2_DESCRIPTION"
-msgstr "Лирическая композиция, вошедшая в альбом «Химера» 2001 г. Видеоклип к этой песне снимался в Чехии."
+msgstr "A lyrical composition included in the 'Chimera' album of 2001. The music video for this song was filmed in the Czech Republic."
 
 msgid "IDS_PCZC890_ARIA_2_3"
-msgstr "Штиль"
+msgstr "Calm"
 
 msgid "IDS_PCZC890_ARIA_2_3_DESCRIPTION"
-msgstr "Песня, впервые вышедшая в альбоме «Химера» 2001 г. Уже в следующем году увидел свет альбом-компиляция, название которому дала именно эта песня. В альбом «Штиль» вошли каверы и редкие композиции «Арии»."
+msgstr "A song that first appeared on the 'Chimera' album in 2001. The following year, a compilation album was released, named after this very song. The album 'Calm' includes covers and rare compositions by Aria."
 
 msgid "IDS_PCZC891_ARIA_2_4"
-msgstr "Потерянный рай"
+msgstr "Lost Paradise"
 
 msgid "IDS_PCZC891_ARIA_2_4_DESCRIPTION"
-msgstr "Одна из самых известных лирических песен «Арии», завоевавшая любовь самой широкой аудитории. Впервые вышла в сборнике баллад «2000 и одна ночь» 1999 г., позже была выпущена как сингл."
+msgstr "One of Aria's most famous lyrical songs, loved by a wide audience. It was first released in the ballad collection '2000 and One Night' in 1999 and later released as a single."
 
 msgid "IDS_PCZC892_ARIA_2_5"
-msgstr "Колизей"
+msgstr "Colosseum"
 
 msgid "IDS_PCZC892_ARIA_2_5_DESCRIPTION"
-msgstr "Эта песня впервые была издана как сингл в 2002 г., а в следующем году вошла в альбом «Крещение огнём». Текст песни посвящён гладиаторам Древнего Рима."
+msgstr "This song was first released as a single in 2002 and was included in the 'Baptism by Fire' album the following year. The lyrics are dedicated to the gladiators of Ancient Rome."
 
 msgid "IDS_PCZC893_ARIA_3_1"
-msgstr "Гитара"
+msgstr "Guitar"
 
 msgid "IDS_PCZC893_ARIA_3_1_DESCRIPTION"
-msgstr "Гитара Владимира Холстинина. Инструмент российского производства, изготовленный специально для музыканта, работа длилась два года."
+msgstr "Vladimir Holstinin's guitar. A Russian-made instrument, specially crafted for the musician, with a build process that took two years."
 
 msgid "IDS_PCZC894_ARIA_3_2"
-msgstr "Гитара"
+msgstr "Guitar"
 
 msgid "IDS_PCZC894_ARIA_3_2_DESCRIPTION"
-msgstr "Гитара Сергея Попова. Редкий инструмент, который дорог музыканту как предмет, который он долго искал."
+msgstr "Sergey Popov's guitar. A rare instrument that is dear to the musician as it was something he had long sought after."
 
 msgid "IDS_PCZC895_ARIA_3_3"
-msgstr "Бас-гитара"
+msgstr "Bass Guitar"
 
 msgid "IDS_PCZC895_ARIA_3_3_DESCRIPTION"
-msgstr "Бас-гитара Виталия Дубинина. Музыкант собрал инструмент из разных деталей, заказанных в интернете."
+msgstr "Vitaly Dubinin's bass guitar. The musician assembled the instrument from various parts ordered online."
 
 msgid "IDS_PCZC896_ARIA_3_4"
-msgstr "Барабаны"
+msgstr "Drums"
 
 msgid "IDS_PCZC896_ARIA_3_4_DESCRIPTION"
-msgstr "Барабанная установка Максима Удалова. Одной из особенностей являются стойки со свободной регулировкой наклона."
+msgstr "Maxim Udalov's drum kit. One of its features is the stands with adjustable tilt angles."
 
 msgid "IDS_PCZC897_ARIA_3_5"
-msgstr "Призовая гитара"
+msgstr "Prize Guitar"
 
 msgid "IDS_PCZC897_ARIA_3_5_DESCRIPTION"
-msgstr "Гитара с автографами музыкантов «Арии», предназначенная для розыгрыша среди игроков «Мира кораблей»."
+msgstr "A guitar with autographs of Aria's musicians, intended to be raffled off among players of 'World of Warships.'"
 
 msgid "IDS_PCZC898_ARIA_4_1"
-msgstr "20 лет: воля и разум!"
+msgstr "20 Years: Will and Reason!"
 
 msgid "IDS_PCZC898_ARIA_4_1_DESCRIPTION"
-msgstr "Концерт, посвящённый двадцатилетию группы и прошедший в 2005 г. во Дворце спорта «Лужники» в Москве."
+msgstr "A concert dedicated to the band's twentieth anniversary, held in 2005 at the Luzhniki Sports Palace in Moscow."
 
 msgid "IDS_PCZC899_ARIA_4_2"
-msgstr "Армагеддон: битва последних героев"
+msgstr "Armageddon: The Battle of the Last Heroes"
 
 msgid "IDS_PCZC899_ARIA_4_2_DESCRIPTION"
-msgstr "Концерт в поддержку альбома «Армагеддон», прошедший в 2006 г. на Малой спортивной арене «Лужников» в Москве."
+msgstr "A concert in support of the 'Armageddon' album, held in 2006 at the Luzhniki Minor Sports Arena in Moscow."
 
 msgid "IDS_PCZC900_ARIA_4_3"
-msgstr "Герой асфальта: 20 лет"
+msgstr "Hero of Asphalt: 20 Years"
 
 msgid "IDS_PCZC900_ARIA_4_3_DESCRIPTION"
-msgstr "Масштабный тур, посвящённый двадцатилетию альбома «Герой асфальта» и состоявшийся в 2008 г."
+msgstr "A large-scale tour dedicated to the twentieth anniversary of the 'Hero of Asphalt' album, held in 2008."
 
 msgid "IDS_PCZC901_ARIA_4_4"
-msgstr "Классическая «Ария»"
+msgstr "Classical Aria"
 
 msgid "IDS_PCZC901_ARIA_4_4_DESCRIPTION"
-msgstr "Тур, состоявшийся в 2018 г., в ходе которого группа исполняла свои песни вместе с симфоническим оркестром."
+msgstr "A tour held in 2018, during which the band performed their songs with a symphony orchestra."
 
 msgid "IDS_PCZC902_ARIA_4_5"
-msgstr "Гость из царства теней"
+msgstr "Guest from the Shadow Realm"
 
 msgid "IDS_PCZC902_ARIA_4_5_DESCRIPTION"
-msgstr "Тур продолжительностью в несколько лет, состоящий из концертов с элементами представления."
+msgstr "A multi-year tour consisting of concerts with theatrical elements."
 
 msgid "IDS_PECULARITY_FILTER_SCARLET_FUTURE"
-msgstr "Во имя прогресса!"
+msgstr "In the Name of Progress!"
 
 msgid "IDS_PECULARITY_FILTER_SCARLET_FUTURE_SET_SKIN_TOOLTIP"
-msgstr "Отображать внешний вид камуфляжей и командиров события «Во имя прогресса!» в бою и в Порту"
+msgstr "Display \"In the Name of Progress!\" camouflages in battle and in the Port"
 
 msgid "IDS_PECULARITY_FILTER_SCARLET_FUTURE_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "Заменить внешний вид камуфляжей и командиров события «Во имя прогресса!» в бою и в Порту"
+msgstr "Hide \"In the Name of Progress!\" camouflages in battle and in the Port"
 
 msgid "IDS_PFGA034_13_2MM_76_BROWNING_CAS"
-msgstr "13,2-мм Browning в одиночной установке"
+msgstr "13.2 mm Browning on a single mount"
 
 msgid "IDS_PFGA145_57MM_60_2_25"
-msgstr "57-мм/60 Mle 1951 в установке ACAD Mle 1948"
+msgstr "57 mm/60 Mle 1951 in ACAD Mle 1948 mount"
 
 msgid "IDS_PFGM148_105_MM_SKC_37"
-msgstr "105-мм/65 SK C/33 в установке Dop. L. C/37"
+msgstr "105 mm/65 SK C/33 in Dop. L. C/37 mount"
 
 msgid "IDS_PFGT146_550MM_3TUBE_KT50"
-msgstr "550-мм tube lance-torpilles"
+msgstr "550 mm torpedo tube"
 
 msgid "IDS_PFPA063_130MM_MLE1933_SAP_MG"
-msgstr "130-мм SAP OPFA Mle 1933"
+msgstr "130 mm SAP OPFA Mle 1933"
 
 msgid "IDS_PFPA095_105MM_CS_CHATEAURENAULT"
-msgstr "105-мм Spr.Gr. BDz m.Hb"
+msgstr "105 mm Spr.Gr. BDz m.Hb"
 
 msgid "IDS_PFPA096_105MM_AP_CHATEAURENAULT"
-msgstr "105-мм P.Spr.Gr."
+msgstr "105 mm P.Spr.Gr."
 
 msgid "IDS_PFPT005_550_44V"
-msgstr "550-мм 44V"
+msgstr "550 mm 44V"
 
 msgid "IDS_PFPT021_550MM_CHATEAURENAULT"
-msgstr "550-мм K2"
+msgstr "550 mm K2"
 
 msgid "IDS_PFSA506_YEAR"
-msgstr "1927 г."
+msgstr "1927"
 
 msgid "IDS_PFSB104_DESCR"
-msgstr "Новый проект линкора учитывал пожелания руководства по концентрации огня в оконечностях. Корабль нёс двенадцать 305-мм орудий в двухорудийных башнях: по две башни было расположено линейно-возвышенно в оконечностях корабля, и ещё две башни — побортно. Все четыре линкора этого типа принимали участие в Первой мировой войне на Средиземноморском театре военных действий."
+msgstr "The new design of the battleship took into account the wishes of the leadership regarding the concentration of armament at the ship's aft and forward ends. The ship carried twelve 305 mm guns housed in twin-gun turrets: Two superfiring turrets were located at the ship's aft and forward ends, and two more turrets were placed on each side of the ship. All four battleships in her class were active in the Mediterranean theater of World War I."
 
 msgid "IDS_PFSB107_DESCR"
-msgstr "В 1912 г. Франция начала постройку новых, более крупных доков. Кораблестроители получили возможность расширить рамки, которыми они были ограничены при проектировании типов Bretagne и Normandie. Орудия более крупного калибра во Франции ещё не были разработаны, поэтому было решено увеличить количество орудий калибра 340 мм. Окончательный проект включал в себя четыре четырёхорудийные башни в слегка увеличенном корпусе от Normandie."
+msgstr "In 1912, France started building new, bigger docks. The shipbuilders were able to expand the limits they had when designing the Bretagne and Normandie classes. Larger caliber guns had not yet been developed in France, so it was decided to increase the number of 340 mm guns. The final design included four quadruple-gun main turrets mounted on a hull that was slightly bigger than that of the Normandie class. However, due to the outbreak of World War I, these ships were never laid down."
 
 msgid "IDS_PFSB510_DESCR"
-msgstr "Один из проектов, разработанных в ответ на информацию о планах развития немецкого флота, включал в себя вооружение из трёх четырёхорудийных башен с 380-мм орудиями. Два линейных корабля этого проекта должны были быть заказаны и заложены в 1941 г., а всего программа включала четыре линкора. В случае достройки корабля после войны линкоры были бы вооружены самыми современными противовоздушными орудиями того времени: американскими длинноствольными 127-мм орудиями и новыми 57-мм установками ACAD."
+msgstr "One project that was developed in the late 1930s in response to intel about the German Navy's development plans included the armament of three quadruple-gun turrets with 380 mm guns. Two battleships of that project were to be ordered and laid down in 1941. The program accommodated a total of four battleships. If the ship had been completed after the war, the battleships would have been equipped with the most modern AA guns of the time: American long-barreled 127 mm guns and new 57 mm ACAD mounts."
 
 msgid "IDS_PFSB596"
 msgstr "Dunkerque B"
