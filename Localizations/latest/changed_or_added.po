@@ -6313,10 +6313,10 @@ msgid "IDS_PASD519_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASD529"
-msgstr "Black Black"
+msgstr "Black B"
 
 msgid "IDS_PASD529_FULL"
-msgstr "Black Black"
+msgstr "Black B"
 
 msgid "IDS_PASD529_YEAR"
 msgstr "1943"
@@ -6505,7 +6505,7 @@ msgid "IDS_PAUH738_D8_HULL_STOCK"
 msgstr "Hogg"
 
 msgid "IDS_PAUH819_HULL_BLACK_BLACK"
-msgstr "Black Black"
+msgstr "Black B"
 
 msgid "IDS_PAUH820_D9_HULL_STOCK"
 msgstr "Maffitt"
@@ -7675,7 +7675,7 @@ msgid "IDS_PCEE633_PRORYV_FLAG_DESCRIPTION"
 msgstr "The 'Breakthrough' tournament is dynamic competitions full of emotions, adrenaline, a spirit of rivalry, and true camaraderie."
 
 msgid "IDS_PCEE635_BLACKBLACK_FLAG"
-msgstr "Black Black"
+msgstr "Black B"
 
 msgid "IDS_PCEE636_LAZOBLACK_FLAG"
 msgstr "Lazo C"
@@ -9124,7 +9124,7 @@ msgid "IDS_PCZC479_GF097_REINHARD_DESCRIPTION"
 msgstr ""
 "Admiral Reinhard Scheer (1863–1928) came to prominence as the commander of the German fleet in the Battle of Jutland. \n"
 "\n"
-"In January 1916, at the height of World War I, Scheer was assigned as the Head of the High Seas Fleet—the main force of the Imperial Navy. The admiral raised his flag aboard Friedrich der Große, a Kaiser-class battleship. Being a dedicated follower of strict discipline, Reinhard Scheer's preferred naval strategy was aggressive warfare that utilized all available means to destroy the enemy, including air and underwater strikes. He was in command of the German forces during the largest battle of dreadnought battleships—the Battle of Jutland. The precise maneuvers of Scheer's fleet, with his ships operating like a well-oiled machine, enabled the Germans to inflict greater losses on the enemy and avoid the trap that the superior forces of the British Grand Fleet had laid for them."
+"In January 1916, at the height of World War I, Scheer was assigned as the Head of the High Seas Fleet—the main force of the Imperial Navy. The admiral raised his flag aboard Friedrich der Grosse, a Kaiser-class battleship. Being a dedicated follower of strict discipline, Reinhard Scheer's preferred naval strategy was aggressive warfare that utilized all available means to destroy the enemy, including air and underwater strikes. He was in command of the German forces during the largest battle of dreadnought battleships—the Battle of Jutland. The precise maneuvers of Scheer's fleet, with his ships operating like a well-oiled machine, enabled the Germans to inflict greater losses on the enemy and avoid the trap that the superior forces of the British Grand Fleet had laid for them."
 
 msgid "IDS_PCZC799_SCARLET_BIRTHDAY_1_1"
 msgstr "Robot SAN-9I (Automatic Order Navigation System, 9th Generation)"
@@ -9830,79 +9830,79 @@ msgid "IDS_PGAF801_LOTHRINGEN"
 msgstr "Bf 109G"
 
 msgid "IDS_PGEP416_LEIPZIG"
-msgstr "Боевой трофей"
+msgstr "Battle Trophy"
 
 msgid "IDS_PGES330_SCHLIEFFEN_COLORFUL"
-msgstr "Пурпурный град"
+msgstr "Purple Hail"
 
 msgid "IDS_PGES331_ANTARCTIC_PFALTZ"
-msgstr "Рейдерский"
+msgstr "Raider"
 
 msgid "IDS_PGES428_HIPPER_GLADIATOR"
-msgstr "Царь морей — Гладиатор"
+msgstr "Sea Lord – Gladiator"
 
 msgid "IDS_PGES610_GSS_U_796"
-msgstr "Океанский монстр"
+msgstr "Ocean Monster"
 
 msgid "IDS_PGGM099_128MM_54_TWIN"
-msgstr "128-мм/54 Doppelflak L/54 в башенной установке"
+msgstr "128 mm/54 Doppelflak L/54 in a twin turret"
 
 msgid "IDS_PGGM143_127MM_61_TWIN"
-msgstr "128-мм/61 KM40 в башенной установке"
+msgstr "128 mm/61 KM40 in a twin turret"
 
 msgid "IDS_PGGM144_127MM_61_TWIN_HIMMELBLAU"
-msgstr "128-мм/61 KM40 в башенной установке"
+msgstr "128 mm/61 KM40 in a twin turret"
 
 msgid "IDS_PGGT141_533MM_TORPEDO_TUBES_FIVE_TURRET"
-msgstr "533-мм Fünfling"
+msgstr "533 mm Fünfling"
 
 msgid "IDS_PGGT142_600MM_INVISIBLE_TA"
-msgstr "600-мм"
+msgstr "600 mm"
 
 msgid "IDS_PGPA146_283MM_HE_PFALZ"
-msgstr "283-мм Spr.Gr. L/4.5 Kz."
+msgstr "283 mm Spr.Gr. L/4.5 Kz."
 
 msgid "IDS_PGPA147_283MM_AP_PFALZ"
-msgstr "283-мм P.Spr.Gr. L/4.4"
+msgstr "283 mm P.Spr.Gr. L/4.4"
 
 msgid "IDS_PGPA148_380MM_HE_LOTHRINGEN"
-msgstr "380-мм Spr.Gr. L/4.6"
+msgstr "380 mm Spr.Gr. L/4.6"
 
 msgid "IDS_PGPA149_380MM_AP_LOTHRINGEN"
-msgstr "380-мм P.Spr.Gr. L/4.4"
+msgstr "380 mm P.Spr.Gr. L/4.4"
 
 msgid "IDS_PGPA150_150MM_HE_Z33"
-msgstr "150-мм Spr.Gr. Ausf. C"
+msgstr "150 mm Spr.Gr. Ausf. C"
 
 msgid "IDS_PGPA153_150MM_AP_Z32"
-msgstr "150-мм P.Spr.Gr. Ausf. C"
+msgstr "150 mm P.Spr.Gr. Ausf. C"
 
 msgid "IDS_PGPA154_150MM_HE_Z38"
-msgstr "150-мм Spr.Gr. Ausf. B"
+msgstr "150 mm Spr.Gr. Ausf. B"
 
 msgid "IDS_PGPA155_150MM_AP_Z38"
-msgstr "150-мм P.Spr.Gr. Ausf. B"
+msgstr "150 mm P.Spr.Gr. Ausf. B"
 
 msgid "IDS_PGPA156_128MM_HE_T11"
-msgstr "128-мм Spr.Gr. Kz."
+msgstr "128 mm Spr.Gr. Kz."
 
 msgid "IDS_PGPA157_128MM_AP_T11"
-msgstr "128-мм P.Spr.Gr. L/4.5"
+msgstr "128 mm P.Spr.Gr. L/4.5"
 
 msgid "IDS_PGPA158_128MM_61_HE"
-msgstr "128-мм Spr.Gr. Kz."
+msgstr "128 mm Spr.Gr. Kz."
 
 msgid "IDS_PGPA159_128MM_61_AP"
-msgstr "128-мм P.Spr.Gr. L/4.5"
+msgstr "128 mm P.Spr.Gr. L/4.5"
 
 msgid "IDS_PGPA160_128MM_54_HE"
-msgstr "128-мм Spr.Gr."
+msgstr "128 mm Spr.Gr."
 
 msgid "IDS_PGPA161_128MM_54_AP"
-msgstr "128-мм P.Spr.Gr."
+msgstr "128 mm P.Spr.Gr."
 
 msgid "IDS_PGPR009_LOTHRINGEN"
-msgstr "Panzerbrechend L/4.8"
+msgstr "Armor-Piercing L/4.8"
 
 msgid "IDS_PGPS951_W_VOSS_TOP"
 msgstr "SC 1000"
@@ -9920,10 +9920,10 @@ msgid "IDS_PGPT063_Z33"
 msgstr "G7 Schildbutt"
 
 msgid "IDS_PGPT064_Z32"
-msgstr "G7 T1 Ausf. B"
+msgstr "G7 T1 Ausf. B"
 
 msgid "IDS_PGPT065_Z38"
-msgstr "G7 T1 Ausf. D"
+msgstr "G7 T1 Ausf. D"
 
 msgid "IDS_PGPT066_533MM_T11"
 msgstr "G7 Steinwal"
@@ -9941,49 +9941,49 @@ msgid "IDS_PGSA110"
 msgstr "M. Richthofen"
 
 msgid "IDS_PGSA110_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSA506"
 msgstr "E. Loewenhardt"
 
 msgid "IDS_PGSA510_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSA610"
 msgstr "M. Immelmann"
 
 msgid "IDS_PGSA610_DESCR"
-msgstr "Проект является одним из возможных вариантов достройки линкора типа H-39 в качестве авианосца. Этот проект предполагает, что на момент прекращения строительства корабля как линкора корпус был полностью сформирован и на него были установлены механизмы главной энергетической установки и электростанции. Такой авианосец стал бы крупнейшим кораблём в Европе."
+msgstr "This design is one of the possible variants of the H-39 class battleship that was completed as an aircraft carrier. It is assumed that by the time the construction of the battleship was halted, her hull would have been fully shaped, and the main propulsion plant and electrical plant machinery would also have been installed. Such an aircraft carrier would have been the largest ship in Europe."
 
 msgid "IDS_PGSA610_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSA990"
-msgstr "M. Richthofen (ЭМ)"
+msgstr "M. Richthofen Test"
 
 msgid "IDS_PGSA990_DESCR"
-msgstr "Копия корабля для тестирования элитной модернизации."
+msgstr "A hypothetical variation of a heavy German aircraft carrier based on the unfinished H-39 class battleship hull. It is assumed that by the time the construction of the battleship was halted, her hull would have been fully shaped, and the main propulsion plant and electrical plant machinery would also have been installed. With such a configuration, she would have been one of the largest ships in the world, second only to Japanese Shinano."
 
 msgid "IDS_PGSA990_FULL"
-msgstr "Manfred von Richthofen (ЭМ)"
+msgstr "Manfred von Richthofen Test"
 
 msgid "IDS_PGSA990_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSB107_DESCR"
-msgstr "В 1933 г. Германия приступила к проектированию кораблей, выходящих за версальские ограничения. Чтобы противостоять французским 330-мм орудиям, проект получил усиленное бронирование, а для надлежащей огневой мощи на кораблях появилась третья башня. Gneisenau участвовал в операциях «Везерюбунг», «Берлин», в прорыве через Ла-Манш. В 1942 г. линкор был поражён бомбой с британских бомбардировщиков. Снятые с корабля орудия использовали для береговой обороны в Норвегии. Gneisenau был затоплен 27 марта 1945 г. ввиду наступления Красной армии."
+msgstr "In 1933, Germany set out to design ships that would exceed the limits stipulated by the Versailles Treaty. To counter French ships with 330 mm guns, the design received reinforced armor and a third turret. The new battleship, Gneisenau, participated in Operations Weserübung and Berlin and in the breakthrough across the English Channel. In 1942, Gneisenau was hit by a bomb dropped by British bombers. The guns demounted from the battleship were repurposed for coastal defense needs in Norway. On March 27, 1945, Gneisenau was scuttled due to the Red Army offensive."
 
 msgid "IDS_PGSB108_DESCR"
-msgstr "В 1932 г. в Германии начали исследования по проекту 35 000-тонного линкора. В ходе проработок водоизмещение превысило вашингтонские лимиты, а главный калибр увеличился до 380 мм. Bismarck вышел вместе с крейсером Prinz Eugen в свою первую и последнюю боевую операцию 19 мая 1941 г. Британские Prince of Wales и Hood попытались перехватить немецкие корабли, после нескольких попаданий Hood взорвался. Немецкие рейдеры направились в Атлантику, а британский флот бросился за ними. Bismarck был потоплен в ходе последующего боя."
+msgstr "The original plan was for the new ship to be armed with eight 330 mm guns; however, their caliber was increased to 380 mm when France and Italy started building battleships with such armament. In May 1941, battleship Bismarck and battlecruiser Prinz Eugen set off on a hunt for convoys in the Atlantic Ocean. On their way, they were intercepted by British ships Prince of Wales and Hood. After taking several hits, Hood exploded, and the German raiders headed for the Atlantic. The British fleet pursued their enemy. On May 26, rudder damage rendered Bismarck uncontrollable. In the battle that followed, the battleship was sunk."
 
 msgid "IDS_PGSB109_DESCR"
-msgstr "В 1938–39 гг. был разработан план модернизации и расширения немецкого флота. Ядром флота должны были стать шесть новых линкоров, представляющих собой модернизированный вариант линкоров типа Bismarck с дизельной силовой установкой и увеличенным калибром орудий. В июле 1939 г. на верфи Blohm & Voss в Гамбурге был заложен киль первого корабля, а в сентябре в Бремене начали строить второй. С началом Второй мировой войны строительство было приостановлено, а затем отменено."
+msgstr "In 1938 and 1939, a plan for the modernization and expansion of the German fleet was developed. Six new battleships were supposed to become the core of the fleet—modernized versions of the Bismarck-class battleships with a diesel power plant and increased gun caliber of up to 406 mm. In July 1939, the keel of the first ship was laid down at the Blohm & Voss shipyard in Hamburg, and in September, the construction of the second one began in Bremen. With the outbreak of World War II, construction was suspended and then canceled."
 
 msgid "IDS_PGSB111_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSB203_DESCR"
-msgstr "Немецкому флоту требовался качественный скачок для борьбы с британскими линейными крейсерами. Новый корабль вооружили четырьмя башнями с орудиями главного калибра, вместо паровых машин были установлены турбины, бронирование значительно превосходило британское. С началом Первой мировой войны SMS Von der Tann принял участие в набегах, целью которых было выманить Гранд-Флит из баз. Во время Ютландского сражения корабль потопил HMS Indefatigable, но получил несколько попаданий с британских кораблей, отчего вышла из строя вся артиллерия корабля."
+msgstr "The German fleet needed a qualitative leap to counter British battlecruisers effectively. The new ship was equipped with four turrets that housed 280 mm guns, turbines were employed in place of steam engines, and the armor protection was significantly superior to that of British warships. With the outbreak of World War I, SMS Von der Tann took part in raids to lure the Grand Fleet ships out of their bases. During the Battle of Jutland, the ship sank HMS Indefatigable, but she also took several hits from the British ships, disabling all of her artillery."
 
 msgid "IDS_PGSB207"
 msgstr "P. Heinrich"
@@ -9992,31 +9992,31 @@ msgid "IDS_PGSB209"
 msgstr "P. Rupprecht"
 
 msgid "IDS_PGSB209_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PGSB210_DESCR"
-msgstr "Проект быстроходного линкора с четырьмя башнями главного калибра водоизмещением в 50 000 т. Отличается от предшественника увеличенной на 30 м длиной и является крупнейшим из предэскизов, разработанных конструкторами Управления кораблестроения германского морского штаба в 1918 г. Это проект крупнейшего и наиболее тяжеловооружённого из всех линкоров Германии, вплоть до проработок линкора H, проходивших в начале 1940-х гг."
+msgstr "A project of a high-speed battleship with four main battery turrets and a displacement of 50,000 t. She was 30 m longer than her predecessor, making her the largest among the draft designs conceived by the Construction Office of the German Navy Headquarters in 1918. This project represents the largest and most heavily armed of all German battleships, extending up until the elaborations of the early 1940s relating to the H-class battleship."
 
 msgid "IDS_PGSB310_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSB503"
 msgstr "K. Albert"
 
 msgid "IDS_PGSB506_DESCR"
-msgstr "SMS Prinz Eitel Friedrich, линейный крейсер типа Mackensen, был назван в честь одного из сыновей кайзера Вильгельма II. До конца Первой мировой войны линкор не успели достроить, поскольку приоритет в строительстве был отдан подводным лодкам. Корабль спустили на воду только в марте 1920 г., в незавершённом состоянии. Предлагалось переоборудовать корабль в зерновоз: в таком случае он мог бы быть достроен как линкор в 1930-е гг. Однако предложение не было принято, и корпус корабля разобрали в 1921 г."
+msgstr "SMS Prinz Eitel Friedrich, a Mackensen-class battlecruiser, was named after one of the sons of Kaiser Wilhelm II. When World War I ended, the battleship had still not been completed due to a shift in priorities toward submarines. She was launched only in March 1920 in an unfinished state. It was suggested to convert the ship into a grain carrier: In that case, she could have been completed as a battleship in the 1930s. However, the proposal was declined, and the ship's hull was dismantled in 1921."
 
 msgid "IDS_PGSB507_DESCR"
-msgstr "Головной корабль своего типа, Scharnhorst был построен на верфях Вильгельмсхафена. В начале Второй мировой войны линкор принимал активное участие в рейдовых операциях. После ремонта в 1943 г. корабль перебазировался в Норвегию, имея целью прерывание поставок в СССР через полярные конвои. В ходе налёта на конвой JW-55B 26 декабря Scharnhorst получил тяжёлые повреждения от огня линкора Duke of York и был потоплен торпедами крейсеров Jamaica и Belfast."
+msgstr "The lead ship of her class, Scharnhorst, was built at the Wilhelmshaven shipyard. At the beginning of World War II, the battleship took an active part in raid operations. After repairs in 1943, the ship was relocated to Norway with the goal of interrupting deliveries to the U.S.S.R via the Arctic convoys. On December 26, during a raid on the JW-55B convoy, Scharnhorst took heavy damage from battleship Duke of York and was sunk by torpedoes from cruisers Jamaica and Belfast."
 
 msgid "IDS_PGSB509_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSB510"
 msgstr "Lothringen"
 
 msgid "IDS_PGSB510_DESCR"
-msgstr "Доктрина Кригсмарине предусматривала рейдерские действия крупных кораблей в Атлантике против британской торговли и снабжения. С этой целью с конца 1920-х — начала 1930-х гг. разрабатывались корабли, в том числе авианесущие с артиллерийским вооружением крейсеров и линкоров. Проект Atlantik-Flugzeugkreuzer A-III предполагал установку двух трёхорудийных башен крупного калибра."
+msgstr "The Kriegsmarine doctrine envisioned raiding actions by large ships in the Atlantic against British trade and supply routes. For this purpose, from the late 1920s to the early 1930s, ships were developed, including aircraft carriers with the artillery armament of cruisers and battleships. The Atlantik-Flugzeugkreuzer A-III project planned to equip the ship with two triple-gun turrets of large caliber."
 
 msgid "IDS_PGSB510_FULL"
 msgstr "Lothringen"
@@ -10025,19 +10025,19 @@ msgid "IDS_PGSB510_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSB510_YEAR"
-msgstr "1942 г."
+msgstr "1942"
 
 msgid "IDS_PGSB517_NUMBER"
 msgstr " "
 
 msgid "IDS_PGSB518_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSB537"
 msgstr "Pfalz"
 
 msgid "IDS_PGSB537_DESCR"
-msgstr "Гипотетический проект модернизации линейного корабля типа Bayern. Этот вариант предполагает замену двухорудийных установок с 380-мм орудиями на трёхорудийные 283-мм установки."
+msgstr "A hypothetical project for the modernization of a Bayern-class battleship. This variant suggests replacing the twin turrets with 380 mm guns with triple turrets with 283 mm guns."
 
 msgid "IDS_PGSB537_FULL"
 msgstr "Pfalz"
@@ -10046,13 +10046,13 @@ msgid "IDS_PGSB537_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSB537_YEAR"
-msgstr "1935 г."
+msgstr "1935"
 
 msgid "IDS_PGSB538_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSB597_DESCR"
-msgstr "Головной корабль своего типа, Scharnhorst был построен на верфях Вильгельмсхафена. В начале Второй мировой войны линкор принимал активное участие в рейдовых операциях. После ремонта в 1943 г. корабль перебазировался в Норвегию, имея целью прерывание поставок в СССР через полярные конвои. В ходе налёта на конвой JW-55B 26 декабря Scharnhorst получил тяжёлые повреждения от огня линкора Duke of York и был потоплен торпедами крейсеров Jamaica и Belfast."
+msgstr "The lead ship of her class, Scharnhorst, was built at the Wilhelmshaven shipyard. At the beginning of World War II, the battleship took an active part in raid operations. After repairs in 1943, the ship was relocated to Norway with the goal of interrupting deliveries to the U.S.S.R via the Arctic convoys. On December 26, during a raid on the JW-55B convoy, Scharnhorst took heavy damage from battleship Duke of York and was sunk by torpedoes from cruisers Jamaica and Belfast."
 
 msgid "IDS_PGSB599"
 msgstr "Pommern B"
@@ -10061,19 +10061,19 @@ msgid "IDS_PGSB599_FULL"
 msgstr "Pommern B"
 
 msgid "IDS_PGSB599_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSB610_DESCR"
-msgstr "Гипотетический вариант проекта линкора H, базировавшегося на типе Scharnhorst, а не Bismarck. Это дальний рейдер с дизельной энергетической установкой и с шестнадцатью 305-мм орудиями, имеющий целью оборвать судоходные связи Великобритании со своими доминионами и колониями."
+msgstr "A hypothetical variant of an H-class battleship project based on the Bismarck class instead of the Scharnhorst-class battleships. A long-range raider with a diesel power plant and sixteen 305 mm guns, tasked with a mission to cut off the navigable links between England and her dominions and colonies. It would have been feasible to maintain the 305 mm gun as the primary caliber for battleships had the U.K. stuck to the scope of the proposals it presented at the London Naval Conference about limiting the main caliber of battleships."
 
 msgid "IDS_PGSB610_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSB810"
 msgstr "Schlieffen CLR"
 
 msgid "IDS_PGSB810_DESCR"
-msgstr "Проект быстроходного линкора с четырьмя башнями главного калибра водоизмещением в 50 000 т. Отличается от предшественника увеличенной на 30 м длиной и является крупнейшим из предэскизов, разработанных конструкторами Управления кораблестроения германского морского штаба в 1918 г. Это проект крупнейшего и наиболее тяжеловооружённого из всех линкоров Германии, вплоть до проработок линкора H, проходивших в начале 1940-х гг."
+msgstr "A project of a high-speed battleship with four main battery turrets and a displacement of 50,000 t. She was 30 m longer than her predecessor, making her the largest among the draft designs conceived by the Construction Office of the German Navy Headquarters in 1918. This project represents the largest and most heavily armed of all German battleships, extending up until the elaborations of the early 1940s relating to the H-class battleship."
 
 msgid "IDS_PGSB810_FULL"
 msgstr "Schlieffen CLR"
@@ -10082,25 +10082,25 @@ msgid "IDS_PGSB810_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSB810_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PGSB910_DESCR"
-msgstr "Этот корабль является копией корабля Grosser Kurfürst и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of Grosser Kurfürst and is suitable for Clan Battles only"
 
 msgid "IDS_PGSB999_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSC109_DESCR"
-msgstr "После денонсации Версальского договора и подписания англо-германского морского соглашения Германия занялась дальнейшей проработкой «броненосцев» типа Deutschland. Было рассмотрено более двадцати вариантов предэскизных проектов. Одним из вариантов достижения проектной скорости было уменьшение калибра главных орудий до «вашингтонских» 203 мм. Оптимальным вариантом было бы размещение трёх таких башен вместо двух калибра 283 мм."
+msgstr "Following the denunciation of the Treaty of Versailles and the signing of the Anglo-German Naval Agreement, Germany went on with the development of the Deutschland-class \"ironclads.\" More than twenty draft designs were considered. According to the requirements, their speed should have exceeded 34 knots, and one way to achieve that speed was to reduce the caliber of the main guns to 203 mm, especially since a 203 mm triple-gun turret had already been designed. The best option would have been to deploy three such turrets instead of two turrets with 283 mm guns."
 
 msgid "IDS_PGSC111_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSC207"
 msgstr "Vineta"
 
 msgid "IDS_PGSC207_DESCR"
-msgstr "Немецкая программа развития военно-морских сил конца 1930-х гг. предполагала постройку шести лёгких крейсеров — эскадренных разведчиков при группах рейдеров. Последние два корабля этого типа должны были строиться по улучшенному проекту: увеличенные размеры и тяжёлое зенитное вооружение, а также улучшенное управление огнём ПВО. Радикальным вариантом была замена всех башен главного калибра на спаренные установки универсальных 128-мм орудий. Башни могли бы быть установлены в оконечностях группами по три: треугольником, вершина которого обращена к штевню."
+msgstr "The German naval development program of the late 1930s envisaged the construction of six light cruisers to serve as squadron scouts for raider groups. The last two ships of this type were to be built according to an improved design: larger in size with heavy anti-aircraft armament and improved AA fire control. A radical option was the replacement of all main battery turrets with twin mounts of dual-purpose 128 mm guns. The turrets could be installed at the ends of the ship in groups of three, arranged in a triangle with the apex pointing toward the bow."
 
 msgid "IDS_PGSC207_FULL"
 msgstr "Vineta"
@@ -10109,13 +10109,13 @@ msgid "IDS_PGSC207_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSC207_YEAR"
-msgstr "1939 г."
+msgstr "1939"
 
 msgid "IDS_PGSC208"
 msgstr "Hertha"
 
 msgid "IDS_PGSC208_DESCR"
-msgstr "В рамках плана развития немецкого флота, принятого в 1939 г., планировались к постройке лёгкие крейсеры, которые должны были использоваться как эскадренные разведчики при группах рейдеров. Два проекта отличались от остальных увеличенными размерами и тяжёлым зенитным вооружением с улучшенным управлением огнём. Таким образом, все орудия главного калибра могли бы быть заменены на спаренные установки универсальных 128-мм орудий. Шесть башен могли бы быть установлены группами по три в оконечностях, «горкой» в диаметральной плоскости корабля."
+msgstr "As part of the German fleet development plan adopted in 1939, light cruisers were planned for construction, intended to be used as squadron scouts for raider groups. Two designs differed from the others by their increased size and heavy anti-aircraft armament with improved fire control. Thus, all main battery guns could have been replaced with twin mounts of dual-purpose 128 mm guns. Six turrets could have been installed in groups of three at the ends of the ship, arranged in a 'cascade' along the ship's centerline."
 
 msgid "IDS_PGSC208_FULL"
 msgstr "Hertha"
@@ -10124,13 +10124,13 @@ msgid "IDS_PGSC208_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSC208_YEAR"
-msgstr "1939 г."
+msgstr "1939"
 
 msgid "IDS_PGSC209"
 msgstr "Freya"
 
 msgid "IDS_PGSC209_DESCR"
-msgstr "Дальнейшее развитие концепции крейсера ПВО, разработанного для флота Германии. Проект предполагает вооружение из универсальной артиллерии главного калибра. Корабль этого проекта основан на корпусе крейсера типа Prinz Eugen и вооружён семью спаренными установками 128-мм орудий. Три такие установки располагаются в оконечностях корабля в диаметральной плоскости, а ещё четыре — побортно от боевых рубок."
+msgstr "Further development of the AA cruiser concept, designed for the German fleet. The project envisages armament consisting of dual-purpose main battery artillery. The ship of this design is based on the hull of a Prinz Eugen-class cruiser and is armed with seven twin 128 mm gun mounts. Three of these mounts are located at the ship's ends along the centerline, and four more are positioned on the sides near the combat superstructures."
 
 msgid "IDS_PGSC209_FULL"
 msgstr "Freya"
@@ -10139,13 +10139,13 @@ msgid "IDS_PGSC209_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSC209_YEAR"
-msgstr "1940 г."
+msgstr "1940"
 
 msgid "IDS_PGSC210"
 msgstr "Hansa"
 
 msgid "IDS_PGSC210_DESCR"
-msgstr "Гипотетическое развитие немецкого лёгкого крейсера, вооружённого универсальной артиллерией главного калибра. Этот проект базируется на корпусе крейсера типа Prinz Eugen, а его вооружение состоит из восьми спаренных установок 128-мм орудий. Четыре башни главного калибра располагаются в оконечностях корабля в диаметральной плоскости, и ещё четыре помещены побортно от боевых рубок."
+msgstr "A hypothetical development of a German light cruiser armed with dual-purpose main battery artillery. This project is based on the hull of a Prinz Eugen-class cruiser, and its armament consists of eight twin 128 mm gun mounts. Four main battery turrets are located at the ship's ends along the centerline, and another four are placed on the sides near the combat superstructures."
 
 msgid "IDS_PGSC210_FULL"
 msgstr "Hansa"
@@ -10154,16 +10154,16 @@ msgid "IDS_PGSC210_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSC210_YEAR"
-msgstr "1940 г."
+msgstr "1940"
 
 msgid "IDS_PGSC519_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSC528_DESCR"
-msgstr "В конце 1930-х гг. руководством военно-морского флота Германии был разработан проект морской блокады Великобритании силами рейдерских соединений. Главной ударной силой в этом плане должны были стать 12 кораблей типа P, созданных на основе развития проекта броненосцев типа Deutschland. В 1939 г. были заключены контракты с верфями на строительство этих кораблей, но впоследствии заказ был отменён в пользу линейных крейсеров типа О. В оригинальной документации тип корабля указан как Handelszerstörer — «рейдер»."
+msgstr "In the late 1930s, the German Navy High Command ordered the development of a project that was intended for use as part of a naval blockade of Great Britain by raider formations. Twelve P-class ships, created based on the development of the Deutschland-class panzerschiff (heavy cruiser) project, were supposed to act as the main strike force in this plan. In 1939, contracts were signed with dockyards for the construction of these ships, but the order was subsequently canceled in favor of O-class battlecruisers. The original documentation specified the ship class as Handelsstörer, or \"Raider.\""
 
 msgid "IDS_PGSC529_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSC598"
 msgstr "Mainz B"
@@ -10172,22 +10172,22 @@ msgid "IDS_PGSC598_FULL"
 msgstr "Mainz B"
 
 msgid "IDS_PGSC706_DESCR"
-msgstr "Учебный корабль типа Deutschland, принадлежащий Морской академии Вильгельмсхафена. Командир — Thea Kreutzer, старпом — Wilhelmina. Корабль оснащён орудиями калибра 283 мм и имеет водоизмещение, соответствующее водоизмещению учебного крейсера. Дизельная ЭУ обеспечивает увеличенную дальность плавания при экономичной скорости. Благодаря этому, корабль раскрывает свой потенциал при выполнении операций именно на дальних рубежах. В аниме корабль используется для осуществления дальних походов. Из аниме High School Fleet."
+msgstr "Deutschland-class training ship of the Wilhelmshaven Marine High School. In the anime, the commander of the ship is Thea Kreutzer, and the vice commander is Wilhelmina. She has 28 cm guns mounted on a hull with a displacement equivalent to that of a training cruiser. Her diesel propulsion gives her an extensive cruising range, and this makes her a valuable asset for operations in far-flung locations. In the High School Fleet anime series, she is often used for long-distance voyages."
 
 msgid "IDS_PGSC809_DESCR"
-msgstr "После денонсации Версальского договора и подписания англо-германского морского соглашения Германия занялась дальнейшей проработкой «броненосцев» типа Deutschland. Было рассмотрено более двадцати вариантов предэскизных проектов. Одним из вариантов достижения проектной скорости было уменьшение калибра главных орудий до «вашингтонских» 203 мм. Оптимальным вариантом было бы размещение трёх таких башен вместо двух калибра 283 мм."
+msgstr "Following the denunciation of the Treaty of Versailles and the signing of the Anglo-German Naval Agreement, Germany went on with the development of the Deutschland-class \"ironclads.\" More than twenty draft designs were considered. According to the requirements, their speed should have exceeded 34 knots, and one way to achieve that speed was to reduce the caliber of the main guns to 203 mm, especially since a 203 mm triple-gun turret had already been designed. The best option would have been to deploy three such turrets instead of two turrets with 283 mm guns."
 
 msgid "IDS_PGSC910_DESCR"
-msgstr "Этот корабль является копией корабля Hindenburg и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of Hindenburg and is suitable for Clan Battles only"
 
 msgid "IDS_PGSD107_DESCR"
-msgstr "В конкурсе на новейший эсминец 1934 г. проект фирмы Deutsche Werke был признан наилучшим. Головной эсминец серии, Z-1 Leberecht Maass, был заложен в октябре 1934 г. и вступил в строй в феврале 1937 г. С началом Второй мировой войны он участвовал в блокаде морского побережья Польши и постановке минных заграждений в Северном море. 23 февраля 1940 г. в ходе операции «Викингер» эсминец был ошибочно атакован бомбардировщиками Люфтваффе и, уклоняясь от атаки, подорвался на британской мине."
+msgstr "In the competition for a new destroyer in 1934, the design submitted by Deutsche Werke prevailed. The lead destroyer of the series, the Z-1 Leberecht Maass, was laid down in October 1934 and entered service in February 1937. During World War II, the destroyer took part in the blockade of the Polish coastline and was involved in laying mines in the North Sea. Tragically, on February 23, 1940, during Operation Viking, the destroyer was mistakenly targeted by Luftwaffe bombers and subsequently sank."
 
 msgid "IDS_PGSD108_DESCR"
-msgstr "За типом 1934 последовали корабли улучшенного типа 1936. Головной корабль этого типа, Z-23, вошёл в строй в 1940 г. Эсминец сопровождал конвои в норвежских водах, позже — в Бискайском заливе. В 1941 г. Z-23 вернулся в Норвегию, где участвовал в охоте на полярные конвои, устанавливал минные поля. В 1943 г. его снова перевели во Францию. В ходе сражения в Бискайском заливе Z-23 был повреждён британскими бомбардировщиками. Корабль решили не восстанавливать."
+msgstr "The Type 1934 ships were followed by an improved Type 1936. The 1936A modification featured an \"Atlantic-style\" fore stem and 150 mm guns. The lead ship of this type, Z-23, entered service in 1940. The destroyer escorted convoys in the Norwegian waters and later in the Bay of Biscay. In 1941, Z-23 returned to Norway, where she hunted down Arctic convoys and laid minefields. In 1943, she was transferred to France again. During the Battle of the Bay of Biscay, Z-23 was damaged by British bombers and declared a write-off."
 
 msgid "IDS_PGSD109_DESCR"
-msgstr "Тип 1936C представлял собой корпус эсминца типа 1936A с более мощными турбинами от разведывательных крейсеров. Главное вооружение было представлено шестью 128-мм универсальными орудиями в трёх башенных установках. Всего было заказано шесть кораблей этого типа, но ни один из них не был спущен на воду. Z-46 был заложен в 1943 г. на верфи Deschimag, но из-за отсутствия материалов и проведения бомбардировок авиацией союзников строительство велось крайне медленно."
+msgstr "The Type 1936C ships were derived from the hull of a Type 1936A destroyer but featured upgraded turbines borrowed from reconnaissance cruisers for greater power. The main armament consisted of six 128 mm dual-purpose guns mounted in three turret mounts. A total of six ships of this class were ordered, but none of them were ever launched. Z-46 was laid down in 1943 at the Deschimag shipyard, but her construction faced significant delays due to material shortages and frequent Allied bombing raids."
 
 msgid "IDS_PGSD110_DESCR"
 msgstr "В начале 1940-х гг. началась постройка эсминцев с дизельной ходовой установкой. Первым стал тип 1942, по которому был заложен Z-51. Позже появился тип 1944 с увеличенной огневой мощью. Пять эсминцев, от Z-52 до Z-56, были заложены в 1943 г. на верфи Deschimag. Однако бомбардировки союзников, нехватка материалов и необходимость строительства подводных лодок привели к тому, что в 1944 г. постройка этих эсминцев была отменена."
@@ -10283,13 +10283,13 @@ msgid "IDS_PGSD610_YEAR"
 msgstr "1945 г."
 
 msgid "IDS_PGSD990"
-msgstr "Elbing (ЭМ)"
+msgstr "Elbing Test"
 
 msgid "IDS_PGSD990_DESCR"
 msgstr "Копия корабля для тестирования элитной модернизации."
 
 msgid "IDS_PGSD990_FULL"
-msgstr "Elbing (ЭМ)"
+msgstr "Elbing Test"
 
 msgid "IDS_PGSD990_YEAR"
 msgstr "1940 г."
@@ -10439,13 +10439,13 @@ msgid "IDS_PGUH907_PREUSSEN"
 msgstr "Preussen"
 
 msgid "IDS_PGUH910_D10_HULL_STOCK"
-msgstr "Elbing (ЭМ)"
+msgstr "Elbing Test"
 
 msgid "IDS_PGUH911_GROSSDEUTSCHLAND_A"
 msgstr "Grosser Kurfürst"
 
 msgid "IDS_PGUH912_CV10_HULL_STOCK"
-msgstr "Manfred Richthofen (ЭМ)"
+msgstr "Manfred Richthofen Test"
 
 msgid "IDS_PGUH914_S11_HULL_STOCK"
 msgstr "U-796"
@@ -10649,13 +10649,13 @@ msgid "IDS_PHSC710_YEAR"
 msgstr "1939 г."
 
 msgid "IDS_PHSC990"
-msgstr "Gouden Leeuw (ЭМ)"
+msgstr "Gouden Leeuw Test"
 
 msgid "IDS_PHSC990_DESCR"
 msgstr "Копия корабля для тестирования элитной модернизации."
 
 msgid "IDS_PHSC990_FULL"
-msgstr "Gouden Leeuw (ЭМ)"
+msgstr "Gouden Leeuw Test"
 
 msgid "IDS_PHSC990_YEAR"
 msgstr "1940 г."
@@ -10694,7 +10694,7 @@ msgid "IDS_PHUH503_HULL_KORTENAER"
 msgstr "Kortenaer"
 
 msgid "IDS_PHUH903_C10_HULL_STOCK"
-msgstr "Gouden Leeuw (ЭМ)"
+msgstr "Gouden Leeuw Test"
 
 msgid "IDS_PHUH904_HULL_CALLENBURGH"
 msgstr "Callenburgh"
@@ -10834,13 +10834,13 @@ msgid "IDS_PISB529_YEAR"
 msgstr "1942 г."
 
 msgid "IDS_PISB990"
-msgstr "C. Colombo (ЭМ)"
+msgstr "C. Colombo Test"
 
 msgid "IDS_PISB990_DESCR"
 msgstr "Копия корабля для тестирования элитной модернизации."
 
 msgid "IDS_PISB990_FULL"
-msgstr "Cristoforo Colombo (ЭМ)"
+msgstr "Cristoforo Colombo Test"
 
 msgid "IDS_PISB990_YEAR"
 msgstr "1945 г."
@@ -10882,13 +10882,13 @@ msgid "IDS_PISC590_FULL"
 msgstr "Napoli B"
 
 msgid "IDS_PISC990"
-msgstr "Venezia (ЭМ)"
+msgstr "Venezia Test"
 
 msgid "IDS_PISC990_DESCR"
 msgstr "Копия корабля для тестирования элитной модернизации."
 
 msgid "IDS_PISC990_FULL"
-msgstr "Venezia (ЭМ)"
+msgstr "Venezia Test"
 
 msgid "IDS_PISC990_YEAR"
 msgstr "1943 г."
@@ -10942,10 +10942,10 @@ msgid "IDS_PIUH811_TRANCLUCATOR"
 msgstr "Tranclucator"
 
 msgid "IDS_PIUH901_C10_HULL_STOCK"
-msgstr "Venezia (ЭМ)"
+msgstr "Venezia Test"
 
 msgid "IDS_PIUH906_BB10_HULL_STOCK"
-msgstr "Cristoforo Colombo (ЭМ)"
+msgstr "Cristoforo Colombo Test"
 
 msgid "IDS_PIUI801_F_TRANCLUCATOR"
 msgstr "TB2D Skypirate"
@@ -12909,13 +12909,13 @@ msgid "IDS_PRSA598_FULL"
 msgstr "Чкалов Ч"
 
 msgid "IDS_PRSA990"
-msgstr "Нахимов (ЭМ)"
+msgstr "Нахимов Test"
 
 msgid "IDS_PRSA990_DESCR"
 msgstr "Копия корабля для тестирования элитной модернизации."
 
 msgid "IDS_PRSA990_FULL"
-msgstr "Адмирал Нахимов (ЭМ)"
+msgstr "Адмирал Нахимов Test"
 
 msgid "IDS_PRSB001_DESCR"
 msgstr "Чтобы избежать возможного преимущества турецкого флота над Черноморским в Первой мировой войне, в 1914 г. в Николаеве был заложен новый дредноут «Император Николай I». Изначальный план его вооружения был пересмотрен ради ускорения строительства: вместо 356-мм линкор должен был иметь 305-мм орудия. В 1916 г. корабль был спущен на воду, однако последующие работы остановились из-за отсутствия необходимых механизмов и оборудования. В 1920-х гг. руководство СССР возобновило планы по достройке линкора, однако их так и не удалось воплотить в жизнь."
@@ -13197,13 +13197,13 @@ msgid "IDS_PRSC980_FULL"
 msgstr "Князь Владимир"
 
 msgid "IDS_PRSC990"
-msgstr "Петропавловск (ЭМ)"
+msgstr "Петропавловск Test"
 
 msgid "IDS_PRSC990_DESCR"
 msgstr "Копия корабля для тестирования элитной модернизации."
 
 msgid "IDS_PRSC990_FULL"
-msgstr "Петропавловск (ЭМ)"
+msgstr "Петропавловск Test"
 
 msgid "IDS_PRSC990_YEAR"
 msgstr "1947 г."
@@ -13395,10 +13395,10 @@ msgid "IDS_PRUH825_HULL_R_ALASKA"
 msgstr "Русская Аляска"
 
 msgid "IDS_PRUH900_C10_HULL_STOCK"
-msgstr "Петропавловск (ЭМ)"
+msgstr "Петропавловск Test"
 
 msgid "IDS_PRUH915_CV10_HULL_STOCK"
-msgstr "Адмирал Нахимов (ЭМ)"
+msgstr "Адмирал Нахимов Test"
 
 msgid "IDS_PRUH916_HULL_VLADIMIR_MONOMAKH"
 msgstr "Князь Владимир"
@@ -14166,13 +14166,13 @@ msgid "IDS_PWSD610_DESCR"
 msgstr "Småland, второй эсминец типа Halland, был заложен в Гётеборге на верфи Eriksberg в 1951 г., спущен на воду в октябре 1952 г. и вошёл в строй в январе 1956 г. «Крёстным отцом» эсминца стал командующий ВМФ Швеции адмирал Х. Стрёмбек. Служил в одной флотилии эсминцев со своим систершипом Halland. Был выведен из эксплуатации в 1979 г. и покинул состав флота в июле 1984 г. В 1987 г. корабль передали гётеборгскому Морскому центру в качестве корабля-музея, где он и находится до сих пор."
 
 msgid "IDS_PWSD990"
-msgstr "Halland (ЭМ)"
+msgstr "Halland Test"
 
 msgid "IDS_PWSD990_DESCR"
 msgstr "Копия корабля для тестирования элитной модернизации."
 
 msgid "IDS_PWSD990_FULL"
-msgstr "Halland (ЭМ)"
+msgstr "Halland Test"
 
 msgid "IDS_PWSD990_YEAR"
 msgstr "1955 г."
@@ -14187,7 +14187,7 @@ msgid "IDS_PWUH606_PIORUN"
 msgstr "Piorun"
 
 msgid "IDS_PWUH900_D10_HULL_STOCK"
-msgstr "Halland (ЭМ)"
+msgstr "Halland Test"
 
 msgid "IDS_PWUS606_SUO_PIORUN"
 msgstr "SUO Mk 7 Mod. 1"
