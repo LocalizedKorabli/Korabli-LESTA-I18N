@@ -9707,13 +9707,13 @@ msgid "IDS_PFSB599_FULL"
 msgstr "Jean Bart B"
 
 msgid "IDS_PFSB898_DESCR"
-msgstr "Этот корабль является копией корабля Richelieu и предназначен только для Кооперативных боёв."
+msgstr "This ship is a copy of Richelieu and is designed for Co-op Battles only."
 
 msgid "IDS_PFSC102_FULL"
 msgstr "Jurien de la Gravière"
 
 msgid "IDS_PFSC103_DESCR"
-msgstr "Работа над проектом «эскадренного разведчика» началась во Франции ещё в 1909 г. Корабль был заказан, но из-за начавшейся Первой мировой войны не был заложен. В течение войны проект неоднократно пересматривался. В финальном варианте главный калибр был представлен восемью орудиями, расположенными в четырёх двухорудийных башнях. Однако к тому времени французские инженеры исследовали трофейные немецкие крейсеры и получили информацию о характеристиках американских крейсеров типа Omaha, и в результате проект был признан устаревшим."
+msgstr "Work on a \"squadron reconnaissance\" project began in France back in 1909. The ship was ordered but not laid down due to the outbreak of World War I. During the war, the project was revised several times. In the final version, the main battery was represented by eight 138.6 mm guns arranged in four twin-gun turrets. However, by that time, French engineers were researching captured German cruisers, as well as the information they had received about the characteristics of American Omaha-class cruisers. As a result of their findings, the project was considered obsolete."
 
 msgid "IDS_PFSC106"
 msgstr "La Galissonnière"
@@ -9722,10 +9722,10 @@ msgid "IDS_PFSC106_FULL"
 msgstr "La Galissonnière"
 
 msgid "IDS_PFSC208_DESCR"
-msgstr "После подписания Вашингтонского морского договора Франция имела право постройки новых линкоров во время действия ограничений на корабли этого класса. Началось проектирование новых кораблей, которые можно было отнести по совокупности характеристик к линейным или «большим» крейсерам. В 1930 г. появился проект корабля водоизмещением 23 333 т, вооружённого восемью 305-мм орудиями в двух четырёхорудийных башнях на носу."
+msgstr "After signing the Washington Naval Treaty, France had the right to build new battleships despite the restrictions on ships of this type. The design of new ships began; they could be classified as battlecruisers or \"large\" cruisers in terms of their characteristics. In 1930, a project for a new ship was developed. It had a displacement of 23,333 tons, a speed of 30 knots, and was armed with eight 305 mm guns in two quadruple-gun turrets on the bow."
 
 msgid "IDS_PFSC209_DESCR"
-msgstr "После отказа от строительства кораблей по проекту крейсера водоизмещением 23 333 т дальнейшая разработка пошла по пути увеличения тоннажа. Окончательный проект предполагал вооружение из восьми 330-мм орудий в двух четырёхорудийных башнях и водоизмещение 26 500 т."
+msgstr "After the construction of ships under the design of the cruiser with a displacement of 23,333 tons was rejected, further development followed the path of increasing the tonnage. The final design included eight 330 mm guns in quadruple-gun turrets and a displacement of 26,500 tons. The cruiser was also supposed to receive three quadruple-gun and two twin-gun mounts with dual-purpose 130 mm guns."
 
 msgid "IDS_PFSC506"
 msgstr "De Grasse"
@@ -9734,58 +9734,58 @@ msgid "IDS_PFSC506_FULL"
 msgstr "De Grasse"
 
 msgid "IDS_PFSC509_DESCR"
-msgstr "В процессе проработок по «большому крейсеру» конца 1920-х — начала 1930-х гг. было создано несколько проектов крейсера водоизмещением 23 690 т. Один из этих проектов представляет собой корабль, вооружённый десятью 305-мм орудиями в трёх башнях: двух трёхорудийных и одной четырёхорудийной, причём последняя является возвышенной в носу, а одна из трёхорудийных находится в корме."
+msgstr "In the process of developing a \"large cruiser\" in the late 1920s and early 1930s, several cruiser projects with a displacement of 23,690 tons were created. One of these projects was a ship equipped with ten 305 mm guns in three turrets: two triple and one quadruple, with the latter being placed in a superfiring position on the bow and one of the triple turrets on the stern of the ship. The cruiser is also equipped with four 138.6 mm twin-gun mounts and eight 100 mm twin-gun mounts."
 
 msgid "IDS_PFSC510_DESCR"
-msgstr "Согласно послевоенным планам, французский флот должен был получить шесть крейсеров ПВО, но в итоге удалось построить только два. Один был переоборудован из корпуса крейсера De Grasse, второй был построен с нуля по сходному проекту. Проект включал в себя ряд модификаций, в том числе укороченную транцевую корму, увеличенную ширину, поворот корпуса и новую систему бронирования. Colbert был построен в Бресте. В 1960-х гг. корабль служил флагманом Средиземноморской эскадры, а в 1970–72 гг. был переоборудован в ракетный крейсер."
+msgstr "According to post-war plans, the French Navy was supposed to receive six AA defense cruisers, but in the end, only two were built. One was constructed using the De Grasse hull, while the other was built from scratch according to a similar design. The project incorporated several modifications, comprising a reduced transom stern, greater hull width, and a novel armor system. Colbert was built in Brest. In the first half of the 1960s, the ship served as the flagship of the Mediterranean Squadron, and between 1970 and 1972, she was rebuilt as a missile cruiser."
 
 msgid "IDS_PFSC516_DESCR"
-msgstr "Тяжёлый крейсер типа Suffren, строившийся по программе 1928 г. Морской генеральный штаб дал указание усилить бронирование, чтобы оно могло обеспечить защиту от 155-мм снарядов на дистанциях до 18 000 м. С началом военных действий крейсер участвовал в патрульных и эскортных миссиях, а также в набегах на Геную. После капитуляции Франции Dupleix почти не совершал выходов в море. Корабль был взорван 27 ноября 1942 г. во избежание захвата Германией."
+msgstr "Suffren-class heavy cruiser. An order was given to reinforce the armor to protect her from 155 mm shells at distances of up to 18,000 m. After joining the ranks, Dupleix was assigned to the 1st Light Division of the 1st Squadron in Toulon, and she was later transferred to the 1st Cruiser Division. With the outbreak of hostilities, the cruiser participated in patrol and escort missions, as well as in raids on Genoa. After the capitulation of France, Dupleix made almost no trips out to sea."
 
 msgid "IDS_PFSC896"
 msgstr "[La Galissonnière]"
 
 msgid "IDS_PFSC896_DESCR"
-msgstr "Этот корабль является копией корабля La Galissonnière и предназначен только для Кооперативных боёв."
+msgstr "This ship is a copy of La Galissonnière and is designed for Co-op Battles only."
 
 msgid "IDS_PFSC896_FULL"
-msgstr "[La Galissonnière]"
+msgstr "[La Galissonnière]"
 
 msgid "IDS_PFSD102_DESCR"
-msgstr "Enseigne Gabolde, третий корабль типа Enseigne Roux, отличался от предшественников энергетической установкой: на нём были установлены турбины с редуктором. Учитывая опыт Первой мировой войны, было также решено изменить состав вооружения: на корабле были установлены три орудия одного калибра, а калибр торпедных аппаратов был увеличен с 450 мм до 550 мм. Компоновка Enseigne Gabolde послужила основой для межвоенных французских эсминцев."
+msgstr "Enseigne Gabolde, the third ship of the Enseigne Roux class, had a different propulsion unit—it featured geared turbines. Taking into account the experience gathered during World War I, it was also decided to change the composition of the armament: three guns of the same caliber were mounted on the ship, and the 450 mm torpedo tubes were replaced with 550 mm ones. The design of Enseigne Gabolde served as the basis for the interwar French destroyers."
 
 msgid "IDS_PFSD106_DESCR"
-msgstr "Серия лидеров Guépard получила ряд усовершенствований по сравнению с Jaguar: был увеличен калибр основного артиллерийского вооружения, а ПВО была представлена новыми скорострельными 37-мм орудиями. Усиление вооружения повлекло за собой увеличение размеров и водоизмещения, для сохранения проектной скорости увеличилась мощность двигателя. Во Вторую мировую войну Guépard принимал участие в операциях против Италии, в частности в обстрелах порта Генуи."
+msgstr "The Guépard leader series received a number of improvements over Jaguar. The main battery comprised 138.6 mm guns, and the AA defenses were provided by new rapid-firing 37 mm guns. The improved armament resulted in an increase in size and displacement, so the engine power was increased to maintain the speed. During World War II, Guépard took part in operations against Italy—the shelling of the port of Genoa, in particular."
 
 msgid "IDS_PFSD107_DESCR"
-msgstr "При постройке лидеров типа Vauquelin впервые во французском флоте широко использовалась сварка. Орудия главного калибра были заменены на более новую модель 1927 г., также изменилось расположение и количество торпедных аппаратов. Все они получили названия в честь знаменитых французских моряков прошлого. Головной корабль серии в начале Второй мировой войны действовал в южном Средиземноморье."
+msgstr "For the first time in the French Navy, welding was widely used in the construction of the Vauquelin-class leaders. The 138.6 mm guns were replaced with the newer model of 1927, and the position and number of torpedo tubes changed. All of them were named after famous French sailors of the past. The lead ship of the series served in the southern Mediterranean region at the beginning of World War II."
 
 msgid "IDS_PFSD108"
 msgstr "Le Fantasque"
 
 msgid "IDS_PFSD108_DESCR"
-msgstr "Лидеры типа Le Fantasque разрабатывались для борьбы с итальянскими крейсерами-скаутами: требовались большие дальнобойность и скорострельность. Новое 50-калиберное орудие модели 1929 г. было спроектировано с учётом этих требований. С началом войны Le Fantasque вошёл в состав соединения наиболее современных кораблей, созданного с целью противостоять немецким рейдерам и блокадопрорывателям. После модернизации в США Le Fantasque воевал на Средиземном море, участвуя в высадке на Корсику и в Южно-французской операции."
+msgstr "Leaders of the Le Fantasque class were developed to counter the Italian scout cruisers—they needed to be effective over a long range and have a decent rate of fire. The new 50-caliber 138.6 mm 1929 gun model was designed according to these requirements. With the outbreak of war, Le Fantasque became part of the most modern ship task force created to resist the German raiders and blockade breakers. After her modernization in the U.S., Le Fantasque served in the Mediterranean Sea, taking part in the landing on Corsica and Operation Dragoon."
 
 msgid "IDS_PFSD108_FULL"
 msgstr "Le Fantasque"
 
 msgid "IDS_PFSD109_DESCR"
-msgstr "Новые эсминцы должны были сопровождать линейные крейсеры типа Dunkerque и противостоять немецким «карманным линкорам». Для этих целей проект предусматривал четыре спаренные установки орудий главного калибра. Вступив в строй, эти корабли оказались самыми новыми эсминцами во французских ВМС на начало Второй мировой войны. 3 июля 1940 г., во время операции «Катапульта», Mogador получил попадание снарядом 381 мм, нанёсшим тяжёлые повреждения."
+msgstr "The new destroyers were supposed to accompany the Dunkerque-class battlecruisers and oppose the German pocket battleships. To achieve these goals, the project provided four dual-purpose 138.6 mm mounts. Upon their commissioning, these ships were the newest destroyers in the French Navy at the beginning of World War II. On July 3, 1940, during Operation Catapult, Mogador was hit by a 381 mm shell that inflicted heavy damage."
 
 msgid "IDS_PFSD110_DESCR"
-msgstr "После заказа двух лидеров типа Mogador новые корабли этого класса не закладывались ещё несколько лет. В связи с ухудшающейся международной обстановкой, в 1939 г. было решено продолжить строительство лидеров. Новый проект предполагал усиленную ПВО. Однако начавшиеся военные действия приостановили, а затем и вовсе отменили закладку. В 1940 г. была предпринята вторая попытка начать постройку четырёх кораблей с вооружением из универсальных орудий, однако немецкое наступление и последующая капитуляция Франции отменили эти планы."
+msgstr "After the order was made for the two leaders of the Mogador class, the new ships of this type were not laid down for several years. In 1939, it was decided to continue building the leaders due to the deteriorating international situation. The new project included enhanced AA defenses. However, the outbreak of hostilities caused the construction to be suspended and then canceled. In 1940, there was a second attempt to build four ships armed with 130 mm dual-purpose guns, but the German offensive and capitulation of France interfered with those plans."
 
 msgid "IDS_PFSD504_DESCR"
-msgstr "Siroco, эсминец типа Bourrasque, был зачислен в состав 5-го дивизиона эсминцев из состава 1-й эскадры 1-й флотилии эсминцев. В начале Второй мировой войны эсминец занимался охраной конвоев и охотой на немецкие подводные лодки. Эсминец участвовал в эвакуации союзных войск из Дюнкерка. Ночью 31 мая, имея на борту около 900 эвакуируемых, Siroco получил торпедное попадание с немецкого шнелльбота, которое оторвало эсминцу винты. Обездвиженный корабль потопили немецкие пикирующие бомбардировщики и шнелльботы."
+msgstr "Siroco, a Bourrasque-class destroyer, was assigned to the 5th Destroyer Division of the 1st Squadron of the 1st Destroyer Flotilla. At the beginning of World War II, the destroyer was protecting convoys and scouting for German submarines. On May 29, during the evacuation of the Allied forces from Dunkirk, the destroyer evacuated 600 people. On the night of May 31, with about 900 evacuees on board, Siroco received a torpedo hit from a German schnellboot, which tore off the destroyer's propellers. The immobilized ship was sunk by German dive bombers and schnellboots."
 
 msgid "IDS_PFSD504_YEAR"
-msgstr "1927 г."
+msgstr "1927"
 
 msgid "IDS_PFSD508"
 msgstr "Le Terrible"
 
 msgid "IDS_PFSD508_DESCR"
-msgstr "Le Terrible, эсминец типа Le Fantasque, в начале Второй мировой войны занимался сопровождением конвоев и поисками немецких рейдеров в Атлантике, позже был переведён в Алжир для противодействия итальянскому флоту. Во время операции «Катапульта» Le Terrible вместе с линейным крейсером Dunkerque прорвался в Тулон. В 1942 г. эсминец был переведён в Дакар. Корабль принимал участие в высадке в Италии и в Южной Франции."
+msgstr "Le Terrible, a Le Fantasque-class destroyer, escorted convoys and scouted for German raiders in the Atlantic at the beginning of World War II. She was later transferred to Algeria to counter the Italian fleet. During Operation Catapult, Le Terrible broke through to Toulon together with battlecruiser Dunkerque. In 1942, the destroyer was transferred to Dakar. The ship participated in landings in Italy and Southern France."
 
 msgid "IDS_PFSD508_FULL"
 msgstr "Le Terrible"
@@ -9794,7 +9794,7 @@ msgid "IDS_PFSD610"
 msgstr "Châteaurenault"
 
 msgid "IDS_PFSD610_DESCR"
-msgstr "После Второй мировой войны итальянский лёгкий крейсер Attilio Regolo был передан Франции по репарациям и переименован в Châteaurenault. В 1951–54 гг. корабль прошёл капитальный ремонт с модернизацией, при этом он был реклассифицирован в эсминец. В конце 1950-х гг. Châteaurenault переоборудовали в корабль управления, несущий штаб флотилии. В 1961 г. Châteaurenault был выведен в резерв, и до 1969 г. на нём находилась школа морских фузилёров."
+msgstr "After World War II, the Italian light cruiser Attilio Regolo was handed over to France as reparations and renamed Châteaurenault. Between 1951 and 1954, the ship underwent a major overhaul with modernization, during which it was reclassified as a destroyer. In the late 1950s, Châteaurenault was converted into a command ship, carrying a flotilla staff. In 1961, Châteaurenault was placed in reserve, and until 1969, it housed a naval fusiliers' school."
 
 msgid "IDS_PFSD610_FULL"
 msgstr "Châteaurenault"
@@ -9803,16 +9803,16 @@ msgid "IDS_PFSD610_NUMBER"
 msgstr "1"
 
 msgid "IDS_PFSD610_YEAR"
-msgstr "1942 г."
+msgstr "1942"
 
 msgid "IDS_PFSD810_DESCR"
-msgstr "После заказа двух лидеров типа Mogador новые корабли этого класса не закладывались ещё несколько лет. В связи с ухудшающейся международной обстановкой, в 1939 г. было решено продолжить строительство лидеров. Новый проект предполагал усиленную ПВО. Однако начавшиеся военные действия приостановили, а затем и вовсе отменили закладку. В 1940 г. была предпринята вторая попытка начать постройку четырёх кораблей с вооружением из универсальных орудий, однако немецкое наступление и последующая капитуляция Франции отменили эти планы."
+msgstr "After the order was made for the two leaders of the Mogador class, the new ships of this type were not laid down for several years. In 1939, it was decided to continue building the leaders due to the deteriorating international situation. The new project included enhanced AA defenses. However, the outbreak of hostilities caused the construction to be suspended and then canceled. In 1940, there was a second attempt to build four ships armed with 130 mm dual-purpose guns, but the German offensive and capitulation of France interfered with those plans."
 
 msgid "IDS_PFUA907_ART_CHATEAURENAULT"
-msgstr "105-мм/65 SK C/33 в установке Dop. L. C/37"
+msgstr "105 mm/65 SK C/33 on a Dop. L. C/37 mount"
 
 msgid "IDS_PFUE906_ENG_CHATEAURENAULT"
-msgstr "ЭУ 110 000 л.с."
+msgstr "Propulsion: 110,000 hp"
 
 msgid "IDS_PFUH906_HULL_CHATEAURENAULT"
 msgstr "Châteaurenault"
@@ -9821,7 +9821,7 @@ msgid "IDS_PFUS906_SUO_CHATEAURENAULT"
 msgstr "PCA n°10"
 
 msgid "IDS_PFUT904_TORP_CHATEAURENAULT"
-msgstr "550-мм K2"
+msgstr "550 mm K2"
 
 msgid "IDS_PGAB801_LOTHRINGEN"
 msgstr "Bf 110C"
