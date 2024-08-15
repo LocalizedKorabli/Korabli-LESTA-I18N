@@ -6511,7 +6511,7 @@ msgid "IDS_PAUH820_D9_HULL_STOCK"
 msgstr "Maffitt"
 
 msgid "IDS_PAUH917_B10_HULL_STOCK"
-msgstr "Vermont (EM)"
+msgstr "Vermont Test"
 
 msgid "IDS_PAUH919_N_HAMPSHIRE"
 msgstr "New Hampshire"
@@ -8202,438 +8202,438 @@ msgstr "Earn %(count)s experience."
 
 msgid "IDS_PCQT012_1"
 msgid_plural "IDS_PCQT012_1"
-msgstr[0] "Повредите %(count)s модуль на корабле противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s module on an enemy ship."
+msgstr[1] "Damage %(count)s modules on enemy ships."
 
 msgid "IDS_PCQT015_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона пожарами."
+msgstr "Deal %(count)s damage to enemy ships by fire."
 
 msgid "IDS_PCQT017_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона затоплениями."
+msgstr "Deal %(count)s damage to enemy ships by flooding."
 
 msgid "IDS_PCQT019_1"
-msgstr "Заработайте %(count)s ед. свободного опыта."
+msgstr "Earn %(count)s free experience."
 
 msgid "IDS_PCQT032_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона огнём орудий главного или вспомогательного калибра."
+msgstr "Deal %(count)s damage to enemy ships by main or secondary battery fire."
 
 msgid "IDS_PCQT039_1"
 msgid_plural "IDS_PCQT039_1"
-msgstr[0] "Повредите %(count)s установку главного калибра на корабле противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s main battery mount on an enemy ship."
+msgstr[1] "Damage %(count)s main battery mounts on enemy ships."
 
 msgid "IDS_PCQT040_1"
-msgstr "Заработайте %(count)s ед. свободного опыта."
+msgstr "Earn %(count)s free experience."
 
 msgid "IDS_PCQT054_1"
-msgstr "Заработайте %(count)s ед. опыта командира."
+msgstr "Earn %(count)s commander experience."
 
 msgid "IDS_PCQT063_1"
-msgstr "Нанесите %(count)s ед. урона кораблям противника."
+msgstr "Deal %(count)s damage to enemy ships."
 
 msgid "IDS_PCQT070_1"
-msgstr "Заработайте %(count)s ед. опыта командира."
+msgstr "Earn %(count)s commander experience."
 
 msgid "IDS_PCQT079_1"
 msgid_plural "IDS_PCQT079_1"
-msgstr[0] "Повредите %(count)s модуль на корабле противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s module on an enemy ship."
+msgstr[1] "Damage %(count)s modules on enemy ships."
 
 msgid "IDS_PCQT083_1"
-msgstr "Нанесите %(count)s ед. урона огнём орудий главного или вспомогательного калибра."
+msgstr "Deal %(count)s damage to enemy ships by main or secondary battery fire."
 
 msgid "IDS_PCQT085_1"
-msgstr "Нанесите %(count)s ед. урона кораблям противника."
+msgstr "Deal %(count)s damage to enemy ships."
 
 msgid "IDS_PCQT091_1"
-msgstr "Нанесите %(count)s ед. урона кораблям противника."
+msgstr "Deal %(count)s damage to enemy ships."
 
 msgid "IDS_PCQT092_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона корабельными или авиаторпедами."
+msgstr "Deal %(count)s damage to enemy ships by ship or aerial torpedoes."
 
 msgid "IDS_PCQT095_1"
 msgid_plural "IDS_PCQT095_1"
-msgstr[0] "Повредите %(count)s модуль на эсминце или крейсере противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s module on an enemy destroyer or cruiser."
+msgstr[1] "Damage %(count)s modules on enemy destroyers or cruisers."
 
 msgid "IDS_PCQT098_1"
-msgstr "Повредите двигатель или рулевые машины на эсминце противника."
+msgstr "Damage the engine or steering gear on an enemy destroyer."
 
 msgid "IDS_PCQT099_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона корабельными торпедами."
+msgstr "Deal %(count)s damage to enemy ships by ship torpedoes."
 
 msgid "IDS_PCQT106_1"
 msgid_plural "IDS_PCQT106_1"
-msgstr[0] "Повредите %(count)s модуль на корабле противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s module on an enemy ship."
+msgstr[1] "Damage %(count)s modules on enemy ships."
 
 msgid "IDS_PCQT107_1"
-msgstr "Нанесите пожарами %(count)s ед. урона кораблям противника."
+msgstr "Deal %(count)s damage to enemy ships by fire."
 
 msgid "IDS_PCQT108_1"
-msgstr "Нанесите %(count)s ед. урона эсминцам противника."
+msgstr "Deal %(count)s damage to enemy destroyers."
 
 msgid "IDS_PCQT110_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона затоплениями."
+msgstr "Deal %(count)s damage to enemy ships by flooding."
 
 msgid "IDS_PCQT114_1"
 msgid_plural "IDS_PCQT114_1"
-msgstr[0] "Повредите %(count)s установку ПВО на корабле противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s AA gun mount on an enemy ship."
+msgstr[1] "Damage %(count)s AA gun mounts on enemy ships."
 
 msgid "IDS_PCQT116_1"
-msgstr "Заработайте %(count)s ед. опыта."
+msgstr "Earn %(count)s experience."
 
 msgid "IDS_PCQT125_1"
-msgstr "Нанесите %(count)s ед. урона эсминцам противника."
+msgstr "Deal %(count)s damage to enemy destroyers."
 
 msgid "IDS_PCQT131_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона огнём орудий главного или вспомогательного калибра."
+msgstr "Deal %(count)s damage to enemy ships by main or secondary battery fire."
 
 msgid "IDS_PCQT133_1"
-msgstr "Заработайте %(count)s ед. свободного опыта."
+msgstr "Earn %(count)s free experience."
 
 msgid "IDS_PCQT135_1"
-msgstr "Нанесите %(count)s ед. урона кораблям противника."
+msgstr "Deal %(count)s damage to enemy ships."
 
 msgid "IDS_PCQT144_1"
 msgid_plural "IDS_PCQT144_1"
-msgstr[0] "Повредите %(count)s модуль на корабле противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s module on an enemy ship."
+msgstr[1] "Damage %(count)s modules on enemy ships."
 
 msgid "IDS_PCQT147_1"
-msgstr "Заработайте %(count)s ед. свободного опыта."
+msgstr "Earn %(count)s free experience."
 
 msgid "IDS_PCQT151_CAMPAIGNSB_MISSION01_TASK01_1"
 msgid_plural "IDS_PCQT151_CAMPAIGNSB_MISSION01_TASK01_1"
-msgstr[0] "Нанесите %(count)s ед. урона кораблям Японии."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to Japanese ships."
+msgstr[1] "Deal %(count)s damage to Japanese ships."
 
 msgid "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1"
 msgid_plural "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1"
-msgstr[0] "Повредите %(count)s установку главного калибра на корабле противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s main battery mount on an enemy ship."
+msgstr[1] "Damage %(count)s main battery mounts on enemy ships."
 
 msgid "IDS_PCQT161_CAMPAIGNSB_MISSION02_TASK01_1"
 msgid_plural "IDS_PCQT161_CAMPAIGNSB_MISSION02_TASK01_1"
-msgstr[0] "Нанесите %(count)s ед. урона кораблям США."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to US ships."
+msgstr[1] "Deal %(count)s damage to US ships."
 
 msgid "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
 msgid_plural "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
-msgstr[0] "Повредите %(count)s модуль «Вспомогательный калибр» на корабле противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s secondary battery mount on an enemy ship."
+msgstr[1] "Damage %(count)s secondary battery mounts on enemy ships."
 
 msgid "IDS_PCQT168_CAMPAIGNSB_MISSION02_TASK08_KEY_1"
 msgid_plural "IDS_PCQT168_CAMPAIGNSB_MISSION02_TASK08_KEY_1"
-msgstr[0] "Заработайте %(count)s ед. опыта командира."
-msgstr[1] ""
+msgstr[0] "Earn %(count)s commander experience."
+msgstr[1] "Earn %(count)s commander experience."
 
 msgid "IDS_PCQT171_CAMPAIGNSB_MISSION03_TASK01_1"
 msgid_plural "IDS_PCQT171_CAMPAIGNSB_MISSION03_TASK01_1"
-msgstr[0] "Нанесите %(count)s ед. урона кораблям СССР."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to Soviet ships."
+msgstr[1] "Deal %(count)s damage to Soviet ships."
 
 msgid "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
 msgid_plural "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
-msgstr[0] "Повредите %(count)s модуль «Двигатель» на корабле противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s engine module on an enemy ship."
+msgstr[1] "Damage %(count)s engine modules on enemy ships."
 
 msgid "IDS_PCQT178_CAMPAIGNSB_MISSION03_TASK08_KEY_1"
 msgid_plural "IDS_PCQT178_CAMPAIGNSB_MISSION03_TASK08_KEY_1"
-msgstr[0] "Заработайте %(count)s ед. свободного опыта."
-msgstr[1] ""
+msgstr[0] "Earn %(count)s free experience."
+msgstr[1] "Earn %(count)s free experience."
 
 msgid "IDS_PCQT181_CAMPAIGNSB_MISSION04_TASK01_1"
 msgid_plural "IDS_PCQT181_CAMPAIGNSB_MISSION04_TASK01_1"
-msgstr[0] "Нанесите %(count)s ед. урона кораблям Германии."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to German ships."
+msgstr[1] "Deal %(count)s damage to German ships."
 
 msgid "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1"
 msgid_plural "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1"
-msgstr[0] "Повредите %(count)s модуль «Рулевая машина» на корабле противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s steering gear module on an enemy ship."
+msgstr[1] "Damage %(count)s steering gear modules on enemy ships."
 
 msgid "IDS_PCQT188_CAMPAIGNSB_MISSION04_TASK08_KEY_1"
 msgid_plural "IDS_PCQT188_CAMPAIGNSB_MISSION04_TASK08_KEY_1"
-msgstr[0] "Заработайте %(count)s ед. опыта."
-msgstr[1] ""
+msgstr[0] "Earn %(count)s experience."
+msgstr[1] "Earn %(count)s experience."
 
 msgid "IDS_PCQT191_CAMPAIGNSB_MISSION05_TASK01_1"
 msgid_plural "IDS_PCQT191_CAMPAIGNSB_MISSION05_TASK01_1"
-msgstr[0] "Нанесите %(count)s ед. урона кораблям противника."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to enemy ships."
+msgstr[1] "Deal %(count)s damage to enemy ships."
 
 msgid "IDS_PCQT192_CAMPAIGNSB_MISSION05_TASK02_1"
 msgid_plural "IDS_PCQT192_CAMPAIGNSB_MISSION05_TASK02_1"
-msgstr[0] "Заработайте %(count)s ед. опыта."
-msgstr[1] ""
+msgstr[0] "Earn %(count)s experience."
+msgstr[1] "Earn %(count)s experience."
 
 msgid "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1"
 msgid_plural "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1"
-msgstr[0] "Повредите %(count)s модуль на корабле противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s module on an enemy ship."
+msgstr[1] "Damage %(count)s modules on enemy ships."
 
 msgid "IDS_PCQT374_1"
 msgid_plural "IDS_PCQT374_1"
-msgstr[0] "Повредите %(count)s модуль на корабле противника."
-msgstr[1] ""
+msgstr[0] "Damage %(count)s module on an enemy ship."
+msgstr[1] "Damage %(count)s modules on enemy ships."
 
 msgid "IDS_PCQT376_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона огнём орудий главного калибра."
+msgstr "Deal %(count)s damage to enemy ships by main battery fire."
 
 msgid "IDS_PCQT377_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона пожарами."
+msgstr "Deal %(count)s damage to enemy ships by fire."
 
 msgid "IDS_PCQT378_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT380_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT388_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT390_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT395_1"
 msgid_plural "IDS_PCQT395_1"
-msgstr[0] "Нанесите %(count)s ед. урона эсминцам."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to destroyers."
+msgstr[1] "Deal %(count)s damage to destroyers."
 
 msgid "IDS_PCQT398_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT400_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT405_1"
 msgid_plural "IDS_PCQT405_1"
-msgstr[0] "Нанесите %(count)s ед. урона линкорам противника."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to enemy battleships."
+msgstr[1] "Deal %(count)s damage to enemy battleships."
 
 msgid "IDS_PCQT408_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона огнём орудий вспомогательного калибра."
+msgstr "Deal %(count)s damage to enemy ships by secondary battery fire."
 
 msgid "IDS_PCQT409_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT411_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT423_1"
 msgid_plural "IDS_PCQT423_1"
-msgstr[0] "Нанесите %(count)s ед. урона крейсерам противника."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to enemy cruisers."
+msgstr[1] "Deal %(count)s damage to enemy cruisers."
 
 msgid "IDS_PCQT425_1"
 msgid_plural "IDS_PCQT425_1"
-msgstr[0] "Нанесите %(count)s ед. урона линкорам."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to battleships."
+msgstr[1] "Deal %(count)s damage to battleships."
 
 msgid "IDS_PCQT426_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT428_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT501_1"
-msgstr "Заработайте %(count)s ед. опыта командира (со всеми модификаторами)."
+msgstr "Earn %(count)s commander experience (with all modifiers)."
 
 msgid "IDS_PCQT509_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT510_1"
-msgstr "Заработайте %(count)s ед. опыта командира (со всеми модификаторами)."
+msgstr "Earn %(count)s commander experience (with all modifiers)."
 
 msgid "IDS_PCQT514_1"
-msgstr "Войдите в топ-7 своей команды по количеству заработанного опыта, одержите победу и нанесите кораблям противника %(count)s ед. урона пожарами или затоплениями."
+msgstr "Place in the top 7 of your team by experience earned, win the battle, and deal %(count)s damage to enemy ships by fire or flooding."
 
 msgid "IDS_PCQT518_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT519_1"
-msgstr "Заработайте %(count)s ед. опыта командира (со всеми модификаторами)."
+msgstr "Earn %(count)s commander experience (with all modifiers)."
 
 msgid "IDS_PCQT528_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT529_1"
-msgstr "Заработайте %(count)s ед. опыта командира (со всеми модификаторами)."
+msgstr "Earn %(count)s commander experience (with all modifiers)."
 
 msgid "IDS_PCQT533_1"
 msgid_plural "IDS_PCQT533_1"
-msgstr[0] "Нанесите %(count)s ед. урона кораблям Германии или Японии."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to German or Japanese ships."
+msgstr[1] "Deal %(count)s damage to German or Japanese ships."
 
 msgid "IDS_PCQT535_1"
 msgid_plural "IDS_PCQT535_1"
-msgstr[0] "Войдите в топ-3 своей команды по количеству заработанного опыта, одержите победу и повредите %(count)s модуль на корабле противника."
-msgstr[1] ""
+msgstr[0] "Place in the top 3 of your team by experience earned, win the battle, and damage %(count)s module on an enemy ship."
+msgstr[1] "Place in the top 3 of your team by experience earned, win the battle, and damage %(count)s modules on enemy ships."
 
 msgid "IDS_PCQT536_1"
 msgid_plural "IDS_PCQT536_1"
-msgstr[0] "В победных боях нанесите %(count)s ед. урона кораблям Японии."
-msgstr[1] ""
+msgstr[0] "In winning battles, deal %(count)s damage to Japanese ships."
+msgstr[1] "In winning battles, deal %(count)s damage to Japanese ships."
 
 msgid "IDS_PCQT537_1"
 msgid_plural "IDS_PCQT537_1"
-msgstr[0] "В победных боях нанесите %(count)s ед. урона кораблям Германии."
-msgstr[1] ""
+msgstr[0] "In winning battles, deal %(count)s damage to German ships."
+msgstr[1] "In winning battles, deal %(count)s damage to German ships."
 
 msgid "IDS_PCQT538_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT539_1"
-msgstr "Заработайте %(count)s ед. опыта командира (со всеми модификаторами)."
+msgstr "Earn %(count)s commander experience (with all modifiers)."
 
 msgid "IDS_PCQT549_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT646_1"
 msgid_plural "IDS_PCQT646_1"
-msgstr[0] "Нанесите %(count)s ед. урона кораблям противника."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to enemy ships."
+msgstr[1] "Deal %(count)s damage to enemy ships."
 
 msgid "IDS_PCQT647_1"
 msgid_plural "IDS_PCQT647_1"
-msgstr[0] "Нанесите %(count)s ед. урона огнём орудий главного калибра."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage by main battery fire."
+msgstr[1] "Deal %(count)s damage by main battery fire."
 
 msgid "IDS_PCQT649_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT652_1"
-msgstr "Заработайте %(count)s ед. чистого опыта (до применения модификаторов)."
+msgstr "Earn %(count)s base experience (before modifiers)."
 
 msgid "IDS_PCQT658_1"
-msgstr "Заработайте %(count)s ед. чистого опыта (до применения модификаторов)."
+msgstr "Earn %(count)s base experience (before modifiers)."
 
 msgid "IDS_PCQT662_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT663_1"
 msgid_plural "IDS_PCQT663_1"
-msgstr[0] "Нанесите %(count)s ед. урона кораблям противника."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to enemy ships."
+msgstr[1] "Deal %(count)s damage to enemy ships."
 
 msgid "IDS_PCQT664_1"
-msgstr "Заработайте %(count)s ед. опыта (со всеми модификаторами)."
+msgstr "Earn %(count)s experience (with all modifiers)."
 
 msgid "IDS_PCQT667_1"
 msgid_plural "IDS_PCQT667_1"
-msgstr[0] "Нанесите %(count)s ед. урона кораблям противника."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to enemy ships."
+msgstr[1] "Deal %(count)s damage to enemy ships."
 
 msgid "IDS_PCQT668_1"
 msgid_plural "IDS_PCQT668_1"
-msgstr[0] "Нанесите %(count)s ед. урона огнём орудий главного калибра."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage by main battery fire."
+msgstr[1] "Deal %(count)s damage by main battery fire."
 
 msgid "IDS_PCQT669_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона пожарами."
+msgstr "Deal %(count)s damage to enemy ships by fire."
 
 msgid "IDS_PCQT671_1"
 msgid_plural "IDS_PCQT671_1"
-msgstr[0] "Нанесите кораблям противника %(count)s ед. урона корабельными торпедами."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to enemy ships by ship torpedoes."
+msgstr[1] "Deal %(count)s damage to enemy ships by ship torpedoes."
 
 msgid "IDS_PCQT673_1"
 msgid_plural "IDS_PCQT673_1"
-msgstr[0] "Нанесите %(count)s ед. урона кораблям противника."
-msgstr[1] ""
+msgstr[0] "Deal %(count)s damage to enemy ships."
+msgstr[1] "Deal %(count)s damage to enemy ships."
 
 msgid "IDS_PCQT678_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона огнём орудий главного калибра."
+msgstr "Deal %(count)s damage to enemy ships by main battery fire."
 
 msgid "IDS_PCQT679_1"
 msgid_plural "IDS_PCQT679_1"
-msgstr[0] "Получите %(count)s ед. потенциального урона."
-msgstr[1] ""
+msgstr[0] "Receive %(count)s potential damage."
+msgstr[1] "Receive %(count)s potential damage."
 
 msgid "IDS_PCQT682_1"
-msgstr "Заработайте %(count)s ед. опыта командира."
+msgstr "Earn %(count)s commander experience."
 
 msgid "IDS_PCQT683_1"
-msgstr "Нанесите %(count)s ед. урона кораблям противника."
+msgstr "Deal %(count)s damage to enemy ships."
 
 msgid "IDS_PCQT686_1"
 msgid_plural "IDS_PCQT686_1"
-msgstr[0] "Получите %(count)s ед. потенциального урона."
-msgstr[1] ""
+msgstr[0] "Receive %(count)s potential damage."
+msgstr[1] "Receive %(count)s potential damage."
 
 msgid "IDS_PCQT687_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона огнём орудий главного калибра."
+msgstr "Deal %(count)s damage to enemy ships by main battery fire."
 
 msgid "IDS_PCQT691_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона."
+msgstr "Deal %(count)s damage to enemy ships."
 
 msgid "IDS_PCQT692_1"
-msgstr "Нанесите кораблям противника %(count)s ед. урона торпедами."
+msgstr "Deal %(count)s damage to enemy ships by torpedoes."
 
 msgid "IDS_PCQT693_1"
-msgstr "Заработайте %(count)s ед. чистого опыта (до применения модификаторов)."
+msgstr "Earn %(count)s base experience (before modifiers)."
 
 msgid "IDS_PCVE020_DESCRIPTION"
-msgstr "Сразитесь с японской эскадрой, превосходящей вас числом, но уступающей в боевой мощи."
+msgstr "Engage a Japanese squadron that outnumbers you but is inferior in combat power."
 
 msgid "IDS_PCVE020_MATCHMAKER_DESCRIPTION"
-msgstr "Противник превосходит вас числом, но уступает в боевой мощи."
+msgstr "The enemy outnumbers you, but is inferior in combat power."
 
 msgid "IDS_PCVE022"
-msgstr "К высотам мастерства"
+msgstr "To the Heights of Mastery"
 
 msgid "IDS_PCVE022_DESCRIPTION"
-msgstr "Пройдите пять испытаний, соревнуясь с другими игроками на выбывание."
+msgstr "Complete five challenges, competing with other players in elimination."
 
 msgid "IDS_PCVE022_MATCHMAKER_DESCRIPTION"
-msgstr "Пройдите пять испытаний, соревнуясь с другими игроками на выбывание."
+msgstr "Complete five challenges, competing with other players in elimination."
 
 msgid "IDS_PCVE026"
-msgstr "Скрытые манёвры"
+msgstr "Stealth Maneuvers"
 
 msgid "IDS_PCVE026_DESCRIPTION"
-msgstr "Испытайте в бою новый принцип обнаружения кораблей авиацией."
+msgstr "Test the new ship detection principle by aircraft in battle."
 
 msgid "IDS_PCVE026_MATCHMAKER_DESCRIPTION"
-msgstr "Испытайте в бою новый принцип обнаружения кораблей авиацией."
+msgstr "Test the new ship detection principle by aircraft in battle."
 
 msgid "IDS_PCVO030_OP_RANDOM_GOAL"
-msgstr "Сюжетные сражения против ботов."
+msgstr "Story battles against bots."
 
 msgid "IDS_PCVO031_EV_HL_23_E02_HALLOWEEN_2023_NAME_RESULT_SCREEN"
-msgstr "Последний поход „Трансильвании“"
+msgstr "Transylvania's Last Voyage"
 
 msgid "IDS_PCZA020_KOTS"
-msgstr "Царь морей"
+msgstr "King of the Sea"
 
 msgid "IDS_PCZA020_KOTS_QUOTES"
-msgstr "«Царь морей»"
+msgstr "“King of the Sea”"
 
 msgid "IDS_PCZA030_MAY_DAY"
-msgstr "Флот победы"
+msgstr "Victory Fleet"
 
 msgid "IDS_PCZA030_MAY_DAY_QUOTES"
-msgstr "«Флот победы»"
+msgstr "“Victory Fleet”"
 
 msgid "IDS_PCZA034_SCARLET_BIRTHDAY"
-msgstr "Во имя прогресса!"
+msgstr "In the Name of Progress!"
 
 msgid "IDS_PCZA034_SCARLET_BIRTHDAY_QUOTES"
-msgstr "«Во имя прогресса!»"
+msgstr "“In the Name of Progress!”"
 
 msgid "IDS_PCZA035_JAP_BB_EA_DRAGONS"
-msgstr "Героическая схватка"
+msgstr "Heroic Clash"
 
 msgid "IDS_PCZA035_JAP_BB_EA_DRAGONS_QUOTES"
-msgstr "«Героическая схватка»"
+msgstr "“Heroic Clash”"
 
 msgid "IDS_PCZA036_ARIA"
-msgstr "Здесь куют металл"
+msgstr "Forging Metal"
 
 msgid "IDS_PCZA036_ARIA_QUOTES"
-msgstr "«Здесь куют металл»"
+msgstr "“Forging Metal”"
 
 msgid "IDS_PCZC011_BISMARCK_BISMARCK_DESCRIPTION"
 msgstr ""
