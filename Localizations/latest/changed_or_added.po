@@ -10190,16 +10190,16 @@ msgid "IDS_PGSD109_DESCR"
 msgstr "The Type 1936C ships were derived from the hull of a Type 1936A destroyer but featured upgraded turbines borrowed from reconnaissance cruisers for greater power. The main armament consisted of six 128 mm dual-purpose guns mounted in three turret mounts. A total of six ships of this class were ordered, but none of them were ever launched. Z-46 was laid down in 1943 at the Deschimag shipyard, but her construction faced significant delays due to material shortages and frequent Allied bombing raids."
 
 msgid "IDS_PGSD110_DESCR"
-msgstr "В начале 1940-х гг. началась постройка эсминцев с дизельной ходовой установкой. Первым стал тип 1942, по которому был заложен Z-51. Позже появился тип 1944 с увеличенной огневой мощью. Пять эсминцев, от Z-52 до Z-56, были заложены в 1943 г. на верфи Deschimag. Однако бомбардировки союзников, нехватка материалов и необходимость строительства подводных лодок привели к тому, что в 1944 г. постройка этих эсминцев была отменена."
+msgstr "In the early 1940s, the construction of destroyers running on diesel fuel began. Type 1942 became the first in the series and served as the basis for Z-51, which was laid down in 1943. Later, Type 1944 arrived, fitted with increased firepower. Five destroyers, from Z-52 to Z-56, were laid down in 1943 at the Deschimag shipyard. However, bombardments by Allied forces, a lack of materials, and the need to build submarines led to the construction of these destroyers being canceled in 1944."
 
 msgid "IDS_PGSD110_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PGSD111"
 msgstr "Otto Weddigen"
 
 msgid "IDS_PGSD111_DESCR"
-msgstr "В 1945 г. на основе конструкции эсминцев типа 1936D был спроектирован тип 1945. Его конструкция отличалась от предыдущих проектов прежде всего возвратом к использованию паровых турбин, а не дизелей. Такой корабль был бы вооружён значительно тяжелее: восемью 128-мм универсальными орудиями в четырёх башенных установках. Несмотря на более тяжёлое вооружение, турбозубчатые агрегаты обеспечили бы более высокую производительность энергетической установки по сравнению с дизельными двигателями."
+msgstr "In 1945, based on the design of the Type 1936D destroyers, the Type 1945 was developed. Its design differed from previous projects primarily by returning to the use of steam turbines instead of diesel engines. This ship would have been significantly more heavily armed: with eight 128 mm dual-purpose guns in four turret mounts. Despite the heavier armament, the turbo-geared units would have provided higher performance of the power plant compared to diesel engines."
 
 msgid "IDS_PGSD111_FULL"
 msgstr "Otto Weddigen"
@@ -10208,7 +10208,7 @@ msgid "IDS_PGSD111_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSD111_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSD208"
 msgstr "G. J. Maerker"
@@ -10217,28 +10217,28 @@ msgid "IDS_PGSD209"
 msgstr "F. Schultz"
 
 msgid "IDS_PGSD506_DESCR"
-msgstr "После захвата Нидерландов Германии достались голландские судостроительные мощности. На нидерландских верфях была заказана серия из двенадцати флотских миноносцев 1940 г. Заложенные в 1942 г. корабли строились медленно из-за нежелания голландцев работать на оккупантов. К моменту высадки союзников в Нормандии ни один корабль серии не был спущен на воду. Три самых готовых корабля были в срочном порядке отбуксированы в Германию, но один из них был потоплен британскими бомбардировщиками, а остальные не были достроены из-за отсутствия средств."
+msgstr "Having captured the Netherlands, Germany took over the Dutch shipbuilding facilities. A series of twelve fleet destroyers from 1940 was ordered from the Dutch shipyards. Starting in 1942, the construction progressed slowly due to the reluctance of the Dutch to work for the invaders. By the time the Allied troops landed in Normandy, not a single ship of the series had been launched. The three ships closest to completion were rapidly towed to Germany; however, one of them was sunk by British bombers, and the others were never finished due to a lack of funds."
 
 msgid "IDS_PGSD508_DESCR"
-msgstr "Эсминец типа 1936А, Z-39, вступил в строй в 1943 г., но из-за ошибок при строительстве к боевым действиям он был готов только в 1944 г. В марте 1944 г. его перевели в Таллин в состав 6-й флотилии эсминцев, где он участвовал в минных постановках и обстрелах советских войск. В июне корабль был повреждён советской авиацией. После ремонта эсминец сопровождал конвои с эвакуируемыми из Восточной Пруссии и Курляндии. После войны был передан флоту США, а в 1948 г. — флоту Франции."
+msgstr "Type 1936A destroyer Z-39 entered service in 1943, but due to construction faults, she was not ready for combat until 1944. In March 1944, she was transferred to Tallinn to join the 6th Destroyer Flotilla, where she participated in minelaying and shelled Soviet troops. In June, Z-39 was damaged by Soviet aircraft. After repairs, the destroyer accompanied convoys with evacuees from East Prussia and Courland. After the war, she was transferred to the U.S. Navy and renamed DD-939, and in 1948, the ship was handed over to the French Navy, where she served under the name Q-128."
 
 msgid "IDS_PGSD508_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PGSD516"
 msgstr "K. Schönberg"
 
 msgid "IDS_PGSD518_DESCR"
-msgstr "Летом 1939 г. было заказано двенадцать эсминцев типа 1936B. С началом Второй мировой войны часть кораблей была отменена, часть — перезаложена, уже как новый тип 1936A (Mob). Корабль Z-35 был заложен в 1941 г. по оригинальному проекту и вошёл в строй в сентябре 1943 г. В 1944 г. эсминец был переведён в Таллин, где участвовал в минных постановках и набеговых операциях. В конце 1944 г. в ходе операции в Финском заливе Z-35 подорвался на мине и затонул."
+msgstr "In the summer of 1939, 12 Type 1936B destroyers were ordered. However, with the outbreak of World War II, the construction of some of the ships was canceled, and some were laid down again as the new Type 1936A(Mob). Z-35 was laid down in 1941 according to the original project and entered service in September 1943. In 1944, the destroyer was transferred to Tallinn, where she participated in minelaying and raiding operations. At the end of 1944, during an operation in the Gulf of Finland, Z-35 struck a mine and sank."
 
 msgid "IDS_PGSD518_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PGSD538"
 msgstr "Z-32"
 
 msgid "IDS_PGSD538_DESCR"
-msgstr "Эсминцы типа 1938B, предназначенные для действий на Балтике, были заказаны к постройке летом 1939 г., но с началом Второй мировой войны корабли были перезаказаны как тип 1936А (Mob). Z-32 был построен в Бремене и, войдя в строй, присоединился к 8-й флотилии эсминцев. Корабль участвовал в прикрытии итальянских и немецких блокадопрорывателей. В июне 1944 г. эсминец получил серьёзные повреждения в бою у острова Уэссан и сел на мель у острова Иль-де-Ба. Команда взорвала не подлежащий восстановлению Z-32."
+msgstr "The Type 1938B destroyers, intended for operations in the Baltic, were ordered for construction in the summer of 1939, but with the start of World War II, the ships were reordered as Type 1936A (Mob). Z-32 was built in Bremen and, upon entering service, joined the 8th Destroyer Flotilla. The ship participated in covering Italian and German blockade runners. In June 1944, the destroyer was severely damaged in battle near the island of Ushant and ran aground near the Île de Batz. The crew scuttled the irreparably damaged Z-32."
 
 msgid "IDS_PGSD538_FULL"
 msgstr "Z-32"
@@ -10247,13 +10247,13 @@ msgid "IDS_PGSD538_NUMBER"
 msgstr "7"
 
 msgid "IDS_PGSD538_YEAR"
-msgstr "1942 г."
+msgstr "1942"
 
 msgid "IDS_PGSD548"
 msgstr "Z-33"
 
 msgid "IDS_PGSD548_DESCR"
-msgstr "Изначально заказанный в рамках типа 1938B, этот корабль был перезаказан как эсминец типа 1936А (Mob). Z-33 был построен в Бремене. После прохождения обучения экипажа корабль был направлен в Норвегию, где в сентябре 1943 г. принял участие в набеге на Шпицберген. В составе эскорта линкора Scharnhorst эсминец участвовал в атаках на полярные конвои союзников, а с октября 1944 г. сам прикрывал конвои во время эвакуации немцев из северной Норвегии. В январе 1946 г. корабль был передан по репарациям Советскому Союзу, где получил имя «Проворный»."
+msgstr "Originally ordered as part of the Type 1938B, this ship was reordered as a Type 1936A (Mob) destroyer. Z-33 was built in Bremen. After crew training, the ship was sent to Norway, where in September 1943, it took part in the raid on Spitsbergen. As part of the escort for the battleship Scharnhorst, the destroyer participated in attacks on Allied Arctic convoys, and from October 1944, it provided cover for convoys during the evacuation of Germans from northern Norway. In January 1946, the ship was handed over to the Soviet Union as reparations, where it was renamed \"Provorny\" (meaning \"Swift\")."
 
 msgid "IDS_PGSD548_FULL"
 msgstr "Z-33"
@@ -10262,13 +10262,13 @@ msgid "IDS_PGSD548_NUMBER"
 msgstr "7"
 
 msgid "IDS_PGSD548_YEAR"
-msgstr "1942 г."
+msgstr "1942"
 
 msgid "IDS_PGSD558"
 msgstr "Z-38"
 
 msgid "IDS_PGSD558_DESCR"
-msgstr "Эсминец типа 1936А (Mob), построенный в Киле. После обучения экипажа Z-38 был направлен в Норвегию. В 1944 г. эсминец участвовал в патрульных миссиях, прикрывал отступление немецких войск из Заполярья. В 1945 г. корабль был переведён на Балтику, где принимал участие в боевых действиях в Восточной Пруссии, обстреливая советские позиции у побережья и эскортируя военные транспорты. В июле 1945 г. эсминец был передан британскому флоту, где получил имя HMS Nonsuch."
+msgstr "A Type 1936A (Mob) destroyer, built in Kiel. After crew training, Z-38 was sent to Norway. In 1944, the destroyer participated in patrol missions, covering the retreat of German troops from the Arctic. In 1945, the ship was transferred to the Baltic, where it took part in combat operations in East Prussia, bombarding Soviet positions on the coast and escorting military transports. In July 1945, the destroyer was handed over to the British fleet, where it was renamed HMS Nonsuch."
 
 msgid "IDS_PGSD558_FULL"
 msgstr "Z-38"
@@ -10277,31 +10277,31 @@ msgid "IDS_PGSD558_NUMBER"
 msgstr "7"
 
 msgid "IDS_PGSD558_YEAR"
-msgstr "1942 г."
+msgstr "1942"
 
 msgid "IDS_PGSD610_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PGSD990"
 msgstr "Elbing Test"
 
 msgid "IDS_PGSD990_DESCR"
-msgstr "Копия корабля для тестирования элитной модернизации."
+msgstr "Ship for test."
 
 msgid "IDS_PGSD990_FULL"
 msgstr "Elbing Test"
 
 msgid "IDS_PGSD990_YEAR"
-msgstr "1940 г."
+msgstr "1940"
 
 msgid "IDS_PGSS110_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PGSS111"
 msgstr "U-796"
 
 msgid "IDS_PGSS111_DESCR"
-msgstr "Проект большой океанской лодки с двигателем Вальтера. Корабль должен был иметь обтекаемый корпус, баки с перекисью водорода для турбины Вальтера располагались внутри прочного корпуса. В декабре 1943 г. в Киле было заложено две подводные лодки, U-796 и U-797, но в марте 1944 г. их постройка была отменена в связи с дефицитом топлива. В результате замены топливных баков на ёмкие батареи и турбины Вальтера на электромоторы был разработан проект подводных лодок типа XXI."
+msgstr "A project for a large ocean-going submarine equipped with a Walter engine. The ship was to have a streamlined hull, with hydrogen peroxide tanks for the Walter turbine located inside the pressure hull. In December 1943, two submarines, U-796 and U-797, were laid down in Kiel, but in March 1944, their construction was canceled due to fuel shortages. As a result of replacing the fuel tanks with large batteries and the Walter turbines with electric motors, the Type XXI submarine project was developed."
 
 msgid "IDS_PGSS111_FULL"
 msgstr "U-796"
@@ -10310,97 +10310,97 @@ msgid "IDS_PGSS111_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSS111_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PGSS210_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PGSS510_DESCR"
-msgstr "Компания Walter-Werke в октябре 1943 г. предложила Кригсмарине проект подводной лодки с двигателем закрытого цикла системы Вальтера, работающим на перекиси водорода. Такой двигатель одинаково хорошо работал и в надводном, и в подводном положении. Отдельные модули для корпусов должны были изготавливаться на разных верфях. К концу войны были произведены секции для четырёх подводных лодок: от U-4501 до U-4504."
+msgstr "In October 1943, Walterwerke submitted a proposal to the Kriegsmarine for a submarine featuring a closed-cycle Walter system engine fueled by hydrogen peroxide. This engine was designed to operate effectively whether the submarine was on the surface or submerged. The various sections of the submarine hulls had to be manufactured in different shipyards, and sections for four submarines—designated U-4501 to U-4504—were produced before the war reached its conclusion."
 
 msgid "IDS_PGSS510_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PGUA609_ART_PFALZ"
-msgstr "283-мм/54.5 SK C/34 в установке Drh LC/34"
+msgstr "283 mm/54.5 SK C/34 in Drh LC/34 mount"
 
 msgid "IDS_PGUA610_C7_ART_STOCK"
-msgstr "128-мм/54 Doppelflak L/54 в башенной установке"
+msgstr "128 mm/54 Doppelflak L/54 in a turret mount"
 
 msgid "IDS_PGUA719_D8_ART_STOCK"
-msgstr "150-мм/55 Tbts KC/36 в башенной установке"
+msgstr "150 mm/55 Tbts KC/36 in a turret mount"
 
 msgid "IDS_PGUA720_D8_ART_STOCK"
-msgstr "150-мм/55 Tbts KC/36 в башенной установке"
+msgstr "150 mm/55 Tbts KC/36 in a turret mount"
 
 msgid "IDS_PGUA722_D8_ART_STOCK"
-msgstr "150-мм/55 Tbts KC/36 в башенной установке"
+msgstr "150 mm/55 Tbts KC/36 in a turret mount"
 
 msgid "IDS_PGUA723_C8_ART_STOCK"
-msgstr "128-мм/54 Doppelflak L/54 в башенной установке"
+msgstr "128 mm/54 Doppelflak L/54 in a turret mount"
 
 msgid "IDS_PGUA810_ART_LOTHRINGEN"
-msgstr "380-мм/52 SK C/34 в башенной установке"
+msgstr "380 mm/52 SK C/34 in a turret mount"
 
 msgid "IDS_PGUA814_ART_C9_ART_STOCK"
-msgstr "128-мм/61 KM40 в башенной установке"
+msgstr "128 mm/61 KM40 in a turret mount"
 
 msgid "IDS_PGUA900_D11_ART_STOCK"
-msgstr "128-мм/61 KM40 в башенной установке"
+msgstr "128 mm/61 KM40 in a turret mount"
 
 msgid "IDS_PGUA911_ART_COLORFUL_SCHLIEFFEN"
-msgstr "420-мм/50 SK L/50 в установке Drh LC/1918"
+msgstr "420 mm/50 SK L/50 in Drh LC/1918 mount"
 
 msgid "IDS_PGUA912_C10_ART_STOCK"
-msgstr "128-мм/61 KM40 в башенной установке"
+msgstr "128 mm/61 KM40 in a turret mount"
 
 msgid "IDS_PGUB801_TB_LOTHRINGEN"
 msgstr "Bf 110C"
 
 msgid "IDS_PGUE412_B5_ENG_TOP"
-msgstr "ЭУ 63 000 л.с."
+msgstr "Propulsion: 63,000 hp"
 
 msgid "IDS_PGUE609_ENG_PFALZ"
-msgstr "ЭУ 75 000 л.с."
+msgstr "Propulsion: 75,000 hp"
 
 msgid "IDS_PGUE610_C7_ENG_STOCK"
-msgstr "ЭУ 116 500 л.с."
+msgstr "Propulsion: 116,500 hp"
 
 msgid "IDS_PGUE724_ENG_BLACK_BRANDENBURG"
-msgstr "ЭУ 180 000 л.с."
+msgstr "Propulsion: 180,000 hp"
 
 msgid "IDS_PGUE725_D8_ENG_STOCK"
-msgstr "ЭУ 70 000 л.с."
+msgstr "Propulsion: 70,000 hp"
 
 msgid "IDS_PGUE726_D8_ENG_STOCK"
-msgstr "ЭУ 70 000 л.с."
+msgstr "Propulsion: 70,000 hp"
 
 msgid "IDS_PGUE727_D8_ENG_STOCK"
-msgstr "ЭУ 70 000 л.с."
+msgstr "Propulsion: 70,000 hp"
 
 msgid "IDS_PGUE728_C8_ENG_STOCK"
-msgstr "ЭУ 120 000 л.с."
+msgstr "Propulsion: 120,000 hp"
 
 msgid "IDS_PGUE810_ENG_LOTHRINGEN"
-msgstr "ЭУ 165 000 л.с."
+msgstr "Propulsion: 165,000 hp"
 
 msgid "IDS_PGUE815_C9_ENG_STOCK"
-msgstr "ЭУ 140 000 л.с."
+msgstr "Propulsion: 140,000 hp"
 
 msgid "IDS_PGUE914_S11_ENG_STOCK"
-msgstr "ЭУ 15 000 л.с."
+msgstr "Propulsion: 15,000 hp"
 
 msgid "IDS_PGUE915_ENG_COLORFUL_SCHLIEFFEN"
-msgstr "ЭУ 200 000 л.с."
+msgstr "Propulsion: 200,000 hp"
 
 msgid "IDS_PGUE916_D11_ENG_STOCK"
-msgstr "ЭУ 76 000 л.с."
+msgstr "Propulsion: 76,000 hp"
 
 msgid "IDS_PGUE917_C10_ENG_STOCK"
-msgstr "ЭУ 132 000 л.с."
+msgstr "Propulsion: 132,000 hp"
 
 msgid "IDS_PGUF801_FC_LOTHRINGEN"
-msgstr "FID Typ 9 Mod. 1"
+msgstr "FID Type 9 Mod. 1"
 
 msgid "IDS_PGUH616_HULL_PFALZ"
 msgstr "Pfalz"
@@ -10574,97 +10574,97 @@ msgid "IDS_PHAD016_KORTENAER_AS"
 msgstr "Fokker T.V"
 
 msgid "IDS_PHES410_GOUDEN_LEEUW_12_MONTHS"
-msgstr "Весенний ветер"
+msgstr "Spring Breeze"
 
 msgid "IDS_PHES420_CALLENBURG_SPACE"
-msgstr "Неутомимый исследователь"
+msgstr "Tireless Explorer"
 
 msgid "IDS_PHGA042_40MM_BOFORS_MKV"
-msgstr "40-мм/56 №4 в установке № 9 (Boffin)"
+msgstr "40 mm/56 No. 4 in No. 9 mount (Boffin)"
 
 msgid "IDS_PHGA045_2_PDR_MKVII_QUAD"
-msgstr "40-мм/39 Vickers QF Mk.VIII в установке Mk.VII"
+msgstr "40 mm/39 Vickers QF Mk.VIII in Mk.VII mount"
 
 msgid "IDS_PHGM019_120_40_KRUPP_3"
-msgstr "120-мм/40 Krupp № 3 в щитовой установке"
+msgstr "120 mm/40 Krupp No. 3 in shielded mount"
 
 msgid "IDS_PHGM048_4_7IN_45_CPXXII"
-msgstr "120-мм/45 QF Mk.IX в установке CPXXII"
+msgstr "120 mm/45 QF Mk.IX in CPXXII mount"
 
 msgid "IDS_PHGT046_21IN_QUAD_TORPEDO_TUBE"
-msgstr "533-мм QR Mk IV"
+msgstr "533 mm QR Mk IV"
 
 msgid "IDS_PHPA025_240MM_HE_CALLENBURGH"
-msgstr "240-мм HE Brisantgranaat"
+msgstr "240 mm HE Brisantgranaat"
 
 msgid "IDS_PHPA026_240MM_AP_CALLENBURGH"
-msgstr "240-мм AP Pantsergranaat"
+msgstr "240 mm AP Pantsergranaat"
 
 msgid "IDS_PHPA027_120MM_HE_KORTENAER"
-msgstr "120-мм HE 62 фн."
+msgstr "120 mm HE 62 lb"
 
 msgid "IDS_PHPA028_120MM_AP_KORTENAER"
-msgstr "120-мм SAP 62 фн."
+msgstr "120 mm SAP 62 lb"
 
 msgid "IDS_PHPB025_CALLENBURGH_AS_HE"
-msgstr "P.u.W. 160 kg"
+msgstr "P.u.W. 160 kg"
 
 msgid "IDS_PHPB026_KORTENAER_AS_HE"
-msgstr "P.u.W. 100 kg"
+msgstr "P.u.W. 100 kg"
 
 msgid "IDS_PHPT002_KORTENAER"
-msgstr "Torped M1924 mod 3"
+msgstr "Torpedo M1924 mod 3"
 
 msgid "IDS_PHSC104_DESCR"
-msgstr "В 1930 г. по итогам работы специальной комиссии в Нидерландах началась разработка нового крейсера для флота в Ост-Индии. Его проект разрабатывался германо-голландским предприятием и имел отпечаток немецких кораблей того времени. В октябре 1936 г. был спущен на воду крейсер, названный в честь одного из самых почитаемых голландских адмиралов М. де Рюйтера, а в следующем году был отправлен в Ост-Индию, где находился до начала Второй мировой войны. В 1942 г. De Ruyter был флагманом командующего союзной эскадрой адмирала К. Доормана."
+msgstr "Based on the results of the work of a special commission, the development of a new cruiser began in the Netherlands in 1930. It was planned for the ship to join the fleet in the East Indies in addition to two already available ones. The project was developed by a German-Dutch company and had design features of German ships of that time. The cruiser was named after M. A. de Ruyter, one of the most esteemed Dutch Admirals. The ship was launched in October 1936 and sent to the East Indies the next year, where she stayed until the outbreak of World War II. In 1942, De Ruyter was the flagship of the allied squadron commanded by Admiral Karel Doorman."
 
 msgid "IDS_PHSC105_DESCR"
-msgstr "Третий крейсер типа Java был заложен в Схидаме в июне 1917 г. и должен был стать флагманом нидерландского флота в Ост-Индии. Окончание строительства планировалось на 1920 г., однако из-за экономической блокады со стороны Англии и недостатка материалов в военное время кораблестроение сильно замедлилось. Достроить Celebes так и не удалось."
+msgstr "The third Java-class cruiser was laid down in Schiedam in June 1917, and she should have become the flagship of the Dutch Navy in the East Indies. It was planned to finalize her construction in 1920; however, due to the economic blockade by England and the lack of resources during wartime, the shipbuilding process had significantly slowed down. The construction of Celebes was never actually finished."
 
 msgid "IDS_PHSC106_DESCR"
-msgstr "В 1935 г. правительство Нидерландов приняло решение о постройке «сверхлёгких» крейсеров. Прототипом для них стал De Ruyter. В 1939 г. был заложен первый корабль пары, получивший название Kijkduin. Крейсеры планировалось вооружить восемью орудиями в четырёх башнях. Вторая мировая война и оккупация Нидерландов затормозили строительство, и новые крейсеры были завершены по значительно изменённому проекту и вступили в строй уже в 1950-е гг."
+msgstr "In 1935, the government of the Netherlands approved the decision to build \"superlight\" cruisers. De Ruyter was used as a prototype for them. The first ship of the two was named Kijkduin and was laid down in 1939. It was initially planned to arm the cruisers with eight guns distributed among four turrets, but the composition of the armament was later reconsidered. World War II and the occupation of the Netherlands slowed down the construction—it meant that the new cruisers were completed under an extensively modified project and didn't enter service until the 1950s."
 
 msgid "IDS_PHSC107_DESCR"
-msgstr "Крейсер Kijkduin ещё на стапеле был переименован в Eendracht, тогда же был изменён состав его вооружения. Позже корабль был захвачен немцами, переименован в KH2 и должен был войти в состав Кригсмарине. После войны Нидерланды продолжили постройку Eendracht по изменённому проекту, крейсер был переименован в De Zeven Provinciën."
+msgstr "Cruiser Kijkduin was renamed Eendracht while still on the stocks, and her armament composition was altered at the same time. Later on, the ship was captured by the Germans and renamed KH2, with the intention of her becoming part of the Kriegsmarine. After the war ended, the Netherlands continued building Eendracht under a modified project, and the cruiser was renamed De Zeven Provinciën. Former Eendracht entered service in 1953 and remained a naval asset of the Netherlands until 1975 when she was sold to Peru. There, she served as Aguirre and Almirante Grau up until 1999."
 
 msgid "IDS_PHSC108_DESCR"
-msgstr "В 1939 г. в Нидерландах было принято решение о строительстве капитальных кораблей военно-морского флота. После продолжительных дискуссий о том, каким должен быть новый тип, главным требованием стала высокая скорость: при необходимости корабль должен был избежать боя с более сильными противниками — японскими линейными крейсерами типа Kongō. По проекту, крейсер с водоизмещением 16 000 тонн и скоростью 32–33 уз мог нести вооружение 203-мм калибра. Однако комиссия ВМФ признала недостаточной защиту такого корабля, и проект не был реализован."
+msgstr "In 1939, the Dutch authorities decided to construct capital ships for their navy. Following lengthy discussions on what the new ship class should look like, it was determined that the main requirement was high speed. If deemed necessary, the ship needed to have a chance to avoid fighting against stronger opponents, such as Japanese Kongō-class battlecruisers. According to the project, the cruiser's displacement was 16,000 tons; she could accelerate up to 32–33 knots and carry 203 mm guns on board. But the armor of such a ship was considered insufficient by the naval committee, and the project was never completed."
 
 msgid "IDS_PHSC108_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PHSC509_DESCR"
-msgstr "В 1938 г. на фоне международной обстановки Министерство обороны Нидерландов решило усилить флот. В 1939 г. были готовы проекты, в основном похожие на немецкий Scharnhorst. В целях экономии было решено уменьшить размеры корабля: руководство склонялось к варианту 16 000-тонного крейсера с главным калибром 240 или 280 мм. Но чтобы обеспечить достаточное бронирование, пришлось остановиться на меньшем калибре — 203 мм. Если бы проект получил дальнейшее развитие, в конце Второй мировой войны корабль мог бы получить усиленную ПВО."
+msgstr "In 1938, against the backdrop of international tensions, the Dutch Ministry of Defense decided to reinforce its Navy. The projects that appeared in 1939 were, in most respects, similar to the project of German warship Scharnhorst. For economic reasons, it was decided to reduce the size of the new ship. The government was inclined to pursue a project to build a 16,000-ton cruiser capable of running at 33 knots and carrying a main battery of 240 or 280 mm guns. In the end, however, to ensure sufficient armor protection, they had to make do with a smaller caliber of 203 mm. If the project had been pursued further, the ship could well have received reinforced AA defenses by the end of World War II."
 
 msgid "IDS_PHSC710"
 msgstr "Callenburgh"
 
 msgid "IDS_PHSC710_DESCR"
-msgstr "На фоне ухудшающейся международной обстановки в конце 1930-х гг. руководство флота Нидерландов решило строить крупные боевые корабли. Один из вариантов нового проекта предполагал увеличенное водоизмещение, вооружение из девяти 240-мм орудий и трёхвальную силовую установку. Скорость позволяла бы кораблю уйти от столкновения с линейными крейсерами, а за счёт усиленных вооружения и бронирования он мог не бояться прямого столкновения с парой тяжёлых крейсеров."
+msgstr "Amid a deteriorating international situation in the late 1930s, the Dutch naval leadership decided to build large warships. One variant of the new project envisioned an increased displacement, armament consisting of nine 240 mm guns, and a three-shaft power plant. The ship's speed would allow it to avoid encounters with battlecruisers, while its enhanced armament and armor would enable it to withstand direct engagements with a pair of heavy cruisers."
 
 msgid "IDS_PHSC710_FULL"
 msgstr "Callenburgh"
 
 msgid "IDS_PHSC710_YEAR"
-msgstr "1939 г."
+msgstr "1939"
 
 msgid "IDS_PHSC990"
 msgstr "Gouden Leeuw Test"
 
 msgid "IDS_PHSC990_DESCR"
-msgstr "Копия корабля для тестирования элитной модернизации."
+msgstr "Ship for test."
 
 msgid "IDS_PHSC990_FULL"
 msgstr "Gouden Leeuw Test"
 
 msgid "IDS_PHSC990_YEAR"
-msgstr "1940 г."
+msgstr "1940"
 
 msgid "IDS_PHSD506"
 msgstr "Kortenaer"
 
 msgid "IDS_PHSD506_DESCR"
-msgstr "Этот эсминец был заложен в Великобритании как HMS Sentinel, но ещё до спуска на воду был переименован в Scorpion в честь погибшей канонерской лодки. После вступления в строй корабль присоединился к 23-й флотилии эсминцев. В 1943–45 гг. корабль участвовал в проводках полярных конвоев. В составе эскорта линкора Duke of York эсминец сражался в битве у Нордкапа, где был потоплен Scharnhorst. В июне 1944 г. HMS Scorpion прикрывал высадку союзных сил в Нормандии. После окончания Второй мировой войны корабль был продан Нидерландам, где получил имя Kortenaer."
+msgstr "This destroyer was laid down in the United Kingdom as HMS Sentinel but was renamed Scorpion in honor of a lost gunboat before its launch. After commissioning, the ship joined the 23rd Destroyer Flotilla. From 1943 to 1945, the ship participated in escorting Arctic convoys. As part of the escort for the battleship Duke of York, the destroyer fought in the Battle of North Cape, where Scharnhorst was sunk. In June 1944, HMS Scorpion provided cover for the Allied landings in Normandy. After the end of World War II, the ship was sold to the Netherlands, where it was renamed Kortenaer."
 
 msgid "IDS_PHSD506_FULL"
 msgstr "Kortenaer"
@@ -10673,22 +10673,22 @@ msgid "IDS_PHSD506_NUMBER"
 msgstr "8"
 
 msgid "IDS_PHSD506_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PHUA101_C2_ART_STOCK"
-msgstr "120-мм/40 Krupp № 3 в щитовой установке"
+msgstr "120 mm/40 Krupp No. 3 in shielded mount"
 
 msgid "IDS_PHUA502_ART_KORTENAER"
-msgstr "120-мм/45 QF Mk.IX в установке CPXXII"
+msgstr "120 mm/45 QF Mk.IX in CPXXII mount"
 
 msgid "IDS_PHUA904_ART_CALLENBURGH"
-msgstr "240-мм/55 QF в башенной установке"
+msgstr "240 mm/55 QF in turret mount"
 
 msgid "IDS_PHUE502_ENG_KORTENAER"
-msgstr "ЭУ 40 000 л.с."
+msgstr "Propulsion: 40,000 hp"
 
 msgid "IDS_PHUE904_ENG_CALLENBURGH"
-msgstr "ЭУ 126 000 л.с."
+msgstr "Propulsion: 126,000 hp"
 
 msgid "IDS_PHUH503_HULL_KORTENAER"
 msgstr "Kortenaer"
@@ -10706,76 +10706,76 @@ msgid "IDS_PHUS904_SUO_CALLENBURGH"
 msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PHUT501_TORP_KORTENAER"
-msgstr "533-мм Mk VII"
+msgstr "533 mm Mk VII"
 
 msgid "IDS_PIAF529_TRANCLUCATOR"
 msgstr "TB2D Skypirate"
 
 msgid "IDS_PIES329_TRANCLUCATOR_PEPELATS"
-msgstr "Плюканский"
+msgstr "Plyukian"
 
 msgid "IDS_PIES420_TSARMOREY2023"
-msgstr "Варяжская ладья"
+msgstr "Varangian Longship"
 
 msgid "IDS_PIES421_MICHELANGELO_CEREMONIAL"
-msgstr "Парадный"
+msgstr "Ceremonial"
 
 msgid "IDS_PIGA113_3IN50_TWIN_MARK_33"
-msgstr "76,2-мм/50 Mk.22 в установке Mk.33"
+msgstr "76.2 mm/50 Mk.22 in Mk.33 mount"
 
 msgid "IDS_PIGA114_20MM_OERLIKON_MK20_TWIN"
-msgstr "20-мм Oerlikon в установке Mk.24"
+msgstr "20 mm Oerlikon in Mk.24 mount"
 
 msgid "IDS_PIGM112_152MM_55_4_BARRELS_M1935"
-msgstr "152-мм/55 Model 1934 в установке Model 1935"
+msgstr "152 mm/55 Model 1934 in Model 1935 mount"
 
 msgid "IDS_PIGM115_16IN50_MK7"
-msgstr "406-мм/50 Mk.7 в башенной установке"
+msgstr "406 mm/50 Mk.7 in turret mount"
 
 msgid "IDS_PIGM116_16IN50_MK7_TWIN"
-msgstr "406-мм/50 Mk.7 в башенной установке"
+msgstr "406 mm/50 Mk.7 in twin turret mount"
 
 msgid "IDS_PINGER_RELOAD_FAST"
-msgstr "Быстрая перезарядка сонара"
+msgstr "Fast Sonar Reload"
 
 msgid "IDS_PINGER_RELOAD_SLOW"
-msgstr "Медленная перезарядка сонара"
+msgstr "Slow Sonar Reload"
 
 msgid "IDS_PINGER_WAVE_SPEED_HIGH"
-msgstr "Высокая скорость импульса сонара"
+msgstr "High Sonar Pulse Speed"
 
 msgid "IDS_PINGER_WAVE_SPEED_LOW"
-msgstr "Низкая скорость импульса сонара"
+msgstr "Low Sonar Pulse Speed"
 
 msgid "IDS_PINGER_WAVE_WIDTH_HIGH"
-msgstr "Широкий импульс сонара"
+msgstr "Wide Sonar Pulse"
 
 msgid "IDS_PINGER_WAVE_WIDTH_LOW"
-msgstr "Узкий импульс сонара"
+msgstr "Narrow Sonar Pulse"
 
 msgid "IDS_PIPA085_152MM_55_CS_FR_FERRUCCIO"
-msgstr "152-мм proiettili CS"
+msgstr "152 mm proiettili CS"
 
 msgid "IDS_PIPA086_152MM_55_AP_FR_FERRUCCIO"
-msgstr "152-мм proiettili AP"
+msgstr "152 mm proiettili AP"
 
 msgid "IDS_PIPA087_406MM_HE_TRANCLUCATOR"
-msgstr "406-мм HE/HC Mk13"
+msgstr "406 mm HE/HC Mk13"
 
 msgid "IDS_PIPA088_406MM_AP_TRANCLUCATOR"
-msgstr "406-мм AP Mk8"
+msgstr "406 mm AP Mk8"
 
 msgid "IDS_PIPA090_127MM_CS_MK_32"
-msgstr "127-мм SC Mk38"
+msgstr "127 mm SC Mk38"
 
 msgid "IDS_PIPR529_TRANCLUCATOR"
-msgstr "127-мм HVAR"
+msgstr "127 mm HVAR"
 
 msgid "IDS_PIPT023_533_SI270_FR_FERRUCCIO"
-msgstr "533-мм Si 270"
+msgstr "533 mm Si 270"
 
 msgid "IDS_PISA508_DESCR"
-msgstr "Лайнер Roma был переоборудован в авианосец в ходе Второй мировой войны. Корпус корабля удлинили, оснастили булями и носовой наделкой. Энергетическую установку перепроектировали, взяв турбины и котлы от недостроенных кораблей Cornelio Silla и Paolo Emilio. В качестве противоминного вооружения на авианосец были установлены 135-мм орудия с недостроенных лёгких крейсеров типа Capitani Romani. Строящийся авианосец был захвачен Германией, получил повреждения от авиации союзников и итальянских подводных диверсантов, после чего затонул."
+msgstr "Liner Roma was converted into an aircraft carrier during World War II. The ship's hull was extended, equipped with bulges, and a new bow section grafted. The propulsion unit was redesigned using turbines and boilers from unfinished ships Cornelio Silla and Paolo Emilio. 135 mm guns from unfinished ships of the Capitani Romani class were used as anti-mine weapons. The 80% complete aircraft carrier was captured by Germany. Aquila was damaged by Allied aviation and sank after being damaged by Italian submarine saboteurs."
 
 msgid "IDS_PISB104"
 msgstr "D. Alighieri"
@@ -10787,42 +10787,42 @@ msgid "IDS_PISB107"
 msgstr "F. Caracciolo"
 
 msgid "IDS_PISB107_DESCR"
-msgstr "Программа пополнения флота в 1913 г. предусматривала постройку четырёх быстроходных линкоров, которые должны были соответствовать по характеристикам британским кораблям типа Queen Elizabeth. Головной корабль Francesco Caracciolo был заложен в 1914 г., но строительство было прекращено из-за смены приоритетов и отсутствия материалов."
+msgstr "The 1913 fleet replenishment program provided for the construction of four high-speed battleships that were supposed to match the characteristics of British ships of the Queen Elizabeth class. Lead ship Francesco Caracciolo was laid down in 1914, but the construction was halted due to a lack of materials and a change in priorities."
 
 msgid "IDS_PISB108"
 msgstr "V. Veneto"
 
 msgid "IDS_PISB109_DESCR"
-msgstr "Проект линкора водоизмещением 42 000 т был подготовлен итальянскими инженерами по заданию СССР. Вооружение корабля должны были составить девять 406-мм орудий в трёх башнях. Если бы такой корабль был заказан, он был бы достроен уже во время Второй мировой войны и вошёл бы в итальянский флот. Так как 406-мм орудие в Италии не было разработано, увеличение огневой мощи было бы возможно путём увеличения количества орудий в башне. Четырёхорудийные башни 381-мм орудий разрабатывались для проектов линейных кораблей в конце 1910-х — начале 1920-х гг."
+msgstr "The project for a battleship with a displacement of 42,000 tons was prepared by Italian engineers under an order from the U.S.S.R. The ship should have been equipped with nine 406 mm guns in three turrets. If such a ship had been built in Italy, she would have been ready by 1940 or 1941. Since the 406 mm gun was not developed in Italy, an increase in firepower would only be possible by increasing the number of guns per turret. Quadruple turrets with 381 mm guns were developed for battleship projects in the late 1910s and early 1920s."
 
 msgid "IDS_PISB109_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PISB110"
 msgstr "C. Colombo"
 
 msgid "IDS_PISB508_DESCR"
-msgstr "Третий линкор типа Vittorio Veneto, Roma, строился по программе 1938 г. Вместе со своими систершипами он участвовал в противовоздушной обороне приморских городов. В июне 1943 г. был тяжело повреждён американскими бомбардировщиками в Специи. После ремонта линкор стал флагманом соединения адмирала К. Бергамини, предназначавшегося для атаки десанта союзников в Сицилии. За день до запланированной операции было заключено перемирие, и Roma был интернирован на Мальту, однако по пути его потопила немецкая авиация."
+msgstr "The third battleship of the Vittorio Veneto class, Roma, was built according to the 1938 program. She participated in the air defense of coastal towns together with her sister ships. In June 1943, she was heavily damaged by American bombers in La Spezia. After being repaired, the battleship was deployed as the flagship of Admiral Carlo Bergamini in a large battle group intended to attack the Allied ships approaching Sicily. The day before the planned operation, an armistice was reached, and on her way to getting interned in Malta, Roma was sunk by German aircraft."
 
 msgid "IDS_PISB509_DESCR"
-msgstr "Одним из проектов, подготовленных в рамках сотрудничества Италии и СССР, был корабль с девятью 406-мм орудиями главного калибра в трёх башнях. Этот проект не был реализован. В случае постройки такого корабля в Италии он был бы готов уже в годы Второй мировой войны и вошёл бы в итальянский флот. Линкор получил бы вооружение калибра 406 мм, разработанное на базе 381-мм орудий."
+msgstr "As part of the cooperation between Italy and the U.S.S.R., a project was created for a ship with nine 406 mm main guns placed in three turrets. This project was never implemented. If such a ship had been built in Italy, she would have had 406 mm main battery guns developed on the basis of 381 mm guns, and she would have been ready by 1940 or 1941."
 
 msgid "IDS_PISB510_DESCR"
-msgstr "В 1921 г. инженер Ф. Кассоне представил идею линейного крейсера с восемью 457-мм орудиями и скоростью 35–40 уз. Этот корабль был самым большим из когда-либо проектировавшихся для ВМС Италии. Чтобы уменьшить общую длину, предлагалось разместить котлы над машинами в двухуровневой энергетической установке. Уникальной была и противоторпедная защита — детонация направлялась бы в камеру расширения, откуда газы отводились бы по специальным каналам. Конструкция опережала своё время, и проект не был реализован."
+msgstr "A fast battlecruiser armed with eight 457 mm guns. The project is based on ideas introduced in 1921 by Italian naval engineer Ferdinando Cassone. In addition to its remarkable armament and displacement, both quite advanced for that era, the project stood out for its innovative anti-torpedo defense system and two-tiered power plant."
 
 msgid "IDS_PISB510_FULL"
 msgstr "Ruggiero di Lauria"
 
 msgid "IDS_PISB519_DESCR"
-msgstr "Совместно с СССР в Италии было разработано несколько проектов линкоров, в том числе вариант с девятью орудиями калибра 406 мм в трёх башнях. Если бы такой корабль был заказан, он был бы достроен уже во время Второй мировой войны и вошёл бы в итальянский флот. Линкор получил бы итальянское вооружение, разработанное на основе имеющихся 381-мм орудий."
+msgstr "Several battleship projects were developed in Italy collaboratively with the U.S.S.R., including one with nine 406 mm guns in three turrets. If such a ship had been ordered, her construction would have been completed by 1940 or 1941. The battleship would have received Italian armament, developed on the basis of the existing 381 mm guns."
 
 msgid "IDS_PISB529"
 msgstr "Tranclucator"
 
 msgid "IDS_PISB529_DESCR"
 msgstr ""
-"Транклюкаторы — разнообразные типы оружия, применяемые жителями планет Плюк, Хануд и других в галактике Кин-дза-дза. Транклюкаторы могут иметь различный внешний вид: пистолет, ручной противотанковый гранатомёт или ружьё. Более тяжёлые модели применяются, к примеру, дозорными эцилоппами на форпостах. Кроме того, в разговорах чатлан и пацаков присутствует понятие «транклюкировать» — уничтожать при помощи транклюкатора.\n"
-"«Если ты подумаешь, что эта штуковина — не транклюкатор, это будет последней мыслью в твоей чатланской башке!»"
+"Tranclucators are various types of weapons used by the inhabitants of the planets Plyuk, Hanud, and others in the galaxy of Kin-dza-dza. Tranclucators can take on different appearances: a pistol, a handheld anti-tank grenade launcher, or a rifle. Heavier models are used, for example, by patrol ecilops at outposts. Additionally, in the conversations of chatlans and patsaks, the term 'tranclucate' is used, meaning to destroy with a tranclucator. \n"
+"'If you think this thing isn't a tranclucator, that'll be the last thought in your chatlan head!'"
 
 msgid "IDS_PISB529_FULL"
 msgstr "Tranclucator"
@@ -10831,52 +10831,52 @@ msgid "IDS_PISB529_NUMBER"
 msgstr "1"
 
 msgid "IDS_PISB529_YEAR"
-msgstr "1942 г."
+msgstr "1942"
 
 msgid "IDS_PISB990"
 msgstr "C. Colombo Test"
 
 msgid "IDS_PISB990_DESCR"
-msgstr "Копия корабля для тестирования элитной модернизации."
+msgstr "Ship for test."
 
 msgid "IDS_PISB990_FULL"
 msgstr "Cristoforo Colombo Test"
 
 msgid "IDS_PISB990_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PISC102_DESCR"
-msgstr "В начале XX в. идея быстроходного крейсера-разведчика была популярна во многих странах. В итальянском флоте первым таким кораблём стал бронепалубный крейсер Quarto. Он получил развитие в виде кораблей типа Nino Bixio — они были крупнее предшественника и имели более удобное расположение артиллерии. Во время Первой мировой войны головной корабль серии участвовал в перехвате австро-венгерских рейдеров и в защите транспортов. Nino Bixio прослужил в составе флота до конца 1920-х гг."
+msgstr "At the beginning of the 20th century, the idea of a fast scout cruiser was popular in many countries. The first ship of that kind in the Italian Navy was armored cruiser Quarto. This was followed by the Nino Bixio class—they were larger than their predecessor and had more convenient artillery arrangement. During World War I, the lead ship of the series participated in the interception of Austro-Hungarian raiders and in the defense of the Entente transports. Nino Bixio served in the Navy until the end of the 1920s."
 
 msgid "IDS_PISC104_FULL"
 msgstr "Alberto di Giussano"
 
 msgid "IDS_PISC107_DESCR"
-msgstr "В программу 1928–29 гг. было включено четыре крейсера нового типа Zara, которые могли бы противодействовать французским крейсерам с 203-мм артиллерией. Головной корабль Zara был заложен в 1929 г. Тремя годами позже он вошёл в строй и стал флагманом 1-й эскадры. Крейсер возглавлял прикрытие итальянского десанта в Дурресе, во время Второй мировой войны участвовал в бою у Пунто-Стило, где подвергся атаке собственных ВВС. В бою у Матапана Zara был атакован британскими силами и уничтожен эсминцем HMS Jervis."
+msgstr "Under the 1928–1929 program, four cruisers of the new Zara class featuring a 150 mm armor belt were to be built to counter the French cruisers, which had 203 mm artillery. Lead ship Zara was laid down in 1929. Three years later, she entered service and became the flagship of the 1st Squadron. The cruiser led the cover of the Italian landing force in Durres. During World War II, she participated in the battle near Punta Stilo, where she was attacked by her own air force. In a battle near Cape Matapan, Zara was attacked by British forces and sunk by destroyer HMS Jervis."
 
 msgid "IDS_PISC110_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PISC111_DESCR"
-msgstr "В 1930-х гг. итальянская фирма Ansaldo предложила Советскому Союзу пакет чертежей, среди которых был проект линейного крейсера водоизмещением 22 000 т. Корабль должен был нести вооружение из 10-дюймовых орудий, иметь четырёхвальную компоновку с 60 000 л.с. на вал, что позволяло бы кораблю развивать скорость 37 уз. После начала Второй мировой войны недостроенный корабль реквизировало бы итальянское правительство, при этом линейный крейсер получил бы итальянское вооружение."
+msgstr "During the 1930s, the Italian company Ansaldo presented the Soviet Union with a collection of drawings, which included a blueprint for a battlecruiser with a displacement of 22,000 tons. The ship was to carry an armament of nine 10-inch guns and feature a four-shaft layout with 60,000 hp per shaft, which would allow the ship to reach a speed of 37 knots. After the outbreak of World War II, the unfinished ship would be requisitioned by the Italian government, with the battlecruiser receiving Italian armament."
 
 msgid "IDS_PISC510_DESCR"
-msgstr "В ходе военно-морского сотрудничества Италии и СССР были подготовлены проекты кораблей по заданию советской стороны. Среди них был линейный крейсер стандартным водоизмещением 22 000 т. Он должен был иметь скорость 35–37 уз и девять орудий главного калибра в трёх башнях."
+msgstr "In the course of naval cooperation between Italy and the U.S.S.R., ship projects were prepared under Soviet orders. Among them was a battlecruiser with a standard displacement of 22,000 tons. It was supposed to have a speed of 35–37 knots, nine 250 mm guns in three turrets, and a 220 mm main armor belt."
 
 msgid "IDS_PISC517_DESCR"
-msgstr "В преддверии Второй мировой войны Румыния, стремясь к усилению своего флота, заказала несколько эсминцев и подводных лодок. В планах было и приобретение флагманского корабля. По заказу Румынии итальянские кораблестроительные фирмы разработали крейсеры с основным вооружением калибра от 152 до 280 мм. Проекты не устроили заказчика: они оказались либо слишком слабыми, либо слишком тяжёлыми. Если бы был создан крейсер по сбалансированному проекту на основе предложенных, корабль имел бы две четырёхорудийные башни со 152-мм орудиями."
+msgstr "The project of a \"long-range light cruiser\" was developed as part of a program that involved the construction of several dozen ships of various types for Italian Navy operations in the Indian Ocean. One of the first sketches of an 8,000-ton cruiser was an unusual-looking ship with 152 mm guns housed in quadruple-gun turrets. Among her other features were a long operational range (above 27,000 km) and 90 mm dual-purpose guns that were designed in 1939."
 
 msgid "IDS_PISC517_YEAR"
-msgstr "1937 г."
+msgstr "1937"
 
 msgid "IDS_PISC519_DESCR"
-msgstr "Вашингтонская конференция дала Италии возможность постройки линейных кораблей с 1927 г. Разрабатывалось сразу несколько проектов водоизмещением 18 000–35 000 т. Часть проектов опиралась на иностранные корабли (Hood, Nelson, Dunkerque), но некоторые были оригинальными. Проект, предложенный адмиралом В. де Фео, предполагал вооружение восемью 320-мм орудиями в четырёхорудийных башнях, расположенных близко к мидель-шпангоуту, а установки противоминного калибра, наоборот, были вынесены в оконечности."
+msgstr "The Washington Naval Conference gave Italy the opportunity to build battleships from 1927. Several projects with a displacement of 18,000 to 35,000 tons were under development simultaneously; some of the projects relied on foreign designs—Hood, Nelson, and Dunkerque—but some were unique. The design proposed by Admiral de Feo featured a ship with eight 320 mm guns in quadruple-gun turrets placed close to the midship frames while the secondary battery mounts were moved toward the ship's fore and aft ends."
 
 msgid "IDS_PISC590"
 msgstr "Napoli B"
 
 msgid "IDS_PISC590_DESCR"
-msgstr "В ходе военно-морского сотрудничества Италии и СССР были подготовлены проекты кораблей по заданию советской стороны. Среди них был линейный крейсер стандартным водоизмещением 22 000 т. Он должен был иметь скорость 35–37 уз и девять орудий главного калибра в трёх башнях."
+msgstr "In the course of naval cooperation between Italy and the U.S.S.R., ship projects were prepared under Soviet orders. Among them was a battlecruiser with a standard displacement of 22,000 tons. It was supposed to have a speed of 35–37 knots, nine 250 mm guns in three turrets, and a 220 mm main armor belt."
 
 msgid "IDS_PISC590_FULL"
 msgstr "Napoli B"
@@ -10885,22 +10885,22 @@ msgid "IDS_PISC990"
 msgstr "Venezia Test"
 
 msgid "IDS_PISC990_DESCR"
-msgstr "Копия корабля для тестирования элитной модернизации."
+msgstr "Ship for test."
 
 msgid "IDS_PISC990_FULL"
 msgstr "Venezia Test"
 
 msgid "IDS_PISC990_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PISD103"
 msgstr "N. Sauro"
 
 msgid "IDS_PISD105_DESCR"
-msgstr "Тип Maestrale развивал предыдущие серии эсминцев. Корпус увеличился, причём большое внимание уделялось рациональному распределению веса и прочности. Корабли получили новые 120-мм орудия. Во время гражданской войны в Испании головной корабль сопровождал транспорты c итальянскими войсками. Во Вторую мировую войну Maestrale участвовал в патрульных и эскортных миссиях, сопровождая конвои в Африку. 9 января 1943 г. корабль получил тяжёлые повреждения, наскочив на мину."
+msgstr "The Maestrale class developed from the previous series of destroyers. The hull was enlarged, taking into account rational weight distribution and durability. The ships received new 120 mm guns. During the Spanish Civil War, the lead ship accompanied transports with the Italian forces. During World War II, Maestrale participated in patrol and escort missions, escorting convoys to Africa. On January 9, 1943, the ship was heavily damaged after hitting a mine."
 
 msgid "IDS_PISD106_DESCR"
-msgstr "Тип Soldati — самый многочисленный тип итальянских эскадренных миноносцев. В ходе постройки эти корабли получили ряд изменений и улучшений по сравнению с предыдущим типом, Oriani: 120-мм орудия новой модели и более надёжную энергетическую установку. В 1940–42 гг. Aviere участвовал в минных постановках, патрульных и эскортных миссиях, сопровождая конвои в Африку. 17 декабря 1942 г. в ходе эскортирования конвоя в Бизерту получил торпедное попадание с британской подводной лодки HMS Splendid, в результате чего разломился надвое и затонул."
+msgstr "The Soldati class was the most numerous class of Italian destroyers. During construction, they received a number of changes and improvements compared to the previous Oriani class, including the installation of a new 120 mm gun and a more reliable propulsion unit. Between 1940 and 1942, Aviere participated in minelaying and conducted patrol and escort missions to Africa. On December 17, 1942, while escorting a convoy to Bizerte, she received a torpedo hit by British submarine HMS Splendid. As a result, she broke in two and sank."
 
 msgid "IDS_PISD107"
 msgstr "L. Tarigo"
@@ -10909,28 +10909,28 @@ msgid "IDS_PISD108"
 msgstr "V. Cuniberti"
 
 msgid "IDS_PISD108_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PISD110"
 msgstr "A. Regolo"
 
 msgid "IDS_PISD110_DESCR"
-msgstr "Тип Capitani Romani проектировался как ответ французским эсминцам типа Mogador, причём итальянские кораблестроители вернулись к идее минимальной защиты при максимальной скорости. Расчётная скорость кораблей превышала аналогичный показатель французских лидеров. Attilio Regolo в ноябре 1942 г. был торпедирован британской субмариной HMS Unruffled и следующие несколько месяцев пробыл в ремонте. В сентябре 1943 г. корабль сдался союзникам. После войны Attilio Regolo был передан Франции по репарациям и переименован в Châteaurenault."
+msgstr "The Capitani Romani class was designed as a response to the French Mogador class destroyers. The Italian shipbuilders returned to the idea of minimum protection and maximum speed—the estimated speed of the ships was 40 knots, which was faster than the French leaders' speed. Attilio Regolo was torpedoed by the British submarine HMS Unruffled in November 1942 and was under repair for several months. In September 1943, the ship surrendered to the Allies. After the war, Attilio Regolo was transferred to France under reparations and renamed \"Châteaurenault.\""
 
 msgid "IDS_PISD509_DESCR"
-msgstr "После начала военно-морского сотрудничества Италии и СССР фирмой Ansaldo был подготовлен ряд проектов кораблей по заданию советской стороны. В их числе был бронированный разведчик стандартным водоизмещением 3700 т. Корабль имел высокую скорость, вооружение из восьми орудий главного калибра в четырёх установках и броневую защиту в виде полноценного бронепояса и бронепалубы."
+msgstr "After the beginning of naval cooperation between Italy and the U.S.S.R., the Ansaldo company prepared a number of ship designs under Soviet orders. An armored scout with a standard displacement of 3,700 tons was among them. The ship had high speed, eight 130 mm guns in four mounts, and armor protection in the form of a full-fledged armored belt and armored deck."
 
 msgid "IDS_PIUA607_ART_FR_FERRUCCIO"
-msgstr "152-мм/55 Model 1934 в установке Model 1935"
+msgstr "152 mm/55 Model 1934 in Model 1935 mount"
 
 msgid "IDS_PIUA808_TRANCLUCATOR"
-msgstr "406-мм/50 Mk.7 в башенной установке"
+msgstr "406 mm/50 Mk.7 in turret mount"
 
 msgid "IDS_PIUE607_ENG_FR_FERRUCCIO"
-msgstr "ЭУ 110 000 л.с."
+msgstr "Propulsion: 110,000 hp"
 
 msgid "IDS_PIUE808_ENG_TRANCLUCATOR"
-msgstr "ЭУ 212 000 л.с."
+msgstr "Propulsion: 212,000 hp"
 
 msgid "IDS_PIUF801_FC_TRANCLUCATOR"
 msgstr "Mk9 mod. 1"
@@ -10957,7 +10957,7 @@ msgid "IDS_PIUS811_SUO_TRANCLUCATOR"
 msgstr "SDT 9"
 
 msgid "IDS_PIUT606_TORP_FR_FERRUCCIO"
-msgstr "533-мм Si 270 M"
+msgstr "533 mm Si 270 M"
 
 msgid "IDS_PJAD209_HIRYU_TOP"
 msgstr "Aichi M6A1 B Nanzan"
@@ -10990,85 +10990,85 @@ msgid "IDS_PJAM210_TAIHO_TOP"
 msgstr "Yokosuka P1Y1"
 
 msgid "IDS_PJES201_HIRYU_AMATERASU"
-msgstr "Парящий дракон"
+msgstr "Soaring Dragon"
 
 msgid "IDS_PJES202_TAIHO_AMATERASU"
-msgstr "Богиня Солнца"
+msgstr "Sun Goddess"
 
 msgid "IDS_PJES341_IZUMO_MASLENNICA"
-msgstr "Масленица"
+msgstr "Maslenitsa"
 
 msgid "IDS_PJES450_KITAKAMI_DEMON"
-msgstr "Победный ветер"
+msgstr "Victorious Wind"
 
 msgid "IDS_PJES512_MIKA_SUMMER"
-msgstr "Пионерский"
+msgstr "Pioneer"
 
 msgid "IDS_PJES568_AKIZUKI_COLORFUL"
-msgstr "Изумрудная комета"
+msgstr "Emerald Comet"
 
 msgid "IDS_PJGA207_25MM_TYPE96_DOUBLE"
-msgstr "25-мм/60 Type 96 в спаренной установке"
+msgstr "25 mm/60 Type 96 in twin mount"
 
 msgid "IDS_PJGA214_3IN40_MK1"
-msgstr "76-мм/40 3rd Year Type в одиночной установке"
+msgstr "76 mm/40 3rd Year Type in single mount"
 
 msgid "IDS_PJGA226_20MM_OERLIKON_MK4"
-msgstr "20-мм Oerlikon в установке Mk.4"
+msgstr "20 mm Oerlikon in Mk.4 mount"
 
 msgid "IDS_PJGA227_BROWNING_M2_MOD2"
-msgstr "12,7-мм Browning в одиночной установке"
+msgstr "12.7 mm Browning in single mount"
 
 msgid "IDS_PJGM203_140MM_40_11TH_YEAR_TYPE"
-msgstr "140-мм/40 11th Year Type в одиночной установке"
+msgstr "140 mm/40 11th Year Type in single mount"
 
 msgid "IDS_PJGM208_21CM_60_SK_C34_DRL_C_40"
-msgstr "210-мм/60 SK C/34 в башенной установке"
+msgstr "210 mm/60 SK C/34 in turret mount"
 
 msgid "IDS_PJGM212_127MM50_TYPE_D"
-msgstr "127-мм/50 3rd Year Type в установке Type D"
+msgstr "127 mm/50 3rd Year Type in Type D mount"
 
 msgid "IDS_PJGM223_5IN38_MK30_MOD0"
-msgstr "127-мм/38 Mk.12 в установке Mk.30 mod.0"
+msgstr "127 mm/38 Mk.12 in Mk.30 mod.0 mount"
 
 msgid "IDS_PJGM224_5IN38_MK30_MOD1"
-msgstr "127-мм/38 Mk.12 в установке Mk.30 mod.1"
+msgstr "127 mm/38 Mk.12 in Mk.30 mod.1 mount"
 
 msgid "IDS_PJGM225_5IN38_MK30_MOD1"
-msgstr "127-мм/38 Mk.12 в установке Mk.30 mod.1"
+msgstr "127 mm/38 Mk.12 in Mk.30 mod.1 mount"
 
 msgid "IDS_PJGT211_533MM_TUBE5_TYPE_4"
-msgstr "533-мм 5-трубный"
+msgstr "533 mm 5-tube"
 
 msgid "IDS_PJGT228_21IN_MK14_TORPEDO_TUBES"
-msgstr "533-мм Mk14"
+msgstr "533 mm Mk14"
 
 msgid "IDS_PJGT229_21IN_MK15_TORPEDO_TUBES"
-msgstr "533-мм Mk15"
+msgstr "533 mm Mk15"
 
 msgid "IDS_PJPA145_210MM_HE_T11"
-msgstr "210-мм Spr.Gr. L/4.7"
+msgstr "210 mm Spr.Gr. L/4.7"
 
 msgid "IDS_PJPA146_210MM_AP_T11"
-msgstr "210-мм Spr.Gr. L/4.4"
+msgstr "210 mm Spr.Gr. L/4.4"
 
 msgid "IDS_PJPA147_155MM_HE_OYODO"
-msgstr "155-мм HE Type0"
+msgstr "155 mm HE Type0"
 
 msgid "IDS_PJPA148_155MM_AP_OYODO"
-msgstr "155-мм AP/APC Type91"
+msgstr "155 mm AP/APC Type91"
 
 msgid "IDS_PJPA149_127MM_HE_NATSUKAZE"
-msgstr "127-мм HE Type1"
+msgstr "127 mm HE Type1"
 
 msgid "IDS_PJPA150_127MM_AP_NATSUKAZE"
-msgstr "127-мм AP Type0"
+msgstr "127 mm AP Type0"
 
 msgid "IDS_PJPA151_127MM_HE_MIKA"
-msgstr "127-мм HE Mk32 mod. 0"
+msgstr "127 mm HE Mk32 mod. 0"
 
 msgid "IDS_PJPA152_127MM_AP_MIKA"
-msgstr "127-мм AP/SC Mk38"
+msgstr "127 mm AP/SC Mk38"
 
 msgid "IDS_PJPB206_RYUJO_TOP"
 msgstr "Type 3 No. 25 Mod. 1"
@@ -11110,10 +11110,10 @@ msgid "IDS_PJPT005_TYPE_91_MOD_1"
 msgstr "Type91 mod. 1"
 
 msgid "IDS_PJPT008_533MM_TYPE_44_MOD_2"
-msgstr "533-мм Type44 mod. 2"
+msgstr "533 mm Type44 mod. 2"
 
 msgid "IDS_PJPT014_450MM_TYPE_44_MOD_2"
-msgstr "450-мм Type44 mod. 2"
+msgstr "450 mm Type44 mod. 2"
 
 msgid "IDS_PJPT017_610MM_TYPE_8_MOD_2"
 msgstr "Type8 mod. 2"
@@ -11218,16 +11218,16 @@ msgid "IDS_PJPT998_KIKAKU"
 msgstr "Type 91 mod. 3"
 
 msgid "IDS_PJSA108_YEAR"
-msgstr "1941 г."
+msgstr "1941"
 
 msgid "IDS_PJSA111_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PJSA206"
 msgstr "Zuihō"
 
 msgid "IDS_PJSA206_DESCR"
-msgstr "Японский флот рассматривал планы быстрого увеличения количества авианесущих кораблей путём перестройки уже имеющихся судов. Zuihō был заложен под именем Takasaki как плавбаза подводных лодок, а достраивался уже как авианосец. В сентябре 1941 г. Zuihō стал флагманом 3-й дивизии авианосцев, во главе которой прикрывал атаку на Пёрл-Харбор. В дальнейшем корабль участвовал в крупнейших сражениях Тихоокеанского театра Второй мировой войны. Zuihō затонул у мыса Энганьо 25 октября 1944 г. в результате авиационной атаки американского соединения."
+msgstr "The Japanese Navy considered plans to rapidly increase the number of aircraft-carrying ships by converting existing vessels. Zuihō was originally laid down under the name Takasaki as a submarine tender but was completed as an aircraft carrier. In September 1941, Zuihō became the flagship of the 3rd Carrier Division, which provided cover for the attack on Pearl Harbor. Subsequently, the ship participated in the major battles of the Pacific theater during World War II. Zuihō was sunk off Cape Engaño on October 25, 1944, as a result of an air attack by U.S. forces."
 
 msgid "IDS_PJSA206_FULL"
 msgstr "Zuihō"
@@ -11236,13 +11236,13 @@ msgid "IDS_PJSA206_NUMBER"
 msgstr "2"
 
 msgid "IDS_PJSA206_YEAR"
-msgstr "1940 г."
+msgstr "1940"
 
 msgid "IDS_PJSA208"
 msgstr "Hiryū"
 
 msgid "IDS_PJSA208_DESCR"
-msgstr "Удачная серия, ставшая прототипом для многих авианосцев: конструкция сочетала высокую скорость с мощным зенитным вооружением и сильной авиагруппой. Корабли имели сплошную полётную палубу, двухуровневый ангар, три самолётоподъёмника, а корпус был основан на проекте тяжёлых крейсеров. Hiryū отличался увеличенной высотой борта и расположением острова на левом борту. Корабль участвовал в атаке на Пёрл-Харбор и в других операциях в Тихом океане. Hiryū затонул в результате атаки пикировщиков в ходе битвы за Мидуэй, экипаж успел покинуть корабль."
+msgstr "A successful series that became the prototype for many aircraft carriers: the design combined high speed with powerful anti-aircraft armament and a strong air group. The ships featured a full-length flight deck, a two-level hangar, three aircraft elevators, and a hull based on the design of heavy cruisers. Hiryū was distinguished by an increased freeboard height and the placement of the island on the port side. The ship participated in the attack on Pearl Harbor and other operations in the Pacific. Hiryū was sunk following a dive bomber attack during the Battle of Midway, with the crew managing to abandon the ship."
 
 msgid "IDS_PJSA208_FULL"
 msgstr "Hiryū"
@@ -11251,13 +11251,13 @@ msgid "IDS_PJSA208_NUMBER"
 msgstr "1"
 
 msgid "IDS_PJSA208_YEAR"
-msgstr "1939 г."
+msgstr "1939"
 
 msgid "IDS_PJSA210"
 msgstr "Taihō"
 
 msgid "IDS_PJSA210_DESCR"
-msgstr "Самый современный авианосец японского флота был спроектирован и построен по улучшенному проекту на основе Shōkaku. Taihō обладал бронированной полётной палубой, которая была интегрирована в корпус корабля и являлась элементом его прочностной структуры. Авианосец участвовал в битве в Филиппинском море, в которой получил торпедное попадание с подводной лодки USS Albacore. Экипаж не смог справиться с разлитием авиатоплива и распространением паров бензина по всему кораблю, что вызвало два мощных взрыва, которые послужили причиной гибели корабля."
+msgstr "The most advanced aircraft carrier of the Japanese Navy was designed and built based on an improved version of the Shōkaku design. Taihō featured an armored flight deck that was integrated into the ship's hull, serving as a structural element. The carrier participated in the Battle of the Philippine Sea, where it was struck by a torpedo from the submarine USS Albacore. The crew was unable to contain the spread of aviation fuel and gasoline vapors throughout the ship, which led to two powerful explosions that ultimately caused the ship's loss."
 
 msgid "IDS_PJSA210_FULL"
 msgstr "Taihō"
@@ -11266,58 +11266,58 @@ msgid "IDS_PJSA210_NUMBER"
 msgstr "1"
 
 msgid "IDS_PJSA210_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PJSA518_DESCR"
-msgstr "После того как Великое землетрясение Канто уничтожило строившийся авианосец, было решено заменить его перестройкой корпуса линкора Kaga, которая была прекращена из-за «вашингтонских» ограничений. Проект повторял авианосец Akagi, за исключением расположения дымовых труб и наличия короткой полётной палубы. Kaga участвовал в Шанхайском инциденте и в Японо-китайской войне. После прохождения модернизации участвовал в атаке на Пёрл-Харбор, в десанте на Рабаул, кампании на Маршалловых островах и бомбардировке Дарвина."
+msgstr "After the Great Kanto Earthquake destroyed the aircraft carrier while it was under construction, it was decided to switch to rebuilding Kaga's hull—a process that had stopped amid the Washington Naval Treaty restrictions. The project mirrored aircraft carrier Akagi, except for the location of the funnels and the availability of a short flight deck. Kaga participated in the Shanghai incident and the Sino-Japanese War. After her modernization was completed, she participated in the Pearl Harbor attack, the Battle of Rabaul, the Marshall Islands campaign, and the Darwin bombing."
 
 msgid "IDS_PJSA598_DESCR"
-msgstr "После того как Великое землетрясение Канто уничтожило строившийся авианосец, было решено заменить его перестройкой корпуса линкора Kaga, которая была прекращена из-за «вашингтонских» ограничений. Проект повторял авианосец Akagi, за исключением расположения дымовых труб и наличия короткой полётной палубы. Kaga участвовал в Шанхайском инциденте и в Японо-китайской войне. После прохождения модернизации участвовал в атаке на Пёрл-Харбор, в десанте на Рабаул, кампании на Маршалловых островах и бомбардировке Дарвина."
+msgstr "After the Great Kanto Earthquake destroyed the aircraft carrier while it was under construction, it was decided to switch to rebuilding Kaga's hull—a process that had stopped amid the Washington Naval Treaty restrictions. The project mirrored aircraft carrier Akagi, except for the location of the funnels and the availability of a short flight deck. Kaga participated in the Shanghai incident and the Sino-Japanese War. After her modernization was completed, she participated in the Pearl Harbor attack, the Battle of Rabaul, the Marshall Islands campaign, and the Darwin bombing."
 
 msgid "IDS_PJSA908_YEAR"
-msgstr "1941 г."
+msgstr "1941"
 
 msgid "IDS_PJSA917_DESCR"
-msgstr "Этот корабль является копией корабля Hakuryū и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of Hakuryū, intended for test purposes only."
 
 msgid "IDS_PJSB001_DESCR"
-msgstr "Первыми японскими дредноутами должны были стать броненосцы типа Satsuma, но из-за нехватки орудий калибра 305 мм в бортовые башни этих кораблей были установлены по два 254-мм орудия. Дальнейшим развитием типа Satsuma стали два корабля типа Kawachi, оснащённые шестью башнями c 305-мм орудиями. Во время Первой мировой войны головной корабль серии участвовал в осаде Циндао. Kawachi погиб из-за взрыва артпогребов носовой башни в заливе Токуяма 12 июля 1918 г."
+msgstr "The Satsuma-class ships were to become the first Japanese dreadnoughts, but given the shortage of 305 mm guns, two 254 mm guns were installed in their side turrets instead. Two Kawachi-class ships equipped with 305 mm guns in six turrets embodied the further development of the Satsuma class. During World War I, the lead ship of the series participated in the Siege of Tsingtao. On July 12, 1918, as a result of her bow turret magazines detonating, Kawachi sank in Tokuyama Bay."
 
 msgid "IDS_PJSB003_DESCR"
-msgstr "Постройка в Великобритании сильных и быстроходных линейных крейсеров привела к тому, что корабли подобного типа начали разрабатываться и в Японии. Один из японских проектов линейного крейсера был вооружён орудиями калибра 356 мм в трёх двухорудийных башнях, две из которых располагались в корме, а также шестнадцатью 152-мм орудиями в казематах."
+msgstr "The construction of powerful and fast battlecruisers in Great Britain prompted Japan to start designing ships of this class. One of the Japanese battlecruiser projects was armed with 356 mm guns in three twin-gun turrets, two of which occupied her stern, as well as sixteen 152 mm guns mounted in casemates."
 
 msgid "IDS_PJSB007_DESCR"
-msgstr "В 1910 г. Япония заказала у британской фирмы Vickers новый линейный крейсер, причём в разработке принимали участие и японские инженеры. В Первую мировую войну Kongō поддерживал японские войска во время осады Циндао, участвовал в патрульных операциях. Во Вторую мировую корабль прикрывал десант в Малайю и на Филиппины, участвовал в битвах при Мидуэе, у островов Санта-Крус, при Гуадалканале, в Филиппинском море и в заливе Лейте. 21 ноября 1944 г. Kongō получил два торпедных попадания с подводной лодки USS Sealion и спустя несколько часов затонул."
+msgstr "In 1910, Japan ordered a new battlecruiser from British company Vickers, and Japanese engineers also participated in the design process. During World War I, Kongō supported Japanese troops during the Siege of Tsingtao and took part in patrol operations. During World War II, the ship covered the landings in Malaya and the Philippines, and she participated in the Battles of Midway, the Santa Cruz Islands, Guadalcanal, the Philippine Sea, and Leyte Gulf. On November 21, 1944, Kongō took two torpedo hits from submarine USS Sealion and sank a few hours later."
 
 msgid "IDS_PJSB010_DESCR"
-msgstr "Корабли типа Nagato стали первыми линкорами, полностью спроектированными и построенными в Японии. 410-мм орудия были разработаны в качестве ответа на британские калибра 381 мм. Выросла относительно предшественников и скорость хода. Участвовал в нападении на Пёрл-Харбор, в сражении при Мидуэе и у Соломоновых островов. В битве в заливе Лейте линкор получил повреждения и после окончания войны был передан США в качестве репараций."
+msgstr "The Nagato-class ships were the first battleships fully designed and built in Japan. Their 410 mm guns were developed in response to the British 381 mm ones. The ships' speed also increased compared to their predecessors. During the Pearl Harbor attack, Nagato was Admiral Yamamoto's flagship; she also participated in the Battles of Midway and the Solomon Islands. The battleship was damaged during the Battle of Leyte Gulf, and after the war ended, she was transferred to the U.S. as part of reparations."
 
 msgid "IDS_PJSB011_DESCR"
-msgstr "По сравнению с другими линкорами, заказанными по программе 1896 г., Mikasa обладал улучшенным бронированием казематов противоминных орудий. В годы Русско-японской войны корабль участвовал в бою в Жёлтом море и в Цусимском сражении. К началу Первой мировой войны Mikasa устарел, но продолжал числиться в составе флота: сначала как линкор, а затем как корабль береговой обороны. В 1926–45 гг. корабль был музеем, затем был заброшен и частично сдан на слом. Позже был восстановлен и установлен на берегу как памятник."
+msgstr "Compared to other battleships ordered under the 1896 program, Mikasa had enhanced casemate armor for her secondary armament. The ship was Admiral Togo's flagship during the Russo-Japanese War; she also participated in the Battle of the Yellow Sea and Tsushima. By the beginning of World War I, Mikasa had become obsolete, but she was still listed as part of the fleet—first as a battleship, then as a coastal defense ship. Between 1926 and 1945, the ship served as a museum before being abandoned and partially scrapped. Later, she was restored and installed as a monument on the shore."
 
 msgid "IDS_PJSB018_DESCR"
-msgstr "Предэскизный проект линкора, разрабатывавшийся в Японии с 1934 г., в разных вариантах предполагал водоизмещение 49 000–69 500 т, скорость 24–31 уз и главный калибр 410–460 мм. Финальный вариант стал кораблём Yamato — крупнейшим линкором в мире. Адмирал И. Ямамото руководил с его мостика японскими силами в сражении при Мидуэе. Yamato был потоплен у острова Кюсю в ходе операции «Тэн-го» ударом авиации американского флота 7 апреля 1945 г."
+msgstr "The preliminary draft design of the battleship developed in Japan in the mid-1930s had a displacement of 49,000–69,500 tons, a speed of 24–31 knots, and a main gun caliber of 410–460 mm in various versions. The final version was Yamato, the largest battleship in the world. Admiral Yamamoto took command of the Japanese forces from her bridge during the Battle of Midway. On April 7, 1945, Yamato was sunk off Kyūshū island by attacking U.S. Navy aircraft during Operation Ten-Go."
 
 msgid "IDS_PJSB111_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PJSB506_DESCR"
-msgstr "Mutsu, второй линкор типа Nagato, вступил в строй уже в ходе начавшейся Вашингтонской конференции. Корабль принимал участие во Второй мировой войне: прикрывал атаку на Пёрл-Харбор, участвовал в сражении при Мидуэе и у Соломоновых островов. Mutsu погиб в порту Хасирадзима из-за взрыва в погребах третьей башни 8 июня 1943 г."
+msgstr "Mutsu, the second Nagato-class battleship, entered service when the Washington Naval Conference was already in full swing. The ship took part in World War II: She covered the Pearl Harbor attack and participated in the Battles of Midway and the Solomon Islands. On June 8, 1943, Mutsu sank in Hashirajima port as a result of an explosion in her third turret magazines."
 
 msgid "IDS_PJSB508_DESCR"
-msgstr "После объявления США в 1919 г. амбициозной кораблестроительной программы Япония пересмотрела свои планы развития флота: требовалось построить ещё четыре линкора и четыре линейных крейсера. В качестве основного проекта линкора был выбран вариант с пятью двухорудийными 410-мм башнями и главным поясом толщиной 12 дюймов. Первые два корабля были заказаны в 1921 г., но из-за Вашингтонской конференции подготовку к строительству приостановили."
+msgstr "Following the announcement of an ambitious shipbuilding program by the U.S. in 1919, Japan reconsidered the plans for the development of its Navy and gave the order to build four more battleships and four more battlecruisers. The design of the battleship incorporated five 410 mm twin-gun turrets and a 12-inch main armor belt. The first two ships were ordered for construction in 1921, but preparations were suspended due to the Washington Naval Conference. The ships were never built."
 
 msgid "IDS_PJSB509_DESCR"
-msgstr "Musashi, второй линкор типа Yamato, стал флагманом Объединённого флота в 1943 г. Корабль служил на Южно-тихоокеанском театре военных действий: использовался для патрульных операций, принимал участие в бою в Филиппинском море. В ходе сражения в заливе Лейте 24 октября 1944 г. линкор был потоплен американскими палубными бомбардировщиками и торпедоносцами, получив примерно 19 торпедных и 17 бомбовых попаданий."
+msgstr "Musashi, the second Yamato-class battleship, became the flagship of the Combined Fleet in 1943. The ship served in the South Pacific theater. She was used for patrol operations and participated in the Battle of the Philippine Sea. On October 24, 1944, during the Battle of Leyte Gulf, the battleship was sunk by American carrier-based torpedo-bombers after taking approximately 19 torpedo and 17 bomb hits."
 
 msgid "IDS_PJSB519_DESCR"
-msgstr "В середине 1930-х гг. в Японии был разработан предэскизный проект линкора, разные варианты которого предполагали скорость от 24 до 31 уз, главный калибр от 410 до 460 мм и водоизмещение от 49 000 до 69 500 т. Один из вариантов обладал классическим линейно-возвышенным расположением четырёх башен, по три 410-мм орудия в каждой, а 155-мм орудия располагались в трёхорудийных башнях. Силовая установка была комбинированной, дизельно-паротурбинной. Дальнейшая проработка привела к появлению линейных кораблей типа Yamato."
+msgstr "A pre-draft battleship project was developed in the mid-1930s in Japan. It included different versions with speeds varying from 24 to 31 knots, main battery guns from 410 to 460 mm, and displacements from 49,000 to 69,500 tons. One of the variants had a conventional superfiring arrangement of four turrets with three 410 mm guns in each, and its 155 mm guns were housed in triple-gun turrets. The project had a hybrid diesel and steam turbine propulsion plant. Further development led to the creation of the Yamato-class battleships."
 
 msgid "IDS_PJSB539_DESCR"
-msgstr "В 1916 г. в рамках развития флота японский парламент санкционировал постройку двух линейных крейсеров в дополнение к кораблям типа Kongō. В том же году японские кораблестроители представили четыре проекта линейного крейсера со скоростью 35 уз, которые различались мощностью энергетической установки и отдельными элементами бронирования. Характерной особенностью стала шестивальная силовая установка. После ряда доработок эти проекты стали основой для линейных крейсеров типа Amagi."
+msgstr "In 1916, as a part of the development of the fleet, the Japanese parliament approved the construction of two battlecruisers in addition to the Kongō-class ships. That same year, Japanese shipbuilders presented four battlecruiser projects that differed in the power of the propulsion unit and individual armor elements but were all capable of reaching a speed of 35 knots. The six-shaft power unit became a specific feature. After a number of improvements, these designs became the basis for the Amagi-class battlecruisers."
 
 msgid "IDS_PJSB559_DESCR"
-msgstr "Вариант проекта линкора, разработанный в Японии в середине 1930-х гг. Корабль должен был обладать четырьмя двухорудийными башнями главного калибра. Отличается усиленной универсальной артиллерией калибра 100 мм, улучшенным зенитным вооружением и наличием торпедных аппаратов."
+msgstr "One of the battleship projects developed in Japan in the mid-1930s. The ship was supposed to have four twin-gun main battery turrets. She had reinforced 100 mm dual-purpose artillery, improved anti-aircraft armament, and torpedo launchers."
 
 msgid "IDS_PJSB906"
 msgstr "Ise 2"
@@ -11332,13 +11332,13 @@ msgid "IDS_PJSB916_FULL"
 msgstr "Ise 3"
 
 msgid "IDS_PJSB918_DESCR"
-msgstr "Этот корабль является копией корабля Yamato и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of Yamato and is suitable for Clan Battles only"
 
 msgid "IDS_PJSB999_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PJSC005_DESCR"
-msgstr "Проект нового крейсера-разведчика был разработан под влиянием британских крейсеров типа Hawkins, а также конструктивных решений, испытанных на крейсере Yūbari. Во Вторую мировую войну Furutaka участвовал в операции на Соломоновых островах, в бою в Коралловом море и у острова Саво. Во время сражения у мыса Эсперанс 11 октября 1942 г. Furutaka получил попадания около 90 снарядов и одной торпеды, вследствие чего произошла детонация торпед. Крейсер затонул утром 12 октября."
+msgstr "The design of a new scout cruiser was based on the British Hawkins-class cruisers, and it incorporated design solutions tested on cruiser Yūbari. The armament consisted of six 200 mm guns. During World War II, Furutaka participated in the operation in the Solomon Islands, as well as in the Battles of the Coral Sea and Savo Island. On October 11, 1942, during the battle of Cape Esperance, Furutaka was hit by about ninety shells, resulting in her torpedoes detonating. The cruiser sank on the morning of October 12."
 
 msgid "IDS_PJSC006_DESCR"
 msgstr "Проект нового крейсера-разведчика был разработан под влиянием британских крейсеров типа Hawkins, а также конструктивных решений, испытанных на крейсере Yūbari. Во Вторую мировую войну Furutaka участвовал в операции на Соломоновых островах, в бою в Коралловом море и у острова Саво. Во время сражения у мыса Эсперанс 11 октября 1942 г. Furutaka получил попадания около 90 снарядов и одной торпеды, вследствие чего произошла детонация торпед. Крейсер затонул утром 12 октября."
