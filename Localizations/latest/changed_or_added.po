@@ -11341,40 +11341,40 @@ msgid "IDS_PJSC005_DESCR"
 msgstr "The design of a new scout cruiser was based on the British Hawkins-class cruisers, and it incorporated design solutions tested on cruiser Yūbari. The armament consisted of six 200 mm guns. During World War II, Furutaka participated in the operation in the Solomon Islands, as well as in the Battles of the Coral Sea and Savo Island. On October 11, 1942, during the battle of Cape Esperance, Furutaka was hit by about ninety shells, resulting in her torpedoes detonating. The cruiser sank on the morning of October 12."
 
 msgid "IDS_PJSC006_DESCR"
-msgstr "Проект нового крейсера-разведчика был разработан под влиянием британских крейсеров типа Hawkins, а также конструктивных решений, испытанных на крейсере Yūbari. Во Вторую мировую войну Furutaka участвовал в операции на Соломоновых островах, в бою в Коралловом море и у острова Саво. Во время сражения у мыса Эсперанс 11 октября 1942 г. Furutaka получил попадания около 90 снарядов и одной торпеды, вследствие чего произошла детонация торпед. Крейсер затонул утром 12 октября."
+msgstr "The design of a new scout cruiser was based on the British Hawkins-class cruisers, and it incorporated design solutions tested on cruiser Yūbari. The armament consisted of six 200 mm guns. During World War II, Furutaka participated in the operation in the Solomon Islands, as well as in the Battles of the Coral Sea and Savo Island. On October 11, 1942, during the battle of Cape Esperance, Furutaka was hit by about ninety shells, resulting in her torpedoes detonating. The cruiser sank on the morning of October 12."
 
 msgid "IDS_PJSC007_DESCR"
-msgstr "Крейсеры типа Aoba изначально должны были повторять тип Furutaka, однако по настоянию штаба ВМФ в конструкцию был внесён ряд изменений. Так, вместо 76-мм зенитных орудий были установлены новые 120-мм, а между кормовой надстройкой и башней появилась катапульта для гидросамолётов. Aoba активно участвовал во Второй мировой войне: высаживал десанты на Гуам и Уэйк, сражался в Коралловом море, у острова Саво, у мыса Эсперанс, сопровождал конвои. Затонул в гавани Куре после бомбардировки силами союзников 24 июля 1945 г."
+msgstr "The Aoba-class cruisers were originally intended to be identical to the Furutaka class, but a number of changes were made to the design by the order of the Navy's General Staff. New 120 mm anti-aircraft guns were mounted instead of 76 mm ones, and a catapult for seaplanes was added between the stern superstructure and the turret. Aoba actively participated in World War II: She landed troops on Guam and Wake, escorted convoys, and fought in the Battles of the Coral Sea, Savo Island, and Cape Esperance. On July 24, 1945, she was sunk in Kure Harbor by an Allied bomber force."
 
 msgid "IDS_PJSC007_YEAR"
-msgstr "1927 г."
+msgstr "1927"
 
 msgid "IDS_PJSC008_DESCR"
-msgstr "У новых крейсеров количество башен главного калибра было увеличено до пяти за счёт отказа от большего количества торпедных аппаратов, а противоторпедная защита была усилена введением продольных переборок. Возросла толщина бронепояса, было усилено противовоздушное вооружение. Во время Японо-китайской войны Myōkō участвовал в десанте на остров Хайнань. Во Вторую мировую корабль сражался в Яванском и Коралловом морях, при Мидуэе и на Соломоновых островах, в Филиппинском море и в заливе Лейте."
+msgstr "Instead of increasing the number of torpedo launchers for the new cruisers, the number of main battery turrets was increased to five, and the anti-torpedo protection was enhanced by the introduction of longitudinal bulkheads. The thickness of the armor belt was also increased, and the anti-aircraft weaponry was reinforced. During the Sino-Japanese War, Myōkō participated in the landing on Hainan Island. During World War II, the ship fought in the Java, Coral, and Philippine Seas, and she participated in the Battles of Midway, Solomon Islands, and Leyte Gulf."
 
 msgid "IDS_PJSC009_DESCR"
-msgstr "Согласно Лондонскому морскому договору, Япония имела право на постройку крейсеров с артиллерией калибра до 155 мм. Были заказаны новые крейсеры со 155-мм орудиями, позже их заменили на восьмидюймовый калибр. Во время Второй мировой войны Mogami участвовал в оккупации Индокитая, во вторжении в Малайю, Саравак и Индонезию, сражался в бою в Зондском проливе, в сражении за Мидуэй, в битве в Филиппинском море. Mogami был тяжело повреждён американскими торпедоносцами и добит эсминцем Akebono в ходе сражения в заливе Лейте 25 октября 1944 г."
+msgstr "According to the London Naval Treaty, Japan had the right to build cruisers with artillery up to 155 mm. New cruisers with 155 mm guns were ordered, but the weaponry was later replaced with 203 mm (8-inch) guns. During World War II, Mogami participated in the occupation of Indochina, as well as the invasions of Malaya, Sarawak, and Indonesia. She also fought in the Sunda Strait, the Battle of Midway, and the Battle of the Philippine Sea. On October 25, 1944, during the Battle of Leyte Gulf, Mogami was heavily damaged by American torpedo bombers and finally finished off by destroyer Akebono."
 
 msgid "IDS_PJSC015_DESCR"
-msgstr "Крейсеры типа Tenryū предназначались на роль лидеров эсминцев и должны были действовать параллельно с флотскими скаутами типа Furutaka. Корабли получили новое вооружение из 140-мм орудий главного калибра. Во Вторую мировую войну Tenryū использовался как эскортный корабль во время вторжения в Новую Гвинею и на Соломоновы острова, участвовал в бою у острова Саво и в сражении за Гуадалканал. Недалеко от порта Маданг Tenryū был торпедирован американской подводной лодкой USS Albacore и затонул 19 декабря 1942 г."
+msgstr "The Tenryū-class cruisers were intended to be destroyer leaders and were supposed to cooperate in parallel with the Furutaka-class naval scouts. The ships received new 140 mm main battery guns. During World War II, Tenryū was used as an escort ship during the invasions of New Guinea and the Solomon Islands. She participated in the Battle of Savo Island and the Battle of Guadalcanal. On December 19, 1942, near the Port of Madang, Tenryū was torpedoed by American submarine USS Albacore and sank."
 
 msgid "IDS_PJSC018_DESCR"
-msgstr "Проект основан на типе Mogami. Для улучшения защиты корабль лишился пятой башни, а остальные четыре переместились в носовую оконечность. На кормовой оконечности разместилась большая авиагруппа гидросамолётов. Когда корабль ещё стоял на стапелях, 155-мм орудия были заменены на 203-мм. Во Вторую мировую войну Tone участвовал в атаке на Пёрл-Харбор, в битве у атолла Мидуэй и в заливе Лейте, а также во многих других сражениях Тихоокеанского театра военных действий. Был потоплен в гавани Куре в ходе налёта американских бомбардировщиков 24 июля 1945 г."
+msgstr "The project was based on the Mogami-class ships. To improve the ship's protection, the fifth turret was removed while the other four were moved to the bow. A large seaplane air group was placed at the aft end, and the 155 mm guns were replaced with 203 mm guns while the ship was still on the stocks. During World War II, Tone participated in the attack on Pearl Harbor, as well as in the Battles of Midway, Leyte Gulf, and many others in the Pacific theater. On July 24, 1945, she was sunk in Kure Harbor during a raid by American bombers."
 
 msgid "IDS_PJSC034_DESCR"
-msgstr "В соответствии с программой пополнения флота Японии предполагалось построить восемь тяжёлых крейсеров, представлявших собой дальнейшее развитие типов Takao, Tone и Mogami. Вооружение кораблей должно было состоять из двенадцати 203-мм орудий в четырёх башнях, расположенных по классической схеме, а бронирование должно было защищать от фугасных снарядов калибра 203 мм. В дальнейшем количество кораблей было сокращено до четырёх, а затем их строительство и вовсе отменили."
+msgstr "Eight heavy cruisers were supposed to be built under the Japanese naval building program. They were a further development of the Takao, Tone, and Mogami classes. It was planned to arm these ships with twelve 203 mm guns in four turrets—a traditional arrangement. Their armor was designed to withstand 203 mm HE shell hits. The number of ships was later reduced to four, and their construction was then canceled altogether."
 
 msgid "IDS_PJSC037_DESCR"
-msgstr "Небольшая канонерская лодка, предназначенная для действий в прибрежной зоне. Для своих размеров была хорошо вооружена, в том числе зенитной артиллерией. Не имела бронирования и развивала невысокую скорость. В 1940–41 гг. Hashidate входил в состав Китайского экспедиционного флота, участвовал во вторжении в Гонконг. Корабль был потоплен американской подводной лодкой USS Picuda у острова Пратас 22 мая 1944 г."
+msgstr "A small gunboat designed for coastal operations. This gunboat was well-armed for her dimensions, including AA artillery. However, she lacked armor and was relatively slow. Between 1940 and 1941, Hashidate was part of the Chinese Expeditionary Fleet and participated in the invasion of Hong Kong. On May 22, 1944, the ship was sunk by American submarine USS Picuda near Pratas Island."
 
 msgid "IDS_PJSC038_DESCR"
-msgstr "Крейсер типа Takao. Во Вторую мировую войну поддерживал десанты во время вторжения в Малайю и на Филиппины, участвовал в битве в Яванском море, у Восточных Соломоновых островов, в бою у островов Санта-Крус, у Гуадалканала и в Филиппинском море. Atago был потоплен подводной лодкой USS Darter в ходе сражения в заливе Лейте 23 октября 1944 г."
+msgstr "Takao-class cruiser. During World War II, she supported assault groups during the invasions of Malaya and the Philippines, participated in the Battle of the Java Sea, and operated near the Eastern Solomon Islands, the Santa Cruz Islands, Guadalcanal, and the Philippine Sea. On October 23, 1944, during the Battle of Leyte Gulf, Atago was sunk by submarine USS Darter."
 
 msgid "IDS_PJSC111"
 msgstr "Senjō"
 
 msgid "IDS_PJSC111_DESCR"
-msgstr "Дальнейшее развитие японских тяжёлых крейсеров, предполагающее вооружение из двенадцати 60-калиберных немецких 210-мм орудий. Техническое сотрудничество между Германией и Японией включало в себя обмен чертежами и технологическими картами перспективных образцов техники и вооружений. От предшественника (проекта тяжёлого крейсера 1941 г.) отличается усиленными бронированием и вспомогательным вооружением, в первую очередь ПВО."
+msgstr "A further development of Japanese heavy cruisers, featuring an armament of twelve 60-caliber German 210 mm guns. Technical cooperation between Germany and Japan included the exchange of blueprints and technological plans for advanced equipment and weaponry. Compared to its predecessor (the 1941 heavy cruiser project), this design has enhanced armor and secondary armament, particularly in anti-aircraft defense."
 
 msgid "IDS_PJSC111_FULL"
 msgstr "Senjō"
@@ -11383,19 +11383,19 @@ msgid "IDS_PJSC111_NUMBER"
 msgstr "1"
 
 msgid "IDS_PJSC111_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PJSC205_DESCR"
-msgstr "Проектирование крейсеров типа Agano началось во второй половине 1930-х гг. Их основным назначением должна была стать разведка, поэтому от крейсеров в первую очередь требовалась высокая скорость, для чего пришлось ослабить бронезащиту. Вооружение представляло собой шесть 152-мм орудий в трёх башнях. Во Вторую мировую войну крейсер Agano участвовал в эскортных и патрульных операциях, принял участие в бою в заливе Императрицы Августы. Крейсер был потоплен подводной лодкой USS Skate в процессе перехода на ремонт 17 февраля 1944 г."
+msgstr "The design of the Agano-class cruisers began in the second half of the 1930s. Their main purpose was reconnaissance, so the cruisers primarily required high speed, which necessitated weakening their armor. Their armament consisted of six 152 mm guns in three turrets. During World War II, cruiser Agano participated in escort and patrol operations and also took part in the Battle of Empress Augusta Bay. On February 17, 1944, the cruiser was sunk by submarine USS Skate while en route for repairs."
 
 msgid "IDS_PJSC505_DESCR"
-msgstr "Крейсер типа Agano. Участвовал в сражении в Филиппинском море в июне 1944 г. в качестве флагмана сводной дивизии эсминцев, прикрывал авианесущую ударную группу. Принимал участие в сражении в заливе Лейте, также возглавляя сводный дивизион эсминцев. В ходе атаки американских сил у Окинавы, Yahagi получил множество торпедных и бомбовых попаданий, потерял ход и затонул 7 апреля 1945 г."
+msgstr "Agano-class cruiser. Yahagi participated in the Battle of the Philippine Sea in June 1944 as the flagship of a consolidated destroyer division and provided cover for the aircraft-carrying strike group. She also participated in the Battle of Leyte Gulf, leading the consolidated destroyer division. On April 7, 1945, during an American attack near Okinawa, Yahagi received multiple torpedo and bomb hits, stopped in her course, and sank."
 
 msgid "IDS_PJSC506"
 msgstr "Ōyodo"
 
 msgid "IDS_PJSC506_DESCR"
-msgstr "По программе 1939 г. планировалась постройка крейсера на роль лидера эскадры подводных лодок. От этого корабля требовались мощные средства связи и возможность нести шесть гидросамолётов-разведчиков. Корпус был разработан на базе крейсера Agano, а башни главного калибра были получены от типа Mogami. Ōyodo участвовал в кампаниях 1943 г. в составе Третьего флота. Став флагманом Объединённого флота, крейсер принял участие в бою у мыса Энганьо. Крейсер был потоплен в Этадзиме в результате нескольких близких разрывов авиабомб 28 июля 1945 г."
+msgstr "The 1939 program planned the construction of a cruiser to serve as the flagship for a submarine squadron. This ship was required to have powerful communication equipment and the capability to carry six reconnaissance seaplanes. The hull was based on the Agano-class cruiser, and the main battery turrets were taken from the Mogami-class. Ōyodo participated in the 1943 campaigns as part of the Third Fleet. After becoming the flagship of the Combined Fleet, the cruiser took part in the Battle of Cape Engaño. The cruiser was sunk at Etajima due to several near misses from aerial bombs on July 28, 1945."
 
 msgid "IDS_PJSC506_FULL"
 msgstr "Ōyodo"
@@ -11404,13 +11404,13 @@ msgid "IDS_PJSC506_NUMBER"
 msgstr "1"
 
 msgid "IDS_PJSC506_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PJSC507_DESCR"
-msgstr "Изначальное вооружение крейсеров-разведчиков предполагало шесть двухорудийных башен со 140-мм орудиями, однако позже проект был пересмотрен. В 1930-х гг. крейсера типа Furutaka были перестроены по образцу крейсеров типа Aoba, получив по три двухорудийные башни. Если бы этого не произошло, в ходе Второй мировой войны такие крейсеры, скорее всего, были бы превращены в корабли ПВО, получив спаренные установки 127-мм универсальных орудий."
+msgstr "The armament of the scout cruisers originally included six 140 mm twin-gun turrets, but the project was later revised. In the 1930s, the Furutaka-class cruisers were rebuilt following the pattern of the Aoba-class cruisers and received three twin-gun turrets. If this hadn't happened, such cruisers would most likely have been turned into anti-aircraft defense ships during World War II with 127 mm dual-purpose guns in twin-gun mounts."
 
 msgid "IDS_PJSC517_DESCR"
-msgstr "Крейсер типа Takao. Участвовал в Японо-китайской войне, эскортируя транспортные суда. Во Вторую мировую войну поддерживал десанты на Филиппинские и Алеутские острова, участвовал в битве у Восточных Соломоновых островов, в бою у островов Санта-Крус и у Командорских островов, в сражении в Филиппинском море. Maya был торпедирован подводной лодкой USS Dace в ходе сражения в заливе Лейте и быстро затонул 23 октября 1944 г."
+msgstr "Takao-class cruiser. She participated in the Sino-Japanese War, escorting transport ships. During World War II, she supported assault groups on the Philippine and Aleutian Islands, and she also participated in the Battles of the Eastern Solomons, the Santa Cruz Islands, the Commander Islands, and the Philippine Sea. On October 23, 1944, during the Battle of Leyte Gulf, Maya was torpedoed by submarine USS Dace and quickly sank."
 
 msgid "IDS_PJSC590"
 msgstr "Yoshino B"
