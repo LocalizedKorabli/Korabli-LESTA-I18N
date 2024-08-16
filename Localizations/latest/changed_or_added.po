@@ -1778,7 +1778,7 @@ msgid "IDS_DESCRIPTION_PCZA003_DUNKIRK"
 msgstr ""
 "The Dunkirk operation was one of the largest battles of the early stages of World War II, involving land forces, naval forces, and aviation on a full scale. Over the course of several days in late May and early June 1940, more than 330,000 British and French troops were evacuated from northern France. To save their personnel, the Allies had to sacrifice all equipment and most of their weapons. 2,472 guns and nearly 65,000 vehicles of the British Expeditionary Force and French Army were left behind at Dunkirk. The British Admiralty involved more than 800 military and civilian ships—English, French, Dutch, Belgian.\n"
 "\n"
-"This included about fifty destroyers, dozens of minesweepers, trawlers, passenger steamers, yachts, fishing schooners, rescue and other ships. During Luftwaffe raids, artillery fire from the Wehrmacht, torpedo boat attacks from the Kriegsmarine, and on minefields, one in every four ships was lost. In nine days of evacuation, 145 British and 156 German aircraft were shot down in the battle for air supremacy over northern France. 'Wars are not won by evacuations,' Winston Churchill said. However, as a result of the 'miracle of Dunkirk,' the British army was saved and able to continue the fight against the Axis powers in other theaters. The evacuated French units formed the core of the Free French Forces.\n"
+"This included about fifty destroyers, dozens of minesweepers, trawlers, passenger steamers, yachts, fishing schooners, rescue and other ships. During Luftwaffe raids, artillery fire from the Wehrmacht, torpedo boat attacks from the Kriegsmarine, and on minefields, one in every four ships was lost. In nine days of evacuation, 145 British and 156 German aircraft were shot down in the battle for air supremacy over northern France. 'Wars are not won by evacuations', Winston Churchill said. However, as a result of the 'miracle of Dunkirk', the British army was saved and able to continue the fight against the Axis powers in other theaters. The evacuated French units formed the core of the Free French Forces.\n"
 "\n"
 "Four years later, the Allies returned to France in victory. The experience of organizing large-scale troop transportation at Dunkirk was used in 1944 during the Normandy landings, and Vice Admiral Bertram Ramsay and Captain William Tennant, who led the 1940 evacuation, became key figures in D-Day."
 
@@ -2623,7 +2623,7 @@ msgid "IDS_DOGTAG_PCNB223_NAME"
 msgstr "USS Batfish"
 
 msgid "IDS_DOGTAG_PCNB253_DESCRIPTION"
-msgstr "'The Friday the 13th Battle,' which took place in November 1942, was fatal for the light cruiser Atlanta. However, two years after the sinking of USS Atlanta, it 'rose from the ashes,' repeating the fate of the city it was named after: in December 1944, a new cruiser bearing this glorious name was commissioned."
+msgstr "'The Friday the 13th Battle', which took place in November 1942, was fatal for the light cruiser Atlanta. However, two years after the sinking of USS Atlanta, it 'rose from the ashes', repeating the fate of the city it was named after: in December 1944, a new cruiser bearing this glorious name was commissioned."
 
 msgid "IDS_DOGTAG_PCNB253_NAME"
 msgstr "USS Atlanta"
@@ -4889,7 +4889,7 @@ msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_1"
 msgstr "You will compete with other players in a contest consisting of 5 rounds."
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "In each round, you will participate in one of the challenges selected at random: 'Combat Endurance,' 'Speed Maneuvers,' 'Firepower,' 'Target Elimination,' and 'Shooting Accuracy.'"
+msgstr "In each round, you will participate in one of the challenges selected at random: 'Combat Endurance', 'Speed Maneuvers', 'Firepower', 'Target Elimination', and 'Shooting Accuracy.'"
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_3"
 msgstr "In different challenges, certain changes and restrictions will be applied to your ship's characteristics. You will not be able to use consumables throughout the contest."
@@ -7009,7 +7009,7 @@ msgid "IDS_PBSB609"
 msgstr "S. Thunder"
 
 msgid "IDS_PBSB609_DESCR"
-msgstr "Representatives of the Ministry of Progress and ubiquitous reporters call the International Space Elevator a marvel of engineering. But no less a marvel is the ship 'Scarlet Thunder,' which, after re-equipment, embodies the latest advancements in robotics. It is meticulously designed and refined to the smallest detail—from the powerful magnetic toroids to the tiniest rivet."
+msgstr "Representatives of the Ministry of Progress and ubiquitous reporters call the International Space Elevator a marvel of engineering. But no less a marvel is the ship 'Scarlet Thunder', which, after re-equipment, embodies the latest advancements in robotics. It is meticulously designed and refined to the smallest detail—from the powerful magnetic toroids to the tiniest rivet."
 
 msgid "IDS_PBSB609_YEAR"
 msgstr "1971"
@@ -7484,7 +7484,7 @@ msgid "IDS_PCEE082_BLUE_MERMAID_DESCRIPTION"
 msgstr ""
 "Emblem of the 'Blue Mermaids'.\n"
 "The 'Blue Mermaids' are an elite women's organization responsible for maintaining maritime safety.\n"
-"Childhood friends Akeno Misaki and Moeka China dream of joining the 'Blue Mermaids,' for which the girls enroll in the Yokosuka Maritime Academy. They live by the sea, protecting and conquering its expanses...\n"
+"Childhood friends Akeno Misaki and Moeka China dream of joining the 'Blue Mermaids', for which the girls enroll in the Yokosuka Maritime Academy. They live by the sea, protecting and conquering its expanses...\n"
 "These are the 'Blue Mermaids!'"
 
 msgid "IDS_PCEE120_WG_SUMMER_FEST_2017"
@@ -7518,7 +7518,7 @@ msgid "IDS_PCEE171_COSSACK_FLAG_DESCRIPTION"
 msgstr "Commissioned in 1938, HMS Cossack gained fame during World War II under the command of Philip Vian during the Altmark incident, the Battle of Narvik, and the hunt for Bismarck."
 
 msgid "IDS_PCEE183_VARYAG_FLAG_DESCRIPTION"
-msgstr "The 'Varyag,' one of the most famous Russian cruisers, became famous at the very beginning of the Russo-Japanese War of 1904–1905 when, blocked by a Japanese squadron, it refused to surrender and engaged in an unequal battle with fourteen enemy ships."
+msgstr "The 'Varyag', one of the most famous Russian cruisers, became famous at the very beginning of the Russo-Japanese War of 1904–1905 when, blocked by a Japanese squadron, it refused to surrender and engaged in an unequal battle with fourteen enemy ships."
 
 msgid "IDS_PCEE184_Z_39_FLAG_DESCRIPTION"
 msgstr "The destroyer Z-39, commissioned in August 1943, had the unofficial name Hermes. This name was inherited from the lost destroyer ZG-3, formerly the Greek Vasilefs Georgios, which was sunk in the Mediterranean in May 1943, and whose crew joined the Z-39."
@@ -7609,7 +7609,7 @@ msgid "IDS_PCEE471_RANKEDFLAG_5_EXTRA_DESCRIPTION"
 msgstr "For achieving 1st rank in the Bronze League in the 5th season of Ranked Battles."
 
 msgid "IDS_PCEE560_WOWS_WOT_FLAG_DESCRIPTION"
-msgstr "In honor of the games 'World of Warships,' 'World of Tanks,' and 'Tanks Blitz.'"
+msgstr "In honor of the games 'World of Warships', 'World of Tanks', and 'Tanks Blitz.'"
 
 msgid "IDS_PCEE563_CHKALOVBLACK_FLAG"
 msgstr "Chkalov C"
@@ -7639,7 +7639,7 @@ msgid "IDS_PCEE612_POPEYE"
 msgstr " "
 
 msgid "IDS_PCEE613_SCARLET_THUNDER_FLAG_DESCRIPTION"
-msgstr "Representatives of the Ministry of Progress and ubiquitous reporters call the International Space Overpass a marvel of engineering. But no less a marvel is the ship 'Scarlet Thunder,' after re-equipment embodying the latest achievements in robotics. Thought out and refined to the smallest detail — from powerful magnetic toroids to the tiniest rivet."
+msgstr "Representatives of the Ministry of Progress and ubiquitous reporters call the International Space Overpass a marvel of engineering. But no less a marvel is the ship 'Scarlet Thunder', after re-equipment embodying the latest achievements in robotics. Thought out and refined to the smallest detail — from powerful magnetic toroids to the tiniest rivet."
 
 msgid "IDS_PCEE615_RUSSIA_FLAG"
 msgstr "Russian Tricolor"
@@ -7953,7 +7953,7 @@ msgid "IDS_PCEE689_LOTHRINGEN_FLAG"
 msgstr "Lothringen"
 
 msgid "IDS_PCEE689_LOTHRINGEN_FLAG_DESCRIPTION"
-msgstr "Alsace and Lorraine were incorporated into the German Empire following the Franco-Prussian War of 1870–1871 and became 'imperial land,' without achieving the status of a full province. The flag of this land depicted the national colors and the coat of arms of the German Empire, with the combined coat of arms of Lower Alsace, Upper Alsace, and Lorraine in the upper left corner."
+msgstr "Alsace and Lorraine were incorporated into the German Empire following the Franco-Prussian War of 1870–1871 and became 'imperial land', without achieving the status of a full province. The flag of this land depicted the national colors and the coat of arms of the German Empire, with the combined coat of arms of Lower Alsace, Upper Alsace, and Lorraine in the upper left corner."
 
 msgid "IDS_PCEE690_NATSUKAZE_FLAG"
 msgstr "Natsukaze"
@@ -8766,7 +8766,7 @@ msgstr "Kaigun-daisa (Captain), formal uniform, 1927"
 
 msgid "IDS_PCZC056_YAMAMOTO_KAIGUN_CHUSHO_DESCRIPTION"
 msgstr ""
-"The increasingly influential militant political forces in Japan sought to remove from responsible positions those who could prevent the outbreak of aggression in the Pacific. A staunch opponent of conflict with the USA and alliance with the Third Reich, Vice-Admiral Yamamoto, who held the post of Deputy Naval Minister in the late 1930s, began receiving death threats, but he treated them with complete calm. 'They may destroy my body, but they will never conquer my will,' he wrote to his acquaintances.\n"
+"The increasingly influential militant political forces in Japan sought to remove from responsible positions those who could prevent the outbreak of aggression in the Pacific. A staunch opponent of conflict with the USA and alliance with the Third Reich, Vice-Admiral Yamamoto, who held the post of Deputy Naval Minister in the late 1930s, began receiving death threats, but he treated them with complete calm. 'They may destroy my body, but they will never conquer my will', he wrote to his acquaintances.\n"
 "\n"
 "Enjoying the emperor's favor and respect among the naval officers, Yamamoto was appointed Commander-in-Chief of the Combined Fleet on August 30, 1939. This was the last order from his superior, Naval Minister Admiral Yonai, who was also against the alliance with the Nazis, and, in Yonai's opinion, the only way to keep Yamamoto alive — on shore, he would have been killed by nationalists."
 
@@ -9133,7 +9133,7 @@ msgid "IDS_PCZC799_SCARLET_BIRTHDAY_1_1_DESCRIPTION"
 msgstr ""
 "Robot SAN-1 was developed with safety in mind, but during testing, an artificial intelligence error was discovered. It caused the robot to interpret the phrase 'order enforcement' too literally. The project was frozen.\n"
 "\n"
-"After the adoption of the 'Friendship Protocol,' engineers resumed work on the project and decided to turn the AI's flaw into an advantage.\n"
+"After the adoption of the 'Friendship Protocol', engineers resumed work on the project and decided to turn the AI's flaw into an advantage.\n"
 "\n"
 "Eight updates later, the SAN-9I cleaning robot was born, which earned its rightful place in every home.\n"
 "\n"
@@ -9290,7 +9290,7 @@ msgid "IDS_PCZC815_SCARLET_BIRTHDAY_3_5"
 msgstr "Port 'Friendship'"
 
 msgid "IDS_PCZC815_SCARLET_BIRTHDAY_3_5_DESCRIPTION"
-msgstr "A seaport located near the International Space Overpass. It serves as a haven for cargo and trading ships. The port is guarded by several warships and is, in fact, an impregnable fortress. The pride of the port is the magnificent 'Scarlet Thunder,' a battleship that, after retrofitting, embodies the latest achievements in robotics."
+msgstr "A seaport located near the International Space Overpass. It serves as a haven for cargo and trading ships. The port is guarded by several warships and is, in fact, an impregnable fortress. The pride of the port is the magnificent 'Scarlet Thunder', a battleship that, after retrofitting, embodies the latest achievements in robotics."
 
 msgid "IDS_PCZC816_SCARLET_BIRTHDAY_3_6"
 msgstr "Maimon"
@@ -12793,100 +12793,100 @@ msgid "IDS_PRPA103_356MM_HE_1938_POLTAVA"
 msgstr "356 mm HE Model 1938"
 
 msgid "IDS_PRPA105_406MM_HE_BORODINO"
-msgstr "406-мм ОФ обр. 1937 г."
+msgstr "406 mm HE Model 1937"
 
 msgid "IDS_PRPA126_406MM_HE_KIM"
-msgstr "406-мм ОФ обр. 1937 г."
+msgstr "406 mm HE Model 1937"
 
 msgid "IDS_PRPA150_406MM_HE_RTC_S_RUSSIA"
-msgstr "406-мм ОФ обр. 1937 г."
+msgstr "406 mm HE Model 1937"
 
 msgid "IDS_PRPA151_406MM_AP_RTC_S_RUSSIA"
-msgstr "406-мм ББ обр. 1937 г."
+msgstr "406 mm AP Model 1937"
 
 msgid "IDS_PRPA152_152MM_OFU35_SCHERBAKOV"
-msgstr "ОФУ-35"
+msgstr "OFU-35"
 
 msgid "IDS_PRPA153_152MM_B35_SCHERBAKOV"
-msgstr "Б-35"
+msgstr "B-35"
 
 msgid "IDS_PRPA188_305MM_AP_STALINGRAD_2"
-msgstr "305-мм ББ обр. 1928 г."
+msgstr "305 mm AP Model 1928"
 
 msgid "IDS_PRPA208_406MM_HE_SEVEROMORSK"
-msgstr "406-мм ОФ обр. 1928 г."
+msgstr "406 mm HE Model 1928"
 
 msgid "IDS_PRPA209_406MM_AP_SEVEROMORSK"
-msgstr "406-мм ББ обр. 1928 г."
+msgstr "406 mm AP Model 1928"
 
 msgid "IDS_PRPA210_152MM_HE_KERCH"
-msgstr "152-мм proiettili HE"
+msgstr "152 mm proiettili HE"
 
 msgid "IDS_PRPA211_152MM_AP_KERCH"
-msgstr "152-мм proiettili AP"
+msgstr "152 mm proiettili AP"
 
 msgid "IDS_PRPA212_406MM_HE_MOD1928"
-msgstr "406-мм ОФ обр. 1928 г."
+msgstr "406 mm HE Model 1928"
 
 msgid "IDS_PRPA213_406MM_AP_MOD1928"
-msgstr "406-мм ББ обр. 1928 г."
+msgstr "406 mm AP Model 1928"
 
 msgid "IDS_PRPA214_152MM_CS_KERCH"
-msgstr "152-мм proiettili CS 1926 mod.1"
+msgstr "152 mm CS shells 1926 mod.1"
 
 msgid "IDS_PRPA215_203MM_55_HE_TOGLIATTI"
-msgstr "203-мм proiettili HE 1924"
+msgstr "203 mm proiettili HE 1924"
 
 msgid "IDS_PRPA216_203MM_55_AP_TOGLIATTI"
-msgstr "203-мм proiettili AP 1924 mod.2"
+msgstr "203 mm proiettili AP 1924 mod.2"
 
 msgid "IDS_PRPA217_152MM_CS_SCHERBAKOV"
-msgstr "ПБ-35"
+msgstr "PB-35"
 
 msgid "IDS_PRPA218_305MM_HE_R_ALASKA"
-msgstr "305-мм HE Mk17 mod. 1"
+msgstr "305 mm HE Mk17 mod. 1"
 
 msgid "IDS_PRPA219_305MM_AP_R_ALASKA"
-msgstr "305-мм AP Mk18 mod. 1"
+msgstr "305 mm AP Mk18 mod. 1"
 
 msgid "IDS_PRPA220_127MM_HE_SG"
-msgstr "127-мм HE Mk32"
+msgstr "127 mm HE Mk32"
 
 msgid "IDS_PRPS009_SEVEROMORSK_TOP"
-msgstr "ФАБ-500"
+msgstr "FAB-500"
 
 msgid "IDS_PRPT003_PAT_08"
-msgstr "Торпеда обр. 1908 г."
+msgstr "Torpedo Model 1908"
 
 msgid "IDS_PRPT004_PAT_10"
-msgstr "Торпеда обр. 1910 г."
+msgstr "Torpedo Model 1910"
 
 msgid "IDS_PRPT005_45_12"
-msgstr "Торпеда обр. 1912 г."
+msgstr "Torpedo Model 1912"
 
 msgid "IDS_PRPT016_53_39_MOD1"
-msgstr "53-39 мод. 1"
+msgstr "53-39 mod. 1"
 
 msgid "IDS_PRPT022_53_39_MOD3"
-msgstr "53-39 мод. 3"
+msgstr "53-39 mod. 3"
 
 msgid "IDS_PRPT031_53_39_TASH41"
-msgstr "53-39 мод. 4"
+msgstr "53-39 mod. 4"
 
 msgid "IDS_PRPT037_OCHAKOV"
-msgstr "53-39 мод. 3"
+msgstr "53-39 mod. 3"
 
 msgid "IDS_PRPT039_53_39_MOD4"
-msgstr "53-39 мод. 4"
+msgstr "53-39 mod. 4"
 
 msgid "IDS_PRPT066_533MM_SUB_T11"
-msgstr "53-38У"
+msgstr "53-38U"
 
 msgid "IDS_PRPT067_533MM_SUB_MAG_T11"
-msgstr "53-38У MZ"
+msgstr "53-38U MZ"
 
 msgid "IDS_PRPT068_KERCH"
-msgstr "533-мм Si 270"
+msgstr "533 mm Si 270"
 
 msgid "IDS_PRPT069_TOGLIATTI"
 msgstr "53-38"
@@ -12895,334 +12895,334 @@ msgid "IDS_PRPT070_MONOMAKH"
 msgstr "53-50"
 
 msgid "IDS_PRSA106_DESCR"
-msgstr "Предэскизный проект 71 авианосца малого водоизмещения на основе корпуса и механизмов крейсера проекта 68 был разработан в 1939 г. Однако нарекания вызывала малая вместимость ангаров и недостаточная авиагруппа. Предлагалось увеличить размеры ангара, авиагруппу довести до 40–45 самолётов и сделать её сугубо истребительной. Также появилось требование увеличить число универсальных орудий. Работы продолжились в виде проекта тяжёлого авианосца с индексом 71Б."
+msgstr "The preliminary design of Project 71 for an aircraft carrier with low displacement based on the hull and mechanisms of the Project 68 ship was developed in 1939; however, the ship's low hangar capacity and insufficient number of airplanes drew criticism. It was planned to increase dimensions of the hangar and increase the number of airplanes on board to 40–45 machines, all of which should have been fighters. A requirement was also formed to increase the number of dual-purpose guns to 12 and investigate the possibility of replacing them with eight 130 mm coupled mounts. Work continued in the form of a project for a heavy aircraft carrier codenamed 71B."
 
 msgid "IDS_PRSA598"
-msgstr "Чкалов Ч"
+msgstr "Chkalov B"
 
 msgid "IDS_PRSA598_DESCR"
-msgstr "Дальнейшая разработка авианосца по проекту 71 продолжилась в рамках проекта «большого авианосца» с индексом 71Б. Корабль позволял бы главным силам флота оперативно использовать авиацию в открытом море и у берегов в отдалённых от баз районах. Проект не был реализован из-за начала Второй мировой войны."
+msgstr "The project of a high-speed aircraft carrier armed with dual-purpose main battery artillery developed in the U.S.S.R. in the late 1930s (Project 71B)."
 
 msgid "IDS_PRSA598_FULL"
-msgstr "Чкалов Ч"
+msgstr "Chkalov B"
 
 msgid "IDS_PRSA990"
-msgstr "Нахимов Test"
+msgstr "Nakhimov Test"
 
 msgid "IDS_PRSA990_DESCR"
-msgstr "Копия корабля для тестирования элитной модернизации."
+msgstr "Ship for test."
 
 msgid "IDS_PRSA990_FULL"
-msgstr "Адмирал Нахимов Test"
+msgstr "Admiral Nakhimov Test"
 
 msgid "IDS_PRSB001_DESCR"
-msgstr "Чтобы избежать возможного преимущества турецкого флота над Черноморским в Первой мировой войне, в 1914 г. в Николаеве был заложен новый дредноут «Император Николай I». Изначальный план его вооружения был пересмотрен ради ускорения строительства: вместо 356-мм линкор должен был иметь 305-мм орудия. В 1916 г. корабль был спущен на воду, однако последующие работы остановились из-за отсутствия необходимых механизмов и оборудования. В 1920-х гг. руководство СССР возобновило планы по достройке линкора, однако их так и не удалось воплотить в жизнь."
+msgstr "To prevent a possible advantage of the Turkish Fleet over the Black Sea Fleet during World War I, the fourth dreadnought of the Black Sea Fleet, Imperator Nikolai I, was laid down in the city of Mykolaiv in 1914. The initial armament composition of the ship was revised to speed up her construction—it was planned to mount 305 mm guns on the battleship instead of 356 mm ones. The ship was launched in 1916; however, further work was halted due to a lack of the required mechanisms and equipment. The Soviet authorities renewed their plans to complete the battleship construction in the 1920s, but they were never fulfilled."
 
 msgid "IDS_PRSB105_DESCR"
-msgstr "В 1907 г. Морской генеральный штаб выработал программу развития морских вооружений на 1909–1919 гг. В 1911 г. для российских и иностранных верфей был организован конкурс на лучший эскизный проект броненосного крейсера для Балтийского моря. Вариант, предложенный Blohm & Voss, отличался компоновкой: артиллерия была расположена по линейно-возвышенной схеме. Корабль c восемью 356-мм орудиями в четырёх башнях и двадцатью четырьмя орудиями ПМК напоминает немецкие линейные крейсеры того времени, а по бронированию близок к линкорам типа «Гангут»."
+msgstr "In 1907, the Naval General Staff developed the Naval Warfare Development Program of 1909–1919. The tender for the best draft design of \"an armored cruiser for the Baltic Sea\" was organized for Russian and foreign shipyards in 1911. The solution proposed by Blohm & Voss stood out for its layout—the main battery guns were installed in superfiring turrets. The ship, with eight 356 mm guns housed in four turrets and twenty-four 130 mm secondary guns, was reminiscent of German battlecruisers of that time; however, in terms of her armor, she was similar to the Gangut-class battleships."
 
 msgid "IDS_PRSB107_DESCR"
-msgstr "После закладки линейных крейсеров типа «Измаил» Морской генеральный штаб приступил к разработке линкоров следующего поколения. В 1913–14 гг. были определены требования для будущих кораблей, однако с началом Первой мировой войны разработка прекратилась. Проект возобновили только в 1916 г. Одним из его вариантов был корабль с девятью орудиями в трёхорудийных башнях и с 152-мм орудиями ПМК. В начале 1917 г. работа над ним была остановлена."
+msgstr "After the Izmail-class battlecruisers were laid down, the Naval General Staff commenced the development of a new generation of battleships. The requirements for the new ships were formulated between 1913 and 1914, but the development was halted when World War I broke out. The project was resumed only in 1916. A project variant proposed a warship with nine main guns housed in triple-gun turrets, a 275 mm-thick armored belt with a 100 mm-thick bulkhead behind it, 152 mm secondary guns, and a 30-knot speed. Work on the project was halted in 1917."
 
 msgid "IDS_PRSB108_DESCR"
-msgstr "В 1935 г. новые международные вызовы скорректировали кораблестроительную политику СССР в сторону разработки современных тяжёлых кораблей: линкора для Балтийского моря и крейсера для Тихого океана. Будущий корабль должен был иметь девять 406-мм орудий в трёх башнях и двенадцать 152-мм орудий в шести башнях в качестве ПМК. В 1937 г. было решено развивать проект дальше, увеличивая его защиту и вооружение. Впоследствии проект был воплощён в виде линкоров типа «Советский Союз»."
+msgstr "In 1935, new international challenges pushed Soviet shipbuilding policy toward the development of modern heavy warships—a battleship for the Baltic Sea and a cruiser for the Pacific Ocean. It was planned for the new battleship to have nine 406 mm main guns housed in three turrets, twelve 152 mm secondary guns housed in six turrets, a 380 mm-thick armored belt, and a speed of at least 30 knots. In 1937, it was decided to continue improving the project by increasing its protection and armament. Later on, the project would be implemented in the form of the Sovetsky Soyuz-class battleships."
 
 msgid "IDS_PRSB109_DESCR"
-msgstr "Весной 1937 г. руководству СССР стало известно, что Германия и Япония строят новые линкоры с более высокими характеристиками, чем у существовавшего советского проекта. В связи с этим конструкторским бюро было предложено увеличить водоизмещение и максимальную скорость будущего корабля без оглядки на договорные ограничения. Линкор «Советский Союз» был заложен 15 июля 1938 г. на заводе № 189 им. С. Орджоникидзе. С началом Второй мировой войны сорвались заграничные заказы, а блокада Ленинграда фактически заморозила постройку корабля."
+msgstr "In the spring of 1937, the Soviet authorities learned about the construction of new German and Japanese ships that seemed more powerful than their A-class battleship project. The Shipbuilding Bureau suggested improving the displacement and speed of Project 23 up to 55,000 tons and 29.5 knots, respectively. The project was completed in March 1938, and the Defense Committee ordered the construction of four more ships. Sovetsky Soyuz was laid down at the Baltic Works on July 15, 1938. When the war broke out, the orders for producing parts in foreign countries were canceled; the ship, which was 21% complete, wasn't finished due to the blockade of Leningrad."
 
 msgid "IDS_PRSB111_DESCR"
-msgstr "В 1945 г. главный штаб ВМФ выдал задание на разработку линейного корабля проекта 24, в рамках которого рассматривалось 15 предэскизных вариантов. Крупнейшим из них стал проект с предполагаемым водоизмещением в 110 000 т, по архитектуре близкий к тяжёлым крейсерам проекта 82. Корабль планировали построить к 1955 г. Воплощённый в металле, он мог бы стать крупнейшим и мощнейшим линкором в истории."
+msgstr "In 1945, the Navy's General Staff gave the order to develop a battleship under Project 24, which included 15 draft designs within its framework to be reviewed. The largest of them was a project with a suggested displacement of 110,000 tons that was similar in architecture to the Project 82 heavy cruisers. Plans were made to construct the ship by 1955, but they never came to fruition. If she had ended up being embodied in metal, the ship could have become the largest and most powerful battleship in history."
 
 msgid "IDS_PRSB207"
-msgstr "Сенявин"
+msgstr "Senyavin"
 
 msgid "IDS_PRSB207_DESCR"
-msgstr "В 1921–22 гг. было разработано несколько вариантов проекта модернизации недостроенного линейного крейсера «Кинбурн» типа «Измаил». В конструкцию корабля предполагалось внести усовершенствования, учитывая опыт мировой войны. Главным отличием от исходного проекта была бы установка двухорудийных башен с 406-мм орудиями, некоторые варианты также предполагали усиленное бронирование."
+msgstr "In 1921–22, several variants of a modernization project for the unfinished battlecruiser Kinburn of the Izmail class were developed. The ship's design was to be improved, taking into account the experience of the World War. The main difference from the original project would have been the installation of twin turrets with 406 mm guns, and some variants also suggested enhanced armor protection."
 
 msgid "IDS_PRSB207_FULL"
-msgstr "Адмирал Сенявин"
+msgstr "Admiral Senyavin"
 
 msgid "IDS_PRSB207_NUMBER"
 msgstr "1"
 
 msgid "IDS_PRSB207_YEAR"
-msgstr "1922 г."
+msgstr "1922"
 
 msgid "IDS_PRSB208"
-msgstr "Истомин"
+msgstr "Istomin"
 
 msgid "IDS_PRSB208_DESCR"
-msgstr "В ожидании новых крупных программ строительства линкоров в 1914 г. была разработана серия проектов, над которыми совместно работали российские и немецкие инженеры. Корабли имели общие характеристики с типом Bayern, который в то время разрабатывался в Германии. Проект № 4 имел 406-мм орудия в трёхорудийных башнях, которые располагались продольно."
+msgstr "While awaiting new major battleship construction programs, a series of projects were developed in 1914 through the joint efforts of Russian and German engineers. The ships shared characteristics with the Bayern class, which was being developed in Germany at that time. Project No. 4 featured 406 mm guns in triple turrets arranged along the centerline."
 
 msgid "IDS_PRSB208_FULL"
-msgstr "Адмирал Истомин"
+msgstr "Admiral Istomin"
 
 msgid "IDS_PRSB208_NUMBER"
 msgstr "1"
 
 msgid "IDS_PRSB208_YEAR"
-msgstr "1914 г."
+msgstr "1914"
 
 msgid "IDS_PRSB209"
-msgstr "Корнилов"
+msgstr "Kornilov"
 
 msgid "IDS_PRSB209_DESCR"
-msgstr "В феврале 1914 г. проектным бюро Путиловской верфи в кооперации с инженерами германской фирмы Blohm & Voss была разработана серия проектов линейных кораблей в духе германской конструкторской школы. Корабли несли в себе черты разрабатывавшихся в Германии линкоров типа Bayern. Проект № 9 имел три четырёхорудийные башни с 406-мм орудиями, которые располагались продольно."
+msgstr "In February 1914, the design bureau of the Putilov Shipyard, in cooperation with engineers from the German firm Blohm & Voss, developed a series of battleship projects in the style of the German school of design. The ships featured characteristics of the Bayern-class battleships being developed in Germany. Project No. 9 had three quadruple turrets with 406 mm guns arranged along the centerline."
 
 msgid "IDS_PRSB209_FULL"
-msgstr "Адмирал Корнилов"
+msgstr "Admiral Kornilov"
 
 msgid "IDS_PRSB209_NUMBER"
 msgstr "1"
 
 msgid "IDS_PRSB209_YEAR"
-msgstr "1914 г."
+msgstr "1914"
 
 msgid "IDS_PRSB210"
-msgstr "Лазарев"
+msgstr "Lazarev"
 
 msgid "IDS_PRSB210_DESCR"
-msgstr "В 1914 г. Морское министерство создало рекомендации для нового линкора, которые базировались на разработках Главного управления кораблестроения. Инженерами Путиловской верфи было разработано несколько вариантов этого проекта. В конструктивном отношении линкор был бы основан на увеличенном корпусе «Измаила». Вариант за номером VIII был вооружён двенадцатью 406-мм орудиями в трёх башнях, расположенных по линейно-возвышенной схеме."
+msgstr "In 1914, the Naval Ministry created recommendations for a new battleship, based on developments from the Main Directorate of Shipbuilding. Engineers from the Putilov Shipyard developed several versions of this project. Structurally, the battleship would be based on an enlarged hull of the Izmail-class. Variant No. VIII was armed with twelve 406 mm guns in three turrets arranged in a linear-elevated pattern."
 
 msgid "IDS_PRSB210_FULL"
-msgstr "Адмирал Лазарев"
+msgstr "Admiral Lazarev"
 
 msgid "IDS_PRSB210_NUMBER"
 msgstr "1"
 
 msgid "IDS_PRSB210_YEAR"
-msgstr "1915 г."
+msgstr "1915"
 
 msgid "IDS_PRSB505"
-msgstr "Окт. революция"
+msgstr "Okt. Revolutsiya"
 
 msgid "IDS_PRSB518_DESCR"
-msgstr "В 1935 г. руководство СССР приняло решение о строительстве «большого флота» и конструкторские бюро приступили к разработке эскизов линейных кораблей. Линкор для Балтийского моря должен был иметь водоизмещение 35 000 т, вооружение из девяти 406-мм орудий и бронепояс толщиной 350 мм. Предварительный эскиз был готов к июню: корабль имел «нельсоновскую» компоновку, однако она была отвергнута «по тактическим соображениям». Наработки по этому типу легли в основу линкоров типа А, которые эволюционировали в линейные корабли типа «Советский Союз»."
+msgstr "In 1935, the authorities of the U.S.S.R. decided to build a \"big fleet,\" and the nation's design bureaus began to develop draft designs of battleships. One such ship was a battleship for the Baltic Sea, which was to have a displacement of 35,000 tons, nine 406 mm guns, and a 350 mm-thick armored belt. A preliminary design was ready by June—the ship had a Nelson-like layout but was rejected due to \"tactical reasons.\" Designs of this class were the basis of Type A battleships, which later evolved into the Sovetsky Soyuz-class battleships."
 
 msgid "IDS_PRSB520"
-msgstr "Североморск"
+msgstr "Severomorsk"
 
 msgid "IDS_PRSB520_DESCR"
-msgstr "В 1930-х гг. в рамках усиления советского флота было спроектировано несколько крупных артиллерийских кораблей, также изучался опыт США. В 1938 г. специальная комиссия установила контакты с американской фирмой, которая взялась за разработку проекта по советскому заданию. В результате был разработан проект гибридного линкора-авианосца, причём предполагалось, что один корабль будет строиться в США, а второй — в СССР. Если бы проект был принят, то корабль, строившийся бы в СССР, получил бы советские вооружение и авиацию."
+msgstr "In the 1930s, several large artillery ships were designed as part of the strengthening of the Soviet fleet, and the experience of the United States was also studied. In 1938, a special commission established contacts with an American company, which undertook the development of a project based on Soviet requirements. As a result, a project for a hybrid battleship-carrier was developed, with the idea that one ship would be built in the USA and the other in the USSR. If the project had been approved, the ship built in the USSR would have received Soviet armament and aviation."
 
 msgid "IDS_PRSB520_FULL"
-msgstr "Североморск"
+msgstr "Severomorsk"
 
 msgid "IDS_PRSB520_NUMBER"
 msgstr "1"
 
 msgid "IDS_PRSB520_YEAR"
-msgstr "1938 г."
+msgstr "1938"
 
 msgid "IDS_PRSB528_DESCR"
-msgstr "В рамках проектирования тяжёлого крейсера проекта 82 Минсудпром заказал эскизы «малого линкора» — корабля, вооружённого 1–2 башнями главного и среднего калибров с усиленной бронёй носовой оконечности. В 1951–52 гг. было подготовлено девять предэскизных проектов. Один из вариантов был вооружён двумя трёхорудийными башнями с 406-мм орудиями, именно он был рекомендован для дальнейшей проработки. После смерти Сталина строительство тяжёлых артиллерийских кораблей перестало быть актуальным, и проект не был реализован."
+msgstr "As part of the design of the heavy cruiser project 82, the Ministry of Shipbuilding Industry ordered sketches for a 'small battleship'—a ship armed with 1–2 turrets of primary and secondary calibers with reinforced bow armor. In 1951–52, nine preliminary sketch projects were prepared. One of the variants was armed with two triple turrets with 406 mm guns, and it was recommended for further development. After Stalin's death, the construction of heavy artillery ships lost its relevance, and the project was not implemented."
 
 msgid "IDS_PRSB529"
-msgstr "Сов. Россия"
+msgstr "Sov. Russia"
 
 msgid "IDS_PRSB529_DESCR"
-msgstr "«Советская Россия», линкор проекта 23 (тип «Советский Союз»), был заложен в Молотовске в июле 1940 г., для постройки корабля был возведён крупнейший в СССР крытый эллинг. Строительство шло с задержками, а в июле 1941 г. было остановлено постановлением ГКО. В октябре 1945 г. было предложено достроить линкор, но специальная комиссия пришла к выводу, что заложенный до войны линкор будет уступать иностранным кораблям по боевым качествам."
+msgstr "The battleship 'Sovetskaya Rossiya', project 23 (Sovetsky Soyuz class), was laid down in Molotovsk in July 1940, with the largest covered slipway in the USSR built for the ship's construction. The construction faced delays, and in July 1941, it was halted by a GKO decree. In October 1945, it was proposed to complete the battleship, but a special commission concluded that the battleship, laid down before the war, would be inferior to foreign ships in combat capabilities."
 
 msgid "IDS_PRSB529_FULL"
-msgstr "Советская Россия"
+msgstr "Soviet Russia"
 
 msgid "IDS_PRSB529_NUMBER"
 msgstr "4"
 
 msgid "IDS_PRSB529_YEAR"
-msgstr "1939 г."
+msgstr "1939"
 
 msgid "IDS_PRSB538"
-msgstr "В. И. Ленин"
+msgstr "V. I. Lenin"
 
 msgid "IDS_PRSB538_DESCR"
-msgstr "В 1935 г. руководство СССР приняло решение о строительстве «большого флота» и конструкторские бюро приступили к разработке эскизов линейных кораблей. Линкор для Балтийского моря должен был иметь водоизмещение 35 000 т, вооружение из девяти 406-мм орудий и бронепояс толщиной 350 мм. Предварительный эскиз был готов к июню: корабль имел «нельсоновскую» компоновку, однако она была отвергнута «по тактическим соображениям». Наработки по этому типу легли в основу линкоров типа А, которые эволюционировали в линейные корабли типа «Советский Союз»."
+msgstr "In 1935, the authorities of the U.S.S.R. decided to build a \"big fleet,\" and the nation's design bureaus began to develop draft designs of battleships. One such ship was a battleship for the Baltic Sea, which was to have a displacement of 35,000 tons, nine 406 mm guns, and a 350 mm-thick armored belt. A preliminary design was ready by June—the ship had a Nelson-like layout but was rejected due to \"tactical reasons.\" Designs of this class were the basis of Type A battleships, which later evolved into the Sovetsky Soyuz-class battleships."
 
 msgid "IDS_PRSB538_FULL"
-msgstr "В. И. Ленин"
+msgstr "V. I. Lenin"
 
 msgid "IDS_PRSB709_FULL"
-msgstr "AL Советская Россия"
+msgstr "AL Sov. Rossiya"
 
 msgid "IDS_PRSC001_DESCR"
-msgstr "Третий крейсер типа «Диана» был заложен в 1896 г. на верфи «Новое Адмиралтейство» и вошёл в строй в 1903 г. В 1904–05 гг. крейсер «Аврора» в составе Второй Тихоокеанской эскадры участвовал в переходе на Дальний Восток, закончившемся Цусимским сражением. После Русско-японской войны «Аврора» вернулась на Балтику, а во время Первой мировой войны принимала участие в обороне Рижского залива. В период Великой Отечественной войны крейсер оборонял Кронштадт. В 1945 г. «Аврора» была переоборудована в базу Нахимовского училища, а затем в корабль-музей."
+msgstr "The third ship of the Diana-class protected cruisers was laid down in 1896 at the New Admiralty Shipyard and entered service in 1903. Between 1904 and 1905, cruiser Aurora relocated to the Far East as part of the 2nd  Pacific Squadron and participated in the Battle of Tsushima. After the Russo-Japanese war, Aurora returned to the Baltic and took part in the Battle of the Gulf of Riga during World War I. The cruiser defended Kronstadt during the Great Patriotic War. In 1945, Aurora was converted into the base of the Nakhimov Naval School, and she later became a museum ship."
 
 msgid "IDS_PRSC010_DESCR"
-msgstr "Конкурс на проект бронепалубного крейсера-истребителя торговли был объявлен в 1894 г. Головной корабль этого типа «Диана» вошёл в строй в 1901 г. и позже присоединился к Тихоокеанской эскадре, в составе которой участвовал в бою в Жёлтом море. Во время Первой мировой войны крейсер принимал участие в обороне Рижского залива и Моонзундском сражении, операциях на коммуникациях противника, нёс дозорную службу и прикрывал действия лёгких сил Балтийского флота."
+msgstr "Being a protected cruiser, whose design was typical between the end of the 19th and the beginning of the 20th century, she had a reasonably good main battery for her time. The ship was also armed with numerous secondary battery guns. Her vital parts were protected by the inclined deck armor."
 
 msgid "IDS_PRSC102_DESCR"
-msgstr "В 1898 г. был объявлен конкурс на проектирование малого крейсера-разведчика для Тихоокеанского флота. Предпочтение было отдано немецкой верфи Sсhichau. В 1902–03 гг. крейсер перешёл на Дальний Восток, где с началом Русско-японской войны активно участвовал в боевых действиях. Столкнувшись с крейсером Tsushima, «Новик» был затоплен по приказу командира, узнавшего о приближении японских подкреплений. В 1906 г. крейсер был поднят и вошёл в состав японского флота под именем Suzuya."
+msgstr "A competition was announced in 1898 to design a scout cruiser for the Pacific Ocean fleet. Preference was given to German shipyard Schichau. The completed ship had a top speed of 26 knots—it was incredibly fast for its type at the time. Between 1902 and 1903, the cruiser was transferred to the Far East, where she actively participated in hostilities when the Russo-Japanese War broke out. Having encountered cruiser Tsushima, Novik was scuttled by order of her commander, who had learned about approaching Japanese reinforcements. In 1906, the cruiser was salvaged and entered the Japanese Navy under the name Suzuya."
 
 msgid "IDS_PRSC109_DESCR"
-msgstr "В 1943 г. Главный морской штаб выдал задание на проектирование основного лёгкого крейсера (проект 65), предназначавшегося для сопровождения линкоров и тяжёлых крейсеров. За основу был взят корпус крейсера проекта 68-бис. В 1946 г. было разработано 40 вариантов проекта 65, в том числе со 180-мм артиллерией главного калибра. Водоизмещение корабля увеличилось до 19 000 т. В итоге было решено отказаться от дальнейшей разработки проекта, сосредоточившись на достройке кораблей 68-бис."
+msgstr "In 1943, the Navy's Main Staff ordered the design of a light cruiser (Project 65) intended to escort battleships and heavy cruisers. The hull of the 68-bis project cruiser was used as its basis. In 1946, 40 variants of Project 65 were developed, including some with 180 mm main guns. The ship's displacement increased to 19,000 tons. Eventually, it was decided to abandon further development of the project and keep the focus on completing the 68-bis ships."
 
 msgid "IDS_PRSC208_DESCR"
-msgstr "Перед началом Великой Отечественной войны руководство СССР предпринимало меры по укреплению военно-морского флота. В 1940 г. у Германии был приобретён недостроенный тяжёлый крейсер Lützow, который впоследствии был переименован в «Петропавловск». Корабль, готовый на 70%, участвовал в обороне Ленинграда. Крейсер был переименован в «Таллин», и после войны планировалось достроить его, добавив механизмы крейсера Seydlitz и 180-мм артиллерию."
+msgstr "Before the Great Patriotic War started, the Soviet Navy's authorities took measures to strengthen their fleet. Unfinished heavy cruiser Lützow was purchased from Germany in 1940 and renamed Petropavlovsk. The ship, which was in a state of 70% completion, participated in the Siege of Leningrad. She was renamed Tallinn, and it was planned to complete her after the war, adding mechanisms from cruiser Seydlitz and 180 mm guns, but those plans never came to fruition."
 
 msgid "IDS_PRSC209_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PRSC210"
-msgstr "А. Невский"
+msgstr "A. Nevsky"
 
 msgid "IDS_PRSC509_DESCR"
-msgstr "В 1937 г. вместо линкоров типа «Б» было решено строить тяжёлые крейсера с 254-мм артиллерией главного калибра. Позже, в связи со строительством в Германии линкоров типа Scharnhorst, калибр был увеличен до 305 мм. Финальный проект был представлен Комитету обороны в 1939 г., и в том же году были заложены два тяжёлых крейсера этого типа. С началом Великой Отечественной войны строительство кораблей было остановлено."
+msgstr "In 1937, it was decided to build heavy cruisers with 254 mm main battery guns instead of Type B battleships. The caliber was later increased to 305 mm in response to the construction of Scharnhorst-class battleships in Germany. The final design was presented to the Defense Committee in 1939, and two heavy cruisers of this class were laid down in the same year. The construction of ships was halted when World War II encroached on the Soviet Union's territory."
 
 msgid "IDS_PRSC516"
-msgstr "Керчь"
+msgstr "Kerch"
 
 msgid "IDS_PRSC516_DESCR"
-msgstr "Итальянский крейсер Emanuele Filiberto Duca d’Aosta в 1949 г. был передан СССР под условным названием Z-11 в рамках репараций. В советском флоте корабль был переименован сначала в «Сталинград», а затем в «Керчь». Крейсер был модернизирован на Севастопольском морском заводе им. С. Орджоникидзе, получив советское оборудование. В основном корабль использовался для учебных целей."
+msgstr "The Italian cruiser Emanuele Filiberto Duca d’Aosta was transferred to the USSR in 1949 under the provisional name Z-11 as part of reparations. In the Soviet fleet, the ship was first renamed 'Stalingrad' and later 'Kerch'. The cruiser was modernized at the Sevastopol Marine Plant named after S. Ordzhonikidze, receiving Soviet equipment. The ship was primarily used for training purposes."
 
 msgid "IDS_PRSC516_FULL"
-msgstr "Керчь"
+msgstr "Kerch"
 
 msgid "IDS_PRSC516_NUMBER"
 msgstr "2"
 
 msgid "IDS_PRSC516_YEAR"
-msgstr "1935 г."
+msgstr "1935"
 
 msgid "IDS_PRSC519"
-msgstr "Щербаков"
+msgstr "Scherbakov"
 
 msgid "IDS_PRSC519_DESCR"
-msgstr "В 1954 г. был утверждён проект перевооружения крейсеров 68-бис, ещё находившихся на стапелях, новыми счетверёнными 45-мм установками. При этом предполагалось разместить на них 25-мм установки, улучшить радиоэлектронное и радиолокационное оборудование, увеличить прочность корпуса. Первым в очереди на достройку был «Щербаков», заложенный в Ленинграде в 1951 г. и спущенный на воду в марте 1954 г. Но во второй половине 1950-х гг. руководство изменило взгляд на роль крупных артиллерийских кораблей, и крейсеры улучшенного проекта достроены не были."
+msgstr "In 1954, a project was approved to rearm the 68-bis cruisers, which were still on the slipways, with new quadruple 45-mm mounts. It was also planned to install 25-mm mounts, improve electronic and radar equipment, and increase the hull's strength. The first in line for completion was 'Shcherbakov', laid down in Leningrad in 1951 and launched in March 1954. However, in the latter half of the 1950s, the leadership changed its view on the role of large artillery ships, and the cruisers of the improved project were not completed."
 
 msgid "IDS_PRSC519_FULL"
-msgstr "Щербаков"
+msgstr "Scherbakov"
 
 msgid "IDS_PRSC519_NUMBER"
 msgstr "1"
 
 msgid "IDS_PRSC519_YEAR"
-msgstr "1954 г."
+msgstr "1954"
 
 msgid "IDS_PRSC528_DESCR"
-msgstr "В 1950 г. были разработаны аванпроекты нескольких лёгких крейсеров. Один из них был вооружён четырьмя двухорудийными башнями БЛ-115. Проектировщикам удалось добиться более эффективного использования водоизмещения для расположения главного артиллерийского вооружения. Однако на то время предприятия были загружены строительством других кораблей, поэтому проекты не получили развития."
+msgstr "Preliminary designs for several light cruisers were developed in 1950. One of them was armed with four BL-115 twin turrets. The designers managed the displacement efficiently through the arrangement of the main artillery armament. However, the nation's facilities were loaded with the construction of other ships at that time, so the projects didn't progress any further."
 
 msgid "IDS_PRSC529"
-msgstr "Тольятти"
+msgstr "Togliatti"
 
 msgid "IDS_PRSC529_DESCR"
-msgstr "Гипотетическое развитие проектов тяжёлого крейсера, разработанных итальянской фирмой Ansaldo для Испании. Этот вариант соединяет в себе черты проектов Anteprojecto preliminar VIII-203 (четыре установки 203-мм орудий) и Anteprojecto preliminar XII-152 (четыре трёхорудийные артиллерийские установки). Если бы такой корабль был построен для итальянского флота, то после Второй мировой войны он был бы передан по репарациям Советскому Союзу."
+msgstr "A hypothetical development of heavy cruiser projects designed by the Italian firm Ansaldo for Spain. This variant combines features of the Anteprojecto preliminar VIII-203 (four 203-mm gun mounts) and Anteprojecto preliminar XII-152 (four triple-gun mounts). If such a ship had been built for the Italian fleet, it would have been handed over to the Soviet Union as war reparations after World War II."
 
 msgid "IDS_PRSC529_FULL"
-msgstr "Тольятти"
+msgstr "Togliatti"
 
 msgid "IDS_PRSC529_NUMBER"
 msgstr "1"
 
 msgid "IDS_PRSC529_YEAR"
-msgstr "1941 г."
+msgstr "1941"
 
 msgid "IDS_PRSC530"
-msgstr "Смоленск Ч"
+msgstr "Smolensk B"
 
 msgid "IDS_PRSC530_DESCR"
-msgstr "В 1950 г. силами трёх ОКБ 4-го спецотдела МВД СССР были разработаны аванпроекты нескольких лёгких крейсеров. Крейсер проекта МЛК-16х130 был вооружён четырьмя четырёхствольными 130-мм установками БЛ-132. Этот вариант считался перспективным с точки зрения поставленных артиллерийских задач и обладал наивысшей мощью артиллерийского вооружения на 1 т водоизмещения."
+msgstr "Preliminary light cruiser projects developed in 1950 included a ship armed with four quadruple-gun 130 mm BL-132 mounts. She had the highest artillery firepower per ton of displacement and was considered a promising option to solve the assigned tasks. However, the heavy load on production facilities and the leadership's skepticism about the construction of ships with armaments that were not yet ready for production prevented these plans from coming to fruition."
 
 msgid "IDS_PRSC530_FULL"
-msgstr "Смоленск Ч"
+msgstr "Smolensk B"
 
 msgid "IDS_PRSC538"
-msgstr "П. Багратион"
+msgstr "P. Bagration"
 
 msgid "IDS_PRSC538_DESCR"
-msgstr "С 1943 по 1946 г. велась разработка проекта 65, в рамках которого было рассмотрено 40 эскизных проектов. Крупнейшим из них был крейсер водоизмещением 15 000 т, вооружённый тремя трёхорудийными установками с орудиями 180-мм калибра и восемью спаренными 100-мм установками. В итоге предпочтение было отдано строительству кораблей проектов 68К и 68-бис."
+msgstr "Project 65 was under development from 1943 to 1946. A total of 40 draft designs were considered within its framework. The largest of these was a cruiser that had a displacement of 15,000 tons and was armed with three triple-gun mounts housing 180 mm guns and eight 100 mm SM-5-1 twin-gun mounts. In the end, preference was given to the construction of the Project 68K and Project 68bis ships."
 
 msgid "IDS_PRSC548_DESCR"
-msgstr "С 1943 по 1946 г. велась разработка проекта 65, в рамках которого было рассмотрено 40 эскизных проектов. Крупнейшим из них был крейсер водоизмещением 15 000 т, вооружённый тремя трёхорудийными установками с орудиями 180-мм калибра и восемью спаренными 100-мм установками. В итоге предпочтение было отдано строительству кораблей проектов 68К и 68-бис."
+msgstr "Project 65 was under development from 1943 to 1946. A total of 40 draft designs were considered within its framework. The largest of these was a cruiser that had a displacement of 15,000 tons and was armed with three triple-gun mounts housing 180 mm guns and eight 100 mm SM-5-1 twin-gun mounts. In the end, preference was given to the construction of the Project 68K and Project 68bis ships."
 
 msgid "IDS_PRSC549"
-msgstr "Рус. Аляска"
+msgstr "Rus. Alaska"
 
 msgid "IDS_PRSC549_DESCR"
-msgstr "Белоснежная, как вершины гор Врангеля. Усыпанная золотом, словно надежды старателей на Юконе. Холодная снаружи, но пылающая внутри, подобно гейзерам Умнака. Опасная и ослепительно красивая... Это «Русская Аляска»!"
+msgstr "White as the peaks of the Wrangell Mountains. Adorned with gold, like the hopes of prospectors on the Yukon. Cold on the outside, but burning within, like the geysers of Umnak. Dangerous and dazzlingly beautiful... This is the 'Russian Alaska'!"
 
 msgid "IDS_PRSC549_FULL"
-msgstr "Русская Аляска"
+msgstr "Russian Alaska"
 
 msgid "IDS_PRSC549_NUMBER"
 msgstr "3"
 
 msgid "IDS_PRSC549_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PRSC558"
-msgstr "Д. Пожарский"
+msgstr "D. Pozharsky"
 
 msgid "IDS_PRSC558_DESCR"
-msgstr "Крейсер проекта 68-бис «Дмитрий Пожарский» был заложен в Ленинграде на заводе № 189 им. С. Орджоникидзе в феврале 1952 г., спущен на воду в июне 1953 г. и вошёл в строй в декабре 1954 г. В феврале 1955 г. зачислен в состав Северного флота, но летом того же года совершил переход в Петропавловск-Камчатский, войдя в 14-ю дивизию крейсеров в составе Тихоокеанского флота. В 1961 г. «Дмитрий Пожарский» перешёл в состав 9-й дивизии кораблей ПЛО, а в 1967 г. — в 10-ю оперативную эскадру."
+msgstr "Project 68-bis cruiser Dmitry Pozharsky was laid down in Leningrad at Ordzhonikidze Shipyard No. 189 in February 1952. The ship was launched in June 1953 and commissioned in December 1954. In February 1955, she was assigned to the Northern Fleet, but during the summer of the same year, the cruiser headed for Petropavlovsk-Kamchatsky to join the 14th Cruiser Division of the Pacific Fleet. In 1961, Dmitry Pozharsky joined the 9th Division of ASW Ships, and from 1967, she was on active duty within the 10th Tactical Squadron permanently operating in the Indian Ocean."
 
 msgid "IDS_PRSC568"
-msgstr "Лазо Ч"
+msgstr "Lazo B"
 
 msgid "IDS_PRSC568_FULL"
-msgstr "Лазо Ч"
+msgstr "Lazo B"
 
 msgid "IDS_PRSC610_DESCR"
-msgstr "В 1950 г. силами трёх ОКБ 4-го спецотдела МВД СССР были разработаны аванпроекты нескольких лёгких крейсеров. Крейсер проекта МЛК-16х130 был вооружён четырьмя четырёхствольными 130-мм установками БЛ-132. Этот вариант считался перспективным с точки зрения поставленных артиллерийских задач и обладал наивысшей мощью артиллерийского вооружения на 1 т водоизмещения."
+msgstr "Preliminary light cruiser projects developed in 1950 included a ship armed with four quadruple-gun 130 mm BL-132 mounts. She had the highest artillery firepower per ton of displacement and was considered a promising option to solve the assigned tasks. However, the heavy load on production facilities and the leadership's skepticism about the construction of ships with armaments that were not yet ready for production prevented these plans from coming to fruition."
 
 msgid "IDS_PRSC810_DESCR"
-msgstr "В 1930-е гг., во время активного строительства советского флота, конструкторы разрабатывали проекты в инициативном порядке. В марте 1935 г. инженерами ЦКБС-1 был представлен предэскизный проект тяжёлого крейсера. Корабль должен был быть оснащён двенадцатью 240-мм орудиями главного калибра, двенадцатью 130-мм орудиями универсального калибра, а также самолётами. Предполагалось установить котлы с высокими параметрами пара и трёхвальную энергетическую установку, чтобы достичь высокой скорости."
+msgstr "A formidable heavy cruiser with potent artillery and an onboard air group, designed in early 1935 under the code name \"Project X.\" The warship was to feature twelve 240 mm main battery guns and twelve 130 mm dual-purpose guns. It was also proposed to install boilers with high steam parameters and a triple-shaft power plant to achieve high speeds."
 
 msgid "IDS_PRSC910_DESCR"
-msgstr "Этот корабль является копией корабля «Москва» и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of Moskva and is suitable for Clan Battles only"
 
 msgid "IDS_PRSC970"
-msgstr "Иван Калита"
+msgstr "Ivan Kalita"
 
 msgid "IDS_PRSC970_DESCR"
-msgstr "Копия корабля «Александр Невский» для тестирования механизма дозаряжания орудий главного калибра и торпедных аппаратов."
+msgstr "Ship for test."
 
 msgid "IDS_PRSC970_FULL"
-msgstr "Иван Калита"
+msgstr "Ivan Kalita"
 
 msgid "IDS_PRSC970_NUMBER"
 msgstr "1"
 
 msgid "IDS_PRSC970_YEAR"
-msgstr "1955 г."
+msgstr "1955"
 
 msgid "IDS_PRSC980"
-msgstr "Князь Владимир"
+msgstr "Prince Vladimir"
 
 msgid "IDS_PRSC980_DESCR"
-msgstr "Копия корабля «Александр Невский» для тестирования механизма барабанной стрельбы из орудий главного калибра."
+msgstr "Ship for test."
 
 msgid "IDS_PRSC980_FULL"
-msgstr "Князь Владимир"
+msgstr "Prince Vladimir"
 
 msgid "IDS_PRSC990"
-msgstr "Петропавловск Test"
+msgstr "Petropavlovsk Test"
 
 msgid "IDS_PRSC990_DESCR"
-msgstr "Копия корабля для тестирования элитной модернизации."
+msgstr "Ship for test."
 
 msgid "IDS_PRSC990_FULL"
-msgstr "Петропавловск Test"
+msgstr "Petropavlovsk Test"
 
 msgid "IDS_PRSC990_YEAR"
-msgstr "1947 г."
+msgstr "1947"
 
 msgid "IDS_PRSD001_DESCR"
-msgstr "«Гремящий», эсминец проекта 7, был заложен на заводе № 190 в Ленинграде в июле 1936 г. Принимал участие в Великой Отечественной войне, в составе Северного флота занимался проводкой конвоев, боевым патрулированием, набеговыми операциями и охотой за подводными лодками. В 1943 г. удостоен звания гвардейского корабля. За годы войны провёл 90 боевых походов. С 1954 г. нёс боевую службу в составе Беломорской флотилии."
+msgstr "Gremyashchy, a Project 7 destroyer, was laid down at Shipyard No. 190 in Leningrad in July 1936. The ship served extensively during World War II. As part of the Northern Fleet, she was assigned to escort convoys, perform patrol duties, carry out raids, and hunt down submarines; in 1943, the ship was made an elite Soviet Guards unit. Over the course of the war, the destroyer completed as many as 90 combat missions. From 1954, Gremyashchy served as part of the Belomor flotilla."
 
 msgid "IDS_PRSD103_DESCR"
-msgstr "В 1911 г. был объявлен конкурс на проектирование 34-узлового эсминца для Черноморского флота, причём основой для тактико-технического задания послужил новый эсминец «Новик», строившийся в Германии. Победителем стал проект Путиловского завода, и в 1912 г. началось строительство первой пары эсминцев, а через год на месте спущенных на воду кораблей заложили вторую пару. «Дерзкий» принимал участие в Первой мировой войне, участвовал в набеговых, патрульных и эскортных операциях."
+msgstr "A competition was announced in 1911 to design a 34-knot destroyer for the Black Sea Fleet. The basis for the performance specifications was Novik, the most modern destroyer at that time, which was under construction in Germany. The winner was the project by the Putilov Plant. The construction of the first two destroyers began in 1912. A year later, another two ships were laid down to add to those already launched. During World War I, Derzki engaged in raiding, patrolling, and escorting operations."
 
 msgid "IDS_PRSD104_DESCR"
-msgstr "Перед началом Первой мировой войны, в связи с международной напряжённостью, была принята программа усиленного судостроения. Предполагалось построить 36 эсминцев для Балтийского моря. Третью из пяти серий составили наиболее крупные эсминцы типа «Изяслав». Титульный корабль участвовал в Моонзундском сражении и в Ледовом походе Балтийского флота. В 1922 г. получил новое имя — «Карл Маркс»."
+msgstr "In the run-up to World War I, international tensions motivated the adoption of an intense shipbuilding program. A proposition was made to build 36 destroyers for the Baltic Fleet. The third of five series comprised the largest and the most heavily armed Izyaslav class destroyers. The lead ship took part in the Battle of Moon Sound and in the Ice Cruise of the Baltic Fleet. In 1922, she was renamed Karl Marx."
 
 msgid "IDS_PRSD105_DESCR"
-msgstr "Летом 1932 г. делегация ВМФ посетила Италию, где ознакомилась с новейшими эсминцами типа Maestrale. Именно его было решено взять за основу при проектировании новых эсминцев для советского флота. Технический проект, получивший индекс 7, был утверждён в декабре 1934 г. «Гневный» был заложен на заводе № 190 в Ленинграде в 1935 г., вступил в строй в октябре 1938 г. Эсминец погиб 23 июня 1941 г., подорвавшись на немецком минном заграждении."
+msgstr "In the summer of 1932, a Soviet Navy delegation visited Italy to see the latest Maestrale-class destroyers. This class was selected as the basis for new Soviet destroyer designs. The technical design was assigned project number 7 and was approved in December 1934. Laid down at Shipyard No. 190 in Leningrad in 1935, Gnevny was commissioned in October 1938. On June 23, 1941, the destroyer was sunk by a German mine barrier."
 
 msgid "IDS_PRSD107_DESCR"
-msgstr "Советская программа развития флота предполагала постройку больших эсминцев для действий в открытом океане. Было решено обратиться к зарубежному опыту, и в 1939 г. советская делегация прибыла в США. Фирма Gibbs & Cox предложила проект эсминца, основанный на типе Mahan, но правительство США не дало разрешения делиться с СССР некоторыми технологиями. Увиденное в США вылилось в проект с индексом 35, по которому в 1941 г. должны были заложить два корабля, но с началом Великой Отечественной войны все работы по эсминцам были остановлены."
+msgstr "The Soviet Navy development program involved building large destroyers with ocean-going capabilities. Having decided to draw on foreign experience, the Soviet Union sent a delegation to the U.S. in 1939. A firm called Gibbs & Cox proposed a destroyer design that was based on the Mahan class, but the U.S. government forbade certain technology to be shared with the U.S.S.R. The firm's proposal laid the foundation for Project 35, under which two vessels should have been laid down in 1941; however, the outbreak of war disrupted the construction process."
 
 msgid "IDS_PRSD108_DESCR"
-msgstr "В начале 1930-х гг. руководство флота СССР заказало у итальянской верфи Odero Terni Orlando постройку лидера эсминцев. В 1937 г. в Ливорно был заложен корабль проекта 20И — «Ташкент». Лидер был зачислен в состав Черноморского флота СССР в 1939 г., но положенные по проекту 130-мм спаренные установки были установлены только в 1941 г. Во время Великой Отечественной войны участвовал в обороне Одессы, а затем Севастополя, став последним кораблём, прорвавшимся к осаждённому городу."
+msgstr "In the early 1930s, the Soviet Navy's authorities placed an order for a destroyer leader to be built by the Italian company Odero Terni Orlando. In 1937, a Project 20I destroyer named Tashkent was laid down at the Livorno dockyard. The leader joined the Black Sea Fleet of the U.S.S.R. in 1939, but the intended 130 mm B-2LM twin-gun turrets were fitted only in 1941. During World War II, she took part in the defense of Odessa and Sevastopol, where she was the last vessel to break through to the city under siege."
 
 msgid "IDS_PRSD206_DESCR"
 msgstr "Летом 1932 г. делегация ВМФ посетила Италию, где ознакомилась с новейшими эсминцами типа Maestrale. Именно его было решено взять за основу при проектировании новых эсминцев для советского флота. Технический проект, получивший индекс 7, был утверждён в декабре 1934 г. «Гневный» был заложен на заводе № 190 в Ленинграде в 1935 г., вступил в строй в октябре 1938 г. Эсминец погиб 23 июня 1941 г., подорвавшись на немецком минном заграждении."
