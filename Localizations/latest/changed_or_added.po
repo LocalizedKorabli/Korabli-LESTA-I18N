@@ -11419,26 +11419,26 @@ msgid "IDS_PJSC590_FULL"
 msgstr "Yoshino B"
 
 msgid "IDS_PJSC598_DESCR"
-msgstr "Крейсер типа Takao. Во Вторую мировую войну поддерживал десанты во время вторжения в Малайю и на Филиппины, участвовал в битве в Яванском море, у Восточных Соломоновых островов, в бою у островов Санта-Крус, у Гуадалканала и в Филиппинском море. Atago был потоплен подводной лодкой USS Darter в ходе сражения в заливе Лейте 23 октября 1944 г."
+msgstr "Takao-class cruiser. During World War II, she supported assault groups during the invasions of Malaya and the Philippines, participated in the Battle of the Java Sea, and operated near the Eastern Solomon Islands, the Santa Cruz Islands, Guadalcanal, and the Philippine Sea. On October 23, 1944, during the Battle of Leyte Gulf, Atago was sunk by submarine USS Darter."
 
 msgid "IDS_PJSC709_DESCR"
 msgstr ""
-"Тяжёлый крейсер Туманного флота. Модель создана на базе Haguro, четвёртого корабля в серии крейсеров типа Myōkō в составе Императорского флота Японии. Большое число реактивных модулей позволяет кораблю развивать высокую скорость и манёвренность, обеспечивая ему значительное преимущество в противостояниях с врагом. Аватар Haguro известна колкостью выражений и праздностью натуры. Вместе с Ashigara выполняет функции одного из секретарей Студенческого совета Туманного флота.\n"
-"Моделью послужил одноимённый корабль из ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza."
+"A Fleet of Fog heavy cruiser modeled after the Imperial Japanese Navy's 4th Myōkō-class cruiser, Haguro. Equipped with multiple thruster modules, she uses her exceptional speed and agility to overwhelm opponents. Her Mental Model—Haguro—is known for her sharp tongue and lazy personality. Haguro acts as one of the Secretaries in the Student Council of the Fog, along with Ashigara.\n"
+"This warship has been modeled after Haguro as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza.\""
 
 msgid "IDS_PJSC737_DESCR"
 msgstr ""
-"Тяжёлый крейсер Туманного флота. Модель создана на базе Nachi, второго корабля в серии крейсеров типа Myōkō в составе Императорского флота Японии. Исключительные навыки в области разведки позволяют Nachi отслеживать субмарину I-401 даже тогда, когда субмарина передвигается на тихом ходу. В бою выполняет функции корректировщика огня для орудий Myōkō во время сражений на дальних дистанциях. Аватар Nachi занимает пост Казначея возглавляемого Hiei Студенческого совета Туманного флота. Часто поддаётся влиянию своей более энергичной коллеги Ashigara из-за своего спокойного характера.\n"
-"Моделью послужил одноимённый корабль из ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza."
+"A Fleet of Fog heavy cruiser modeled after the Imperial Japanese Navy's 2nd Myōkō-class cruiser, Nachi. Harnessing her exceptional reconnaissance ability, she can track I-401 even during her silent runs. In combat, she acts as a spotter, calculating data for Myōkō's long-range engagements. Her Mental Model—Nachi—acts as Treasurer of Hiei's Student Council of the Fog. Due to her rather placid personality, she is often swayed by her energetic colleague, Ashigara.\n"
+"This warship has been modeled after Nachi as she appears in \"ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza.\""
 
 msgid "IDS_PJSC810_DESCR"
-msgstr "В соответствии с программой пополнения флота Японии предполагалось построить восемь тяжёлых крейсеров, представлявших собой дальнейшее развитие типов Takao, Tone и Mogami. Вооружение кораблей должно было состоять из двенадцати 203-мм орудий в четырёх башнях, расположенных по классической схеме, а бронирование должно было защищать от фугасных снарядов калибра 203 мм. В дальнейшем количество кораблей было сокращено до четырёх, а затем их строительство и вовсе отменили."
+msgstr "Eight heavy cruisers were supposed to be built under the Japanese naval building program. They were a further development of the Takao, Tone, and Mogami classes. It was planned to arm these ships with twelve 203 mm guns in four turrets—a traditional arrangement. Their armor was designed to withstand 203 mm HE shell hits. The number of ships was later reduced to four, and their construction was then canceled altogether."
 
 msgid "IDS_PJSC918"
 msgstr "Tone 2"
 
 msgid "IDS_PJSC918_DESCR"
-msgstr "Проект основан на типе Mogami. Для улучшения защиты корабль лишился пятой башни, а остальные четыре переместились в носовую оконечность. На кормовой оконечности разместилась большая авиагруппа гидросамолётов. Когда корабль ещё стоял на стапелях, 155-мм орудия были заменены на орудия калибра 203 мм. Во Вторую мировую войну Tone участвовал в атаке на Пёрл-Харбор, в битве у атолла Мидуэй и в заливе Лейте, а также во многих других сражениях Тихоокеанского театра военных действий. Корабль был потоплен в гавани Куре в ходе налёта американских бомбардировщиков 24 июля 1945 г."
+msgstr "The project was based on the Mogami-class ships. To improve the ship's protection, the fifth turret was removed while the other four were moved to the bow. A large seaplane air group was placed at the aft end, and the 155 mm guns were replaced with 203 mm guns while the ship was still on the stocks. During World War II, Tone participated in the attack on Pearl Harbor, as well as in the Battles of Midway, Leyte Gulf, and many others in the Pacific theater. On July 24, 1945, she was sunk in Kure Harbor during a raid by American bombers."
 
 msgid "IDS_PJSC918_FULL"
 msgstr "Tone 2"
@@ -11447,72 +11447,70 @@ msgid "IDS_PJSC919"
 msgstr "Tone 3"
 
 msgid "IDS_PJSC919_DESCR"
-msgstr "Проект основан на типе Mogami. Для улучшения защиты корабль лишился пятой башни, а остальные четыре переместились в носовую оконечность. На кормовой оконечности разместилась большая авиагруппа гидросамолётов. Когда корабль ещё стоял на стапелях, 155-мм орудия были заменены на орудия калибра 203 мм. Во Вторую мировую войну Tone участвовал в атаке на Пёрл-Харбор, в битве у атолла Мидуэй и в заливе Лейте, а также во многих других сражениях Тихоокеанского театра военных действий. Корабль был потоплен в гавани Куре в ходе налёта американских бомбардировщиков 24 июля 1945 г."
+msgstr "The project was based on the Mogami-class ships. To improve the ship's protection, the fifth turret was removed while the other four were moved to the bow. A large seaplane air group was placed at the aft end, and the 155 mm guns were replaced with 203 mm guns while the ship was still on the stocks. During World War II, Tone participated in the attack on Pearl Harbor, as well as in the Battles of Midway, Leyte Gulf, and many others in the Pacific theater. On July 24, 1945, she was sunk in Kure Harbor during a raid by American bombers."
 
 msgid "IDS_PJSC919_FULL"
 msgstr "Tone 3"
 
 msgid "IDS_PJSC934_DESCR"
-msgstr "Этот корабль является копией корабля Zaō и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of Zaō and is suitable for Clan Battles only"
 
 msgid "IDS_PJSD002_DESCR"
-msgstr "Опыт Русско-японской войны продемонстрировал, что 300-тонные эскадренные миноносцы слишком малы для действий в открытом море. Япония приступила к разработке более крупных эсминцев, первыми из которых стали два корабля типа Umikaze, основанные на британских кораблях этого класса. В них впервые были применены паровые турбины. Головной корабль Umikaze, вступивший в строй в сентябре 1911 г., участвовал в Первой мировой войне, а также в охоте на эскадру Admiral Graf Spee."
+msgstr "The lessons from the Russo-Japanese War revealed that 300-ton destroyers were not suitable for open sea operations. Japan embarked on a path to create bigger destroyers, beginning with two Umikaze-class warships modeled after British ships of the same type. They were the first warships to be equipped with steam turbines. The lead ship, Umikaze, commissioned in September 1911, saw active duty in World War I and engaged in the pursuit of Admiral Graf Spee's squadron."
 
 msgid "IDS_PJSD017_DESCR"
-msgstr "Вторая группа эсминцев типа Minekaze из 11 единиц, также известная как тип Kamikaze, была построена в 1921–25 гг. Она отличалась увеличенной осадкой для улучшения мореходности. Kamikaze был заложен под именем Kiyokaze в 1921 г. Семь лет спустя эсминец получил собственное имя. В ходе Второй мировой войны он участвовал в Алеутской операции, сопровождал конвои на Курильских островах. В 1945 г. был переведён в Объединённый флот, эскортировал линкоры типа Ise во время их перехода из Сингапура в Японию."
+msgstr "A second group of 9 Minekaze-class destroyers, also known as the Kamikaze class, was built between 1921 and 1925. The ships featured an increased draft to improve their seaworthiness. Kamikaze was laid down under the name Destroyer No. 1 in 1921. Seven years later, the destroyer received her own name. In World War II, she was involved in the Aleutian Islands Campaign and escorted ship convoys to remote outposts in the Kuril Islands. In 1945, Kamikaze was reassigned to the Combined Fleet, and she formed part of the escort for both Ise-class battleships as they sailed from Singapore to Japan."
 
 msgid "IDS_PJSD024_DESCR"
-msgstr "Последним типом японского «малого» эсминца стали восемь кораблей типа Wakatake, построенные в 1921–23 гг. Они представляли собой увеличенный тип Momi. Головной корабль серии был заложен в декабре 1921 г. Он участвовал в Японо-китайской войне, патрулировал побережье Китая. Во время Второй мировой был кораблём сопровождения. Корабль был потоплен в ходе налёта авиации союзников на Палау 30 марта 1944 г."
+msgstr "The last class of Japanese \"small\" destroyers comprised eight Wakatake-class ships built between 1921 and 1923. They effectively constituted an enlarged Momi class. The lead ship of the series was laid down in December 1921. She participated in the Sino-Japanese War, patrolling the coast of China. During World War II, she served as an escort ship. The ship was sunk on March 30, 1944, during an Allied air raid on Palau."
 
 msgid "IDS_PJSD025_DESCR"
-msgstr "Вторая группа эсминцев типа Minekaze из 11 единиц, также известная как тип Kamikaze, была построена в 1921–25 гг. Она отличалась увеличенной осадкой для улучшения мореходности. Kamikaze был заложен под именем Kiyokaze в 1921 г. Семь лет спустя эсминец получил собственное имя. В ходе Второй мировой войны он участвовал в Алеутской операции, сопровождал конвои на Курильских островах. В 1945 г. был переведён в Объединённый флот, эскортировал линкоры типа Ise во время их перехода из Сингапура в Японию."
+msgstr "A second group of 9 Minekaze-class destroyers, also known as the Kamikaze class, was built between 1921 and 1925. The ships featured an increased draft to improve their seaworthiness. Kamikaze was laid down under the name Destroyer No. 1 in 1921. Seven years later, the destroyer received her own name. In World War II, she was involved in the Aleutian Islands Campaign and escorted ship convoys to remote outposts in the Kuril Islands. In 1945, Kamikaze was reassigned to the Combined Fleet, and she formed part of the escort for both Ise-class battleships as they sailed from Singapore to Japan."
 
 msgid "IDS_PJSD026_DESCR"
-msgstr "Вторая группа эсминцев типа Minekaze из 11 единиц, также известная как тип Kamikaze, была построена в 1921–25 гг. Она отличалась увеличенной осадкой для улучшения мореходности. Kamikaze был заложен под именем Kiyokaze в 1921 г. Семь лет спустя эсминец получил собственное имя. В ходе Второй мировой войны он участвовал в Алеутской операции, сопровождал конвои на Курильских островах. В 1945 г. был переведён в Объединённый флот, эскортировал линкоры типа Ise во время их перехода из Сингапура в Японию."
+msgstr "A second group of 9 Minekaze-class destroyers, also known as the Kamikaze class, was built between 1921 and 1925. The ships featured an increased draft to improve their seaworthiness. Kamikaze was laid down under the name Destroyer No. 1 in 1921. Seven years later, the destroyer received her own name. In World War II, she was involved in the Aleutian Islands Campaign and escorted ship convoys to remote outposts in the Kuril Islands. In 1945, Kamikaze was reassigned to the Combined Fleet, and she formed part of the escort for both Ise-class battleships as they sailed from Singapore to Japan."
 
 msgid "IDS_PJSD105_DESCR"
-msgstr "Эсминцы типа «улучшенный Kamikaze» стали последними японскими эсминцами с установленным перед носовой надстройкой торпедным аппаратом. В 1924–27 гг. было построено 12 эсминцев, все они были потеряны в ходе Второй мировой. Mutsuki, вступивший в строй в марте 1926 г., участвовал в Японо-китайской войне. Во время Второй мировой войны он принимал участие в битве за остров Уэйк, десанте на Соломоновы острова и на Новую Гвинею. Корабль был потоплен около Соломоновых островов в результате попадания авиабомбы 24 августа 1942 г."
+msgstr "The \"enhanced Kamikaze\"-class destroyers were the last Japanese destroyers to have a torpedo launcher positioned ahead of the bow superstructure. Twelve destroyers were built between 1924 and 1927, and all were lost during World War II. Mutsuki, which entered service in March 1926, participated in the Sino-Japanese War. During World War II, she participated in the Battle of Wake Island and the landings on the Solomon Islands and New Guinea. On August 24, 1942, the ship was sunk near the Solomon Islands after being hit by an aerial bomb."
 
 msgid "IDS_PJSD107_DESCR"
-msgstr "Третья группа эсминцев «специального типа» отличалась чуть более коротким корпусом и меньшим водоизмещением — за счёт увеличения паропроизводительности котлов удалось сократить их количество. Akatsuki был заложен в феврале 1930 г. и вступил в состав 6-й дивизии эсминцев двумя годами позже. Во время Второй мировой войны он прикрывал японские десанты в Малайе, Голландской Ост-Индии и на Филиппинах, участвовал в кампании на Соломоновых островах. В 1942 г. в бою у острова Саво Akatsuki был потоплен оперативной группой крейсеров и эсминцев ВМС США."
+msgstr "The third batch of \"special type\" destroyers featured a slightly shorter hull and reduced displacement. This was achieved by boosting the steam capacity of the boilers, which in turn led to a reduction in their quantity. Akatsuki was laid down in February 1930 and was assigned to Destroyer Division 6 two years later. During World War II, she covered the Japanese landings in Malaya, the Dutch East Indies, and the Philippines, and she participated in the Solomon Islands campaign. In 1942, Akatsuki was sunk during the Battle of Guadalcanal by a task force comprising U.S. Navy cruisers and destroyers."
 
 msgid "IDS_PJSD108_DESCR"
-msgstr "Эсминцы типа Akizuki планировались как корабли ПВО для эскорта быстроходных авианосных групп. Основное вооружение было представлено восемью 100-мм/65 орудиями. Всего было заказано 13 и построено 12 эсминцев этого типа. После вступления в строй в июне 1942 г. Akizuki участвовал в сражении у восточных Соломоновых островов и в Гуадалканальской кампании, в сражении в Филиппинском море и в битве в заливе Лейте. Эсминец был потоплен американской торпедой в ходе боя у мыса Энганьо."
+msgstr "Akizuki-class destroyers were designed as air defense ships to escort swift carrier formations. Their main battery was represented by eight 100 mm/65 guns. A total of 13 destroyers of this class were ordered, and 12 were built. After entering service in June 1942, Akizuki participated in the Battle of the Eastern Solomons and the Guadalcanal Campaign, the Battle of the Philippine Sea, and the Battle of Leyte Gulf. The destroyer was sunk during the Battle of Cape Engaño."
 
 msgid "IDS_PJSD207_DESCR"
-msgstr "Эсминцы типа Shiratsuyu представляли собой улучшенный тип Hatsuharu с увеличенной осадкой и двумя счетверёнными торпедными аппаратами. Головной корабль типа был заложен в ноябре 1933 г. и вошёл в состав 27-й дивизии эсминцев в 1936 г. Он сопровождал конвои в западной части Тихого океана, участвовал в битве за Мидуэй, в кампаниях на Соломоновых и Маршалловых островах, в первой битве за Гуадалканал и в сражении в заливе Императрицы Августы."
+msgstr "The Shiratsuyu-class destroyers were an upgraded version of the Hatsuharu class. They featured a deeper draft and were equipped with two quadruple-tube torpedo launchers. The lead ship of the class was laid down in November 1933 and entered service in 1936. She escorted convoys in the Western Pacific, as well as participated in the Battle of Midway, the campaigns on the Solomon and Marshall Islands, the First Battle of Guadalcanal, and the Battle of Empress Augusta Bay."
 
 msgid "IDS_PJSD208_DESCR"
-msgstr "Отказавшись от подписания второго Лондонского морского договора, Япония сняла с себя ограничения тоннажа кораблей. Поэтому были подготовлены новые требования к эсминцам «крейсерского типа»: улучшенная остойчивость и автономность при сохранении вооружения эсминцев «специального типа». Kagerō, заложенный в сентябре 1937 г., участвовал во Второй мировой войне: сражался у восточных Соломоновых островов и островов Санта-Крус, в боях за Гуадалканал и у мыса Тассафаронга."
+msgstr "Japan avoided the limitations on ship tonnage by declining to sign the Second London Naval Treaty. As a result, new criteria were formulated for \"cruiser-type\" destroyers, emphasizing enhanced stability and sea endurance while maintaining the armament of \"special type\" destroyers. Laid down in September 1937, Kagerō played a role in World War II, engaging in combat near the eastern Solomon Islands and Santa Cruz Islands and participating in the Battles of Guadalcanal and Tassafaronga."
 
 msgid "IDS_PJSD209_DESCR"
-msgstr "Тип «улучшенный Kagerō» строился по программам 1939 и 1941 г. По нему было построено 20 эсминцев. От предшественников они отличались новым типом орудийной установки. Yūgumo был заложен в июне 1940 г. и вступил в строй на следующий год. Эсминец сражался при Мидуэе, у восточных Соломоновых островов и у островов Санта-Крус, а также доставлял подкрепление на Гуадалканал. Yūgumo был потоплен американскими эсминцами около острова Велья-Лавелья 7 октября 1943 г."
+msgstr "The improved Kagerō class was built under the fleet expansion programs of 1939 and 1941. It comprised as many as 19 destroyers. Unlike their predecessors, these ships featured a new type of gun mount. Yūgumo was laid down in June 1940 and commissioned the next year. The destroyer participated in the Battles of Midway, the Eastern Solomons, and the Santa Cruz Islands. She also transported reinforcements to Guadalcanal. On October 7, 1943, Yūgumo was sunk by American destroyers near the island of Vella Lavella."
 
 msgid "IDS_PJSD210_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PJSD507_YEAR"
-msgstr "1937 г."
+msgstr "1937"
 
 msgid "IDS_PJSD510_DESCR"
-msgstr "Гипотетический проект эсминца типа Shimakaze, вооружённого универсальной спаренной 127-мм корабельной установкой. Её особенностью было применение унитарного боеприпаса и повышенный темп стрельбы — это усилило возможность корабля противодействовать авиации противника на больших высотах и позволило получить огневое преимущество над лёгкими силами противника."
+msgstr "A hypothetical design for a Shimakaze-class destroyer armed with a 127 mm dual-purpose twin-gun mount. Its distinctive feature was the use of fixed ammunition and a greater rate of fire. This would have enhanced the ship's capability to engage enemy aircraft at high altitudes and granted her an advantage in firepower against opposing light forces."
 
 msgid "IDS_PJSD510_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PJSD518_YEAR"
-msgstr "1937 г."
+msgstr "1937"
 
 msgid "IDS_PJSD528_DESCR"
-msgstr ""
-"Учебный корабль Okikaze типа Kagerō. Входит в состав резервного флота Морской академии в Йокоске. В настоящее время на корабле установлены компоненты с затонувшего, но поднятого со дна Harekaze.\n"
-"Из аниме High School Fleet."
+msgstr "Kagerō-class nautical training ship that was initially going to be named Okikaze. She is part of the reserve fleet in Yokosuka Girls' Marine High School dock and is currently equipped with components from the salvaged Harekaze."
 
 msgid "IDS_PJSD548"
 msgstr "Mika"
 
 msgid "IDS_PJSD548_DESCR"
-msgstr "Как-то раз в лагере «Совёнок» прошёл конкурс по конструированию моделей. Долгие часы работы над чертежами подарили победителям путёвку на пляж, где появился корабль с до боли знакомыми деталями..."
+msgstr "Once upon a time, a model-building contest was held at the 'Sovyonyok' camp. After long hours spent working on the drawings, the winners were rewarded with a trip to the beach, where a ship made from painfully familiar parts appeared..."
 
 msgid "IDS_PJSD548_FULL"
 msgstr "Mika"
@@ -11521,16 +11519,16 @@ msgid "IDS_PJSD548_NUMBER"
 msgstr "30"
 
 msgid "IDS_PJSD548_YEAR"
-msgstr "1940 г."
+msgstr "1940"
 
 msgid "IDS_PJSD598_YEAR"
-msgstr "1937 г."
+msgstr "1937"
 
 msgid "IDS_PJSD610"
 msgstr "Natsukaze"
 
 msgid "IDS_PJSD610_DESCR"
-msgstr "Экспериментальный эскадренный миноносец Shimakaze должен был стать головным кораблём серии из 16 эсминцев, которые готовились к постройке в рамках программы 1942 г. Если бы один из планируемых кораблей был построен, он мог бы получить 533-мм торпедные аппараты с быстрой перезарядкой и высокой скоростью хода торпед."
+msgstr "The experimental destroyer Shimakaze was intended to be the lead ship in a series of 16 destroyers planned for construction under the 1942 program. If one of the planned ships had been built, it could have been equipped with 533-mm torpedo tubes featuring fast reload times and high-speed torpedoes."
 
 msgid "IDS_PJSD610_FULL"
 msgstr "Natsukaze"
@@ -11539,18 +11537,18 @@ msgid "IDS_PJSD610_NUMBER"
 msgstr "1"
 
 msgid "IDS_PJSD610_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PJSD708_DESCR"
 msgstr ""
-"Учебный корабль типа Kagerō, используемый для тренировок курсантов Морской Академии. Находится под командованием Akeno Misaki. Оборудован экспериментальными модулями, которые позволяют развивать скорость хода, превышающую скорость его систершипов, но уменьшают остойчивость корабля. В аниме, за счёт применения автоматики, удалось сократить численность экипажа до 30 курсантов одного класса.\n"
-"Из аниме High School Fleet."
+"Kagerō-class training ship of the Yokosuka Girls' Marine High School. She is operated by the protagonist of the High School Fleet anime—Akeno Misaki. In the anime, the ship has experimental modules installed that allow her to travel at higher speeds than her sister ships at the cost of stability, and her crew complement has been reduced thanks to automation, allowing a single class of 30 students to operate the ship.\n"
+"From the series \"High School Fleet\"."
 
 msgid "IDS_PJSD808"
 msgstr "Akizuki CLR"
 
 msgid "IDS_PJSD808_DESCR"
-msgstr "Эсминцы типа Akizuki планировались как корабли ПВО для эскорта быстроходных авианосных групп. Основное вооружение было представлено восемью 100-мм/65 орудиями. Всего было заказано 13 и построено 12 эсминцев этого типа. После вступления в строй в июне 1942 г. Akizuki участвовал в сражении у восточных Соломоновых островов и в Гуадалканальской кампании, в сражении в Филиппинском море и в битве в заливе Лейте. Эсминец был потоплен американской торпедой в ходе боя у мыса Энганьо."
+msgstr "Akizuki-class destroyers were designed as air defense ships to escort swift carrier formations. Their main battery was represented by eight 100 mm/65 guns. A total of 13 destroyers of this class were ordered, and 12 were built. After entering service in June 1942, Akizuki participated in the Battle of the Eastern Solomons and the Guadalcanal Campaign, the Battle of the Philippine Sea, and the Battle of Leyte Gulf. The destroyer was sunk during the Battle of Cape Engaño."
 
 msgid "IDS_PJSD808_FULL"
 msgstr "Akizuki CLR"
@@ -11559,7 +11557,7 @@ msgid "IDS_PJSD808_NUMBER"
 msgstr "13"
 
 msgid "IDS_PJSD808_YEAR"
-msgstr "1942 г."
+msgstr "1942"
 
 msgid "IDS_PJSD889"
 msgstr "STAR Kitakaze"
@@ -11568,34 +11566,34 @@ msgid "IDS_PJSD889_FULL"
 msgstr "STAR Kitakaze"
 
 msgid "IDS_PJSD912_DESCR"
-msgstr "Этот корабль является копией корабля Shimakaze и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of Shimakaze and is suitable for Clan Battles only"
 
 msgid "IDS_PJSD912_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PJSS518_DESCR"
-msgstr "Третья подводная лодка типа Otsu-gata B3 была заложена в июне 1943 г. и через год вступила в строй. I-56 участвовала в обороне Филиппинских островов и в сражении в заливе Лейте, в ходе которого получила повреждения. В 1944 г. была переоборудована для несения кайтэнов. Во время битвы за Окинаву подводная лодка пропала без вести."
+msgstr "The second Otsu-Gata Type B3 submarine was commissioned in June 1944. I-56 took part in the defense of the Philippine Islands and engaged in the Battle of Leyte Gulf, during which she sustained damage. In 1944, she was converted into a Kaiten torpedo carrier. I-56 was lost in the course of the Battle of Okinawa, and the circumstances of her loss remain unknown."
 
 msgid "IDS_PJUA503_ART_OYODO"
-msgstr "155-мм/60 3rd Year Type в трёхорудийной башне"
+msgstr "155 mm/60 3rd Year Type in a triple turret"
 
 msgid "IDS_PJUA708_ART_I56"
-msgstr "140-мм/40 11th Year Type в одиночной установке"
+msgstr "140 mm/40 11th Year Type in a single mount"
 
 msgid "IDS_PJUA715_ART_I54"
-msgstr "140-мм/40 11th Year Type в одиночной установке"
+msgstr "140 mm/40 11th Year Type in a single mount"
 
 msgid "IDS_PJUA716_ART_COLORFUL_AKIZUKI"
-msgstr "100-мм/65 Type 98 в установке Model A"
+msgstr "100 mm/65 Type 98 in a Model A mount"
 
 msgid "IDS_PJUA717_ART_MIKA"
-msgstr "127-мм/38 Mk.12 в установке Mk.30 mod.0/mod.1"
+msgstr "127 mm/38 Mk.12 in a Mk.30 mod.0/mod.1 mount"
 
 msgid "IDS_PJUA910_ART_NATSUKAZE"
-msgstr "127-мм/50 3rd Year Type в установке Type D"
+msgstr "127 mm/50 3rd Year Type in a Type D mount"
 
 msgid "IDS_PJUA934_C11_ART_STOCK"
-msgstr "210-мм/60 SK C/34 в башенной установке"
+msgstr "210 mm/60 SK C/34 in a turret mount"
 
 msgid "IDS_PJUD505_DB_OYODO"
 msgstr "Nakajima A6M2-N"
@@ -11610,31 +11608,31 @@ msgid "IDS_PJUD906_CV10_DB_TOP"
 msgstr "Yokosuka P1Y1"
 
 msgid "IDS_PJUE508_CV6_ENG_STOCK"
-msgstr "ЭУ 52 000 л.с."
+msgstr "Propulsion: 52,000 hp"
 
 msgid "IDS_PJUE509_ENG_OYODO"
-msgstr "ЭУ 110 000 л.с."
+msgstr "Propulsion: 110,000 hp"
 
 msgid "IDS_PJUE718_CV8_ENG_STOCK"
-msgstr "ЭУ 152 000 л.с."
+msgstr "Propulsion: 152,000 hp"
 
 msgid "IDS_PJUE719_ENG_COLORFUL_AKIZUKI"
-msgstr "ЭУ 52 000 л.с."
+msgstr "Propulsion: 52,000 hp"
 
 msgid "IDS_PJUE720_ENG_MIKA"
-msgstr "ЭУ 50 000 л.с."
+msgstr "Propulsion: 50,000 hp"
 
 msgid "IDS_PJUE809_ENG_BLACK_IWAMI"
-msgstr "ЭУ 145 000 л.с."
+msgstr "Propulsion: 145,000 hp"
 
 msgid "IDS_PJUE910_CV10_ENG_STOCK"
-msgstr "ЭУ 160 000 л.с."
+msgstr "Propulsion: 160,000 hp"
 
 msgid "IDS_PJUE913_ENG_NATSUKAZE"
-msgstr "ЭУ 75 000 л.с."
+msgstr "Propulsion: 75,000 hp"
 
 msgid "IDS_PJUE934_C11_ENG_STOCK"
-msgstr "ЭУ 176 000 л.с."
+msgstr "Propulsion: 176,000 hp"
 
 msgid "IDS_PJUF301_FLIGHTCONTROL_1"
 msgstr "Type4 mod. 1"
@@ -12441,358 +12439,358 @@ msgid "IDS_PJUT978_TORP_ZAO_TOP"
 msgstr "Type93 mod. 3"
 
 msgid "IDS_PLAYER_0_01"
-msgstr "Олимпиец"
+msgstr "Olympian"
 
 msgid "IDS_PLAYER_0_02"
-msgstr "Многоборец"
+msgstr "Decathlete"
 
 msgid "IDS_PLAYER_0_03"
-msgstr "Знаменосец"
+msgstr "Flag Bearer"
 
 msgid "IDS_PLAYER_0_04"
-msgstr "Марафонец"
+msgstr "Marathoner"
 
 msgid "IDS_PLAYER_0_11"
-msgstr "Олимпиец"
+msgstr "Olympian"
 
 msgid "IDS_PLAYER_0_12"
-msgstr "Многоборец"
+msgstr "Decathlete"
 
 msgid "IDS_PLAYER_0_13"
-msgstr "Знаменосец"
+msgstr "Flag Bearer"
 
 msgid "IDS_PLAYER_0_14"
-msgstr "Марафонец"
+msgstr "Marathoner"
 
 msgid "IDS_PLAYER_0_21"
-msgstr "Олимпиец"
+msgstr "Olympian"
 
 msgid "IDS_PLAYER_0_22"
-msgstr "Многоборец"
+msgstr "Decathlete"
 
 msgid "IDS_PLAYER_0_23"
-msgstr "Знаменосец"
+msgstr "Flag Bearer"
 
 msgid "IDS_PLAYER_0_24"
-msgstr "Марафонец"
+msgstr "Marathoner"
 
 msgid "IDS_PLAYER_0_31"
-msgstr "Олимпиец"
+msgstr "Olympian"
 
 msgid "IDS_PLAYER_0_32"
-msgstr "Многоборец"
+msgstr "Decathlete"
 
 msgid "IDS_PLAYER_0_33"
-msgstr "Знаменосец"
+msgstr "Flag Bearer"
 
 msgid "IDS_PLAYER_0_34"
-msgstr "Марафонец"
+msgstr "Marathoner"
 
 msgid "IDS_PLAYER_0_41"
-msgstr "Олимпиец"
+msgstr "Olympian"
 
 msgid "IDS_PLAYER_0_42"
-msgstr "Многоборец"
+msgstr "Decathlete"
 
 msgid "IDS_PLAYER_0_43"
-msgstr "Знаменосец"
+msgstr "Flag Bearer"
 
 msgid "IDS_PLAYER_0_44"
-msgstr "Марафонец"
+msgstr "Marathoner"
 
 msgid "IDS_PLAYER_0_51"
-msgstr "Олимпиец"
+msgstr "Olympian"
 
 msgid "IDS_PLAYER_0_52"
-msgstr "Многоборец"
+msgstr "Decathlete"
 
 msgid "IDS_PLAYER_0_53"
-msgstr "Знаменосец"
+msgstr "Flag Bearer"
 
 msgid "IDS_PLAYER_0_54"
-msgstr "Марафонец"
+msgstr "Marathoner"
 
 msgid "IDS_PLAYER_IS_OFFLINE"
-msgstr "Игрок не в сети"
+msgstr "Player is offline"
 
 msgid "IDS_PLAYER_IS_OFFLINE_C"
-msgstr "Игрок не в сети"
+msgstr "Player is offline"
 
 msgid "IDS_PLAY_BATTLE_FOR_STATS"
-msgstr "Нет данных о проведённых боях"
+msgstr "No data on battles fought"
 
 msgid "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
 msgid_plural "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
-msgstr[0] "У вас есть %(durationAlmanac)s день, чтобы забрать награды"
-msgstr[1] ""
+msgstr[0] "You have %(durationAlmanac)s day to claim the rewards"
+msgstr[1] "You have %(durationAlmanac)s days to claim the rewards"
 
 msgid "IDS_PL_ALMANAC_WINDOW_EXTRAREWARDS_STATUS"
 msgid_plural "IDS_PL_ALMANAC_WINDOW_EXTRAREWARDS_STATUS"
-msgstr[0] "Следующий %(extraRewardClaimDay)s день вам будут доступны дополнительные награды"
-msgstr[1] ""
+msgstr[0] "On the next %(extraRewardClaimDay)s day, extra rewards will be available"
+msgstr[1] "On the next %(extraRewardClaimDay)s days, extra rewards will be available"
 
 msgid "IDS_PL_ALMANAC_WINDOW_WARNING_STATUS"
 msgid_plural "IDS_PL_ALMANAC_WINDOW_WARNING_STATUS"
-msgstr[0] "У вас остался %(timeUntilAlmanacEnd)s день, чтобы забрать награды"
-msgstr[1] ""
+msgstr[0] "You have %(timeUntilAlmanacEnd)s day left to claim the rewards"
+msgstr[1] "You have %(timeUntilAlmanacEnd)s days left to claim the rewards"
 
 msgid "IDS_PL_TOOLTIP_NEXT_MONTH_REWARD"
 msgid_plural "IDS_PL_TOOLTIP_NEXT_MONTH_REWARD"
-msgstr[0] "У вас есть %(_timeLeft)s день, чтобы забрать все награды"
-msgstr[1] ""
+msgstr[0] "You have %(_timeLeft)s day to claim all the rewards"
+msgstr[1] "You have %(_timeLeft)s days to claim all the rewards"
 
 msgid "IDS_POLYAKOV"
-msgstr "Павел Поляков"
+msgstr "Pavel Polyakov"
 
 msgid "IDS_PORTAL_HW2023"
-msgstr "Внимание!"
+msgstr "Attention!"
 
 msgid "IDS_PORT_KINDZADZA"
-msgstr "Плюк"
+msgstr "Pluk"
 
 msgid "IDS_PORT_KINDZADZA_TOOLTIP"
-msgstr "Плюк"
+msgstr "Pluk"
 
 msgid "IDS_PORT_NEWYEAR2024"
-msgstr "Петровский форт"
+msgstr "Petrovsky Fort"
 
 msgid "IDS_PORT_NEWYEAR2024_TOOLTIP"
-msgstr "Порт Петровский форт"
+msgstr "Port Petrovsky Fort"
 
 msgid "IDS_PORT_TABLERUBY"
-msgstr "Каюта командира"
+msgstr "Captain's Cabin"
 
 msgid "IDS_PORT_TABLERUBY_TOOLTIP"
-msgstr "Порт «Каюта командира»"
+msgstr "Port 'Captain's Cabin'"
 
 msgid "IDS_PORT_UNIVERSAL"
-msgstr "ВМБ"
+msgstr "Naval Base"
 
 msgid "IDS_PORT_UNIVERSAL_TOOLTIP"
-msgstr "Порт ВМБ"
+msgstr "Port Naval Base"
 
 msgid "IDS_PORT_VLADIVOSTOK"
-msgstr "Владивосток"
+msgstr "Vladivostok"
 
 msgid "IDS_PORT_VLADIVOSTOK_TOOLTIP"
-msgstr "Порт Владивосток"
+msgstr "Port Vladivostok"
 
 msgid "IDS_POSTPROGRESS_REWARD_TOOLTIP_DESCRIPTION"
-msgstr "После получения становится вновь доступной на следующий день"
+msgstr "After receiving, it becomes available again the next day"
 
 msgid "IDS_POSTPROGRESS_REWARD_TOOLTIP_HEADER"
-msgstr "Обновляемая награда"
+msgstr "Renewable Reward"
 
 msgid "IDS_PRAD704_SEVEROMORSK_TOP"
-msgstr "Сухой Су-2"
+msgstr "Sukhoi Su-2"
 
 msgid "IDS_PRAL903_SEVEROMORSK_TOP"
-msgstr "Сухой Су-6 (АМ-42)"
+msgstr "Sukhoi Su-6 (AM-42)"
 
 msgid "IDS_PREE001_RUSSIA1918_DESC"
-msgstr "Андреевский флаг с синим крестом святого Андрея Первозванного на белом поле. Официально утверждён в качестве военно-морского флага в 1865 г. и использовался вплоть до 1918 г."
+msgstr "St. Andrew's colors with the blue cross of St. Andrew the First-Called on a white background. It was officially adopted as a naval ensign in 1865 and stayed in use until 1918."
 
 msgid "IDS_PREFERENCES_BATTLEUI_SECTION_HEADER_INGAME_PROCESS"
-msgstr "Игровой процесс"
+msgstr "Gameplay"
 
 msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_AVIATION"
-msgstr "Авиация"
+msgstr "Aircraft"
 
 msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_CHAT"
-msgstr "Общение"
+msgstr "Communication"
 
 msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_SHIPS"
-msgstr "Корабли"
+msgstr "Ships"
 
 msgid "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_SPECTATOR"
-msgstr "Наблюдение за боем"
+msgstr "Battle observation"
 
 msgid "IDS_PREFERENCES_PAGENAME_BATTLE"
-msgstr "БОЙ"
+msgstr "Battle"
 
 msgid "IDS_PREFS_CHANGED_AND_ORPHANED_CAPTION_APPLY_QUESTION"
 msgstr ""
-"Вы внесли изменения и не назначили клавиши для некоторых действий.\n"
-"Применить изменения?"
+"You have modified some settings without assigning keys for certain actions.\n"
+"Apply changes?"
 
 msgid "IDS_PREFS_CHANGED_CAPTION_APPLY_QUESTION"
 msgstr ""
-"Вы внесли изменения.\n"
-"Применить новые настройки?"
+"You have changed some settings.\n"
+"Apply changes?"
 
 msgid "IDS_PREFS_RESET_BATTLE_QUESTION"
-msgstr "Установить настройки интерфейса и игрового процесса по умолчанию?"
+msgstr "Apply default battle settings?"
 
 msgid "IDS_PREFS_RESET_PAGE_BUTTON"
-msgstr "По умолчанию"
+msgstr "Default"
 
 msgid "IDS_PREFS_TAB_TOOLTIP_IS_ANY_COMMAND_UNASSIGNED"
-msgstr "В конфигурации команд присутствуют неназначенные клавиши."
+msgstr "Unassigned keys are present in the command configuration."
 
 msgid "IDS_PREMIUM_ACCOUNT_WG"
-msgstr "Купить в Премиум магазине"
+msgstr "Buy in Premium Shop"
 
 msgid "IDS_PREP311_SOVRUSSIA_ROSTELECOM"
-msgstr "Штатный"
+msgstr "Default"
 
 msgid "IDS_PREP414_PERMO_KERCH"
-msgstr "Победоносный"
+msgstr "Victorious"
 
 msgid "IDS_PRES120_NAKHIMOV_PEPELATS"
-msgstr "Плюканский"
+msgstr "Plyukian"
 
 msgid "IDS_PRES310_SEVEROMORSK_CEREMONIAL"
-msgstr "Парадный"
+msgstr "Ceremonial"
 
 msgid "IDS_PRES320_23FEBRUARY"
-msgstr "На страже Отечества"
+msgstr "On guard of the Motherland"
 
 msgid "IDS_PRES328_TSARMOREY_LUKOMOR"
-msgstr "Лукоморье"
+msgstr "Lukomorye"
 
 msgid "IDS_PRES330_LENIN_VICTORY"
-msgstr "Краснознамённый"
+msgstr "Red Banner"
 
 msgid "IDS_PRES331_ADMIRAL_ISTOMIN"
-msgstr "Адмиральский"
+msgstr "Admiral"
 
 msgid "IDS_PRES332_ADMIRAL_KORNILOV"
-msgstr "Адмиральский"
+msgstr "Admiral"
 
 msgid "IDS_PRES333_ADMIRAL_LAZAREV"
-msgstr "Адмиральский"
+msgstr "Admiral"
 
 msgid "IDS_PRES411_TOGLIATTI_RUSSIA"
-msgstr "Российский триколор"
+msgstr "Russian tricolor"
 
 msgid "IDS_PRES412_ALASKA_RUSSIA"
-msgstr "Великая Северная экспедиция"
+msgstr "Great Northern Expedition"
 
 msgid "IDS_PRES414_SHCHERBAKOV_VMF"
-msgstr "Блистательный"
+msgstr "Brilliant"
 
 msgid "IDS_PRES436_DMITRY_DONSKOY"
-msgstr "Цусимское сражение"
+msgstr "Battle of Tsushima"
 
 msgid "IDS_PRES450_PETROPAVLOVSK_12_MONTHS"
-msgstr "Зимняя стужа"
+msgstr "Winter cold"
 
 msgid "IDS_PRES529_BELARUSMINSK"
-msgstr "Рэспубліка Беларусь"
+msgstr "Republic of Belarus"
 
 msgid "IDS_PRES602_GROZOVOY_MOSFILM"
-msgstr "Красный кабриолет"
+msgstr "Red convertible"
 
 msgid "IDS_PRES610_CHELYABINSKY_KOMSOMOLETS"
-msgstr "Челябинский комсомолец"
+msgstr "Chelyabinsk Komsomolets"
 
 msgid "IDS_PRES700_K1_EA"
-msgstr "Образец отваги"
+msgstr "A paragon of courage"
 
 msgid "IDS_PRES708_L20_EA"
-msgstr "Северный охотник"
+msgstr "Northern hunter"
 
 msgid "IDS_PRES718_S189_EA"
-msgstr "Триумфатор"
+msgstr "Triumphator"
 
 msgid "IDS_PRGA187_37MM_66K"
-msgstr "37-мм установка 66-К"
+msgstr "37 mm 66-K mount"
 
 msgid "IDS_PRGA213_85MM52_92K1"
-msgstr "85-мм/52 обр. 1939 г. в установке 92-К"
+msgstr "85 mm/52 Model 1939 in 92-K mount"
 
 msgid "IDS_PRGA218_40MM_BOFORS"
-msgstr "40-мм/56 Bofors в установке Mk.2"
+msgstr "40 mm/56 Bofors in Mk.2 mount"
 
 msgid "IDS_PRGM204_152MM_53_M1929"
-msgstr "152-мм/53 OTO Model 1929 в установке Model 1929"
+msgstr "152 mm/53 OTO Model 1929 in Model 1929 mount"
 
 msgid "IDS_PRGM205_152MM_53_M1929_RF_ITL"
-msgstr "152-мм/53 OTO Model 1929 в установке Model 1929"
+msgstr "152 mm/53 OTO Model 1929 in Model 1929 mount"
 
 msgid "IDS_PRGM207_406MM_52_MK_5_16_QUADRUPLE"
-msgstr "406-мм/52 в установке МК-5-16"
+msgstr "406 mm/52 in MK-5-16 mount"
 
 msgid "IDS_PRGM209_406_45_MK_2_16_TWIN"
-msgstr "406-мм/45 в установке МК-2-16"
+msgstr "406 mm/45 in MK-2-16 mount"
 
 msgid "IDS_PRGM210_406_52_MK_3_16_TRIPLE"
-msgstr "406-мм/52 в установке МК-3-16"
+msgstr "406 mm/52 in MK-3-16 mount"
 
 msgid "IDS_PRGM212_203MM55_BARRELS_3_ITL"
-msgstr "203-мм/55 Model 1934 в башенной установке"
+msgstr "203 mm/55 Model 1934 in turret mount"
 
 msgid "IDS_PRGM220_12IN50_MK8_TRIPLE"
-msgstr "305-мм/50 Mk.8 в башенной установке"
+msgstr "305 mm/50 Mk.8 in turret mount"
 
 msgid "IDS_PRGS211_100MM_70_BL_127_QUAD"
-msgstr "100-мм/70 в установке БЛ-127"
+msgstr "100 mm/70 in BL-127 mount"
 
 msgid "IDS_PRGS219_5IN38_MK32_MOD12"
-msgstr "127-мм/38 Mk.12 в установке Mk.32"
+msgstr "127 mm/38 Mk.12 in Mk.32 mount"
 
 msgid "IDS_PRGT206_533MM_3_TUBE_ITL"
-msgstr "533-мм tubo lanciasiluri"
+msgstr "533 mm tubo lanciasiluri"
 
 msgid "IDS_PRIVATE_TRAINING_ROOM"
-msgstr "Закрытая тренировочная комната"
+msgstr "Closed Training Room"
 
 msgid "IDS_PRMP_OPEN_WITH_NOTIFICATION_CENTER"
-msgstr "После закрытия сообщение будет отображаться в списке отчётов"
+msgstr "After closing, the message will appear in the report list"
 
 msgid "IDS_PROGRESS_IN_CAPTURE_CONTROL"
-msgstr "ЗАХВАТ ТОЧКИ"
+msgstr "CAPTURE POINT"
 
 msgid "IDS_PRPA007_SHELL_152MM_HE_HC_MARK_34_MOD_1"
-msgstr "152-мм HE/HC Mk34 mod. 1"
+msgstr "152 mm HE/HC Mk34 mod. 1"
 
 msgid "IDS_PRPA014_305_HE_1911"
-msgstr "305-мм ОФ обр. 1911 г."
+msgstr "305 mm HE Model 1911"
 
 msgid "IDS_PRPA015_305_AP_1911"
-msgstr "305-мм ББ обр. 1911 г."
+msgstr "305 mm AP Model 1911"
 
 msgid "IDS_PRPA027_120MM_HE_P_1907"
-msgstr "120-мм ОФ обр. 1907 г."
+msgstr "120 mm HE Model 1907"
 
 msgid "IDS_PRPA040_130_AP_P_1911"
-msgstr "130-мм ББ обр. 1911 г."
+msgstr "130 mm AP Model 1911"
 
 msgid "IDS_PRPA041_120_AP_P_1905"
-msgstr "120-мм ББ обр. 1905 г."
+msgstr "120 mm AP Model 1905"
 
 msgid "IDS_PRPA048_130_AP_P_1917"
-msgstr "130-мм ББ обр. 1917 г."
+msgstr "130 mm AP Model 1917"
 
 msgid "IDS_PRPA049_130_HE_P_1917"
-msgstr "130-мм ОФ обр. 1917 г."
+msgstr "130 mm HE Model 1917"
 
 msgid "IDS_PRPA069_305_HE_REV"
-msgstr "305-мм ОФ обр. 1911 г."
+msgstr "305 mm HE Model 1911"
 
 msgid "IDS_PRPA070_305_AP_REV"
-msgstr "305-мм ББ обр. 1911 г."
+msgstr "305 mm AP Model 1911"
 
 msgid "IDS_PRPA071_120MM_HE_P_1907_50"
-msgstr "120-мм ОФ обр. 1907 г."
+msgstr "120 mm HE Model 1907"
 
 msgid "IDS_PRPA078_406MM_SAP_MOD1937"
-msgstr "406-мм ОФ обр. 1937 г."
+msgstr "406 mm HE Model 1937"
 
 msgid "IDS_PRPA082_305MM_AP_STALINGRAD"
-msgstr "305-мм ББ обр. 1928 г."
+msgstr "305 mm AP Model 1928"
 
 msgid "IDS_PRPA086_305MM_AP_KRON"
-msgstr "305-мм ББ обр. 1928 г."
+msgstr "305 mm AP Model 1928"
 
 msgid "IDS_PRPA087_305MM_HE_KRON"
-msgstr "305-мм ОФ обр. 1928 г."
+msgstr "305 mm HE Model 1928"
 
 msgid "IDS_PRPA088_305MM_HE_STALINGRAD"
-msgstr "305-мм ОФ обр. 1928 г."
+msgstr "305 mm HE Model 1928"
 
 msgid "IDS_PRPA103_356MM_HE_1938_POLTAVA"
-msgstr "356-мм ОФ обр. 1938 г."
+msgstr "356 mm HE Model 1938"
 
 msgid "IDS_PRPA105_406MM_HE_BORODINO"
 msgstr "406-мм ОФ обр. 1937 г."
