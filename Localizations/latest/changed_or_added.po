@@ -5520,13 +5520,13 @@ msgid "IDS_PAES513_LYNCH_MIAMI"
 msgstr "Sunrise"
 
 msgid "IDS_PAGM080_16IN50_MK7"
-msgstr "406 mm/50 Mk.7 in a turret mount"
+msgstr "406 mm/50 Mk.7 in turret mount"
 
 msgid "IDS_PAGM228_5IN_51_MK14_TWIN_TURRET"
 msgstr "127 mm/51 Mk.14 in a twin mount"
 
 msgid "IDS_PAGM229_5IN_70_MK44_TWIN"
-msgstr "127 mm/70 Mk.44 in a turret mount"
+msgstr "127 mm/70 Mk.44 in turret mount"
 
 msgid "IDS_PAGT230_21IN_MK14_SIX_TUBES"
 msgstr "533 mm 6-tube"
@@ -8606,10 +8606,10 @@ msgid "IDS_PCVO031_EV_HL_23_E02_HALLOWEEN_2023_NAME_RESULT_SCREEN"
 msgstr "Transylvania's Last Voyage"
 
 msgid "IDS_PCZA020_KOTS"
-msgstr "King of the Sea"
+msgstr "Tsar of the Seas"
 
 msgid "IDS_PCZA020_KOTS_QUOTES"
-msgstr "“King of the Sea”"
+msgstr "“Tsar of the Seas”"
 
 msgid "IDS_PCZA030_MAY_DAY"
 msgstr "Victory Fleet"
@@ -9065,13 +9065,13 @@ msgid "IDS_PCZC424_KOTS_ORGBOSS_DESCRIPTION"
 msgstr ""
 "Burdened with responsibility and working to their limits every day.\n"
 "\n"
-"Each server has a group of volunteer players organizing the King of the Sea events. Setting dates, writing rules, and ensuring the smooth running of everything on match days are just some of their responsibilities. "
+"Each server has a group of volunteer players organizing the Tsar of the Seas events. Setting dates, writing rules, and ensuring the smooth running of everything on match days are just some of their responsibilities. "
 
 msgid "IDS_PCZC425_KOTS_REFEREE1_DESCRIPTION"
 msgstr ""
 "\"Attention, Group A! Your games start in 5 minutes. You had better be ready, or else you will be disqualified!\"\n"
 "\n"
-"Adjudicators and volunteers help run King of the Sea. They make sure that teams know who, where, and when they have to fight. They also settle minor conflicts between teams, and some of them really enjoy breaking out the whip when a team is out of line. \n"
+"Adjudicators and volunteers help run Tsar of the Seas. They make sure that teams know who, where, and when they have to fight. They also settle minor conflicts between teams, and some of them really enjoy breaking out the whip when a team is out of line. \n"
 "\n"
 "With these adjudicators, just the mere thought of typing your first joke into the chat will get you slapped with a second warning! But on the plus side, all the games start on time."
 
@@ -9079,7 +9079,7 @@ msgid "IDS_PCZC426_KOTS_REFEREE2_DESCRIPTION"
 msgstr ""
 "\"Of course, I will be happy to explain how to open a Training Room. No, even better—let me just do it for you!\"\n"
 "\n"
-"Adjudicators and volunteers help run King of the Sea. They make sure that teams know who, where, and when they have to fight. They also settle minor conflicts between teams, and some of them are very protective of their assigned teams.\n"
+"Adjudicators and volunteers help run Tsar of the Seas. They make sure that teams know who, where, and when they have to fight. They also settle minor conflicts between teams, and some of them are very protective of their assigned teams.\n"
 "\n"
 "A generous adjudicator will happily postpone the starting times by 10 minutes, then another 10 minutes, and another 10 minutes..."
 
@@ -9087,7 +9087,7 @@ msgid "IDS_PCZC427_KOTS_STREAMER_DESCRIPTION"
 msgstr ""
 "\"The shells were in the air! What. A. Game.\"\n"
 "\n"
-"Since the start of the tournament, streamers have been making King of the Sea increasingly popular by casting the games in an entertaining way with great commentary.\n"
+"Since the start of the tournament, streamers have been making Tsar of the Seas increasingly popular by casting the games in an entertaining way with great commentary.\n"
 "\n"
 "To those who lost their voices while streaming, who forgot to switch on their microphones, who neglected to sink when ramming a fellow caster, who rooted for all teams equally (although a little more equally for their favorites)... and to those who forgot to switch the scene and only realized when the chat caught up to the delay.\n"
 "\n"
@@ -9105,7 +9105,7 @@ msgid "IDS_PCZC434_KOTS_HINDEN_DESCRIPTION"
 msgstr ""
 "2017 called. It wants its start back.\n"
 "\n"
-"As one of the most versatile and tank-like cruisers, Hindenburg was the most popular ship during the first Tier X seasons of both King of the Sea and Clan Battles. Teams would often bring three or four of these ships into battle at a time.\n"
+"As one of the most versatile and tank-like cruisers, Hindenburg was the most popular ship during the first Tier X seasons of both Tsar of the Seas and Clan Battles. Teams would often bring three or four of these ships into battle at a time.\n"
 "\n"
 "Players appreciated her good DPS, decent chances of starting fires, strong armor, and German Hydro! This is why she was the primary choice for professionals (and totally not because most players had only one Tier X ship back in the day).\n"
 "\n"
@@ -10325,34 +10325,34 @@ msgid "IDS_PGUA609_ART_PFALZ"
 msgstr "283 mm/54.5 SK C/34 in Drh LC/34 mount"
 
 msgid "IDS_PGUA610_C7_ART_STOCK"
-msgstr "128 mm/54 Doppelflak L/54 in a turret mount"
+msgstr "128 mm/54 Doppelflak L/54 in turret mount"
 
 msgid "IDS_PGUA719_D8_ART_STOCK"
-msgstr "150 mm/55 Tbts KC/36 in a turret mount"
+msgstr "150 mm/55 Tbts KC/36 in turret mount"
 
 msgid "IDS_PGUA720_D8_ART_STOCK"
-msgstr "150 mm/55 Tbts KC/36 in a turret mount"
+msgstr "150 mm/55 Tbts KC/36 in turret mount"
 
 msgid "IDS_PGUA722_D8_ART_STOCK"
-msgstr "150 mm/55 Tbts KC/36 in a turret mount"
+msgstr "150 mm/55 Tbts KC/36 in turret mount"
 
 msgid "IDS_PGUA723_C8_ART_STOCK"
-msgstr "128 mm/54 Doppelflak L/54 in a turret mount"
+msgstr "128 mm/54 Doppelflak L/54 in turret mount"
 
 msgid "IDS_PGUA810_ART_LOTHRINGEN"
-msgstr "380 mm/52 SK C/34 in a turret mount"
+msgstr "380 mm/52 SK C/34 in turret mount"
 
 msgid "IDS_PGUA814_ART_C9_ART_STOCK"
-msgstr "128 mm/61 KM40 in a turret mount"
+msgstr "128 mm/61 KM40 in turret mount"
 
 msgid "IDS_PGUA900_D11_ART_STOCK"
-msgstr "128 mm/61 KM40 in a turret mount"
+msgstr "128 mm/61 KM40 in turret mount"
 
 msgid "IDS_PGUA911_ART_COLORFUL_SCHLIEFFEN"
 msgstr "420 mm/50 SK L/50 in Drh LC/1918 mount"
 
 msgid "IDS_PGUA912_C10_ART_STOCK"
-msgstr "128 mm/61 KM40 in a turret mount"
+msgstr "128 mm/61 KM40 in turret mount"
 
 msgid "IDS_PGUB801_TB_LOTHRINGEN"
 msgstr "Bf 110C"
@@ -11593,7 +11593,7 @@ msgid "IDS_PJUA910_ART_NATSUKAZE"
 msgstr "127 mm/50 3rd Year Type in a Type D mount"
 
 msgid "IDS_PJUA934_C11_ART_STOCK"
-msgstr "210 mm/60 SK C/34 in a turret mount"
+msgstr "210 mm/60 SK C/34 in turret mount"
 
 msgid "IDS_PJUD505_DB_OYODO"
 msgstr "Nakajima A6M2-N"
@@ -13225,601 +13225,601 @@ msgid "IDS_PRSD108_DESCR"
 msgstr "In the early 1930s, the Soviet Navy's authorities placed an order for a destroyer leader to be built by the Italian company Odero Terni Orlando. In 1937, a Project 20I destroyer named Tashkent was laid down at the Livorno dockyard. The leader joined the Black Sea Fleet of the U.S.S.R. in 1939, but the intended 130 mm B-2LM twin-gun turrets were fitted only in 1941. During World War II, she took part in the defense of Odessa and Sevastopol, where she was the last vessel to break through to the city under siege."
 
 msgid "IDS_PRSD206_DESCR"
-msgstr "Летом 1932 г. делегация ВМФ посетила Италию, где ознакомилась с новейшими эсминцами типа Maestrale. Именно его было решено взять за основу при проектировании новых эсминцев для советского флота. Технический проект, получивший индекс 7, был утверждён в декабре 1934 г. «Гневный» был заложен на заводе № 190 в Ленинграде в 1935 г., вступил в строй в октябре 1938 г. Эсминец погиб 23 июня 1941 г., подорвавшись на немецком минном заграждении."
+msgstr "In the summer of 1932, a Soviet Navy delegation visited Italy to see the latest Maestrale-class destroyers. This class was selected as the basis for new Soviet destroyer designs. The technical design was assigned project number 7 and was approved in December 1934. Laid down at Shipyard No. 190 in Leningrad in 1935, Gnevny was commissioned in October 1938. On June 23, 1941, the destroyer was sunk by a German mine barrier."
 
 msgid "IDS_PRSD210_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PRSD409_DESCR"
-msgstr "В начале 1930-х гг. руководство флота СССР заказало у итальянской верфи Odero Terni Orlando постройку лидера эсминцев. В 1937 г. в Ливорно был заложен корабль проекта 20И — «Ташкент». Лидер был зачислен в состав Черноморского флота СССР в 1939 г., но положенные по проекту 130-мм спаренные установки были установлены только в 1941 г. Во время Великой Отечественной войны участвовал в обороне Одессы, а затем Севастополя, став последним кораблём, прорвавшимся к осаждённому городу."
+msgstr "In the early 1930s, the Soviet Navy's authorities placed an order for a destroyer leader to be built by the Italian company Odero Terni Orlando. In 1937, a Project 20I destroyer named Tashkent was laid down at the Livorno dockyard. The leader joined the Black Sea Fleet of the U.S.S.R. in 1939, but the intended 130 mm B-2LM twin-gun turrets were fitted only in 1941. During World War II, she took part in the defense of Odessa and Sevastopol, where she was the last vessel to break through to the city under siege."
 
 msgid "IDS_PRSD505_DESCR"
-msgstr "В соответствии с разработками Морского генерального штаба эсминцы типа «Новик» должны были действовать совместно с лёгкими крейсерами типа «Светлана». Однако строительство последних затягивалось, поэтому командующий Балтийским флотом вице-адмирал А. И. Непенин обратился в Морской генеральный штаб с просьбой установить на строящиеся эсминцы изменённого типа «Гогланд» 130-мм орудия."
+msgstr "The Naval General Staff designed the Novik-class destroyers for use in tandem with Svetlana-class light cruisers; however, completion of the latter was delayed. For that reason, Vice-Admiral Adrian Nepenin, the commander of the Baltic Fleet, turned to the Naval General Staff with a request to install six or seven 130 mm guns on modified Gogland-class destroyers that were being built at the time."
 
 msgid "IDS_PRSD709_DESCR"
-msgstr "Согласно десятилетней программе военного судостроения от 1945 г., предполагалось к постройке 226 «обычных» эсминцев. Часть из них должна была принадлежать к хорошо освоенному промышленностью проекту 30-бис, остальные — к новому типу. В 1949 г. на заводе им. А. А. Жданова в Ленинграде был заложен головной корабль проекта 41, «Неустрашимый». Всего планировалось построить 110 эсминцев этого типа, но от серийного строительства такого сложного корабля было решено отказаться в пользу эсминцев проекта 56."
+msgstr "Adopted in 1945, a 10-year military shipbuilding program envisaged building 226 \"standard\" destroyers. Some of them were to fall under Project 30bis, which had been successfully accommodated by the industrial sector, while others were designated a new class. In 1949, the new lead ship of Project 41, Neustrashimy, was laid down at the Zhdanov yard in Leningrad. A total of 110 destroyers were planned to be built, but the series production of such a complex ship was canceled in favor of the Project 56 destroyers."
 
 msgid "IDS_PRSD910_DESCR"
-msgstr "Этот корабль является копией корабля «Грозовой» и предназначен только для Клановых боёв."
+msgstr "This ship is a copy of Grozovoi and is suitable for Clan Battles only"
 
 msgid "IDS_PRSD910_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PRSS111"
-msgstr "Б-4"
+msgstr "B-4"
 
 msgid "IDS_PRSS111_DESCR"
-msgstr "Дизель-электрические подводные лодки проекта 641 предназначались для действий на коммуникациях противника, разведки, постановки мин. Одни из последних подводных лодок с классическим, а не каплевидным корпусом. Б-4 была заложена и спущена на воду в Ленинграде, затем переведена в Северодвинск, где вступила в строй. Во время Карибского кризиса Б-4 участвовала в прорыве блокады Кубы, став единственной подводной лодкой, которую силы США не смогли заставить всплыть на поверхность. В 1963 г. Б-4 получила почётное наименование «Челябинский комсомолец»."
+msgstr "Diesel-electric submarines of Project 641 were designed for operations on enemy communications, reconnaissance, and mine laying. These were among the last submarines with a traditional, non-teardrop hull. B-4 was laid down and launched in Leningrad, then transferred to Severodvinsk, where it was commissioned. During the Cuban Missile Crisis, B-4 participated in breaking the blockade of Cuba, becoming the only submarine that U.S. forces could not force to surface. In 1963, B-4 was awarded the honorary name 'Chelyabinsk Komsomolets.'"
 
 msgid "IDS_PRSS111_FULL"
-msgstr "Б-4"
+msgstr "B-4"
 
 msgid "IDS_PRSS111_NUMBER"
 msgstr "75"
 
 msgid "IDS_PRSS111_YEAR"
-msgstr "1961 г."
+msgstr "1961"
 
 msgid "IDS_PRUA505_ART_KERCH"
-msgstr "152-мм/53 OTO Model 1929 в установке Model 1929"
+msgstr "152 mm/53 OTO Model 1929 in Model 1929 mount"
 
 msgid "IDS_PRUA604_B7_ART_STOCK"
-msgstr "406-мм/45 в установке МК-2-16"
+msgstr "406 mm/45 in MK-2-16 mount"
 
 msgid "IDS_PRUA713_B8_ART_STOCK"
-msgstr "406-мм/52 в установке МК-3-16"
+msgstr "406 mm/52 in MK-3-16 mount"
 
 msgid "IDS_PRUA809_B9_ART_STOCK"
-msgstr "406-мм/52 в установке МК-5-16"
+msgstr "406 mm/52 in MK-5-16 mount"
 
 msgid "IDS_PRUA810_ART_TOGLIATTI"
-msgstr "203-мм/55 Model 1934 в башенной установке"
+msgstr "203 mm/55 Model 1934 in turret mount"
 
 msgid "IDS_PRUA815_ART_RTC_SOV_RUSSIA"
-msgstr "406-мм/50 Б-37 в установке МК-1-406"
+msgstr "406 mm/50 B-37 in MK-1-406 mount"
 
 msgid "IDS_PRUA816_ART_SCHERBAKOV"
-msgstr "152-мм/57 Б-38 в установке МК-5-бис"
+msgstr "152 mm/57 B-38 in MK-5-bis mount"
 
 msgid "IDS_PRUA817_ART_R_ALASKA"
-msgstr "305-мм/50 Mk.8 в башенной установке"
+msgstr "305 mm/50 Mk.8 in turret mount"
 
 msgid "IDS_PRUA919_ART_SEVEROMORSK"
-msgstr "406-мм/45 обр. 1915 г. в башенной установке"
+msgstr "406 mm/45 Model 1915 in turret mount"
 
 msgid "IDS_PRUA920_B10_ART_STOCK"
-msgstr "406-мм/52 в установке МК-5-16"
+msgstr "406 mm/52 in MK-5-16 mount"
 
 msgid "IDS_PRUA921_ART_CRUISER_TEST"
-msgstr "180-мм/65 СМ-45 в установке СМ-48"
+msgstr "180 mm/65 SM-45 in SM-48 mount"
 
 msgid "IDS_PRUD920_DB_SEVEROMORSK"
-msgstr "Сухой Су-2"
+msgstr "Sukhoi Su-2"
 
 msgid "IDS_PRUE506_ENG_KERCH"
-msgstr "ЭУ 128 000 л.с."
+msgstr "Propulsion: 128,000 hp"
 
 msgid "IDS_PRUE600_ENG_BLACK_LAZO"
-msgstr "ЭУ 124 600 л.с."
+msgstr "Propulsion: 124,600 hp"
 
 msgid "IDS_PRUE605_B7_ENG_STOCK"
-msgstr "ЭУ 86 000 л.с."
+msgstr "Propulsion: 86,000 hp"
 
 msgid "IDS_PRUE719_B8_ENG_STOCK"
-msgstr "ЭУ 140 000 л.с."
+msgstr "Propulsion: 140,000 hp"
 
 msgid "IDS_PRUE805_B9_ENG_STOCK"
-msgstr "ЭУ 231 000 л.с."
+msgstr "Propulsion: 231,000 hp"
 
 msgid "IDS_PRUE807_ENG_AZUR_SOV_RUSSIA"
-msgstr "ЭУ 231 000 л.с."
+msgstr "Propulsion: 231,000 hp"
 
 msgid "IDS_PRUE808_ENG_NAVARIN"
-msgstr "ЭУ 100 000 л.с."
+msgstr "Propulsion: 100,000 hp"
 
 msgid "IDS_PRUE809_ENG_RTC_SOV_RUSSIA"
-msgstr "ЭУ 231 000 л.с."
+msgstr "Propulsion: 231,000 hp"
 
 msgid "IDS_PRUE810_B9_ENG_STOCK"
-msgstr "ЭУ 144 000 л.с."
+msgstr "Propulsion: 144,000 hp"
 
 msgid "IDS_PRUE812_ENG_KRON"
-msgstr "ЭУ 231 000 л.с."
+msgstr "Propulsion: 231,000 hp"
 
 msgid "IDS_PRUE814_ENG_TOGLIATTI"
-msgstr "ЭУ 220 000 л.с."
+msgstr "Propulsion: 220,000 hp"
 
 msgid "IDS_PRUE815_ENG_SCHERBAKOV"
-msgstr "ЭУ 124 000 л.с."
+msgstr "Propulsion: 124,000 hp"
 
 msgid "IDS_PRUE816_ENG_R_ALASKA"
-msgstr "ЭУ 180 000 л.с."
+msgstr "Propulsion: 180,000 hp"
 
 msgid "IDS_PRUE909_ENG_R10"
-msgstr "ЭУ 231 000 л.с."
+msgstr "Propulsion: 231,000 hp"
 
 msgid "IDS_PRUE915_CV10_ENG"
-msgstr "ЭУ 231 000 л.с."
+msgstr "Propulsion: 231,000 hp"
 
 msgid "IDS_PRUE918_ENG_KOMISSAR"
-msgstr "ЭУ 140 000 л.с."
+msgstr "Propulsion: 140,000 hp"
 
 msgid "IDS_PRUE920_ENG_SEVEROMORSK"
-msgstr "ЭУ 300 000 л.с."
+msgstr "Propulsion: 300,000 hp"
 
 msgid "IDS_PRUE921_S11_ENG_STOCK"
-msgstr "ЭУ 6 000 л.с."
+msgstr "Propulsion: 6,000 hp"
 
 msgid "IDS_PRUE922_B10_ENG_STOCK"
-msgstr "ЭУ 200 000 л.с."
+msgstr "Propulsion: 200,000 hp"
 
 msgid "IDS_PRUE923_ENG_CRUISER_TEST"
-msgstr "ЭУ 192 000 л.с."
+msgstr "Propulsion: 192,000 hp"
 
 msgid "IDS_PRUF904_FC_SEVEROMORSK"
-msgstr "Тип 10"
+msgstr "Type 10"
 
 msgid "IDS_PRUH111_PALLADA_1905"
-msgstr "Диана L"
+msgstr "Diana L"
 
 msgid "IDS_PRUH510_HULL_KERCH"
-msgstr "Керчь"
+msgstr "Kerch"
 
 msgid "IDS_PRUH600_HULL_BLACK_LAZO"
-msgstr "Лазо Ч."
+msgstr "Lazo B."
 
 msgid "IDS_PRUH608_B7_HULL_A"
-msgstr "Адмирал Сенявин"
+msgstr "Admiral Senyavin"
 
 msgid "IDS_PRUH700_HULL_BLACK_CHKALOV"
-msgstr "Чкалов Ч."
+msgstr "Chkalov B."
 
 msgid "IDS_PRUH728_B8_HULL_STOCK"
-msgstr "Адмирал Истомин"
+msgstr "Admiral Istomin"
 
 msgid "IDS_PRUH820_RTC_SOV_RUSSIA"
-msgstr "Советская Россия"
+msgstr "Soviet Russia"
 
 msgid "IDS_PRUH821_B9_HULL_A"
-msgstr "Адмирал Корнилов"
+msgstr "Admiral Kornilov"
 
 msgid "IDS_PRUH823_HULL_TOGLIATTI"
-msgstr "Тольятти"
+msgstr "Togliatti"
 
 msgid "IDS_PRUH824_SCHERBAKOV"
-msgstr "Щербаков"
+msgstr "Scherbakov"
 
 msgid "IDS_PRUH825_HULL_R_ALASKA"
-msgstr "Русская Аляска"
+msgstr "Russian Alaska"
 
 msgid "IDS_PRUH900_C10_HULL_STOCK"
-msgstr "Петропавловск Test"
+msgstr "Petropavlovsk Test"
 
 msgid "IDS_PRUH915_CV10_HULL_STOCK"
-msgstr "Адмирал Нахимов Test"
+msgstr "Admiral Nakhimov Test"
 
 msgid "IDS_PRUH916_HULL_VLADIMIR_MONOMAKH"
-msgstr "Князь Владимир"
+msgstr "Prince Vladimir"
 
 msgid "IDS_PRUH919_HULL_BLACK_SMOLENSK"
-msgstr "Смоленск Ч."
+msgstr "Smolensk B."
 
 msgid "IDS_PRUH920_HULL_SEVEROMORSK"
-msgstr "Североморск"
+msgstr "Severomorsk"
 
 msgid "IDS_PRUH921_S11_HULL_STOCK"
-msgstr "Б-4"
+msgstr "B-4"
 
 msgid "IDS_PRUH922_B10_HULL_STOCK"
-msgstr "Адмирал Лазарев"
+msgstr "Admiral Lazarev"
 
 msgid "IDS_PRUH923_HULL_CRUISER_TEST"
-msgstr "Иван Калита"
+msgstr "Ivan Kalita"
 
 msgid "IDS_PRUL904_SB_SEVEROMORSK"
-msgstr "Сухой Су-6 (АМ-42)"
+msgstr "Sukhoi Su-6 (АМ-42)"
 
 msgid "IDS_PRUQ900_S11_SONAR_STOCK"
-msgstr "ГАП 11"
+msgstr "HAS 11"
 
 msgid "IDS_PRUS001_SUO"
-msgstr "СУО I мод. 1"
+msgstr "SUO I mod. 1"
 
 msgid "IDS_PRUS002_SUO"
-msgstr "СУО I мод. 2"
+msgstr "SUO I mod. 2"
 
 msgid "IDS_PRUS101_SUO_DIANA"
-msgstr "СУО II мод. 1"
+msgstr "SUO II mod. 1"
 
 msgid "IDS_PRUS111_SUO_PALLADA"
-msgstr "СУО II мод. 1"
+msgstr "SUO II mod. 1"
 
 msgid "IDS_PRUS121_SUO"
-msgstr "СУО II мод. 1"
+msgstr "SUO II mod. 1"
 
 msgid "IDS_PRUS131_SUO"
-msgstr "СУО II мод. 1"
+msgstr "SUO II mod. 1"
 
 msgid "IDS_PRUS132_SUO"
-msgstr "СУО II мод. 2"
+msgstr "SUO II mod. 2"
 
 msgid "IDS_PRUS200_SUO_AVRORA_AZUR"
-msgstr "СУО III мод. 1"
+msgstr "SUO III mod. 1"
 
 msgid "IDS_PRUS201_SUO"
-msgstr "СУО III мод. 1"
+msgstr "SUO III mod. 1"
 
 msgid "IDS_PRUS202_B3_SUO_STOCK"
-msgstr "СУО III мод. 1"
+msgstr "SUO III mod. 1"
 
 msgid "IDS_PRUS203_B3_SUO_TOP"
-msgstr "СУО III мод. 2"
+msgstr "SUO III mod. 2"
 
 msgid "IDS_PRUS211_SUO"
-msgstr "СУО III мод. 1"
+msgstr "SUO III mod. 1"
 
 msgid "IDS_PRUS212_SUO"
-msgstr "СУО III мод. 2"
+msgstr "SUO III mod. 2"
 
 msgid "IDS_PRUS221_SUO"
-msgstr "СУО III мод. 1"
+msgstr "SUO III mod. 1"
 
 msgid "IDS_PRUS222_SUO"
-msgstr "СУО III мод. 2"
+msgstr "SUO III mod. 2"
 
 msgid "IDS_PRUS223_SUO_OLEG"
-msgstr "СУО III мод. 1"
+msgstr "SUO III mod. 1"
 
 msgid "IDS_PRUS224_SUO_VARYAG"
-msgstr "СУО III мод. 1"
+msgstr "SUO III mod. 1"
 
 msgid "IDS_PRUS301_SUO"
-msgstr "СУО IV мод. 1"
+msgstr "SUO IV mod. 1"
 
 msgid "IDS_PRUS302_SUO"
-msgstr "СУО IV мод. 2"
+msgstr "SUO IV mod. 2"
 
 msgid "IDS_PRUS303_B4_SUO_STOCK"
-msgstr "СУО IV мод. 1"
+msgstr "SUO IV mod. 1"
 
 msgid "IDS_PRUS304_B4_SUO_TOP"
-msgstr "СУО IV мод. 2"
+msgstr "SUO IV mod. 2"
 
 msgid "IDS_PRUS311_SUO"
-msgstr "СУО IV мод. 1"
+msgstr "SUO IV mod. 1"
 
 msgid "IDS_PRUS312_SUO"
-msgstr "СУО IV мод. 2"
+msgstr "SUO IV mod. 2"
 
 msgid "IDS_PRUS401_SUO"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PRUS402_B5_SUO_STOCK"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PRUS403_B5_SUO_TOP"
-msgstr "СУО V мод. 2"
+msgstr "SUO V mod. 2"
 
 msgid "IDS_PRUS405_SUO_KIROV"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PRUS411_SUO"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PRUS412_SUO_OHOTNIK"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PRUS413_D5_SUO_STOCK_2"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PRUS414_D5_SUO_TOP_2"
-msgstr "СУО V мод. 2"
+msgstr "SUO V mod. 2"
 
 msgid "IDS_PRUS415_CA5_SUO_STOCK"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PRUS416_CA5_SUO_TOP"
-msgstr "СУО V мод. 2"
+msgstr "SUO V mod. 2"
 
 msgid "IDS_PRUS417_SUO_MIKOYAN"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PRUS421_SUO"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PRUS422_SUO"
-msgstr "СУО V мод. 2"
+msgstr "SUO V mod. 2"
 
 msgid "IDS_PRUS431_SUO_NIKOLAY"
-msgstr "СУО IV мод. 1"
+msgstr "SUO IV mod. 1"
 
 msgid "IDS_PRUS432_SUO_REV"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PRUS441_SUO"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PRUS442_SUO"
-msgstr "СУО V мод. 2"
+msgstr "SUO V mod. 2"
 
 msgid "IDS_PRUS451_SUO_KK"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PRUS501_SUO"
-msgstr "СУО VI мод. 1"
+msgstr "SUO VI mod. 1"
 
 msgid "IDS_PRUS502_SUO"
-msgstr "СУО VI мод. 2"
+msgstr "SUO VI mod. 2"
 
 msgid "IDS_PRUS503_B6_SUO_STOCK"
-msgstr "СУО VI мод. 1"
+msgstr "SUO VI mod. 1"
 
 msgid "IDS_PRUS504_B6_SUO_TOP"
-msgstr "СУО VI мод. 2"
+msgstr "SUO VI mod. 2"
 
 msgid "IDS_PRUS505_SUO_NOVOR"
-msgstr "СУО VI мод. 1"
+msgstr "SUO VI mod. 1"
 
 msgid "IDS_PRUS506_SUO_KERCH"
-msgstr "СУО VI мод. 1"
+msgstr "SUO VI mod. 1"
 
 msgid "IDS_PRUS511_SUO"
-msgstr "СУО VI мод. 1"
+msgstr "SUO VI mod. 1"
 
 msgid "IDS_PRUS512_SUO"
-msgstr "СУО VI мод. 2"
+msgstr "SUO VI mod. 2"
 
 msgid "IDS_PRUS513_D6_SUO_STOCK_2"
-msgstr "СУО VI мод. 1"
+msgstr "SUO VI mod. 1"
 
 msgid "IDS_PRUS514_D6_SUO_TOP_2"
-msgstr "СУО VI мод. 2"
+msgstr "SUO VI mod. 2"
 
 msgid "IDS_PRUS521_SUO_MOLOTOV"
-msgstr "СУО VI мод. 1"
+msgstr "SUO VI mod. 1"
 
 msgid "IDS_PRUS531_SUO_LGD"
-msgstr "СУО VII мод. 1"
+msgstr "SUO VII mod. 1"
 
 msgid "IDS_PRUS532_SUO_MAKAROV"
-msgstr "СУО VI мод. 1"
+msgstr "SUO VI mod. 1"
 
 msgid "IDS_PRUS600_SUO_BLACK_LAZO"
-msgstr "СУО VII мод. 1"
+msgstr "SUO VII mod. 1"
 
 msgid "IDS_PRUS601_SUO"
-msgstr "СУО VII мод. 1"
+msgstr "SUO VII mod. 1"
 
 msgid "IDS_PRUS602_SUO"
-msgstr "СУО VII мод. 2"
+msgstr "SUO VII mod. 2"
 
 msgid "IDS_PRUS603_B7_SUO_STOCK"
-msgstr "СУО VII мод. 1"
+msgstr "SUO VII mod. 1"
 
 msgid "IDS_PRUS604_B7_SUO_TOP"
-msgstr "СУО VII мод. 2"
+msgstr "SUO VII mod. 2"
 
 msgid "IDS_PRUS605_SUO_TASHKENT39"
-msgstr "СУО VII мод. 1"
+msgstr "SUO VII mod. 1"
 
 msgid "IDS_PRUS606_B7_SUO_STOCK"
-msgstr "СУО VII мод. 1"
+msgstr "SUO VII mod. 1"
 
 msgid "IDS_PRUS611_SUO"
-msgstr "СУО VII мод. 1"
+msgstr "SUO VII mod. 1"
 
 msgid "IDS_PRUS612_SUO"
-msgstr "СУО VII мод. 2"
+msgstr "SUO VII mod. 2"
 
 msgid "IDS_PRUS613_D7_SUO_STOCK_2"
-msgstr "СУО VII мод. 1"
+msgstr "SUO VII mod. 1"
 
 msgid "IDS_PRUS614_D7_SUO_TOP_2"
-msgstr "СУО VII мод. 2"
+msgstr "SUO VII mod. 2"
 
 msgid "IDS_PRUS702_SUO"
-msgstr "СУО VIII мод. 2"
+msgstr "SUO VIII mod. 2"
 
 msgid "IDS_PRUS703_SUO_LAZO"
-msgstr "СУО VII мод. 1"
+msgstr "SUO VII mod. 1"
 
 msgid "IDS_PRUS705_B8_SUO_TOP"
-msgstr "СУО VIII мод. 2"
+msgstr "SUO VIII mod. 2"
 
 msgid "IDS_PRUS707_SUO_POLTAVA"
-msgstr "СУО VII мод. 1"
+msgstr "SUO VII mod. 1"
 
 msgid "IDS_PRUS708_B8_SUO_STOCK"
-msgstr "СУО VIII мод. 1"
+msgstr "SUO VIII mod. 1"
 
 msgid "IDS_PRUS713_D8_SUO_TOP_2"
-msgstr "СУО VIII мод. 2"
+msgstr "SUO VIII mod. 2"
 
 msgid "IDS_PRUS715_D8_SUO_TOP_3"
-msgstr "СУО VIII мод. 2"
+msgstr "SUO VIII mod. 2"
 
 msgid "IDS_PRUS717_CA8_SUO_TOP"
-msgstr "СУО VIII мод. 2"
+msgstr "SUO VIII mod. 2"
 
 msgid "IDS_PRUS722_SUO"
-msgstr "СУО VIII мод. 2"
+msgstr "SUO VIII mod. 2"
 
 msgid "IDS_PRUS801_SUO"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS802_SUO"
-msgstr "СУО IX мод. 2"
+msgstr "SUO IX mod. 2"
 
 msgid "IDS_PRUS803_B9_SUO_STOCK"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS804_B9_SUO_TOP"
-msgstr "СУО IX мод. 2"
+msgstr "SUO IX mod. 2"
 
 msgid "IDS_PRUS805_SUO_AZUR_SOV_RUSSIA"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS807_SUO_RTC_SOV_RUSSIA"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS808_B9_SUO_STOCK"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS810_SUO_TOGLIATTI"
-msgstr "СУО IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS811_SUO"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS812_SUO"
-msgstr "СУО IX мод. 2"
+msgstr "SUO IX mod. 2"
 
 msgid "IDS_PRUS813_D9_SUO_STOCK_2"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS814_D9_SUO_TOP_2"
-msgstr "СУО IX мод. 2"
+msgstr "SUO IX mod. 2"
 
 msgid "IDS_PRUS815_D9_SUO_STOCK_3"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS816_D9_SUO_TOP_3"
-msgstr "СУО IX мод. 2"
+msgstr "SUO IX mod. 2"
 
 msgid "IDS_PRUS817_D9_SUO_STOCK_4"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS818_D9_SUO_TOP_4"
-msgstr "СУО IX мод. 2"
+msgstr "SUO IX mod. 2"
 
 msgid "IDS_PRUS819_SUO_KRON"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS820_SUO_NEUSTR"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS821_CA9_SUO_STOCK"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS822_CA9_SUO_TOP"
-msgstr "СУО IX мод. 2"
+msgstr "SUO IX mod. 2"
 
 msgid "IDS_PRUS823_SUO_SCHERBAKOV"
-msgstr "СУО IX мод. 1"
+msgstr "SUO IX mod. 1"
 
 msgid "IDS_PRUS824_SUO_R_ALASKA"
-msgstr "СУО IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS901_SUO"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS903_B10_SUO_TOP"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS906_SUO_SMOLENSK"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS907_SUO_R10"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS908_D10_SUO_STOCK"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS910_SUO_BLACK_SMOLENSK"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS911_SUO"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS912_D10_SUO_STOCK_2"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS913_D10_SUO_STOCK_3"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS914_CA10_SUO_STOCK"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS915_CA10_SUO_STOCK"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS916_SEVASTOPOL"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS917_SUO_SEVEROMORSK"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS918_B10_SUO_STOCK"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS919_SUO_CRUISER_TEST"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS974_SUO_MOSK"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS975_SUO_GROZ"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS976_STALINGRAD"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS977_STALINGRAD"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUT101_D2_TORP_STOCK"
-msgstr "Торпеда обр. 1908 г."
+msgstr "Torpedo Model 1908"
 
 msgid "IDS_PRUT102_D2_TORP_TOP"
-msgstr "Торпеда обр. 1910 г."
+msgstr "Torpedo Model 1910"
 
 msgid "IDS_PRUT201_D3_TORP_STOCK"
-msgstr "Торпеда обр. 1910 г."
+msgstr "Torpedo Model 1910"
 
 msgid "IDS_PRUT211_456_2_PAT_10"
-msgstr "Торпеда обр. 1910 г."
+msgstr "Torpedo Model 1910"
 
 msgid "IDS_PRUT301_D4_TORP_STOCK"
-msgstr "Торпеда обр. 1910 г."
+msgstr "Torpedo Model 1910"
 
 msgid "IDS_PRUT321_D4_TORP_TOP"
-msgstr "Торпеда обр. 1912 г."
+msgstr "Torpedo Model 1912"
 
 msgid "IDS_PRUT341_C4_TORP_STOCK"
-msgstr "Торпеда обр. 1912 г."
+msgstr "Torpedo Model 1912"
 
 msgid "IDS_PRUT502_TORP_KERCH"
-msgstr "533-мм Si 270"
+msgstr "533 mm Si 270"
 
 msgid "IDS_PRUT512_D6_TORP_TOP"
-msgstr "53-39 мод. 1"
+msgstr "53-39 mod. 1"
 
 msgid "IDS_PRUT514_D6_TORP_TOP_2"
-msgstr "53-39 мод. 1"
+msgstr "53-39 mod. 1"
 
 msgid "IDS_PRUT531_TORP_LGD_V1"
-msgstr "53-39 мод. 1"
+msgstr "53-39 mod. 1"
 
 msgid "IDS_PRUT601_D7_TORP_STOCK"
-msgstr "53-39 мод. 1"
+msgstr "53-39 mod. 1"
 
 msgid "IDS_PRUT603_D7_TORP_STOCK_2"
-msgstr "53-39 мод. 1"
+msgstr "53-39 mod. 1"
 
 msgid "IDS_PRUT611_C7_TORP_STOCK"
-msgstr "53-39 мод. 1"
+msgstr "53-39 mod. 1"
 
 msgid "IDS_PRUT703_TORP_S189"
-msgstr "533-мм"
+msgstr "533 mm"
 
 msgid "IDS_PRUT712_TORP_OCHAKOV"
-msgstr "53-39 мод. 3"
+msgstr "53-39 mod. 3"
 
 msgid "IDS_PRUT723_D8_TORP_STOCK_2"
-msgstr "53-39 мод. 3"
+msgstr "53-39 mod. 3"
 
 msgid "IDS_PRUT802_D9_TORP_TOP"
-msgstr "53-39 мод. 4"
+msgstr "53-39 mod. 4"
 
 msgid "IDS_PRUT812_TORP_TOGLIATTI"
 msgstr "53-38"
@@ -13828,43 +13828,43 @@ msgid "IDS_PRUT813_TORP_SCHERBAKOV"
 msgstr "53-38"
 
 msgid "IDS_PRUT901_D10_TORP_STOCK"
-msgstr "53-39 мод. 3"
+msgstr "53-39 mod. 3"
 
 msgid "IDS_PRUT905_D10_TORP_STOCK_3"
-msgstr "53-39 мод. 3"
+msgstr "53-39 mod. 3"
 
 msgid "IDS_PRUT916_S11_TORP_STOCK"
-msgstr "533-мм"
+msgstr "533 mm"
 
 msgid "IDS_PRUT917_TORP_CRUISER_TEST"
 msgstr "53-51"
 
 msgid "IDS_PSES419_ANDALUCIA_COLORFUL"
-msgstr "Янтарная волна"
+msgstr "Amber wave"
 
 msgid "IDS_PSGM059_381MM_50_QUAD_OTTO"
-msgstr "381-мм/50 Model 1934 в башенной установке"
+msgstr "381 mm/50 in Model 1934 turret"
 
 msgid "IDS_PSGS060_105_MM_SKC_37"
-msgstr "105-мм/65 SK C/33 в установке Dop. L. C/37"
+msgstr "105 mm/65 SK C/33 in L. C/37 mount"
 
 msgid "IDS_PSPA027_152MM_55_1936_HE"
-msgstr "152-мм proiettili HE"
+msgstr "152 mm proiettili HE"
 
 msgid "IDS_PSPA028_105MM_HE_HE_33LBS"
-msgstr "105-мм Spr.Gr. Kz."
+msgstr "105 mm Spr.Gr. Kz."
 
 msgid "IDS_PSPA029_381MM_HE_CONQUISTADOR"
-msgstr "381-мм proiettili HE"
+msgstr "381 mm proiettili HE"
 
 msgid "IDS_PSPA030_381MM_AP_CONQUISTADOR"
-msgstr "381-мм proiettili AP"
+msgstr "381 mm proiettili AP"
 
 msgid "IDS_PSSB510"
 msgstr "Conquistador"
 
 msgid "IDS_PSSB510_DESCR"
-msgstr "После победы в гражданской войне франкистское правительство укрепило связи с Италией. В конце 1930-х — начале 1940-х гг. Испания рассматривала вариант постройки линейного корабля по итальянскому проекту. Наиболее современным проектом итальянского линкора на тот момент являлся проект корабля со стандартным водоизмещением 42 000 т, который фирма Ansaldo разрабатывала в середине 1930-х гг."
+msgstr "After the victory in the civil war, the Francoist government strengthened ties with Italy. In the late 1930s and early 1940s, Spain considered building a battleship based on an Italian design. The most modern Italian battleship design at that time was a project for a ship with a standard displacement of 42,000 tons, developed by Ansaldo in the mid-1930s."
 
 msgid "IDS_PSSB510_FULL"
 msgstr "Conquistador"
@@ -13873,28 +13873,28 @@ msgid "IDS_PSSB510_NUMBER"
 msgstr "1"
 
 msgid "IDS_PSSB510_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PSSC102_DESCR"
-msgstr "Корабли Blas de Lezo и Méndez Núñez, основанные на британских крейсерах типа C, были заложены в 1917 г. Но к столетнему юбилею адмирала М. Нуньеса в 1924 г. не удавалось достроить одноимённый крейсер, поэтому было решено поменять имена кораблей местами. С началом гражданской войны команда крейсера Méndez Núñez осталась на стороне республиканцев. В ходе войны крейсер конвоировал торговые корабли, принимал участие в бою у мыса Палос. В 1938 г. Méndez Núñez получил повреждение в результате налёта франкистских бомбардировщиков."
+msgstr "Ships Blas de Lezo and Méndez Núñez were laid down in 1917, showing considerable British design influence and resembling contemporary British C-class cruisers. But as Admiral Méndez Núñez's namesake ship couldn't be completed in time for the Admiral's 100th anniversary in 1924, the names of the two ships were switched. With the outbreak of the Civil War, the crew of cruiser Méndez Núñez chose to stay loyal to the Republicans. During the war, the cruiser escorted merchant ships and took part in the Battle at Cape Palos. In 1938, Méndez Núñez was damaged during an air raid by rebel bombers."
 
 msgid "IDS_PSSC105_DESCR"
-msgstr "Крейсер Príncipe Alfonso с образованием республики был переименован в Libertad. С началом гражданской войны корабль остался на стороне Республики, хотя им командовал двоюродный брат Ф. Франко. У мыса Тенес Libertad добился нескольких попаданий по франкистскому тяжёлому крейсеру Baleares, а у мыса Палос вступил в бой с обоими тяжёлыми крейсерами противника. Позднее корабль получил повреждения от нескольких авианалётов итальянской авиации. Когда Libertad был передан франкистскому правительству, он получил имя Galicia."
+msgstr "With the establishment of the Republic, cruiser Príncipe Alfonso was renamed Libertad. When the Civil War broke out, the ship remained on the Republican side even though she was, at that time, under the command of Francisco Franco's cousin. At Cape Tenes, Libertad scored several hits on Nationalist heavy cruiser Baleares, and at Cape Palos, she engaged in battle against the enemy's heavy cruisers. The ship was later damaged during several Italian air raids. When Libertad fell into the hands of the Francoist government, she received the name Galicia."
 
 msgid "IDS_PSSC106_DESCR"
-msgstr "В 1926 г. Испания заказала два современных крейсера «вашингтонского типа». Фирма Armstrong-Vickers создала проект на основе крейсеров типа County с усилением ПВО и бронирования. Крейсеры были названы Canarias и Baleares в честь крупных испанских архипелагов. Строительство затянулось, но захватившие верфи националисты форсировали достройку крейсеров. Baleares участвовал в наступлении на Малагу, в охоте на транспорты, набегах на береговые укрепления, бомбардировке городов. Крейсер был потоплен республиканскими эсминцами в бою у мыса Палос."
+msgstr "In 1926, Spain ordered two modern \"Washington Treaty\" cruisers. Vickers-Armstrong created a project based on County-class cruisers with reinforced AA defenses and armor protection. The cruisers were named Canarias and Baleares after the major Spanish archipelagos of the same name. The construction was delayed, but the Nationalists who seized the shipyards forced the ships' construction to speed up until completion. Baleares participated in the offensive against Málaga and in the hunt for transport ships; she carried out raids on coastal fortifications and bombarded cities. The cruiser was sunk by Republican destroyers in the Battle of Cape Palos."
 
 msgid "IDS_PSSC109_DESCR"
-msgstr "Параллельно с работой по строительству и ремонту кораблей для флота франкистская Испания занималась разработкой новых кораблей. В 1938 г. было проработано пять проектов эсминцев и несколько проектов крейсеров водоизмещением от 7920 до 19 000 т. Крупнейшим стал проект 138 — «крейсер со скоростью 36 узлов» с разными вариантами главного калибра. Рассматривался вариант постройки крейсера с башнями от линкора España. Наиболее распространённый вариант — три трёхорудийные башни с орудиями калибром от 203 до 254 мм."
+msgstr "In parallel with the work on the construction and repair of ships for its navy, Francoist Spain was busy designing new ones. In 1938, five destroyer projects and several cruiser projects with displacements ranging from 7,920 to 19,000 tons were worked through. The largest was Project 138 for \"a cruiser with a speed of 36 knots, \" providing several main battery options. One of the options involved the construction of a cruiser equipped with turrets from battleship España. But the most common option envisaged three triple-gun turrets with gun calibers ranging from 203 to 254 mm."
 
 msgid "IDS_PSSC508_DESCR"
-msgstr "Один из вариантов проекта «вашингтонского крейсера», предложенных испанскому флоту фирмой Vickers-Armstrongs, был основан на корпусе кораблей типа Emerald, но с вооружением из семи 203-мм орудий в одной трёхорудийной и двух двухорудийных башнях. В целях компактности энергетической установки было принято линейное расположение котельных и машинных отделений. Корабль должен был стать быстроходнее оригинала, предусматривалась также установка катапульты."
+msgstr "One of the variants of the \"Washington\" cruiser project, proposed to the Spanish Navy by the Vickers-Armstrongs company, was based on the Emerald-class hull but equipped with seven 203 mm guns in one (bow) three-gun and two twin-gun turrets. To ensure space saving for the propulsion unit, a linear arrangement of the boiler and engine rooms was adopted. The ship was supposed to be faster than her original and have a catapult; however, preference was given to the project variant that became the basis for the Baleares class of ships."
 
 msgid "IDS_PSSC809"
 msgstr "Andalucía CLR"
 
 msgid "IDS_PSSC809_DESCR"
-msgstr "Параллельно с работой по строительству и ремонту кораблей для флота франкистская Испания занималась разработкой новых кораблей. В 1938 г. было проработано пять проектов эсминцев и несколько проектов крейсеров водоизмещением от 7920 до 19 000 т. Крупнейшим стал проект 138 — «крейсер со скоростью 36 узлов» с разными вариантами главного калибра. Рассматривался вариант постройки крейсера с башнями от линкора España. Наиболее распространённый вариант — три трёхорудийные башни с орудиями калибром от 203 до 254 мм."
+msgstr "In parallel with the work on the construction and repair of ships for its navy, Francoist Spain was busy designing new ones. In 1938, five destroyer projects and several cruiser projects with displacements ranging from 7,920 to 19,000 tons were worked through. The largest was Project 138 for \"a cruiser with a speed of 36 knots, \" providing several main battery options. One of the options involved the construction of a cruiser equipped with turrets from battleship España. But the most common option envisaged three triple-gun turrets with gun calibers ranging from 203 to 254 mm."
 
 msgid "IDS_PSSC809_FULL"
 msgstr "Andalucía CLR"
@@ -13903,7 +13903,7 @@ msgid "IDS_PSSC809_NUMBER"
 msgstr "1"
 
 msgid "IDS_PSSC809_YEAR"
-msgstr "1938 г."
+msgstr "1938"
 
 msgid "IDS_PSSD510"
 msgstr "Álvaro de Bazán"
@@ -13912,16 +13912,16 @@ msgid "IDS_PSSD510_FULL"
 msgstr "Álvaro de Bazán"
 
 msgid "IDS_PSUA802_ART_COLORFUL_ANDALUCIA"
-msgstr "234-мм/50 Mk.XII в башенной установке"
+msgstr "234 mm/50 Mk.XII in turret mount"
 
 msgid "IDS_PSUA903_ART_CONQUISTADOR"
-msgstr "381-мм/50 Model 1934 в башенной установке"
+msgstr "381 mm/50 Model 1934 in turret mount"
 
 msgid "IDS_PSUE802_ENG_COLORFUL_ANDALUCIA"
-msgstr "ЭУ 170 000 л.с."
+msgstr "Propulsion: 170,000 hp"
 
 msgid "IDS_PSUE903_ENG_CONQUISTADOR"
-msgstr "ЭУ 160 000 л.с."
+msgstr "Propulsion: 160,000 hp"
 
 msgid "IDS_PSUH803_HULL_COLORFUL_ANDALUCIA"
 msgstr "Andalucía CLR"
@@ -13936,28 +13936,28 @@ msgid "IDS_PSUS903_SUO_CONQUISTADOR"
 msgstr "SCI Mk X"
 
 msgid "IDS_PSUT802_TORP_COLORFUL_ANDALUCIA"
-msgstr "533-мм Mk VIII ES"
+msgstr "533 mm Mk VIII ES"
 
 msgid "IDS_PURCHASE_PREMIUM_WARNING_NEXT_BATTLE"
-msgstr "Премиум аккаунт начнёт действовать со следующего боя."
+msgstr "Your Premium Account will be effective from the next battle."
 
 msgid "IDS_PUSB507_DESCR"
-msgstr "Во время Первой мировой войны в составе канадского флота был всего один линейный корабль — бывший чилийский Latorre. Также планировалось строительство ещё 1–2 линкоров, основанных на типах Queen Elizabeth или Revenge. Перед началом Второй мировой войны был разработан проект линейного корабля типа King George V с 381-мм орудиями главного калибра, но Канада так и не решилась реализовать этот план и во время войны сконцентрировалась на эсминцах."
+msgstr "A variant of a project for a 35,000-ton battleship developed in 1935 in Great Britain, armed with nine 381 mm main battery guns. World War II instigated a period of rapid growth for the Canadian Royal Navy, and had the course of history taken a different turn, this battleship design would have been a prime candidate to grow their fleet after two cruisers joined it in 1944."
 
 msgid "IDS_PUSC506_DESCR"
-msgstr "Один из трёх кораблей, построенных по улучшенному проекту на основе типа Leander для Королевского ВМФ Великобритании. В 1939 г. был передан Австралии. В августе того же года корабль представлял страну на Всемирной выставке в Нью-Йорке. В начале Второй мировой войны Perth вернулся в Австралию, откуда его перевели на Средиземное море. Здесь он участвовал в сопровождении мальтийских конвоев и в обороне греческих вод. Позже Perth вошёл в состав эскадры ABDA и участвовал в битве на Яванском море."
+msgstr "One of three ships built for the Royal Navy under the program of enhanced versions of Leander-class cruisers. Perth was handed over to the Australian Navy in 1939. In August of the same year, the ship represented Australia at the New York World's Fair. Perth returned to Australia at the beginning of World War II and was transferred to the Mediterranean from there. Once there, she was engaged in escorting Maltese convoys and protecting Greek waters. Later, Perth returned to Australia again, joined the ABDA squadron, and took part in the Battle of the Java Sea."
 
 msgid "IDS_PUSC509_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PUSC516_DESCR"
-msgstr "HMS Nigeria, крейсер типа Fiji, вступил в строй в 1940 г. и через год стал флагманом Соединения K, действующего в полярных водах. В 1942 г. корабль перешёл в Средиземное море, где участвовал в мальтийских конвоях. Со следующего года Nigeria служил на Дальнем Востоке и у побережья Южной Африки. В 1954 г. крейсер был продан Индии и переименован в Mysore. Корабль сразу стал флагманом индийского флота: в 1971 г. он участвовал в Третьей индо-пакистанской войне."
+msgstr "HMS Nigeria, a Fiji-class cruiser, was commissioned in 1940. A year later, she was made flagship of Task Force K, which operated in polar waters. In 1942, the cruiser moved to the Mediterranean, where she was engaged in escorting Maltese convoys. Starting the following year, Nigeria served in the Far East and off the coast of South Africa. In 1954, the ship was sold to India and renamed Mysore. She was immediately made flagship of the Indian fleet. In 1971, she was engaged in the Indo-Pakistani War and led the attack at the port of Karachi."
 
 msgid "IDS_PUSD503_DESCR"
-msgstr "HMS Vampire был построен в 1916–17 гг. и вошёл в строй как HMS Wallace, однако вскоре был переименован. После окончания Первой мировой войны он служил в британских водах и в Средиземноморье. В 1933 г. эсминец был передан австралийскому флоту в аренду, где находился в резерве с 1934 по 1938 г. Во время Второй мировой войны HMAS Vampire участвовал в бою у Пунто-Стило в 1940 г., а также в битве у Эндау уже в составе британского Восточного флота в 1941 г."
+msgstr "V-class destroyer flotilla leaders were initially supposed to carry armaments that differed from other ships in the series, but this idea was subsequently abandoned. Built between 1916 and 1917, HMS Wallace—one of five flotilla leaders—was renamed HMS Vampire. After the end of World War I, she served in British waters and the Mediterranean. In 1933, the destroyer was leased to the Australian Navy, where she was placed in reserve from 1934 to 1938. During World War II, HMAS Vampire took part in the Battle of Punta Stilo in 1940 and the Battle of Endau in 1941, already as part of the British Eastern Fleet."
 
 msgid "IDS_PUSD507_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PUSD510"
 msgstr "Vampire II"
@@ -13966,13 +13966,13 @@ msgid "IDS_PUSD510_FULL"
 msgstr "Vampire II"
 
 msgid "IDS_PUSD517_DESCR"
-msgstr "Третий из восьми канадских эсминцев типа Tribal, HMSC Huron, названный в честь индейского племени Северной Америки, был заложен в 1941 г. на верфи в Ньюкасле. Корабль входил в 3-ю флотилию эсминцев, в составе которой участвовал в сопровождении 6 северных конвоев в 1943–44 гг. Весной 1944 г. он принял участие в операциях против французского побережья, а в 1945 г. снова сопровождал конвои в Мурманск."
+msgstr "Named after an Indian tribe in North America, HMCS Huron was the third out of eight Canadian Tribal-class destroyers. She was laid down at a shipyard in Newcastle in 1941. The ship served within the 3rd destroyer flotilla and, as part of it, participated in escorting six northern convoys in 1943 and 1944. In the spring of 1944, she was engaged in operations against French coastal positions, and in 1945, she escorted convoys to Murmansk again."
 
 msgid "IDS_PUSD517_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PUSHKIN"
-msgstr "Александр Пушкин"
+msgstr "Alexander Pushkin"
 
 msgid "IDS_PUUH901_VAMPIRE_2"
 msgstr "Vampire II"
@@ -13984,28 +13984,28 @@ msgid "IDS_PUUS502_SUO_MYSORE"
 msgstr "Mk VI mod. 1"
 
 msgid "IDS_PVEBATTLE_DESCRIPTION"
-msgstr "Сюжетные сражения против ботов."
+msgstr "Story-based battles against bots."
 
 msgid "IDS_PVE_MODIFIER_TOOLTIP_DESC_TASK"
-msgstr "Задача учитывает только половину результата, полученного в этом типе боя."
+msgstr "To gauge mission progress, half of your performance achieved in this mode is taken into account."
 
 msgid "IDS_PVGA062_40MM_BOFORS_MK2"
-msgstr "40-мм/56 OQF Mk.1/2 в установке RP Mk.II"
+msgstr "40 mm/56 OQF Mk.1/2 in RP Mk.II turret mount"
 
 msgid "IDS_PVGM060_16IN50_MK7"
-msgstr "406-мм/50 Mk.7 в башенной установке"
+msgstr "406 mm/50 Mk.7 in turret mount"
 
 msgid "IDS_PVGS061_5_25IN_50_QF_MKI_MKII"
-msgstr "133-мм/50 QF Mk.I в установке Mk.II"
+msgstr "133 mm/50 QF Mk.I in Mk.II turret mount"
 
 msgid "IDS_PVPA037_406MM_HE_PATAGONIA"
-msgstr "406-мм HE/HC Mk13"
+msgstr "406 mm HE/HC Mk13"
 
 msgid "IDS_PVPA038_406MM_AP_PATAGONIA"
-msgstr "406-мм AP Mk8"
+msgstr "406 mm AP Mk8"
 
 msgid "IDS_PVPA039_134MM_MI_HE"
-msgstr "133-мм HE Mk IC"
+msgstr "133 mm HE Mk IC"
 
 msgid "IDS_PVSB505"
 msgstr "Rio de Janeiro"
@@ -14014,16 +14014,16 @@ msgid "IDS_PVSB505_FULL"
 msgstr "Rio de Janeiro"
 
 msgid "IDS_PVSB508_DESCR"
-msgstr "В ходе разработки будущего линкора Rio de Janeiro Бразилии было предложено несколько десятков проектов. Одним из них было предложение адмирала де Баселлара установить на линкор вспомогательные орудия крупного калибра. Если бы этот проект был реализован, он мог бы получить дальнейшее развитие в сторону увеличения огневой мощи корабля."
+msgstr "During the development of the future Rio de Janeiro, Brazil was offered several dozen projects. One proposal came from Admiral de Basellar to install 240 mm secondary battery guns on the battleship, which was a bold step in terms of shipbuilding at that time. In response to this idea, Tennyson-d'Eincourt developed Project 686—a battleship with eight 405 mm guns placed in four turrets and a battleship with six 240 mm guns in three turrets. Despite support from de Basellar, the project was never implemented. Atlântico is a variant of the further development of the Brazilian battleship with more focus placed on increasing her firepower."
 
 msgid "IDS_PVSB508_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PVSB509"
 msgstr "Patagonia"
 
 msgid "IDS_PVSB509_DESCR"
-msgstr "После Первой мировой войны южноамериканская дредноутная гонка утихла. Но в первые послевоенные годы латиноамериканские страны рассматривали возможность усиления флота: Бразилия почти приняла план строительства флота общим водоизмещением 151 000 т, Чили собиралось приобрести у Англии несколько линкоров и крейсеров, а Аргентина выделила 75 миллионов золотых песо на программу строительства военно-морского флота. В случае принятия решения о строительстве линкоров за рубежом, их заказали бы в США, как это сделали с реальными кораблями типа Rivadavia."
+msgstr "After World War I, the South American dreadnought race subsided. However, in the early post-war years, Latin American countries considered strengthening their fleets: Brazil nearly approved a fleet construction plan with a total displacement of 151,000 tons, Chile planned to acquire several battleships and cruisers from England, and Argentina allocated 75 million gold pesos for a naval construction program. If the decision had been made to build battleships abroad, they would have been ordered from the United States, as was done with the real Rivadavia-class ships."
 
 msgid "IDS_PVSB509_FULL"
 msgstr "Patagonia"
@@ -14032,34 +14032,34 @@ msgid "IDS_PVSB509_NUMBER"
 msgstr "0"
 
 msgid "IDS_PVSB509_YEAR"
-msgstr "1918 г."
+msgstr "1918"
 
 msgid "IDS_PVSC103_DESCR"
-msgstr "В 1938 г., после вывода из строя броненосца Anáhuac, бывшего бразильского Deodoro, Мексика планировала усилить флот крупным кораблём и выкупить у Испании крейсер Navarra, который в мексиканском флоте мог получить имя Vicente Guerrero. Однако, когда в 1936–39 гг. Мексика выразила поддержку республиканцам в Испании, сторонам так и не удалось договориться."
+msgstr "In 1938, after the decommissioning of battleship Anáhuac—the former Brazilian Deodoro—Mexico planned to strengthen the fleet with a large ship and buy out cruiser Navarra from Spain, which in the Mexican Navy could have received the name \"Vicente Guerrero.\" However, after Mexico expressed support for the Republicans in Spain between 1936 and 1939, the parties failed to reach an agreement."
 
 msgid "IDS_PVSC107_DESCR"
-msgstr "HMS Ceylon, крейсер типа Crown Colony, служил в Тихом и Индийском океанах в конце Второй мировой войны, а в 1950-х гг. участвовал в Корейской войне и Суэцком кризисе. В 1959 г. HMS Ceylon был продан Перу, во флоте которого служил под названием Coronel Bolognesi до начала 1980-х гг."
+msgstr "HMS Ceylon, a Crown Colony-class cruiser, served in the Pacific and Indian Oceans at the end of World War II, and in the 1950s, she participated in the Korean War and the Suez Crisis. In 1959, HMS Ceylon was sold to Peru, where she served under the name \"Coronel Bolognesi\" until the early 1980s."
 
 msgid "IDS_PVSC108"
 msgstr "I. Allende"
 
 msgid "IDS_PVSC109_YEAR"
-msgstr "1948 г."
+msgstr "1948"
 
 msgid "IDS_PVSC502_DESCR"
-msgstr "В конце XIX в. Бразилия заказала у фирмы Armstrong серию бронепалубных крейсеров для усиления своего флота. Один из них был продан Чили, остальные два хотела приобрести Испания, чтобы пополнить флот после потерь Испано-американской войны, но её опередили США. Almirante Abreu был заложен в 1897 г. и стал частью ВМС США уже под названием Albany в 1900 г. Крейсер участвовал в Первой мировой и Филиппино-американской войнах. В 1920 г. он был реклассифицирован в канонерскую лодку, а двумя годами позже выведен из строя."
+msgstr "At the end of the 19th century, Brazil ordered a series of armored cruisers from Armstrong to strengthen its fleet. One was sold to Chile, and Spain sought to buy the other two to replenish its fleet after the losses incurred during the Spanish-American War, but the United States leapfrogged Spain. Almirante Abreu was laid down in 1897 and became part of the U.S. Navy under the name \"Albany\" in 1900. The cruiser participated in both World War I and the Philippine-American War. In 1920, she was reclassified as a gunboat and decommissioned two years later."
 
 msgid "IDS_PVSC508_DESCR"
-msgstr "Флагманы ВМС Перу традиционно носят имя адмирала М. Грау, всего в истории было пять таких кораблей. Третий корабль, носивший это имя, был приобретён у Нидерландов в 1973 г. Крейсер De Ruyter был заложен в 1939 г. в Схидаме и достроен после войны по изменённому проекту, включавшему универсальную артиллерию главного калибра и современное радиолокационное оборудование. На протяжении 45 лет Almirante Grau являлся флагманом флота Перу. На момент списания корабль был последним артиллерийским крейсером в составе какого-либо флота."
+msgstr "The flagships of the Peruvian Navy traditionally bear the name of Admiral Miguel Grau Seminario, with a total of five such ships in history. The third ship bearing this name was purchased from the Netherlands in 1973. Cruiser De Ruyter was laid down in 1939 in Schiedam and completed after the war according to a modified project, which included dual-purpose main battery guns and modern radar equipment. Almirante Grau had been the flagship of the Peruvian Navy for 45 years. At the time of her decommissioning, the ship was the last artillery cruiser belonging to any navy."
 
 msgid "IDS_PVSD506_DESCR"
-msgstr "В 1939 г. Бразилия заказала у Великобритании постройку серии из шести современных эсминцев типа H с усиленным противолодочным оружием. Однако из-за начавшейся Второй мировой войны Великобритания выкупила эти эсминцы. Головной корабль Juruá получил в британском флоте сначала название HMS Handy, а затем HMS Harvester. Он участвовал в эвакуации войск из Дюнкерка, сопровождал конвои в Северной Атлантике, а позже эскортировал конвои на Мальту."
+msgstr "In 1939, Brazil ordered from Great Britain a series of six modern H-class destroyers with enhanced anti-submarine weapons; however, due to the outbreak of World War II, the British bought these destroyers out. The lead ship, Juruá, was initially named HMS Handy in the British Navy but was then renamed HMS Harvester. She participated in the evacuation of troops from Dunkirk, escorted convoys in the North Atlantic, and was later transferred to Force H and escorted convoys to Malta. On March 3, 1943, the former Juruá rammed German submarine U-444, sustained hull damage, and sank the next day after being hit by submarine U-432."
 
 msgid "IDS_PVUA802_ART_PATAGONIA"
-msgstr "406-мм/50 Mk.7 в башенной установке"
+msgstr "406 mm/50 Mk.7 in turrеt mount"
 
 msgid "IDS_PVUE802_ENG_PATAGONIA"
-msgstr "ЭУ 68 000 л.с."
+msgstr "Propulsion: 68,000 hp"
 
 msgid "IDS_PVUH803_HULL_PATAGONIA"
 msgstr "Patagonia"
@@ -14071,31 +14071,31 @@ msgid "IDS_PWEP502_BLYSKAWICA_SZARZA"
 msgstr "Szarza"
 
 msgid "IDS_PWES510_HALLAND_KOTS"
-msgstr "Царь морей — Викинг"
+msgstr "Tsar of the Seas — Viking"
 
 msgid "IDS_PWGA105_2_PDR_MKVII_QUAD"
-msgstr "40-мм/39 Vickers QF Mk.VIII в установке Mk.VII"
+msgstr "40 mm/39 Vickers QF Mk.VIII in Mk.VII turret mount"
 
 msgid "IDS_PWGA107_12MM62_HI"
-msgstr "12,7-мм Mk.III"
+msgstr "12.7 mm Mk.III"
 
 msgid "IDS_PWGA109_4IN_45_MK_V"
-msgstr "102-мм/45 QF Mk.V в установке HA Mk.III"
+msgstr "102 mm/45 QF Mk.V in HA Mk.III turret mount"
 
 msgid "IDS_PWGM104_120MM_45_QF_CP_MKXIX_TWIN"
-msgstr "120-мм/45 Mk.IX в установке CPXIX"
+msgstr "120 mm/45 Mk.IX in CPXIX turret mount"
 
 msgid "IDS_PWGT106_21IN_5TUBE_TORPEDO_TUBE"
-msgstr "533-мм 5-трубный"
+msgstr "533 mm 5 tubes"
 
 msgid "IDS_PWPA051_120_HE_PIORUN"
-msgstr "120-мм HE"
+msgstr "120 mm HE"
 
 msgid "IDS_PWPA052_120_AP_PIORUN"
-msgstr "120-мм AP"
+msgstr "120 mm AP"
 
 msgid "IDS_PWPT022_533_PIORUN"
-msgstr "533-мм Mk VII"
+msgstr "533 mm Mk VII"
 
 msgid "IDS_PWSB509"
 msgstr "Karl XIV Johan"
@@ -14104,46 +14104,46 @@ msgid "IDS_PWSB509_FULL"
 msgstr "Karl XIV Johan"
 
 msgid "IDS_PWSB509_YEAR"
-msgstr "1952 г."
+msgstr "1952"
 
 msgid "IDS_PWSD103_DESCR"
-msgstr "Многие участники Вашингтонского и Лондонского морских соглашений пытались найти лазейки в тексте договоров. Определяя размеры и вооружения классов кораблей, договоры гласили, что корабли водоизмещением менее 600 тонн могут строиться в неограниченном количестве. Италия в 1930-х гг. построила 32 миноносца типа Spica, которые по вооружению и скорости приближались к полноценным эсминцам. В 1939 г. Швеция приобрела у Италии два самых ранних корабля этого типа, Spica и Astore, которые были переименованы в Romulus и Remus."
+msgstr "Many participants of the Washington and London Naval Treaties tried to find loopholes in the texts of the treaties. Determining the size and armament of ship types, the treaties stated that ships with a displacement of less than 600 tons could be built in unlimited numbers. In the 1930s, Italy built 32 Spica-class destroyers, which approached full-fledged destroyers in terms of their armament and speed. In 1939, Sweden purchased from Italy the two earliest ships of this class, Spica and Astore, which were renamed Romulus and Remus."
 
 msgid "IDS_PWSD105_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PWSD109_DESCR"
-msgstr "Построенные в 1951–56 гг. эсминцы типа Halland оказались слишком большими и дорогими. Поэтому для доукомплектования запланированных двух флотилий эсминцев был выбран более дешёвый проект, основанный на предыдущем типе Öland. Головной корабль, Östergötland, строился в Гётеборге. В 1961 г. вместе с эсминцем Öland провёл длительный поход по европейским водам с заходом в девять портов."
+msgstr "Built between 1951 and 1956, the Halland-class destroyers proved to be too large and expensive. Therefore, to complete the two planned destroyer flotillas, a cheaper project based on the previous Öland class was chosen. The lead ship, Östergötland, was built in Gothenburg. In 1961, together with destroyer Öland, she made a long trip through European waters, stopping at nine ports. In 1965, the destroyer was equipped with Robot-07 anti-aircraft missiles (the Swedish version of the British-made \"Sea Cats\")."
 
 msgid "IDS_PWSD110_DESCR"
-msgstr "Постройка второй пары кораблей типа Öland была отменена, и в 1951 г. были заложены эсминцы Halland и Småland по улучшенному проекту — корабли увеличились в полтора раза по водоизмещению, получили более развитое зенитное и радиотехническое вооружение, а также новые орудия главного калибра. Головной корабль, Halland, был спущен на воду в 1952 г. и вступил в строй в 1955 г. Когда крейсеры типа Tre Kronor были списаны, эсминцы типа Halland стали крупнейшими кораблями шведского флота."
+msgstr "The construction of the second pair of Öland-class ships was canceled, and in 1951, destroyers Halland and Småland were laid down according to an improved project. The ships' displacement grew by 50%, and they received more advanced anti-aircraft and radio-technical weapons, as well as new main battery guns. The lead ship, Halland, was launched in 1952 and entered service in 1955. In 1966, the destroyers were equipped with Robot-08 anti-ship missiles. With the decommissioning of the Tre Kronor-class cruisers, the Halland-class destroyers became the largest ships in the Swedish Navy."
 
 msgid "IDS_PWSD111_DESCR"
-msgstr "Согласно планам развития шведского флота, основной тактической единицей должна была стать эскадра из нескольких эсминцев, ведомая лидером. В качестве лидеров выступили крейсеры типа Tre Kronor, однако во второй половине 1940-х гг. рассматривалась альтернатива в виде постройки специального эскадренного лидера. В 1947 г. на рассмотрение было подано три эскизных проекта со стандартным водоизмещением 2400, 3000 и 4660 т. Проект 3000-тонного лидера предполагал вооружение из трёх спаренных установок 120-мм орудий и имел два торпедных аппарата."
+msgstr "According to the plans for the development of the Swedish Navy, the main tactical unit was to be a squadron of several destroyers with a leader. Cruisers of the Tre Kronor class acted as leaders, but in the mid to late 1940s, an alternative was considered to build a special squadron leader. In 1947, three draft designs were submitted for consideration, implying a standard displacement of 2,400, 3,000, and 4,660 tons. The 3,000-ton leader project provided for the installation of three 120 mm twin-gun mounts and two torpedo launchers."
 
 msgid "IDS_PWSD205_DESCR"
-msgstr "В 1938 г. Турция заказала в Великобритании четыре корабля новейшего типа I. Но два из них, включая Muavenet, были куплены Великобританией в связи с началом Второй мировой войны. Muavenet, ставший HMS Inconstant, начал службу во Флоте метрополии, затем был переведён в состав Восточного флота, где участвовал в десантных операциях на Мадагаскар. Летом 1942 г. корабль принимал участие в конвоях на Мальту, позже эсминец воевал в Атлантике, где сопровождал северные конвои и обеспечивал прикрытие высадки в Нормандии. В 1946 г. корабль был возвращён Турции, где вновь обрёл имя Muavenet — в честь эсминца Muâvenet-i Millîye, потопившего британский линкор Goliath в ходе битвы при Галлиполи."
+msgstr "In 1938, Turkey ordered four ships of the latest I-class from Great Britain. Two of them, however, including Muavenet, were purchased by Great Britain when World War II broke out. Muavenet, which became HMS Inconstant, began her service in the Home Fleet, then was transferred to the Eastern Fleet, where she participated in amphibious operations around Madagascar. In the summer of 1942, the ship was part of convoys to Malta. Later, she fought in the Atlantic, where she escorted northbound convoys and provided cover for the Normandy landings. Finally, in 1946, the ship was returned to Turkey, where she again acquired the name Muavenet in honor of destroyer Muâvenet-i Millîye, which had sunk British battleship Goliath during the Gallipoli campaign of World War I."
 
 msgid "IDS_PWSD206_DESCR"
-msgstr "С началом Второй мировой войны Великобритания запустила массовое строительство эсминцев сериями по восемь штук. Два из них были переданы норвежским ВМС и получили названия Stord и Svenner. В 1943–44 гг. Stord участвовал в операциях в Северной Атлантике, сопровождал полярные конвои. В бою у Нордкапа эсминец участвовал в потоплении немецкого линкора Scharnhorst. В 1944 г. корабль участвовал в прикрытии высадки в Нормандии, а затем вернулся к проводке конвоев в СССР. После войны Stord стал флагманом флота Норвегии."
+msgstr "With the outbreak of World War II, Great Britain started the mass construction of destroyers in batches of eight. As a rule, all of them had four single-gun mounts with 102–120 mm guns and one or two quadruple-tube torpedo launchers. Two of them were transferred to the Norwegian Navy and received the names \"Stord\" and \"Svenner.\" Stord entered service in September 1943. In 1943 and 1944, she participated in operations in the North Atlantic and escorted polar convoys. During the Battle of the North Cape, Stord was involved in sinking German battleship Scharnhorst. In 1944, the destroyer participated in covering the landings in Normandy, then returned to escorting convoys heading for the U.S.S.R. After the war, Stord became the flagship of the Norwegian Navy."
 
 msgid "IDS_PWSD206_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PWSD207_DESCR"
-msgstr "Grom и Błyskawica вступили в строй в 1937 г., став сильнейшими европейскими эсминцами своего времени после новейших французских. С началом Второй мировой войны эсминцы прорвались через Балтику в Великобританию, чтобы сопровождать конвои в Польшу. По причине падения Польши конвои так и не были организованы, и Grom поступил под командование британского флота, в составе которого принял участие в Норвежской кампании. В торпедный аппарат эсминца попала бомба 4 мая 1940 г., в результате чего торпеды сдетонировали и Grom затонул."
+msgstr "Grom and Błyskawica entered service in 1937, becoming the strongest European destroyers of their time after the latest French ones. With the outbreak of World War II, the destroyers broke through the Baltic to Britain to help escort wartime supply convoys to Poland. However, the convoys were never organized due to the rapid fall of Poland, and Grom came under the command of the British Navy. Being part of it, she took part in the Norwegian campaign. On May 4, 1940, one of Grom's torpedo tubes was hit by a bomb, which caused the torpedoes to detonate. It took less than three minutes for the ship to sink."
 
 msgid "IDS_PWSD208_DESCR"
-msgstr "В 1930-х гг. по заказу югославского ВМФ французские специалисты спроектировали большой эсминец на базе Le Fantasque. Котлотурбинная установка была закуплена в Великобритании, а СУО во Франции. Split, названный по городу, в котором строился, был заложен в 1939 г., и должен был быть вооружён пятью чехословацкими 140-мм орудиями. В 1941 г. город Сплит был захвачен итальянцами, которые решили достроить корабль. В 1943 г. эсминец был переименован в Spalato и спущен на воду. После капитуляции Италии корабль был посажен на мель прямо в порту. В 1948 г. Югославия вернулась к достройке корабля, но получить вооружение из Чехословакии не удалось, и Split достраивался с британо-американским вооружением. Корабль вступил в строй в 1959 г., сразу став флагманом флота."
+msgstr "In the 1930s, by order of the Yugoslav Navy, French specialists designed a large destroyer based on Le Fantasque. The boiler-and-turbine plant and gun fire-control system were purchased in the U.K. and France, respectively. Split, a ship named after the city where she was built, was laid down in 1939 and was to be armed with five Czechoslovak-produced 140 mm guns. In 1941, the city of Split was captured by the Italians, who decided to complete the construction of the ship. In 1943, the destroyer was renamed Spalato and launched. After the capitulation of Italy, the ship was grounded in the port. In 1948, Yugoslavia resumed work on the ship, but receiving weapons from Czechoslovakia was no longer possible, and Split was eventually completed with British-American weapons instead. The ship entered service in 1958, immediately becoming the navy's flagship."
 
 msgid "IDS_PWSD210_DESCR"
-msgstr "Следуя идее превосходства над противником за счёт качества, а не количества, руководство военно-морских сил Польши разработало тип «корабля-крестоносца» — большого эсминца, способного противостоять лёгким крейсерам. В конце 1930-х гг. рассматривалось несколько проектов таких кораблей. Под техзадание подходили эсминцы типа Mogador, которые по ряду параметров были сравнимы с лёгкими крейсерами, а по некоторым превосходили их. Если бы такие корабли были построены во Франции, то после войны они получили бы системы ПВО, РЛС и торпеды — все советского производства."
+msgstr "Poland aimed to achieve naval superiority through quality rather than quantity, and they designed large destroyers capable of countering light cruisers to this end. In the late 1930s, several projects for such ships were being considered in Gdynia. The Mogador-class destroyers were suitable for the purpose as they were comparable to light cruisers in certain parameters and outmatched them in others (for example, in speed). Had ships of this class been built in France, the destroyers that survived the war would have been reequipped in the 1950s and 1960s with Soviet air defense systems, radars, and torpedoes."
 
 msgid "IDS_PWSD507"
 msgstr "Piorun"
 
 msgid "IDS_PWSD507_DESCR"
-msgstr "HMS Nerissa, британский эсминец типа N, был построен на верфи в Клайдбэнке и передан в состав польского флота, где получил имя ORP Piorun. В составе 4-й флотилии эсминцев в мае 1941 г. корабль принял участие в охоте на Bismarck. Позже Piorun был переведён на Средиземное море, где принял участие в проводке мальтийских конвоев и в прикрытии десанта союзников на Сицилию. В 1944 г. корабль вернулся в Атлантику, где принял участие в бою с немецкими эсминцами при Уэссане."
+msgstr "HMS Nerissa, a British N-class destroyer, was built at the Clydebank shipyard and transferred to the Polish Navy, where it was renamed ORP Piorun. As part of the 4th Destroyer Flotilla in May 1941, the ship participated in the hunt for the Bismarck. Later, Piorun was deployed to the Mediterranean, where it took part in escorting Malta convoys and covering the Allied landings in Sicily. In 1944, the ship returned to the Atlantic and engaged in battle with German destroyers off Ushant."
 
 msgid "IDS_PWSD507_FULL"
 msgstr "Piorun"
@@ -14152,34 +14152,36 @@ msgid "IDS_PWSD507_NUMBER"
 msgstr "1"
 
 msgid "IDS_PWSD507_YEAR"
-msgstr "1941 г."
+msgstr "1941."
 
 msgid "IDS_PWSD508_DESCR"
-msgstr "Эсминец типа M, HMS Myrmidon, был заложен на верфи Fairfield в Шотландии в декабре 1939 г., спущен на воду в марте 1942 г. и вступил в строй 18 ноября 1942 г. В день вступления в строй корабль торжественно передали польскому экипажу, а эсминцу присвоили имя ORP Orkan. Эсминец служил в Арктике, участвовал в сопровождении северных конвоев. Во время сопровождения конвоя SC-143 корабль был поражён торпедой с немецкой подводной лодки U-378 и затонул."
+msgstr "M-class destroyer HMS Myrmidon was laid down at the Fairfield shipyard in Scotland in December 1939, launched in March 1942, and commissioned on November 18, 1942. On the day of her commissioning, the ship was solemnly handed over to a Polish crew, and the destroyer received the name of \"ORP Orkan.\" The ship served in the Arctic, participating in the escort of northern convoys. On October 8, 1943, while escorting convoy SC-143, Orkan was hit by a torpedo from German submarine U-378 and sank within minutes."
 
 msgid "IDS_PWSD509_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PWSD610_DESCR"
-msgstr "Småland, второй эсминец типа Halland, был заложен в Гётеборге на верфи Eriksberg в 1951 г., спущен на воду в октябре 1952 г. и вошёл в строй в январе 1956 г. «Крёстным отцом» эсминца стал командующий ВМФ Швеции адмирал Х. Стрёмбек. Служил в одной флотилии эсминцев со своим систершипом Halland. Был выведен из эксплуатации в 1979 г. и покинул состав флота в июле 1984 г. В 1987 г. корабль передали гётеборгскому Морскому центру в качестве корабля-музея, где он и находится до сих пор."
+msgstr ""
+"Småland, the second Halland-class destroyer, was laid down in Gothenburg at the Eriksberg shipyard in 1951, launched in October 1952, and entered service in January 1956. The commander of the Swedish Navy, Admiral Strömbek, became the \"godfather\" of the destroyer. He served in the same destroyer flotilla with Småland's sister ship, Halland.\n"
+"She was decommissioned in 1979 and stricken from the register in July 1984. In 1987, the ship was transferred to the Gothenburg Maritime Center as a museum ship, where she is still located."
 
 msgid "IDS_PWSD990"
 msgstr "Halland Test"
 
 msgid "IDS_PWSD990_DESCR"
-msgstr "Копия корабля для тестирования элитной модернизации."
+msgstr "Ship for test."
 
 msgid "IDS_PWSD990_FULL"
 msgstr "Halland Test"
 
 msgid "IDS_PWSD990_YEAR"
-msgstr "1955 г."
+msgstr "1955"
 
 msgid "IDS_PWUA604_ART_PIORUN"
-msgstr "120-мм/45 Mk.IX в установке CPXIX"
+msgstr "120 mm/45 Mk.IX in CPXIX turret mount"
 
 msgid "IDS_PWUE604_ENG_PIORUN"
-msgstr "ЭУ 44 000 л.с."
+msgstr "Propulsion: 44,000 hp"
 
 msgid "IDS_PWUH606_PIORUN"
 msgstr "Piorun"
@@ -14194,7 +14196,7 @@ msgid "IDS_PWUT605_TORP_PIORUN"
 msgstr "Mark 7"
 
 msgid "IDS_PXSA003_YEAR"
-msgstr "1927 г."
+msgstr "1927"
 
 msgid "IDS_PXSA004"
 msgstr "The Great Gorgon"
@@ -14203,13 +14205,13 @@ msgid "IDS_PXSA004_FULL"
 msgstr "The Great Gorgon"
 
 msgid "IDS_PXSD502"
-msgstr "Дон де ла Дак"
+msgstr "Don de la DuQue"
 
 msgid "IDS_PXSD502_FULL"
-msgstr "Дон де ла Дак"
+msgstr "Don de la DuQue"
 
 msgid "IDS_PXSS307_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PXUS003_SUO_FRANKY"
 msgstr "Mk III mod. 2"
@@ -14233,76 +14235,76 @@ msgid "IDS_PZAD910_ASW_T10"
 msgstr "Kawanishi H6K"
 
 msgid "IDS_PZES519_3KINGS_AEGIR"
-msgstr "Стремительный дракон"
+msgstr "Majestic Dragon"
 
 msgid "IDS_PZES528_PASOPATI_SUBMARINERS"
-msgstr "За верность долгу"
+msgstr "For fidelity to duty"
 
 msgid "IDS_PZES619_3KINGS_LION"
-msgstr "Грозный тигр"
+msgstr "Nimble Tiger"
 
 msgid "IDS_PZES719_3KINGS_BENMA"
-msgstr "Воинственная черепаха"
+msgstr "Warrior turtle"
 
 msgid "IDS_PZGA009_40MM_BOFORS_MK1"
-msgstr "40-мм Bofors в установке Mk.1"
+msgstr "40 mm/56 Bofors on a Mk.1 mount"
 
 msgid "IDS_PZGA023_40MM_BOFORS_MK2"
-msgstr "40-мм Bofors в установке Mk.2"
+msgstr "40 mm/56 Bofors on a Mk.2 mount"
 
 msgid "IDS_PZGA150_20MM70_BREDA_BARRELS_6"
-msgstr "20-мм/70 Scotti Model 1941 в шестиствольной установке"
+msgstr "20 mm/70 Scotti on a Model 1941 mount"
 
 msgid "IDS_PZGA151_37MM_54_BREDA"
-msgstr "37-мм/54 Breda Model 1939 в установке Model RM1939"
+msgstr "37 mm/54 Breda Model 1939 on a Model RM1939 mount"
 
 msgid "IDS_PZGM136_457MM_48"
-msgstr "457-мм/48 Б-45 в установке СМ-8"
+msgstr "457 mm/48 B-45 on an SM-8 mount"
 
 msgid "IDS_PZGM148_135_45_OTO_1937"
-msgstr "135-мм/45 Model 1938 в установке Model 1938"
+msgstr "135 mm/45 Model 1938 on a Model 1938 mount"
 
 msgid "IDS_PZGS159_152MM_57_MK_5"
-msgstr "152-мм/57 Б-38 в установке МK-5"
+msgstr "152 mm/57 B-38 on a МK-5 mount"
 
 msgid "IDS_PZGS160_130MM_BL_109A"
-msgstr "130-мм/60 в установке БЛ-109А"
+msgstr "130 mm/60 on a BL-109A mount"
 
 msgid "IDS_PZGT000_INVISIBLE_TA"
-msgstr "533-мм"
+msgstr "533 mm"
 
 msgid "IDS_PZGT154_533MM_4TUBES"
-msgstr "533-мм tubo lanciasiluri"
+msgstr "533 mm tubo lanciasiluri"
 
 msgid "IDS_PZPA066_419MM_HE_LOUCHUAN"
-msgstr "419-мм HE Mk Ia"
+msgstr "419 mm HE Mk Ia"
 
 msgid "IDS_PZPA067_419MM_AP_LOUCHUAN"
-msgstr "419-мм AP Mk IIa"
+msgstr "419 mm AP Mk IIa"
 
 msgid "IDS_PZPA070_135MM_HE_BEN_MA"
-msgstr "135-мм proiettili HE 1938"
+msgstr "135 mm proiettili HE 1938"
 
 msgid "IDS_PZPA071_135MM_CS_BEN_MA"
-msgstr "135-мм proiettili CS 1938"
+msgstr "135 mm proiettili CS 1938"
 
 msgid "IDS_PZPA072_135MM_AP_BEN_MA"
-msgstr "135-мм proiettili AP 1938"
+msgstr "135 mm proiettili AP 1938"
 
 msgid "IDS_PZPA073_457MM_HE_CHANGZHENG"
-msgstr "457-мм ОФ обр. 1946 г."
+msgstr "457 mm HE Model 1946"
 
 msgid "IDS_PZPA074_457MM_AP_CHANGZHENG"
-msgstr "457-мм ББ обр. 1946 г."
+msgstr "457 mm AP Model 1946."
 
 msgid "IDS_PZPA075_130MM_HE_OF42_SG"
-msgstr "130-мм ОФ-42"
+msgstr "130 mm HE-42"
 
 msgid "IDS_PZPT002_MK15_LO_YANG"
-msgstr "533-мм Mk15 mod. 3"
+msgstr "533 mm Mk15 mod. 3"
 
 msgid "IDS_PZPT005_MK15_LO_YANG"
-msgstr "533-мм Mk15 mod. 0"
+msgstr "533 mm Mk15 mod. 0"
 
 msgid "IDS_PZPT018_MK_15_MOD3_C"
 msgstr "Mk15 mod. 3"
@@ -14335,7 +14337,7 @@ msgid "IDS_PZSB539"
 msgstr "Lou Chuan"
 
 msgid "IDS_PZSB539_DESCR"
-msgstr "Лоучуань — вид китайских боевых кораблей времён империи Хань, трёхпалубная «плавучая крепость». Такие корабли играли роль основной силы флота и были оборудованы для абордажа, однако лоучуань был вооружён и осадными орудиями для ведения дальнего боя."
+msgstr "Lou Chuan was a Chinese naval ship primarily used as a floating fortress during the Han dynasty. Designed as a central vessel within the fleet, Louchuan was equipped for boarding enemy ships. She also carried siege weaponry for long-range engagements."
 
 msgid "IDS_PZSB539_FULL"
 msgstr "Lou Chuan"
@@ -14347,7 +14349,7 @@ msgid "IDS_PZSB610"
 msgstr "Changzheng"
 
 msgid "IDS_PZSB610_DESCR"
-msgstr "Если бы после Второй мировой войны линкор типа Yamato был передан в состав китайского флота, такой корабль претерпел бы масштабную модернизацию. В рамках программы научно-технической помощи, существовавшей между СССР и КНР, в работе над проектом приняли бы участие советские специалисты. Линейный корабль получил бы советские вооружение и электронику."
+msgstr "If, after World War II, a Yamato-class battleship had been transferred to the Chinese fleet, such a ship would have undergone extensive modernization. As part of the scientific and technical assistance program that existed between the USSR and the PRC, Soviet specialists would have participated in the project. The battleship would have received Soviet armament and electronics."
 
 msgid "IDS_PZSB610_FULL"
 msgstr "Changzheng"
@@ -14356,73 +14358,73 @@ msgid "IDS_PZSB610_NUMBER"
 msgstr "1"
 
 msgid "IDS_PZSB610_YEAR"
-msgstr "1949 г."
+msgstr "1949"
 
 msgid "IDS_PZSC101_DESCR"
-msgstr "Используя лазейку в Лондонском морском договоре, не ограничивавшем количество кораблей водоизмещением до 600 тонн, Япония в 1930-х гг. начала строить небольшие корабли, которые были классифицированы как кайбоканы (изначально в Японии так называли устаревшие корабли, обращённые на нужды береговой обороны). Проект разрабатывался фирмой Mitsubishi. Кайбокан № 40 был построен на верфи «Фудзинагата». После капитуляции Японии корабль использовался во флотах стран Антигитлеровской коалиции как тральщик, а в августе 1947 г. он был передан в состав флота Китая, где получил имя Chengan. В 1949 г. он перешёл во флот Тайваня."
+msgstr "Taking advantage of a loophole in the London Naval Treaty that placed no restrictions on the number of ships with a displacement of up to 600 tons, Japan started building small ships in the 1930s that were classified as Kaibōkans—originally in Japan, this referred to obsolete ships repurposed for coastal defense needs. The project was developed by Mitsubishi. Kaibōkan No. 40 was built at the Fujinagata shipyard. After the surrender of Japan, the ship was used in the fleets of the Anti-Hitler coalition countries as a minesweeper, and in the August of 1947, she was transferred to the Chinese fleet and renamed Chengan. In 1949, the ship became part of the Republic of China Navy."
 
 msgid "IDS_PZSC101_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PZSC109_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PZSC110_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PZSC503_DESCR"
-msgstr "В 1931 г. японская компания Harima Shipbuilding заложила для флота Китая мини-крейсеры Ning Hai и Pin Hai, спроектированные на базе крейсера Yūbari. Ning Hai строился в Японии и вошёл в состав китайского флота в 1932 г. Оба китайских крейсера были потоплены японской авиацией с началом Японо-китайской войны в 1937 г. В 1938–43 гг. Ning Hai выполнял роль плавказармы в Сасебо. В 1944 г. он был переоборудован в эскортный корабль, получив имя Ioshima. 19 сентября 1944 г. бывший китайский крейсер был торпедирован подводной лодкой USS Shad и затонул."
+msgstr "In 1931, the Japanese Harima shipbuilding company laid down two mini-cruisers—Ning Hai and Ping Hai—for the needs of the Chinese Navy, both based on cruiser Yūbari. Ning Hai was built in Japan and became part of the Chinese fleet in 1932. Both Chinese cruisers were sunk by Japanese aircraft at the start of the Sino-Japanese War in 1937. Between 1938 and 1943, Ning Hai served as floating barracks in the Sasebo Naval Arsenal. In 1944, she was repaired and converted into an escort ship named Ioshima. On September 19, 1944, the former Chinese cruiser took a torpedo hit from USS Shad and sank."
 
 msgid "IDS_PZSC506_DESCR"
-msgstr "После того как китайский крейсер Chungking был потоплен гоминьдановской авиацией, правительство КНР планировало провести ремонт. Корпус был поднят и отбуксирован в Далянь, где его осмотрела советская комиссия. Один из предложенных проектов модернизации предполагал замену вооружения на советское, при этом старые орудийные установки менялись бы на современные, что значительно повышало боевые возможности крейсера. В 1959 г. корабль сменил имя на Huanghe, но отзыв всех советских специалистов из Китая помешал возможной модернизации крейсера."
+msgstr "After Chinese cruiser Chungking was sunk by Kuomintang aircraft, the People's Republic of China's government attempted to restore her. The hull was raised and towed to Dalian, where it was inspected by a Soviet commission. The most balanced of the proposed upgrade projects suggested replacing available weapons with Soviet ones while maintaining the total number and caliber of artillery. At the same time, it was proposed to substitute the old gun mounts with modern ones that could significantly increase the cruiser's combat capabilities. In 1959, the ship's name was changed to Huanghe, but the recall of all Soviet specialists from China prevented the cruiser from being upgraded, and she was scrapped a few years later."
 
 msgid "IDS_PZSC509_DESCR"
-msgstr "Модернизированная версия проекта малого крейсера с универсальной артиллерией (МК-6), с заменой орудийных установок 1940-х гг. на более современные, а также с усиленным противовоздушным и противолодочным вооружением. Проект отражает потенциальную модернизацию крейсера, которая могла бы быть проведена в 1950-х гг."
+msgstr "A modernized version of the MK-6 cruiser project with gun mounts from the 1940s replaced with more contemporary ones—the main battery is represented by BL-109 guns instead of MK-18, and AA mounts represented by ZIF-31 and 4M-120 mounts instead of 66-K and 70-K, respectively. The project reflects a potential upgrade of the cruiser, which might have been carried out in the 1950s."
 
 msgid "IDS_PZSC529"
 msgstr "Meng Chong"
 
 msgid "IDS_PZSC529_DESCR"
-msgstr "Мэнчун — вид боевого корабля, который был распространён в Китае II–III вв. Имел сплошной борт, обтянутый кожей, что обеспечивало укрытие для стрелков и защиту для гребцов. Мэнчун использовался в качестве корабля прикрытия."
+msgstr "Meng Chong was a warship used in China in the second and third centuries AD. She had solid, leather-covered sides that allowed archers to fire from behind cover and protected the rowers. Meng Chong was used as a cover ship."
 
 msgid "IDS_PZSC529_FULL"
 msgstr "Meng Chong"
 
 msgid "IDS_PZSC529_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PZSD102_DESCR"
-msgstr "В начале XX в. Цинская империя активно возрождала свой флот, разгромленный во время Японо-китайской войны. Перед началом Первой мировой были подписаны крупные контракты с австрийскими и немецкими кораблестроительными фирмами. С помощью посредников из конторы Arnhold, Karberg & Co был подписан договор с верфью AG Vulcan Stettin о строительстве шести эскадренных миноносцев водоизмещением 985 т. В 1913 г. шесть кораблей были заложены, а в 1914 г. спущены на воду, однако с началом войны эсминцы были реквизированы германским правительством."
+msgstr "At the beginning of the 20th century, the Qing Empire was actively restoring its Navy, which had been destroyed during the Sino-Japanese War. Before the start of World War I, significant contracts were signed with Austrian and German shipbuilding firms. With the help of intermediaries from Arnhold, Karberg & Co, an agreement was signed with the AG Vulcan Stettin shipyard for the construction of six destroyers with a displacement of 985 tons each. In 1913, six ships were laid down to be launched in 1914; however, with the outbreak of the war, the destroyers were requisitioned by the German government and became part of the Kaiserliche Marine."
 
 msgid "IDS_PZSD104_DESCR"
-msgstr "Namikaze, эсминец типа Minekaze, был построен на верфях арсенала в Майдзуру. В 1942 г. находился в группе резерва для Алеутской операции, позже занимался патрульной службой. С декабря 1943 г. использовался для сопровождения конвоев. В 1944 г. эсминец получил торпедное попадание с подводной лодки USS Seal, после чего был отремонтирован и переоборудован в носитель кайтэнов. В 1947 г. был передан Китаю по репарациям, где получил имя Shenyang. В 1949 г. перешёл в ВМС Тайваня, где служил до 1960 г."
+msgstr "Namikaze, a Minekaze-class destroyer, was built at the Maizuru Naval Arsenal shipyards. She was part of the First Destroyer Division. In 1942, she was part of the reserve group for the Aleutian operation, and she was later engaged in patrol duties. From December 1943, Namikaze was tasked with escorting convoys. In 1944, the destroyer took a torpedo hit from USS Seal and was sent to Maizuru to be repaired and converted into a Kaiten carrier. In 1945, she served as minesweeper. After the end of World War II, the ship evacuated Japanese soldiers, and in 1947, she was transferred to China as part of reparations and renamed Shenyang. In 1949, she was transferred to the Republic of China Navy and served there until 1960."
 
 msgid "IDS_PZSD106_DESCR"
-msgstr "Эсминец проекта 7 «Резкий» был заложен на заводе № 198 в Николаеве, затем отправлен железнодорожным транспортом во Владивосток и перезаложен в августе 1938 г. на Дальзаводе. Принимал участие в Советско-японской войне на финальной стадии Второй мировой войны. В 1954 г. вместе с эсминцем «Рекордный» был передан КНР и вошёл в состав ВМС НОАК как Fushun."
+msgstr "Project 7 destroyer Rezkij was initially laid down at Plant No. 198 in Mykolaiv, then sent by rail to Vladivostok and laid down again in August 1938 at Dalzavod. She participated in the Soviet-Japanese War in the final stages of World War II. In 1954, together with destroyer Rekordny, she was transferred to the People's Republic of China and became part of the PLA Navy as Fushun."
 
 msgid "IDS_PZSD107_DESCR"
-msgstr "Эсминец HMS Nonpareil типа N был заложен в Дамбартоне, а в 1942 г. был передан флоту Нидерландов под именем Tjerk Hiddes. Участвовал в оккупации Мадагаскара, сопровождал конвои в Индийском океане. В марте 1951 г. корабль перешёл в военно-морские силы независимой Индонезии, где получил наименование Gadjah Mada и стал флагманом флота."
+msgstr "The N-class destroyer HMS Nonpareil was laid down at Dumbarton in May 1940, commissioned in June 1941, and transferred to the Dutch Navy under the name Tjerk Hiddes in May 1942. She participated in the occupation of Madagascar and escorted convoys in the Indian Ocean. In March 1951, the ship was transferred to the naval forces of independent Indonesia, where she received the name Gadjah Mada and was made flagship."
 
 msgid "IDS_PZSD108_DESCR"
-msgstr "USS Rodman, эсминец типа Gleaves, во Вторую мировую войну был задействован в патрульных и конвойных операциях в Северной Атлантике, обеспечивал поддержку высадки в Северной Африке, сопровождал президента Ф. Рузвельта на Тегеранскую конференцию. В 1944 г. прикрывал высадку союзников в Нормандии, затем действовал на Средиземном море и на Тихом океане. В 1955 г. был продан флоту Китайской Республики и получил имя Hsienyang. В 1956 г. дважды столкнулся с другими кораблями, из-за чего получил прозвище Баран."
+msgstr "The Gleaves-class USS Rodman was laid down at the shipyards of the Federal Shipbuilding Company in December 1940. During World War II, she participated in patrol and escort operations in the North Atlantic, provided support for the landings in North Africa, and accompanied President Franklin Roosevelt to the Tehran Conference. In 1944, she provided cover during landings of the Allied forces in Normandy, then served in the Mediterranean and the Pacific. During the war, she received five battle stars. In 1955, USS Rodman was sold to the Republic of China Navy and named Hsienyang. In 1956, she collided with other ships twice, which earned her the nickname Ram."
 
 msgid "IDS_PZSD109_YEAR"
-msgstr "1943 г."
+msgstr "1943"
 
 msgid "IDS_PZSD110_YEAR"
-msgstr "1944 г."
+msgstr "1944"
 
 msgid "IDS_PZSD208_DESCR"
-msgstr "Эсминец проекта 30-бис «Волевой» был построен на заводе № 199 имени Ленинского комсомола в Комсомольске-на-Амуре. Был заложен в марте 1951 г., спущен на воду в сентябре и вошёл в строй в декабре того же года. В феврале 1959 г. вместе с ещё тремя эсминцами проекта 30-бис был передан флоту Индонезии, получил имя Siliwangi. В состав индонезийского флота всего было передано восемь кораблей этого типа."
+msgstr "Volevoy, a Project 30-bis destroyer, was built at Plant No. 199—named after Lenin Komsomol, in Komsomolsk-on-Amur. She was laid down in March 1951, launched in September, and entered service in December of the same year. In February 1959, along with three other Project 30-bis destroyers, she was transferred to the Indonesian Navy and renamed Siliwangi. In total, eight ships of this class were transferred to the Indonesian Navy."
 
 msgid "IDS_PZSD508_DESCR"
-msgstr "USS Benson, головной корабль своего типа, был построен на верфи Fore River Shipyard. В 1940–41 гг. входил в состав сил «Нейтрального патруля». С начала вступления США во Вторую мировую войну сопровождал конвои в Северной Атлантике и на Средиземном море, поддерживал высадку союзных войск в Италии. В 1945 г. был переведён на Тихий океан, сопровождал американские авианосцы. За время войны был награждён четырьмя боевыми звёздами. В 1954 г. корабль был передан Тайваню, где получил имя Loyang."
+msgstr "USS Benson, the lead ship of her class, was built at the Fore River Shipyard. In 1940 and 1941, she served in so-called Neutrality Patrols. Once the U.S. entered World War II, USS Benson escorted convoys in the North Atlantic and the Mediterranean and supported the landings of the Allied forces in Italy. In 1945, the ship was transferred to the Pacific, where she escorted American aircraft carriers during operations against Midway Atoll. For her service during the war, she was awarded four battle stars. In 1954, she was handed over to the Republic of China, where she was renamed Loyang."
 
 msgid "IDS_PZSD529"
 msgstr "Ben Ma"
 
 msgid "IDS_PZSD529_DESCR"
-msgstr "Бэньма — вид боевого корабля, применявшегося для сопровождения в Китае II–III вв. Про такой корабль говорили, что он быстрый, как скачущая лошадь, — именно этому сравнению бэньма обязан своим названием."
+msgstr "Ben Ma is a type of warship used for escort purposes in China during the 2nd–3rd centuries. This ship was said to be as fast as a galloping horse, which is how it got its name."
 
 msgid "IDS_PZSD529_FULL"
 msgstr "Ben Ma"
@@ -14431,13 +14433,13 @@ msgid "IDS_PZSD529_NUMBER"
 msgstr "1"
 
 msgid "IDS_PZSD529_YEAR"
-msgstr "1945 г."
+msgstr "1945"
 
 msgid "IDS_PZSD598"
 msgstr "Loyang B"
 
 msgid "IDS_PZSD598_DESCR"
-msgstr "USS Benson, головной корабль своего типа, был построен на верфи Fore River Shipyard. В 1940–41 гг. входил в состав сил «Нейтрального патруля». С начала вступления США во Вторую мировую войну сопровождал конвои в Северной Атлантике и на Средиземном море, поддерживал высадку союзных войск в Италии. В 1945 г. был переведён на Тихий океан, сопровождал американские авианосцы. За время войны был награждён четырьмя боевыми звёздами. В 1954 г. корабль был передан Тайваню, где получил имя Loyang."
+msgstr "A destroyer specifically built for the U.S. Navy, boasting powerful AA guns and a high speed. She was handed over to the Navy of the Republic of China in 1954. Her armament comprised dual-purpose main guns and quintuple torpedo tubes."
 
 msgid "IDS_PZSD598_FULL"
 msgstr "Loyang B"
@@ -14446,7 +14448,7 @@ msgid "IDS_PZSS508"
 msgstr "Pasopati"
 
 msgid "IDS_PZSS508_DESCR"
-msgstr "С-79 — советская подводная лодка проекта 613, которая была передана флоту Индонезии и переименована в Pasopati. В 1961–62 гг. подводная лодка участвовала в индонезийской операции «Трикора» по присоединению западной части острова Новая Гвинея. В 1994 г. Pasopati была исключена из списков флота и установлена в качестве корабля-музея в Сурабае."
+msgstr "C-79 was a Soviet Project 613 submarine that was transferred to the Indonesian navy and renamed Pasopati. In 1961–62, the submarine participated in Indonesia's Operation Trikora to annex the western part of the island of New Guinea. In 1994, Pasopati was decommissioned and turned into a museum ship in Surabaya."
 
 msgid "IDS_PZSS508_FULL"
 msgstr "Pasopati"
@@ -14455,28 +14457,28 @@ msgid "IDS_PZSS508_NUMBER"
 msgstr "236"
 
 msgid "IDS_PZSS508_YEAR"
-msgstr "1954 г."
+msgstr "1954"
 
 msgid "IDS_PZUA808_ART_BEN_MA"
-msgstr "135-мм/45 Model 1938 в установке Model 1938"
+msgstr "135 mm/45 Model 1938 on a Model 1938 mount"
 
 msgid "IDS_PZUA904_ART_CHANGZHENG"
-msgstr "457-мм/48 Б-45 в установке СМ-8"
+msgstr "457 mm/48 B-45 on a СМ-8 turret mount"
 
 msgid "IDS_PZUE711_ENG_PASOPATI"
-msgstr "ЭУ 4 000 л.с."
+msgstr "Propulsion: 4 000 hp"
 
 msgid "IDS_PZUE806_ENG_SUN_YAT_SEN"
-msgstr "ЭУ 231 000 л.с."
+msgstr "Propulsion: 231,000 hp"
 
 msgid "IDS_PZUE807_ENG_LOUCHUAN"
-msgstr "ЭУ 130 000 л.с."
+msgstr "Propulsion: 130,000 hp"
 
 msgid "IDS_PZUE808_ENG_BEN_MA"
-msgstr "ЭУ 100 000 л.с."
+msgstr "Propulsion: 100,000 hp"
 
 msgid "IDS_PZUE904_ENG_CHANGZHENG"
-msgstr "ЭУ 158 200 л.с."
+msgstr "Propulsion: 158,200 hp"
 
 msgid "IDS_PZUH713_PASOPATI"
 msgstr "Pasopati"
@@ -14494,7 +14496,7 @@ msgid "IDS_PZUH904_CHANGZHENG"
 msgstr "Changzheng"
 
 msgid "IDS_PZUQ701_SONAR_PASOPATI"
-msgstr "ГАП 8"
+msgstr "HAS 8"
 
 msgid "IDS_PZUS001_C1_SUO_STOCK"
 msgstr "Type1 mod. 1"
@@ -14530,13 +14532,13 @@ msgid "IDS_PZUS404_C5_SUO_TOP"
 msgstr "Mk V mod. 2"
 
 msgid "IDS_PZUS502_D6_SUO_STOCK"
-msgstr "СУО VI мод. 1"
+msgstr "SUO VI mod. 1"
 
 msgid "IDS_PZUS503_D6_SUO_TOP"
-msgstr "СУО VI мод. 2"
+msgstr "SUO VI mod. 2"
 
 msgid "IDS_PZUS504_SUO_HUANGHE"
-msgstr "СУО VI мод. 1"
+msgstr "SUO VI mod. 1"
 
 msgid "IDS_PZUS602_D7_SUO_TOP"
 msgstr "Mk VII mod. 2"
@@ -14563,19 +14565,19 @@ msgid "IDS_PZUS810_SUO_BEN_MA"
 msgstr "Mk IX mod. 1"
 
 msgid "IDS_PZUS903_SUO_LUSHUN"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PZUS904_SUO_CHANGZHENG"
-msgstr "СУО X мод. 1"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PZUT704_D8_TORP_TOP"
 msgstr "Mk15 mod. 3"
 
 msgid "IDS_PZUT710_TORP_BLACK_LOYANG"
-msgstr "533-мм Mk15 mod. 0"
+msgstr "533 mm Mk15 mod. 0"
 
 msgid "IDS_PZUT713_TORP_PASOPATI"
-msgstr "533-мм"
+msgstr "533 mm"
 
 msgid "IDS_PZUT801_D9_TORP_STOCK"
 msgstr "Mk15 mod. 3"
@@ -14584,7 +14586,7 @@ msgid "IDS_PZUT802_D9_TORP_TOP"
 msgstr "Mk16 mod. 1"
 
 msgid "IDS_PZUT805_TORP_BEN_MA"
-msgstr "533-мм Si 270 H2"
+msgstr "533 mm Si 270 H2"
 
 msgid "IDS_PZUT900_D11_TORP_STOCK"
 msgstr "Mk16 mod. 1"
@@ -14593,273 +14595,273 @@ msgid "IDS_PZUT903_C10_TORP_STOCK"
 msgstr "Mk16 mod. 1"
 
 msgid "IDS_QUESTION_CONFIRM_BATTLE_EXIT"
-msgstr "Вернуться в Порт или выйти в новый бой?"
+msgstr "Back to the Port or out for a new battle?"
 
 msgid "IDS_QUEST_COLLECTIONER_SHIPS"
 msgid_plural "IDS_QUEST_COLLECTIONER_SHIPS"
-msgstr[0] "Соберите коллекцию из %(countShips)s корабля."
-msgstr[1] ""
+msgstr[0] "Build a collection of %(countShips)s ship."
+msgstr[1] "Build a collection of %(countShips)s ships."
 
 msgid "IDS_QUEST_DAMAGECOUNT"
 msgid_plural "IDS_QUEST_DAMAGECOUNT"
-msgstr[0] "Достигните значения %(damage)s ед. среднего урона за бой."
-msgstr[1] ""
+msgstr[0] "Achieve %(damage)s average damage per battle."
+msgstr[1] "Achieve %(damage)s average damage per battle."
 
 msgid "IDS_QUEST_PRORUV_CHAMPION"
-msgstr "Станьте победителем турнира «Прорыв» со своей командой."
+msgstr "Become the winner of the Breakthrough Tournament with your team."
 
 msgid "IDS_QUEST_PRORUV_WIN"
 msgid_plural "IDS_QUEST_PRORUV_WIN"
-msgstr[0] "Одержите %(achievementCount)s победу со своей командой в турнире «Прорыв»."
-msgstr[1] ""
+msgstr[0] "Win %(achievementCount)s battle with your team in the Breakthrough tournament."
+msgstr[1] "Win %(achievementCount)s battles with your team in the Breakthrough tournament."
 
 msgid "IDS_QUEST_TSARMOREYBATTLES_WIN"
 msgid_plural "IDS_QUEST_TSARMOREYBATTLES_WIN"
-msgstr[0] "Одержите %(achievementCount)s победу со своей командой в состязаниях «Царь морей»."
-msgstr[1] ""
+msgstr[0] "Win %(achievementCount)s battle with your team in the Tsar of the Seas competition."
+msgstr[1] "Win %(achievementCount)s battles with your team in the Tsar of the Seas competition."
 
 msgid "IDS_QUEST_TSARMOREY_CHAMPION"
-msgstr "Станьте победителем состязания «Царь морей» со своей командой."
+msgstr "Become the winner of the Tsar of the Seas competition with your team."
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_ATBA_HITS"
 msgstr ""
-"Попадайте снарядами ПМК по кораблям противника, увеличивая прогресс выполнения условия.\n"
-"При бездействии вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян. Для активации боевых инструкций нажмите [CMD_ACTIVATE_RAGE_MODE]."
+"Hit enemy ships with secondary armament shells to increase progress.\n"
+"If inactive, you will start losing progress. Once your progress reaches 100%, it cannot be lost. To activate combat instructions, press [CMD_ACTIVATE_RAGE_MODE]."
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_ATBA_HITS_AUTO"
 msgstr ""
-"Попадайте снарядами ПМК по кораблям противника, увеличивая прогресс выполнения условия.\n"
-"При бездействии вы начнёте терять прогресс. Боевые инструкции будут активированы автоматически, когда прогресс достигнет 100%."
+"Hit enemy ships with secondary armament shells to increase progress.\n"
+"If inactive, you will start losing progress. Combat instructions will be activated automatically when progress reaches 100%."
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_HEADER"
-msgstr "Условие активации"
+msgstr "Activation condition"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_PLANE_RELOADING_BOOST"
 msgstr ""
-"Прогресс выполнения увеличивается по мере получения потенциального урона.\n"
-"При бездействии вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян. Для активации боевых инструкций нажмите [CMD_ACTIVATE_RAGE_MODE]."
+"Progress accumulates as you receive potential damage.\n"
+"If inactive, you will start losing progress. Once your progress reaches 100%, it cannot be lost. To activate combat instructions, press [CMD_ACTIVATE_RAGE_MODE]."
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_STAY_INVISIBLE"
 msgstr ""
-"Оставайтесь незамеченным, увеличивая прогресс выполнения с каждым интервалом.\n"
-"При бездействии вы начнёте терять прогресс. Когда ваш прогресс достигнет 100%, он уже не сможет быть потерян. Для активации боевых инструкций нажмите [CMD_ACTIVATE_RAGE_MODE]."
+"Stay undetected to increase your completion progress with each interval.\n"
+"When detected, you will start losing your progress. When your progress reaches 100%, it cannot be lost. To activate Combat Instructions, press [CMD_ACTIVATE_RAGE_MODE]."
 
 msgid "IDS_RANDOMBATTLE_DESCRIPTION"
-msgstr "Сражения против игроков."
+msgstr "Battles against players."
 
 msgid "IDS_RANDOMBATTLE_MATCHMAKER_DESCRIPTION"
-msgstr "Случайно выбранные карта и режим боя."
+msgstr "Random map and battle mode."
 
 msgid "IDS_RANDOM_PVE_MATCHMAKER_SUBTITLE"
-msgstr "Случайно выбранная операция."
+msgstr "Randomly selected operation."
 
 msgid "IDS_RANKEDBATTLE_DESCRIPTION"
-msgstr "Сражения между игроками в рамках соревнования. Участники борются за ранги и продвигаются по лигам."
+msgstr "Fight against other players, earn ranks, and progress through leagues."
 
 msgid "IDS_RANKED_REWARDS_TOOLTIP_DESC"
 msgstr ""
-"Если вы не успели пройти квалификацию до завершения спринта, вы вернётесь на начальный ранг лиги и сможете получить все награды заново.\n"
+"If you don't manage to qualify before the Sprint ends, you'll return to the initial rank of the league and be able to obtain all rewards again. \n"
 "\n"
-"Если в Ранговом бою вы продемонстрируете неспортивное поведение, победа не будет учтена в прогрессе для получения наград."
+"If you demonstrate unsportsmanlike behavior in Ranked Combat, the victory will not be counted in your progress for awards."
 
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_TRAINING_HIDDEN_SHIPS_NEUTRAL_TEAM"
-msgstr "Дождитесь, когда организатор комнаты распределит вас в команду"
+msgstr "Wait for the room organizer to assign you to a team"
 
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_TRAINING_OBSERVER"
-msgstr "Дождитесь, когда организатор тренировочной комнаты начнёт бой."
+msgstr "Wait for the training room organizer to start the fight."
 
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_TRAINING_OWNER_IN_TRAINING"
-msgstr "Вы не в команде. Вступите в одну из команд, чтобы вы могли начать Тренировочный бой."
+msgstr "You are not on a team. Join one of the teams so that you can start a Training Battle."
 
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_TRAINING_OWNER_NOT_IN_TRAINING"
-msgstr "Вы — организатор тренировочной комнаты. Вернитесь в комнату, чтобы вы могли начать бой."
+msgstr "You are the organizer of the training room. Return to the room so that you can start the fight."
 
 msgid "IDS_REGATTA_OUTSIDER_HINT"
-msgstr "Не забывайте, соперника можно использовать как щит!"
+msgstr "Don't forget, the opponent can be used as a shield!"
 
 msgid "IDS_REGATTA_RESPAWN_HINT"
-msgstr "Не сдавайтесь! За повторное прохождение участков маршрута вы тоже получите победные очки!"
+msgstr "Don't give up! You will also get victory points for repeating sections of the route!"
 
 msgid "IDS_REGEN_CREW_RELOAD_COEFF_CHANGED"
-msgstr "Навык «Повышенная готовность ремонтной команды» активирован."
+msgstr "The skill \"Improved Repair Party Readiness\" is activated."
 
 msgid "IDS_REMOVE_ALL_BOTS"
-msgstr "Удалить всех ботов"
+msgstr "Delete all bots"
 
 msgid "IDS_REPAIR_DOCK_TITLE"
-msgstr "Ремонтный док"
+msgstr "Repair dock"
 
 msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
-msgstr "Во время боя вы совершили следующие нарушения:"
+msgstr "You committed the following infractions during combat:"
 
 msgid "IDS_RETURN"
-msgstr "Вернуться"
+msgstr "Return"
 
 msgid "IDS_RETURN_TO_DOCK"
-msgstr "Вернуться в Порт"
+msgstr "Back to the Port"
 
 msgid "IDS_RETURN_TO_TECH_TREE"
-msgstr "К дереву развития"
+msgstr "To the tech tree"
 
 msgid "IDS_RETURN_TO_TRAINING_ROOM"
-msgstr "Вернуться в комнату"
+msgstr "Back to the room"
 
 msgid "IDS_REWARDS_BRASS_TITLE"
-msgstr "%(_amount)s чемпионских жетонов"
+msgstr "%(_amount)s Champion tokens"
 
 msgid "IDS_REWARDS_CLANRESOURCE_TITLE"
-msgstr "%(_amount)s ед. нефти"
+msgstr "%(_amount)s Oil"
 
 msgid "IDS_REWARDS_COAL_TITLE"
-msgstr "%(_amount)s ед. угля"
+msgstr "%(_amount)s Coal"
 
 msgid "IDS_REWARDS_CREWPOINTS_TITLE"
-msgstr "%(_amount)s ед. опыта командира"
+msgstr "%(_amount)s Commander XP"
 
 msgid "IDS_REWARDS_ELITEXP_TITLE"
-msgstr "%(_amount)s ед. элитного опыта командиров"
+msgstr "%(_amount)s Elite Commander XP"
 
 msgid "IDS_REWARDS_PL_EXP_TITLE"
 msgid_plural "IDS_REWARDS_PL_EXP_TITLE"
-msgstr[0] "%(_amount)s ед. опыта"
-msgstr[1] ""
+msgstr[0] "%(_amount)s XP"
+msgstr[1] "%(_amount)s XP"
 
 msgid "IDS_REWARDS_PL_FREEXP_TITLE"
 msgid_plural "IDS_REWARDS_PL_FREEXP_TITLE"
-msgstr[0] "%(_amount)s ед. свободного опыта"
-msgstr[1] ""
+msgstr[0] "%(_amount)s Free XP"
+msgstr[1] "%(_amount)s Free XP"
 
 msgid "IDS_REWARDS_STEEL_TITLE"
-msgstr "%(_amount)s ед. стали"
+msgstr "%(_amount)s Steel"
 
 msgid "IDS_REWARD_BPPOINTS_TITLE"
-msgstr "Очки Боевого пропуска"
+msgstr "Battle Pass Points"
 
 msgid "IDS_REWARD_BRASS_TITLE"
-msgstr "Чемпионские жетоны"
+msgstr "Champion tokens"
 
 msgid "IDS_REWARD_CLIENTUM_2_TITLE"
-msgstr "Жетоны прогресса"
+msgstr "Progress tokens"
 
 msgid "IDS_REWARD_EVENTUM_10_TITLE"
-msgstr "Летние жетоны"
+msgstr "Summer tokens"
 
 msgid "IDS_REWARD_EVENTUM_1_TITLE"
-msgstr "Яркие жетоны"
+msgstr "Colorful tokens"
 
 msgid "IDS_REWARD_EVENTUM_2_TITLE"
-msgstr "Легендарные жетоны"
+msgstr "Legendary tokens"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "Американские жетоны"
+msgstr "American tokens"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
-msgstr "Флотские жетоны"
+msgstr "Navy tokens"
 
 msgid "IDS_REWARD_EVENTUM_5_TITLE"
-msgstr "Памятные жетоны"
+msgstr "Commemorative tokens"
 
 msgid "IDS_REWARD_EVENTUM_6_TITLE"
-msgstr "Рейдерские жетоны"
+msgstr "Raider tokens"
 
 msgid "IDS_REWARD_EVENTUM_7_TITLE"
-msgstr "Космические жетоны"
+msgstr "Space tokens"
 
 msgid "IDS_REWARD_EVENTUM_8_TITLE"
-msgstr "Зимние жетоны"
+msgstr "Winter tokens"
 
 msgid "IDS_REWARD_EVENTUM_9_TITLE"
-msgstr "Корабельные жетоны"
+msgstr "Ship tokens"
 
 msgid "IDS_REWARD_EXPCOEFF_TITLE"
-msgstr "Дополнительный опыт корабля за бой"
+msgstr "Additional XP per Battle"
 
 msgid "IDS_REWARD_LOOTBOX_PCL004_LUCKY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Суперконтейнер"
+msgstr "Supercontainer"
 
 msgid "IDS_REWARD_LOOTBOX_PCL004_LUCKY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Суперконтейнер"
+msgstr "Supercontainer"
 
 msgid "IDS_REWARD_LOOTBOX_PCL005_EPIC_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VIII–IX уровень"
+msgstr "VIII–IX ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL005_EPIC_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII уровень"
+msgstr "V–VII ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VIII–IX уровень"
+msgstr "VIII–IX ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII уровень"
+msgstr "V–VII ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_TITLE"
-msgstr "Контейнер «Новогодний подарок 2022»"
+msgstr "Container \"New Year's Gift 2022\""
 
 msgid "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_TITLE_SHORT"
-msgstr "Новогодний подарок 2022"
+msgstr "New Year's Gift 2022"
 
 msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VIII–IX уровень"
+msgstr "VIII–IX ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII уровень"
+msgstr "V–VII ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_TITLE"
-msgstr "Контейнер «Большой новогодний подарок 2022»"
+msgstr "Container \"Big New Year's Gift 2022\""
 
 msgid "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_TITLE_SHORT"
-msgstr "Большой новогодний подарок 2022"
+msgstr "Big New Year's Gift 2022"
 
 msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VIII–IX уровень"
+msgstr "VIII–IX ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII уровень"
+msgstr "V–VII ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_TITLE"
-msgstr "Контейнер «Гигантский новогодний подарок 2022»"
+msgstr "Container \"Giant New Year's Gift 2022\""
 
 msgid "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_TITLE_SHORT"
-msgstr "Гигантский новогодний подарок 2022"
+msgstr "Giant New Year's Gift 2022"
 
 msgid "IDS_REWARD_LOOTBOX_PCL026_TWITCH2_TITLE"
-msgstr "Контейнер «Прямой телеэфир»"
+msgstr "Container \"Live TV\""
 
 msgid "IDS_REWARD_LOOTBOX_PCL026_TWITCH2_TITLE_SHORT"
-msgstr "Прямой телеэфир"
+msgstr "Live TV"
 
 msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль"
+msgstr "Premium ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_TITLE"
-msgstr "Контейнер «Славные традиции флота»"
+msgstr "Container \"Glorious Traditions of the Fleet\""
 
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_TITLE_SHORT"
-msgstr "Славные традиции флота"
+msgstr "Glorious Traditions of the Fleet"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_TITLE_FULL"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Кутузов"
+msgstr "Kutuzov"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Кутузов"
+msgstr "Kutuzov"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Премиум корабль VIII уровня"
+msgstr "Premium VIII ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Премиум корабль"
+msgstr "Premium ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_TITLE"
-msgstr "Премиум контейнер «Морское торжество»"
+msgstr "Container \"Sea Celebration\""
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_TITLE_SHORT"
-msgstr "Морское торжество"
+msgstr "Sea Celebration"
 
 msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_TITLE"
 msgstr "Контейнер «Премиум корабль V. Запасы коллекционера»"
@@ -15438,10 +15440,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Суперконтейнер"
+msgstr "Supercontainer"
 
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Суперконтейнер"
+msgstr "Supercontainer"
 
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_TITLE"
 msgstr "Контейнер «Ежедневный»"
