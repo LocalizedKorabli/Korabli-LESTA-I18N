@@ -1647,7 +1647,7 @@ msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
 msgstr "For completing event combat missions until the end of update 13.6, as well as from packs in the Armory during the event in updates 13.6 and 13.7."
 
 msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
-msgstr "On the Tier IX cruiser Shcherbakov and its permanent camouflage 'Brilliant', on the designs of the Tier VII battleship Poltava, as well as on other items during the event in updates 13.6 and 13.7."
+msgstr "On the Tier IX cruiser Shcherbakov and its permanent camouflage 'Brilliant', on the structures of the Tier VII battleship Poltava, as well as on other items during the event in updates 13.6 and 13.7."
 
 msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
 msgstr "Temporary resource. With the release of update 13.8, tokens will be deducted without compensation."
@@ -1723,7 +1723,7 @@ msgstr "Total earned in battles today"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT"
 msgstr ""
-"Components—\n"
+"Structures—\n"
 "%(_shipName)s"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_ADDITIONAL_INFO"
@@ -1733,16 +1733,16 @@ msgid "IDS_CURRENCY_SHIPCOMPONENT_GET_DESCRIPTION"
 msgstr "In the Armory or for participating in various events."
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_NOWRAP"
-msgstr "Components— %(_shipName)s"
+msgstr "Structures — %(_shipName)s"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_OVERRIDE_FOR_WEB"
-msgstr "Components"
+msgstr "Structures"
 
 msgid "IDS_CURRENCY_SHIPCOMPONENT_SPEND_DESCRIPTION"
 msgstr "Repair of the corresponding ship in the Repair Dock."
 
 msgid "IDS_CURRENCY_SHIPMATERIAL"
-msgstr "Blanks— %(_shipLevel)s"
+msgstr "Blanks — %(_shipLevel)s"
 
 msgid "IDS_CURRENCY_SHIPMATERIAL_GET_DESCRIPTION"
 msgstr "In the Armory or for participating in various events."
@@ -8609,31 +8609,31 @@ msgid "IDS_PCZA020_KOTS"
 msgstr "Tsar of the Seas"
 
 msgid "IDS_PCZA020_KOTS_QUOTES"
-msgstr "“Tsar of the Seas”"
+msgstr "\"Tsar of the Seas\""
 
 msgid "IDS_PCZA030_MAY_DAY"
 msgstr "Victory Fleet"
 
 msgid "IDS_PCZA030_MAY_DAY_QUOTES"
-msgstr "“Victory Fleet”"
+msgstr "\"Victory Fleet\""
 
 msgid "IDS_PCZA034_SCARLET_BIRTHDAY"
 msgstr "In the Name of Progress!"
 
 msgid "IDS_PCZA034_SCARLET_BIRTHDAY_QUOTES"
-msgstr "“In the Name of Progress!”"
+msgstr "\"In the Name of Progress!\""
 
 msgid "IDS_PCZA035_JAP_BB_EA_DRAGONS"
 msgstr "Heroic Clash"
 
 msgid "IDS_PCZA035_JAP_BB_EA_DRAGONS_QUOTES"
-msgstr "“Heroic Clash”"
+msgstr "\"Heroic Clash\""
 
 msgid "IDS_PCZA036_ARIA"
 msgstr "Forging Metal"
 
 msgid "IDS_PCZA036_ARIA_QUOTES"
-msgstr "“Forging Metal”"
+msgstr "\"Forging Metal\""
 
 msgid "IDS_PCZC011_BISMARCK_BISMARCK_DESCRIPTION"
 msgstr ""
@@ -14864,232 +14864,232 @@ msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_TITLE_SHORT"
 msgstr "Sea Celebration"
 
 msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_TITLE"
-msgstr "Контейнер «Премиум корабль V. Запасы коллекционера»"
+msgstr "Container 'Premium Ship V. Collector's Reserves'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_TITLE_SHORT"
-msgstr "Премиум корабль V. Запасы коллекционера"
+msgstr "Premium Ship V. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_TITLE"
-msgstr "Контейнер «Премиум корабль VI. Запасы коллекционера»"
+msgstr "Container 'Premium Ship VI. Collector's Reserves'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_TITLE_SHORT"
-msgstr "Премиум корабль VI. Запасы коллекционера"
+msgstr "Premium Ship VI. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_TITLE"
-msgstr "Контейнер «Премиум корабль VII. Запасы коллекционера»"
+msgstr "Container 'Premium Ship VII. Collector's Reserves'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_TITLE_SHORT"
-msgstr "Премиум корабль VII. Запасы коллекционера"
+msgstr "Premium Ship VII. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_TITLE"
-msgstr "Контейнер «Премиум корабль VIII. Запасы коллекционера»"
+msgstr "Container 'Premium Ship VIII. Collector's Reserves'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_TITLE_SHORT"
-msgstr "Премиум корабль VIII. Запасы коллекционера"
+msgstr "Premium Ship VIII. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_TITLE"
-msgstr "Контейнер «Премиум корабль IX. Запасы коллекционера»"
+msgstr "Container 'Premium Ship IX. Collector's Reserves'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_TITLE_SHORT"
-msgstr "Премиум корабль IX. Запасы коллекционера"
+msgstr "Premium Ship IX. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Особый или премиум корабль"
+msgstr "Special or Premium Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_TITLE"
-msgstr "Контейнер «Итальянская эскадра»"
+msgstr "Container 'Italian Armada'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL089_ITCA_FREE_OLD_TITLE_SHORT"
-msgstr "Итальянская эскадра"
+msgstr "Italian Armada"
 
 msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_TITLE_FULL"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль VI–VIII уровня"
+msgstr "Premium Ship VI–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль IX–X уровня"
+msgstr "Ship IX–X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_TITLE"
-msgstr "Премиум контейнер «Итальянская эскадра»"
+msgstr "Premium Container 'Italian Armada'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_TITLE_SHORT"
-msgstr "Итальянская эскадра"
+msgstr "Italian Armada"
 
 msgid "IDS_REWARD_LOOTBOX_PCL097_KOTS_COLL_TITLE"
-msgstr "Контейнер «Царь морей»"
+msgstr "Container 'King of the Sea'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL097_KOTS_COLL_TITLE_SHORT"
-msgstr "Царь морей"
+msgstr "King of the Sea"
 
 msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль IX уровня"
+msgstr "Ship IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX уровень"
+msgstr "IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VI–VIII уровня"
+msgstr "Ship VI–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VI–VIII уровень"
+msgstr "VI–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL102_GARC096_PREM_OLD_TITLE"
-msgstr "Премиум контейнер «Немецкие авианосцы»"
+msgstr "Premium Container 'German Aircraft Carriers'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL102_GARC096_PREM_OLD_TITLE_SHORT"
-msgstr "Немецкие авианосцы"
+msgstr "German Aircraft Carriers"
 
 msgid "IDS_REWARD_LOOTBOX_PCL103_GARC096_FREE_OLD_TITLE"
-msgstr "Контейнер «Немецкие авианосцы»"
+msgstr "Container 'German Aircraft Carriers'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL103_GARC096_FREE_OLD_TITLE_SHORT"
-msgstr "Немецкие авианосцы"
+msgstr "German Aircraft Carriers"
 
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_TITLE_FULL"
-msgstr "Постоянный камуфляж или особый командир"
+msgstr "Permanent Camouflage or Special Commander"
 
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Постоянный камуфляж"
+msgstr "Permanent Camouflage"
 
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Камуфляж"
+msgstr "Camouflage"
 
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Особый командир"
+msgstr "Special Commander"
 
 msgid "IDS_REWARD_LOOTBOX_PCL107_TF098_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Командир"
+msgstr "Commander"
 
 msgid "IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль X уровня"
+msgstr "Ship X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X уровень"
+msgstr "X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL129_EPICSTD2_4_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "II–IV уровень"
+msgstr "II–IV"
 
 msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "II–IV уровень"
+msgstr "II–IV"
 
 msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_TITLE"
-msgstr "Контейнер «Премиум корабль II–IV. Запасы коллекционера»"
+msgstr "Container 'Premium Ship II–IV. Collector's Reserves'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_TITLE_SHORT"
-msgstr "Премиум корабль II–IV. Запасы коллекционера"
+msgstr "Premium Ship II–IV. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL133_TF108_FREE_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль IX–X уровня"
+msgstr "Ship IX–X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX–X уровень"
+msgstr "IX–X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VII–VIII уровня"
+msgstr "Ship VII–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VII–VIII уровень"
+msgstr "VII–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль IX–X уровня"
+msgstr "Ship IX–X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX–X уровень"
+msgstr "IX–X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VII–VIII уровня"
+msgstr "Ship VII–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VII–VIII уровень"
+msgstr "VII–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL142_STEAM_ANNIVERSARY_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VIII–IX уровень"
+msgstr "VIII–IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL142_STEAM_ANNIVERSARY_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII уровень"
+msgstr "V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL146_MAY_DAY_COLLECTION_TITLE"
-msgstr "Контейнер «Флот победы»"
+msgstr "Container 'Fleet of Victory'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL146_MAY_DAY_COLLECTION_TITLE_SHORT"
-msgstr "Флот победы"
+msgstr "Fleet of Victory"
 
 msgid "IDS_REWARD_LOOTBOX_PCL150_CAMO_DAILY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум контейнер"
+msgstr "Premium Container"
 
 msgid "IDS_REWARD_LOOTBOX_PCL150_CAMO_DAILY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Контейнер"
+msgstr "Container"
 
 msgid "IDS_REWARD_LOOTBOX_PCL155_GIFT_TIER_FOUR_TITLE"
-msgstr "Контейнер «Элитные бонусы»"
+msgstr "Container 'Elite Bonuses'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL155_GIFT_TIER_FOUR_TITLE_SHORT"
-msgstr "Элитные бонусы"
+msgstr "Elite Bonuses"
 
 msgid "IDS_REWARD_LOOTBOX_PCL162_GOLDEN_WEEK_FREE_SLOT_0_TITLE_FULL"
-msgstr "Корабль или постоянный камуфляж"
+msgstr "Ship or Permanent Camouflage"
 
 msgid "IDS_REWARD_LOOTBOX_PCL162_GOLDEN_WEEK_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый или премиум корабль"
+msgstr "Special or Premium Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL163_GOLDEN_WEEK_PREM_SLOT_0_TITLE_FULL"
-msgstr "Корабль или постоянный камуфляж"
+msgstr "Ship or Permanent Camouflage"
 
 msgid "IDS_REWARD_LOOTBOX_PCL163_GOLDEN_WEEK_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый или премиум корабль"
+msgstr "Special or Premium Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль VIII–X уровня"
+msgstr "Ship VIII–X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "VIII–X уровень"
+msgstr "VIII–X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL170_US_SHIP_FREE_TITLE"
-msgstr "Контейнер «Американская эскадра»"
+msgstr "Container 'American Armada'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL170_US_SHIP_FREE_TITLE_SHORT"
-msgstr "Американская эскадра"
+msgstr "American Armada"
 
 msgid "IDS_REWARD_LOOTBOX_PCL171_US_SHIP_PREM_TITLE"
-msgstr "Премиум контейнер «Американская эскадра»"
+msgstr "Premium Container 'American Armada'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL171_US_SHIP_PREM_TITLE_SHORT"
-msgstr "Американская эскадра"
+msgstr "American Armada"
 
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль X уровня"
+msgstr "Ship X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X уровень"
+msgstr "X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VIII–IX уровня"
+msgstr "Ship VIII–IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VIII–IX уровень"
+msgstr "VIII–IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Корабль V–VII уровня"
+msgstr "Ship V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII уровень"
+msgstr "V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_TITLE"
-msgstr "Премиум контейнер Lesta Games"
+msgstr "Premium Container Lesta Games"
 
 msgid "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_TITLE_SHORT"
 msgstr "Lesta Games"
@@ -15107,43 +15107,43 @@ msgid "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_TITLE"
-msgstr "Контейнер «Во имя прогресса!»"
+msgstr "Container 'For Progress!'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL176_BD8_COLLECTION_TITLE_SHORT"
-msgstr "Во имя прогресса!"
+msgstr "For Progress!"
 
 msgid "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_TITLE"
-msgstr "Контейнер «Сундук»"
+msgstr "Container 'Chest'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_TITLE_SHORT"
-msgstr "Сундук"
+msgstr "Chest"
 
 msgid "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_TITLE"
-msgstr "Контейнер «Заяц»"
+msgstr "Container 'Bunny'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_TITLE_SHORT"
-msgstr "Заяц"
+msgstr "Bunny"
 
 msgid "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_TITLE"
-msgstr "Контейнер «Утка»"
+msgstr "Container 'Duck'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_TITLE_SHORT"
-msgstr "Утка"
+msgstr "Duck"
 
 msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_TITLE"
-msgstr "Контейнер «Яйцо»"
+msgstr "Container 'Egg'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_TITLE_SHORT"
-msgstr "Яйцо"
+msgstr "Egg"
 
 msgid "IDS_REWARD_LOOTBOX_PCL181_FOLKCAMP_NEEDLE_SLOT_1_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL181_FOLKCAMP_NEEDLE_TITLE"
-msgstr "Контейнер «Игла»"
+msgstr "Container 'Needle'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL181_FOLKCAMP_NEEDLE_TITLE_SHORT"
-msgstr "Игла"
+msgstr "Needle"
 
 msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
 msgstr " "
@@ -15152,25 +15152,25 @@ msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый корабль X уровня"
+msgstr "Special Ship X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X уровень"
+msgstr "X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_TITLE"
-msgstr "Контейнер «Особый корабль X. Запасы коллекционера»"
+msgstr "Container 'Special Ship X. Collector's Reserves'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_TITLE_SHORT"
-msgstr "Особый корабль X. Запасы коллекционера"
+msgstr "Special Ship X. Collector's Reserves"
 
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль"
+msgstr "Premium Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_TITLE"
-msgstr "Премиум контейнер Picardie"
+msgstr "Premium Container Picardie"
 
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_TITLE_SHORT"
 msgstr "Picardie"
@@ -15179,115 +15179,115 @@ msgid "IDS_REWARD_LOOTBOX_PCL187_ARIA_COLLECTION_BOX_SLOT_1_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL187_ARIA_COLLECTION_BOX_TITLE"
-msgstr "Контейнер «Здесь куют металл»"
+msgstr "Container 'Forged in Metal'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL187_ARIA_COLLECTION_BOX_TITLE_SHORT"
-msgstr "Здесь куют металл"
+msgstr "Forged in Metal"
 
 msgid "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый или премиум корабль"
+msgstr "Special or Premium Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Смоленск Ч"
+msgstr "Smolensk C"
 
 msgid "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Смоленск Ч"
+msgstr "Smolensk C"
 
 msgid "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый или премиум корабль"
+msgstr "Special or Premium Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Смоленск Ч"
+msgstr "Smolensk C"
 
 msgid "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Смоленск Ч"
+msgstr "Smolensk C"
 
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль"
+msgstr "Premium Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_TITLE"
-msgstr "Премиум контейнер Karl XIV Johan"
+msgstr "Premium Container Karl XIV Johan"
 
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_TITLE_SHORT"
-msgstr "Karl XIV Johan"
+msgstr "Karl XIV Johan"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль X уровня или редкий корабль"
+msgstr "Ship X or Rare Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X или редкий"
+msgstr "X or Rare"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VIII–IX уровня"
+msgstr "Ship VIII–IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VIII–IX уровень"
+msgstr "VIII–IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Корабль V–VII уровня"
+msgstr "Ship V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII уровень"
+msgstr "V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_TITLE"
-msgstr "Премиум контейнер «Новогодний подарок»"
+msgstr "Premium Container 'New Year Gift'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_TITLE_SHORT"
-msgstr "Новогодний подарок"
+msgstr "New Year Gift"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Корабль X уровня или редкий корабль"
+msgstr "Ship X or Rare Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X или редкий"
+msgstr "X or Rare"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Корабль VIII–IX уровня"
+msgstr "Ship VIII–IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VIII–IX уровень"
+msgstr "VIII–IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Корабль V–VII уровня"
+msgstr "Ship V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "V–VII уровень"
+msgstr "V–VII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_TITLE"
-msgstr "Премиум контейнер «Гигантский новогодний подарок»"
+msgstr "Premium Container 'Giant New Year Gift'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_TITLE_SHORT"
-msgstr "Гигантский новогодний подарок"
+msgstr "Giant New Year Gift"
 
 msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый корабль"
+msgstr "Special Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_TITLE"
-msgstr "Контейнер «Особый корабль X»"
+msgstr "Container 'Special Ship X'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_TITLE_SHORT"
-msgstr "Особый корабль X"
+msgstr "Special Ship X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_TITLE_FULL"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Patagonia"
@@ -15296,145 +15296,145 @@ msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_1_TITLE_SHOR
 msgstr "Patagonia"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Премиум корабль"
+msgstr "Premium Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_TITLE"
-msgstr "Премиум контейнер «Эскадра Пан-Америки»"
+msgstr "Premium Container 'Pan-American Armada'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_TITLE_SHORT"
-msgstr "Эскадра Пан-Америки"
+msgstr "Pan-American Armada"
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_TITLE_FULL"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль IX уровня"
+msgstr "Premium Ship IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX уровень"
+msgstr "IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Особый корабль X уровня"
+msgstr "Special Ship X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "X уровень"
+msgstr "X"
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_FULL"
-msgstr "Премиум корабль VII–VIII уровня"
+msgstr "Premium Ship VII–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_VALUABLE_GROUP_3_TITLE_SHORT"
-msgstr "VII–VIII уровень"
+msgstr "VII–VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_TITLE"
-msgstr "Премиум контейнер «На страже Отечества»"
+msgstr "Premium Container 'Defender of the Fatherland'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_TITLE_SHORT"
-msgstr "На страже Отечества"
+msgstr "Defender of the Fatherland"
 
 msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Постоянный камуфляж"
+msgstr "Permanent Camouflage"
 
 msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Камуфляж"
+msgstr "Camouflage"
 
 msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_TITLE"
-msgstr "Премиум контейнер «Эцих»"
+msgstr "Premium Container 'Etc.'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_TITLE_SHORT"
-msgstr "Эцих"
+msgstr "Etc."
 
 msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль VIII уровня"
+msgstr "Premium Ship VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "VIII уровень"
+msgstr "VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_TITLE"
-msgstr "Премиум контейнер «9 Мая»"
+msgstr "Premium Container 'May 9th'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL198_VICTORY_DAY_2024_TITLE_SHORT"
-msgstr "9 Мая"
+msgstr "May 9th"
 
 msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_TITLE"
-msgstr "Контейнер «Ремонтные материалы»"
+msgstr "Container 'Repair Materials'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_TITLE_SHORT"
-msgstr "Ремонтные материалы"
+msgstr "Repair Materials"
 
 msgid "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум контейнер"
+msgstr "Premium Container"
 
 msgid "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Контейнер"
+msgstr "Container"
 
 msgid "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_TITLE"
-msgstr "Премиум контейнер «Российская матрёшка»"
+msgstr "Premium Container 'Russian Matryoshka'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL200_MATRYOSHKA_0_TITLE_SHORT"
-msgstr "Российская матрёшка"
+msgstr "Russian Matryoshka"
 
 msgid "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум контейнер или премиум корабль IX уровня"
+msgstr "Premium Container or Premium Ship IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Контейнер или корабль"
+msgstr "Container or Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_TITLE"
-msgstr "Премиум контейнер «Советская матрёшка»"
+msgstr "Premium Container 'Soviet Matryoshka'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL201_MATRYOSHKA_1_TITLE_SHORT"
-msgstr "Советская матрёшка"
+msgstr "Soviet Matryoshka"
 
 msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль IX уровня"
+msgstr "Premium Ship IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX уровень"
+msgstr "IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_TITLE"
-msgstr "Премиум контейнер «Императорская матрёшка»"
+msgstr "Premium Container 'Imperial Matryoshka'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL202_MATRYOSHKA_2_TITLE_SHORT"
-msgstr "Императорская матрёшка"
+msgstr "Imperial Matryoshka"
 
 msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_SLOT_1_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_TITLE"
-msgstr "Контейнер «Сетевые поставки»"
+msgstr "Container 'Network Supplies'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL203_INTERNET_PROVIDER_TITLE_SHORT"
-msgstr "Сетевые поставки"
+msgstr "Network Supplies"
 
 msgid "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_SLOT_1_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_TITLE"
-msgstr "Контейнер «Сокровищница флота»"
+msgstr "Container 'Fleet Treasury'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL204_GOLDBOX_TITLE_SHORT"
-msgstr "Сокровищница флота"
+msgstr "Fleet Treasury"
 
 msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_1_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Особый командир"
+msgstr "Special Commander"
 
 msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Командир"
+msgstr "Commander"
 
 msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_TITLE"
-msgstr "Премиум контейнер «Бесконечное лето»"
+msgstr "Premium Container 'Everlasting Summer'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL205_EVERLASTING_SUMMER_TITLE_SHORT"
-msgstr "Бесконечное лето"
+msgstr "Everlasting Summer"
 
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_TITLE_FULL"
 msgstr " "
@@ -15446,728 +15446,725 @@ msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_SLOT_1_VALUABLE_GROUP_1_TITLE_SHOR
 msgstr "Supercontainer"
 
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_TITLE"
-msgstr "Контейнер «Ежедневный»"
+msgstr "Container 'Daily'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL207_DAILYLOOTBOX_TITLE_SHORT"
-msgstr "Ежедневный"
+msgstr "Daily"
 
 msgid "IDS_REWARD_LOOTBOX_SLOTS_TITLE"
-msgstr "Свободный слот"
+msgstr "Free Slot"
 
 msgid "IDS_REWARD_PORTAL_DESCRIPTION"
-msgstr "Выдаётся за достижение высоких результатов в боевой задаче категории «Флотское мастерство». Начисляется призёрам автоматически после подведения итогов события."
+msgstr "Awarded for achieving high results in the 'Fleet Mastery' combat mission category. Automatically credited to winners after the event results are finalized."
 
 msgid "IDS_REWARD_PORTAL_TITLE"
-msgstr "Специальный приз"
+msgstr "Special Prize"
 
 msgid "IDS_REWARD_STREAM_PRM_BIG_DESCRIPTION"
-msgstr "Награда за просмотр трансляций в категории «Мир кораблей» на стриминговых платформах. Со списком содержимого можно ознакомиться на портале."
+msgstr "Reward for watching streams in the 'World of Warships' category on streaming platforms. The content list is available on the portal."
 
 msgid "IDS_REWARD_STREAM_PRM_BIG_TITLE"
-msgstr "Большой набор"
+msgstr "Big Set"
 
 msgid "IDS_REWARD_STREAM_PRM_MYSTERY_DESCRIPTION"
-msgstr "Награда за просмотр трансляций в категории «Мир кораблей» на стриминговых платформах. Со списком содержимого можно ознакомиться на портале."
+msgstr "Reward for watching streams in the 'World of Warships' category on streaming platforms. The content list is available on the portal."
 
 msgid "IDS_REWARD_STREAM_PRM_MYSTERY_TITLE"
-msgstr "Таинственная награда"
+msgstr "Mystery Reward"
 
 msgid "IDS_REWARD_STREAM_PRM_SMALL_DESCRIPTION"
-msgstr "Награда за просмотр трансляций на официальном канале «Мира кораблей» на платформе Twitch. Со списком содержимого можно ознакомиться на портале."
+msgstr "Reward for watching streams on the official 'World of Warships' channel on the Twitch platform. The content list is available on the portal."
 
 msgid "IDS_REWARD_STREAM_PRM_SMALL_TITLE"
-msgstr "Малый набор"
+msgstr "Small Set"
 
 msgid "IDS_REWARD_UNLOCK_KINDZADZA_PORT"
-msgstr "Порт Плюк"
+msgstr "Pluk Port"
 
 msgid "IDS_REWARD_UNLOCK_KINDZADZA_PORT_DESCRIPTION"
-msgstr "Возможность выбрать порт Плюк"
+msgstr "Option to select Pluk Port"
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_EFFECTIVE_SMOKES"
-msgstr "Прикрыть корабль союзника дымовой завесой"
+msgstr "Cover an allied ship with a smoke screen"
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_MAIN_CALIBER"
-msgstr "Попасть в корабль противника из орудий главного калибра"
+msgstr "Hit an enemy ship with main battery guns"
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SECONDARY_CALIBER"
-msgstr "Попасть в корабль противника из орудий вспомогательного калибра (ПМК)"
+msgstr "Hit an enemy ship with secondary battery guns"
 
 msgid "IDS_RIBBON_RIBBON_EFFECTIVE_SMOKES"
-msgstr "Прикрыл"
+msgstr "Covered"
 
 msgid "IDS_RIBBON_SSE_EFFECTIVE_SMOKES"
-msgstr "Прикрыл"
+msgstr "Covered"
 
 msgid "IDS_RIBBON_SSE_MINE"
-msgstr "Повредил корабль противника миной"
+msgstr "Damaged an enemy ship with a mine"
 
 msgid "IDS_RIGHTS_RESERVED"
-msgstr "© Lesta Games, 2022–2024. Игра «Мир кораблей» основана на интеллектуальной собственности третьих лиц. Все права на объекты прав третьих лиц принадлежат их законным правообладателям."
+msgstr "© Lesta Games, 2022–2024. The game 'Мир кораблей' is based on third-party intellectual property. All rights to third-party intellectual property objects belong to their rightful owners. English Localization by LocalizedKorabli."
 
 msgid "IDS_ROUND_NUMBER"
-msgstr "%(_round)s-Й РАУНД"
+msgstr "ROUND %(_round)s"
 
 msgid "IDS_ROUND_NUMBER_ENDED"
-msgstr "%(_round)s-Й РАУНД ЗАВЕРШЁН"
+msgstr "ROUND %(_round)s ENDED"
 
 msgid "IDS_SCENARIO_2WAGONS_REVERCED"
-msgstr "Сопровождение дирижаблей. Альтернативный режим"
+msgstr "Airship Escort: Alternative mode"
 
 msgid "IDS_SCENARIO_ASYMM_COOP_SPECIAL"
-msgstr "Асимметричный бой — Превосходство"
+msgstr "Asymmetric Battle — Supremacy"
 
 msgid "IDS_SCENARIO_CVC_ARMSRACE"
-msgstr "Кланы. Гонка вооружений"
+msgstr "Clans — Arms race"
 
 msgid "IDS_SCENARIO_CVC_DOMINATION_ALT"
-msgstr "Кланы. Превосходство — Альтернативный"
+msgstr "Clans — Domination — Alternative"
 
 msgid "IDS_SCENARIO_CVC_DOMINATION_BRAWL_ALT"
-msgstr "Блиц. Превосходство — Альтернативный"
+msgstr "Brawl — Domination — Alternative"
 
 msgid "IDS_SCENARIO_DOMINATION_3POINT_REVISED"
-msgstr "Превосходство. Альтернативный режим"
+msgstr "Domination — Alternative"
 
 msgid "IDS_SCENARIO_DOMINATION_3POINT_REVISED_COOP"
-msgstr "Превосходство — Кооперативный. Альтернативный режим"
+msgstr "Domination — Co-op — Alternative"
 
 msgid "IDS_SCENARIO_DOMINATION_4POINT_ROMB"
-msgstr "Превосходство — Четыре точки. Альтернативный режим"
+msgstr "Domination — Four Areas — Alternative"
 
 msgid "IDS_SCENARIO_DOMINATION_4POINT_ROMB_COOP"
-msgstr "Превосходство — Четыре точки — Кооперативный. Альтернативный режим"
+msgstr "Domination — Co-op — Four Areas — Alternative"
 
 msgid "IDS_SCENARIO_EV_SPACE2024"
-msgstr "К высотам мастерства"
+msgstr "To the heights of mastery"
 
 msgid "IDS_SCENARIO_PCVE026_AIR_BARRIERS"
-msgstr "Скрытые манёвры"
+msgstr "Conceal maneuvers"
 
 msgid "IDS_SCENARIO_RANKED_DOMINATION_ALT"
-msgstr "Ранговый бой. Превосходство — Альтернативный"
+msgstr "Ranked Battle. Domination. Alternative"
 
 msgid "IDS_SECOND_ARIA_NAME"
-msgstr "Песни"
+msgstr "Songs"
 
 msgid "IDS_SECOND_SCARLET_BIRTHDAY_NAME"
-msgstr "Ударный труд — залог прогресса"
+msgstr "Hard work is the key to progress"
 
 msgid "IDS_SELECTED_TRAINING_BATTLE_TIME"
-msgstr "Длительность боя"
+msgstr "Battle duration:"
 
 msgid "IDS_SELECTED_TRAINING_BATTLE_TIME_TOOLTIP"
-msgstr "Время, по истечении которого бой автоматически завершится"
+msgstr "The time after which the battle will automatically end"
 
 msgid "IDS_SELECT_DOGTAG_COMPONENT_SYMBOL_PATCH"
-msgstr "Выбрать нашивку"
+msgstr "Choose a patch"
 
 msgid "IDS_SELECT_DOGTAG_COMPONENT_SYMBOL_UNIQUE"
-msgstr "Выбрать эмблему"
+msgstr "Choose an emblem"
 
 msgid "IDS_SERVER_WILL_RESTART_DOCK"
 msgstr ""
-"Внимание! Сервер будет недоступен по причине профилактических работ через %(timeLeft)s.\n"
-"Вы будете перенаправлены в окно логина."
+"Attention! Server will be unavailable due to maintenance in %(timeLeft)s\n"
+"You will be redirected to the login window."
 
 msgid "IDS_SERVICE_SHIP_TO_OPERATE_MODERNIZATION"
-msgstr "Необходимо провести обслуживание корабля для изменения модернизаций."
+msgstr "Ship maintenance needs to be done to change modernizations."
 
 msgid "IDS_SESSION_ACCURACY_MAIN_PERCENT"
-msgstr "Процент попаданий снарядами главного калибра в боях."
+msgstr "The percentage of hits by main battery shells in battles."
 
 msgid "IDS_SESSION_AVG_DEAL_OUT_DAMAGE"
-msgstr "Среднее количество урона, нанесённое кораблям противника за бой."
+msgstr "The average amount of damage done to enemy ships per battle."
 
 msgid "IDS_SESSION_AVG_DESTROYED_ENEMY_AIRCRAFT"
-msgstr "Среднее количество сбитых самолётов противника за бой."
+msgstr "Average number of enemy planes shot down per battle."
 
 msgid "IDS_SESSION_AVG_DESTROYED_ENEMY_SHIPS"
-msgstr "Среднее количество потопленных кораблей противника за бой."
+msgstr "Average number of enemy ships destroyed per battle."
 
 msgid "IDS_SESSION_AVG_SHIPS_SPOTTED"
-msgstr "Среднее количество обнаруженных кораблей противника за бой."
+msgstr "Average number of enemy ships spotted per battle."
 
 msgid "IDS_SESSION_RESOURCES"
-msgstr "Количество ресурсов, полученное за все бои сегодня"
+msgstr "Total resources earned from all battles today."
 
 msgid "IDS_SESSION_REWARD_CREDITS_DESCRIPTION"
-msgstr "Количество кредитов, полученное за все бои сегодня."
+msgstr "Total credits earned from all battles today."
 
 msgid "IDS_SESSION_REWARD_CREDITS_TITLE"
-msgstr "Кредиты"
+msgstr "Credits"
 
 msgid "IDS_SESSION_REWARD_CREWXP_DESCRIPTION"
-msgstr "Количество опыта командира, полученное за все бои сегодня."
+msgstr "Total commander XP earned from all battles today."
 
 msgid "IDS_SESSION_REWARD_CREWXP_TITLE"
-msgstr "Опыт командира"
+msgstr "Commander XP"
 
 msgid "IDS_SESSION_REWARD_ELITEXP_DESCRIPTION"
-msgstr "Количество элитного опыта командиров, полученное за все бои сегодня."
+msgstr "Total elite commander XP earned from all battles today."
 
 msgid "IDS_SESSION_REWARD_ELITEXP_TITLE"
-msgstr "Элитный опыт командиров"
+msgstr "Elite Commander XP"
 
 msgid "IDS_SESSION_REWARD_EXP_DESCRIPTION"
-msgstr "Количество опыта корабля, полученное за все бои сегодня."
+msgstr "Total ship XP earned from all battles today."
 
 msgid "IDS_SESSION_REWARD_EXP_TITLE"
-msgstr "Опыт корабля"
+msgstr "Ship XP"
 
 msgid "IDS_SESSION_REWARD_FREEXP_DESCRIPTION"
-msgstr "Количество свободного опыта, полученное за все бои сегодня."
+msgstr "Total free XP earned from all battles today."
 
 msgid "IDS_SESSION_REWARD_FREEXP_TITLE"
-msgstr "Свободный опыт"
+msgstr "Free XP"
 
 msgid "IDS_SESSION_STATS_BATTLES_PLAYED"
-msgstr "Проведено боёв сегодня"
+msgstr "Battles played today"
 
 msgid "IDS_SESSION_STATS_BATTLES_PLAYED_TOOLTIP"
-msgstr "Общее количество проведённых боёв."
+msgstr "Total number of battles played."
 
 msgid "IDS_SESSION_STATS_RESET"
-msgstr "Сбросить"
+msgstr "Reset"
 
 msgid "IDS_SESSION_TIME"
-msgstr "За сутки"
+msgstr "Today"
 
 msgid "IDS_SESSION_TOTAL"
-msgstr "Итого"
+msgstr "Total"
 
 msgid "IDS_SESSION_VICTORY_PERCENT"
-msgstr "Процент побед в боях."
+msgstr "Victory percentage in battles."
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_MODERNIZATION"
-msgstr "Установлен статус «Готов к бою в отряде». Нажмите «Не готов» для изменения модернизаций."
+msgstr "Status set to 'Ready for battle in a division.' Click 'Not Ready' to change modernizations."
 
 msgid "IDS_SHIPCOMPONENT_INFO_DESCRIPTION"
-msgstr "Для ремонта определённого корабля."
+msgstr "To repair a certain ship."
 
 msgid "IDS_SHIPCOMPONENT_SHORT_TITLE"
-msgstr "Конструкции"
+msgstr "Structures"
 
 msgid "IDS_SHIPMATERIAL"
-msgstr "%(shipLevel)s уровень"
+msgstr "Tier %(shipLevel)s"
 
 msgid "IDS_SHIPMATERIAL_INFO_DESCRIPTION"
-msgstr "Для ремонта любых кораблей определённого уровня."
+msgstr "To repair any ships of a certain tier."
 
 msgid "IDS_SHIPMATERIAL_NONE"
-msgstr "У вас нет заготовок для ремонта кораблей."
+msgstr "You have no ship repair blanks."
 
 msgid "IDS_SHIPMATERIAL_SHORT_TITLE"
-msgstr "Заготовки"
+msgstr "Blanks"
 
 msgid "IDS_SHIPMATERIAL_WITH_LEVEL_TITLE"
-msgstr "%(shipLevel)s уровень"
+msgstr "Tier %(shipLevel)s"
 
 msgid "IDS_SHIPSHARDS_PROGRESS_STATUS_DONE"
-msgstr "Готов к ремонту"
+msgstr "Ready for repair"
 
 msgid "IDS_SHIPSHARDS_PROGRESS_TITLE"
-msgstr "Конструкции"
+msgstr "Constructions"
 
 msgid "IDS_SHIPS_BRANCHES_CURRENT_PARAMS"
-msgstr "ОСНАЩЕНИЕ"
+msgstr "CURRENT EQUIPMENT"
 
 msgid "IDS_SHIPS_BRANCHES_DEFAULT_PARAMS"
-msgstr "ОСНАЩЕНИЕ С БАЗОВЫМИ ХАРАКТЕРИСТИКАМИ"
+msgstr "BASIC EQUIPMENT"
 
 msgid "IDS_SHIPS_BRANCHES_FEATURES_HINT"
-msgstr "Отличия от других кораблей этого класса соответствующих уровней"
+msgstr "Differences from other ships of this class of corresponding tiers"
 
 msgid "IDS_SHIPS_BRANCHES_FEATURES_TOOLTIP_MOUSE_INSTRUCTION"
-msgstr "Перейти к особенностям ветки кораблей"
+msgstr "Go to the features of the ships branch"
 
 msgid "IDS_SHIPS_BRANCHES_TAB_ALL_SHIPS"
-msgstr "ВСЕ КОРАБЛИ ВЕТКИ"
+msgstr "ALL SHIPS OF THE BRANCH"
 
 msgid "IDS_SHIPYARD_FINAL_LEVEL_BANNER"
-msgstr "Chesapeake построен"
+msgstr "Chesapeake built"
 
 msgid "IDS_SHIP_ACES_RULES_DAMAGE_FIRE_FLOOD"
-msgstr "Нанесите как можно больше урона пожарами и затоплениями."
+msgstr "Deal as much damage as you can with fire and flooding."
 
 msgid "IDS_SHIP_BRANCHES_FEATURE"
-msgstr "Особенности"
+msgstr "Features"
 
 msgid "IDS_SHIP_COMPLEXITY_HIGH"
-msgstr "Сложно освоить"
+msgstr "Hard to master"
 
 msgid "IDS_SHIP_COMPLEXITY_LOW"
-msgstr "Просто освоить"
+msgstr "Easy to master"
 
 msgid "IDS_SHIP_COMPLEXITY_TOOLTIP_DESCTIPTION_1"
-msgstr "Этот корабль прост в освоении и подойдёт любому игроку."
+msgstr "This ship is easy to master and suitable for any player."
 
 msgid "IDS_SHIP_COMPLEXITY_TOOLTIP_DESCTIPTION_2"
-msgstr "Этот корабль имеет оптимальную сложность освоения и подойдёт большинству игроков."
+msgstr "This ship has an optimal level of complexity and is suitable for most players."
 
 msgid "IDS_SHIP_COMPLEXITY_TOOLTIP_DESCTIPTION_3"
-msgstr "Этот корабль сложен в освоении и подойдёт опытным игрокам."
+msgstr "This ship is difficult to master and is suitable for experienced players."
 
 msgid "IDS_SHIP_COMPLEXITY_TOOLTIP_HEADER"
-msgstr "Сложность освоения"
+msgstr "Difficulty of mastering"
 
 msgid "IDS_SHIP_FEATURES_NO_CREW_RETRAINING"
-msgstr "Смена командира без ограничений"
+msgstr "No retraining required when assigning Commanders to this ship"
 
 msgid "IDS_SHIP_FEAT_GOOD_RADAR_OR_SMOKE"
-msgstr "Доступна установка снаряжения «Поисковая РЛС» вместо «Дымогенератора»"
+msgstr "Surveillance Radar consumable available for mounting instead of Smoke Generator"
 
 msgid "IDS_SHIP_FEAT_MC_AP_OVERMATCH_26_GOOD"
-msgstr "Большой калибр позволяет бронебойным снарядам не рикошетить о броню толщиной 26 мм и ниже"
+msgstr "Large caliber prevents AP shells from ricocheting off armor 26 mm thick and below"
 
 msgid "IDS_SHIP_FEAT_MC_AP_OVERMATCH_26_GOOD_DESC"
-msgstr "Большой калибр позволяет бронебойным снарядам не рикошетить о броню толщиной 26 мм и ниже."
+msgstr "Large caliber prevents AP shells from ricocheting off armor 26 mm thick and below."
 
 msgid "IDS_SHIP_FEAT_MC_AP_OVERMATCH_28_GOOD_DESC"
-msgstr "Большой калибр позволяет бронебойным снарядам не рикошетить о броню толщиной 28 мм и ниже."
+msgstr "Large caliber prevents AP shells from ricocheting off armor 28 mm thick and below."
 
 msgid "IDS_SHIP_FEAT_MC_AP_OVERMATCH_32_GOOD_DESC"
-msgstr "Большой калибр позволяет бронебойным снарядам не рикошетить о броню толщиной 32 мм и ниже."
+msgstr "Large caliber prevents AP shells from ricocheting off armor 32 mm thick and below."
 
 msgid "IDS_SHIP_FEAT_MC_AP_OVERMATCH_35_GOOD_DESC"
-msgstr "Большой калибр позволяет бронебойным снарядам не рикошетить о броню толщиной 35 мм и ниже."
+msgstr "Large caliber prevents AP shells from ricocheting off armor 35 mm thick and below."
 
 msgid "IDS_SHIP_INFO_HIDDEN_IN_TRAINING"
-msgstr "Оснащение противника скрыто"
+msgstr "The enemy's equipment is hidden"
 
 msgid "IDS_SHIP_MAIN_MC_AP_SUPER_OVERMATCH_GOOD"
-msgstr "ББ-снаряды не рикошетят об обшивку кораблей"
+msgstr "AP shells don't ricochet off the hulls of ships."
 
 msgid "IDS_SHIP_MANAGEMENT_MINE_ALT_SUBBLOCK_DESCR"
-msgstr "Вооружение и снаряжение постановщиков мин"
+msgstr "Armament and consumables of mine layers"
 
 msgid "IDS_SHIP_MANAGEMENT_MINE_SUBBLOCK_DESCR"
-msgstr "Вооружение и снаряжение постановщиков мин"
+msgstr "Armament and consumables of mine layers"
 
 msgid "IDS_SHIP_MANAGEMENT_PREVIEW"
-msgstr "О корабле"
+msgstr "About the ship"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_AAA_MAX_DISTANCE"
-msgstr "В выбранном типе боя этот параметр обладает фиксированным значением, которое нельзя изменить с помощью модулей, модернизаций, сигналов и навыков командира."
+msgstr "In the selected combat type, this parameter has a fixed value that cannot be changed by modules, modernizations, signals and commander skills."
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_VISIBILITY_BY_PLANE"
 msgstr ""
-"В выбранном типе боя этот параметр обладает фиксированным значением, которое нельзя изменить с помощью модулей, модернизаций, сигналов и навыков командира.\n"
-"Если в зоне действия работающей ПВО находится самолёт противника, заметность равна дальности стрельбы ПВО."
+"In the selected battle type, this parameter has a fixed value that cannot be changed using modules, modernizations, signals, or commander skills.\n"
+"If an enemy aircraft is within the active AA defense zone, visibility equals the AA firing range."
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_VISIBILITY_BY_PLANE_AND_SHIP"
-msgstr "В выбранном типе боя эти параметры обладают фиксированным значением, которое нельзя изменить с помощью модулей, модернизаций, сигналов и навыков командира."
+msgstr "In the selected battle type, this parameter has a fixed value that cannot be changed using modules, modernizations, signals, or commander skills."
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_AAA_MAX_DISTANCE"
-msgstr "Дальность ПВО"
+msgstr "AA Defense Range"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_ACCURACY"
-msgstr "Повышение точности"
+msgstr "Improved accuracy"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_CONSUMABLES"
-msgstr "Повышение характеристик снаряжения"
+msgstr "Enhanced Consumables"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_ENGINE"
-msgstr "Повышение манёвренности"
+msgstr "Enhanced Maneuverability"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_WEAPONS_RELOAD_FACTOR"
-msgstr "Ускорение перезарядки"
+msgstr "Faster Reload Time"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DAMAGE_RESIST"
-msgstr "Сопротивление урону"
+msgstr "Damage Resistance"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_ATBA"
-msgstr "Ослабление ПМК"
+msgstr "Reduced Secondary Battery Efficiency"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_GM_DAMAGE"
-msgstr "Ослабление главного калибра"
+msgstr "Reduced Main Battery Efficiency"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_TORPEDO_DAMAGE"
-msgstr "Ослабление торпедного вооружения"
+msgstr "Reduced Torpedo Damage"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_WEAPON_DAMAGE"
-msgstr "Уменьшение урона"
+msgstr "Reduced Weapon Damage"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_HEALTH_REGENERATION"
-msgstr "Восстановление боеспособности"
+msgstr "Health Regeneration"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INCREASED_ATBA"
-msgstr "Усиление ПМК"
+msgstr "Increased Secondary Battery Efficiency"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INCREASED_GM_DAMAGE"
-msgstr "Усиление главного калибра"
+msgstr "Increased Main Battery Efficiency"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INCREASED_TORPEDO_DAMAGE"
-msgstr "Усиление торпедного вооружения"
+msgstr "Increased Torpedo Efficiency"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INCREASED_WEAPON_DAMAGE"
-msgstr "Увеличение урона"
+msgstr "Increased Weapon Efficiency"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PLANE_SPAWN_TIME"
-msgstr "Ускорение подготовки самолётов"
+msgstr "Faster Aircraft Preparation"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE"
-msgstr "Заметность с самолётов"
+msgstr "Visibility from Aircraft"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE_AND_SHIP"
-msgstr "Заметность с самолётов и кораблей"
+msgstr "Visibility from Aircraft and Ships"
 
 msgid "IDS_SHIP_MODIFIER_PXOM103_AIRBARRIER_ENGINE_BOOST"
-msgstr "Повышение манёвренности"
+msgstr "Enhanced Maneuverability"
 
 msgid "IDS_SHIP_OWN_STATUS"
-msgstr "Корабль получен"
+msgstr "Ship Acquired"
 
 msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
-msgstr "ПМК недоступен"
+msgstr "Secondary Battery Unavailable"
 
 msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
-msgstr "Снаряжение недоступно"
+msgstr "Consumables Unavailable"
 
 msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
-msgstr "Генератор помех"
+msgstr "Filth Generator"
 
 msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_MOVEMENT"
-msgstr "Манёвренность ограничена"
+msgstr "Maneuverability Limited"
 
 msgid "IDS_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
-msgstr "Вооружение недоступно"
+msgstr "Weapons Unavailable"
 
 msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_TYPE_TALENT"
-msgstr "Национальный талант"
+msgstr "National Talent"
 
 msgid "IDS_SHIP_PARAM_ARTILLERY_MIN_SWITCH_TIME"
-msgstr "Время смены типа снаряда"
+msgstr "Shell Type Switch Time"
 
 msgid "IDS_SHIP_PARAM_DRUM_FIRE_SALVO_COUNT"
-msgstr "Количество залпов в серии"
+msgstr "Number of Salvos in Series"
 
 msgid "IDS_SHIP_PARAM_DRUM_FIRE_SALVO_SHOT_DELAY"
-msgstr "Минимальный интервал между залпами"
+msgstr "Minimum Interval Between Salvos"
 
 msgid "IDS_SHIP_PARAM_DRUM_SHOT_DELAY"
 msgid_plural "IDS_SHIP_PARAM_DRUM_SHOT_DELAY"
-msgstr[0] "Время перезарядки %(_shotCount)s-го залпа"
-msgstr[1] ""
+msgstr[0] "Reload time of salvo %(_shotCount)s"
+msgstr[1] "Reload time of salvo %(_shotCount)s"
 
 msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_IN_AVIA_SPOTTING_RANGE"
-msgstr "Зона обнаружения авиацией"
+msgstr "Aircraft Detection Area"
 
 msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_MINEFIELD_INACTIVE"
-msgstr "Минное заграждение (активируется)"
+msgstr "Minefield (Set)"
 
 msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_IN_AVIA_SPOTTING_RANGE"
-msgstr "В этой области ваш корабль может быть обнаружен авиацией противника, даже если у вас отключена ПВО."
+msgstr "In this area, your ship can be detected by enemy aircraft, even if you have air defense disabled."
 
 msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_MINEFIELD"
-msgstr "Мины взрываются при контакте с кораблями. Наносят урон и имеют высокую вероятность вызвать затопление."
+msgstr "Mines explode on contact with ships. They cause damage and have a high probability of causing flooding."
 
 msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_MINEFIELD_INACTIVE"
-msgstr "Мины взрываются при контакте с кораблями. Наносят урон и имеют высокую вероятность вызвать затопление."
+msgstr "Mines explode on contact with ships. They cause damage and have a high probability of causing flooding."
 
 msgid "IDS_SHIP_PARAM_MINEFIELD_ACTIVATION_TIME"
-msgstr "Время активации минного заграждения"
+msgstr "Minefield activation time"
 
 msgid "IDS_SHIP_PARAM_MINEFIELD_LIFE_TIME"
-msgstr "Время действия минного заграждения"
+msgstr "Minefield action time"
 
 msgid "IDS_SHIP_PARAM_MINEFIELD_RADIUS"
-msgstr "Максимальный радиус минного заграждения"
+msgstr "Maximum radius of the minefield"
 
 msgid "IDS_SHIP_PARAM_MINES_COUNT"
-msgstr "Мин на самолёте"
+msgstr "Count of mines"
 
 msgid "IDS_SHIP_PARAM_MINES_DAMAGE"
-msgstr "Максимальный урон миной"
+msgstr "Maximum damage of mine"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_MINE"
-msgstr "Минное заграждение"
+msgstr "Minefield"
 
 msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_BOW"
 msgstr ""
-"Носовая группа\n"
-"торпедных аппаратов"
+"Torpedo Tubes\n"
+"Bow Group"
 
 msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE"
 msgstr ""
-"Бортовая группа\n"
-"торпедных аппаратов"
+"Torpedo Tubes\n"
+"Side Group"
 
 msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_STERN"
 msgstr ""
-"Кормовая группа\n"
-"торпедных аппаратов"
+"Torpedo Tubes\n"
+"Stern Group"
 
 msgid "IDS_SHIP_PARAM_TORPEDO_SHOT_DELAY"
 msgid_plural "IDS_SHIP_PARAM_TORPEDO_SHOT_DELAY"
-msgstr[0] "Время перезарядки %(_shotCount)s-й торпеды"
-msgstr[1] ""
+msgstr[0] "Reload time of torpedo %(_shotCount)s"
+msgstr[1] "Reload time of torpedo %(_shotCount)s"
 
 msgid "IDS_SHIP_PARAM_TORPEDO_TUBE_COUNT"
-msgstr "Количество торпедных аппаратов"
+msgstr "Number of torpedo tubes"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_PLANE"
-msgstr "Заметность с самолётов"
+msgstr "Visibility from airplanes"
 
 msgid "IDS_SHIP_POTENTIAL_DAMAGE_PER_MINUTE_HIGH"
-msgstr "Высокая живучесть"
+msgstr "High survivability"
 
 msgid "IDS_SHIP_POTENTIAL_DAMAGE_PER_MINUTE_LOW"
-msgstr "Низкая живучесть"
+msgstr "Low survivability"
 
 msgid "IDS_SHIP_PREVIEW"
-msgstr "О корабле"
+msgstr "About the ship"
 
 msgid "IDS_SHIP_REWARD_RENT_STATUS_DURATION"
-msgstr "В аренду на: %(_timeLeft)s"
+msgstr "Rental time: %(_timeLeft)s remaining"
 
 msgid "IDS_SHIP_REWARD_RENT_STATUS_UNTIL"
-msgstr "В аренду до: %(_timeLeft)s"
+msgstr "Rental time: until %(_timeLeft)s"
 
 msgid "IDS_SHIP_SHARDS_COMMON_TITLE"
-msgstr "Ремонтные материалы"
+msgstr "Repair materials"
 
 msgid "IDS_SHIP_SHARDS_INFO_TEXT_0"
-msgstr "В Ремонтном доке вы можете получать новые корабли."
+msgstr "You can get new ships at the Repair Dock."
 
 msgid "IDS_SHIP_SHARDS_INFO_TEXT_1"
-msgstr "Здесь будут появляться корабли, требующие ремонта. Когда вы отремонтируете их, они станут вашими и вы сможете выходить на них в бой."
+msgstr "Ships that require repairs will appear here. Once you repair them, they will become yours, and you will be able to take them into battle."
 
 msgid "IDS_SHIP_SHARDS_INFO_TEXT_2"
-msgstr "Для ремонта необходимы ремонтные материалы: конструкции и заготовки. Чтобы новый корабль появился в вашем Ремонтном доке, нужно получить хотя бы одну конструкцию этого корабля."
+msgstr "To repair a ship, you need repair materials: structures and blanks. For a new ship to appear in your Repair Dock, you must obtain at least one structure of that ship."
 
 msgid "IDS_SHIP_SHARDS_INFO_TEXT_3"
-msgstr "Вы можете получить ремонтные материалы за участие в событиях или купить их в Адмиралтействе."
+msgstr "You can obtain repair materials by participating in events or purchasing them in the Admiralty."
 
 msgid "IDS_SHIP_SHARDS_REPAIR_QUESTION"
-msgstr "Отремонтировать за"
+msgstr "Repair for"
 
 msgid "IDS_SHIP_SHARDS_REPAIR_WARNING"
-msgstr "Вместо неиспользованных конструкций вы получите заготовки в соотношении 1 к 1"
+msgstr "Instead of unused structures, you will receive blanks at a 1 to 1 ratio"
 
 msgid "IDS_SHIP_SHARDS_SHIP_REPAIR_HEADER"
-msgstr "Ремонт корабля"
+msgstr "Ship repair"
 
 msgid "IDS_SHIP_SHARDS_TOOLTIP_CONVERT_RATE_TEXT"
-msgstr "Расход заготовок на конструкции"
+msgstr "Consumption of blanks for structures"
 
 msgid "IDS_SHIP_SHARDS_TOOLTIP_TITLE"
-msgstr "Все заготовки"
+msgstr "All blanks"
 
 msgid "IDS_SHIP_SHARDS_TTX_BUTTON_REPAIR"
-msgstr "Отремонтировать"
+msgstr "Repair"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT"
-msgstr "Для ремонта корабля нужно 100 конструкций. Когда вы соберёте как минимум 50 конструкций, вы сможете завершить ремонт, используя заготовки. При ремонте каждая недостающая конструкция будет создана из 10 заготовок соответствующего уровня."
+msgstr "To repair a ship, you need 100 structures. When you collect at least 50 structures, you can complete the repair using blanks. During the repair, each missing structure will be created from 10 blanks of the corresponding tier."
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_1"
-msgstr "Завершите ремонт корабля"
+msgstr "Complete the ship's repair"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_2"
-msgstr "с помощью"
+msgstr "with the help of"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_FINISH_1_3"
-msgstr "или соберите ещё"
+msgstr "or collect more"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_PROGRESS_1_1"
-msgstr "Для ремонта корабля"
+msgstr "Repair the ship"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_PROGRESS_1_2"
-msgstr "нужно ещё"
+msgstr "Need extra:"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_1"
-msgstr "Для ремонта корабля необходимо собрать как минимум %(_shipComponentsCount)s конструкций — %(_shipName)s."
+msgstr "To repair a ship, you must collect at least %(_shipComponentsCount)s of Structures — %(_shipName)s."
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_2_1"
-msgstr "Недостающие конструкции могут быть созданы"
+msgstr "Missing structures can be created"
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TEXT_START_2_2"
-msgstr "из заготовок — %(_shipLevel)s при ремонте."
+msgstr "from Blanks — %(_shipLevel)s for repairs."
 
 msgid "IDS_SHIP_SHARDS_TTX_INFO_TITLE"
-msgstr "Ремонтные материалы"
+msgstr "Repair materials"
 
 msgid "IDS_SHIP_SHIPNAME_RESTRICTION"
-msgstr "Выполнение задания на определённом корабле"
+msgstr "Completing a mission on a specific ship"
 
 msgid "IDS_SHIP_SHIPTYPE_RESTRICTION"
-msgstr "Ограничения по классу корабля"
+msgstr "Ship class restrictions"
 
 msgid "IDS_SHIP_SPECIAL_UNIVERSAL"
-msgstr "Универсальная роль в бою"
+msgstr "A versatile role in combat"
 
 msgid "IDS_SHIP_TAG_AIRCARRIER"
-msgstr "авианосцев"
+msgstr "carriers"
 
 msgid "IDS_SHIP_TAG_AIRCARRIER_LEGENDARY"
-msgstr "суперавианосцев"
+msgstr "supercarriers"
 
 msgid "IDS_SHIP_TAG_BATTLESHIP"
-msgstr "линкоров"
+msgstr "battleships"
 
 msgid "IDS_SHIP_TAG_BATTLESHIP_LEGENDARY"
-msgstr "суперлинкоров"
+msgstr "superbattleships"
 
 msgid "IDS_SHIP_TAG_CRUISER"
-msgstr "крейсеров"
+msgstr "cruisers"
 
 msgid "IDS_SHIP_TAG_CRUISER_LEGENDARY"
-msgstr "суперкрейсеров"
+msgstr "supercruisers"
 
 msgid "IDS_SHIP_TAG_DESTROYER"
-msgstr "эсминцев"
+msgstr "destroyers"
 
 msgid "IDS_SHIP_TAG_DESTROYER_LEGENDARY"
-msgstr "суперэсминцев"
+msgstr "superdestroyers"
 
 msgid "IDS_SHIP_TAG_SUBMARINE"
-msgstr "подводных лодок"
+msgstr "submarines"
 
 msgid "IDS_SHIP_TAG_SUBMARINE_LEGENDARY"
-msgstr "суперподлодок"
+msgstr "supersubmarines"
 
 msgid "IDS_SHORT_DASH"
 msgstr "–"
 
 msgid "IDS_SIGNALS_TOOLTIP_INFO_TEXT"
-msgstr "Установленные сигналы не расходуются в Клановых и Тренировочных боях."
+msgstr "Signals are not consumed in Clan and Training battles."
 
 msgid "IDS_SIGNAL_SLOT_OPEN_INFOTIP"
-msgstr "Открыть список сигналов"
+msgstr "Open the list of signals"
 
 msgid "IDS_SIGNAL_TYPE_0_SIMPLE_SUMMARY_TOOLTIP"
-msgstr "Живучесть"
+msgstr "Survivability"
 
 msgid "IDS_SIGNAL_TYPE_1_SIMPLE_SUMMARY_TOOLTIP"
-msgstr "Наносимый урон"
+msgstr "Damage ability"
 
 msgid "IDS_SIGNAL_TYPE_2_SIMPLE_SUMMARY_TOOLTIP"
-msgstr "Вспомогательное вооружение"
+msgstr "Auxiliary armament"
 
 msgid "IDS_SIGNAL_TYPE_3_SIMPLE_SUMMARY_TOOLTIP"
-msgstr "Скорость"
+msgstr "Speed"
 
 msgid "IDS_SIGNAL_TYPE_4_SIMPLE_SUMMARY_TOOLTIP"
-msgstr "Снаряжение"
+msgstr "Consumables"
 
 msgid "IDS_SIGNAL_TYPE_5_SIMPLE_SUMMARY_TOOLTIP"
-msgstr "Сопротивление урону"
+msgstr "Damage Resistance"
 
 msgid "IDS_SKILL_AA_DAMAGE_CONSTANT_BUBBLES"
-msgstr "Мастер огневой подготовки"
+msgstr "Master of firearms training"
 
 msgid "IDS_SKILL_ATBA_UPGRADE"
-msgstr "Мастер ближнего боя"
+msgstr "Defensive Fire Expert"
 
 msgid "IDS_SKILL_DESC_AA_PRIORITYSECTOR_DAMAGE_CONSTANT_OVERRIDE_FOR_WEB"
-msgstr "Улучшает характеристики ПВО и авиаудара."
+msgstr "Improves AA gun and Airstrike armament characteristics."
 
 msgid "IDS_SKILL_DESC_DEFENSE_CRIT_PROBABILITY"
-msgstr "Уменьшается вероятность выхода из строя башен главного калибра, торпедных аппаратов, рулевых машин и двигателя."
+msgstr "Reduces the risk of the main turrets, sonar, torpedo tubes, steering gears, and engine becoming incapacitated."
 
 msgid "IDS_SKILL_DESC_DETECTION_AIMING"
-msgstr "Отображается количество противников, которые держат ваш корабль под прицелом орудий главного калибра или которые атакуют вашу эскадрилью орудиями ПВО."
+msgstr "Displays the number of enemies who are holding your ship at gunpoint with main caliber guns or who are attacking your squadron with air defense guns."
 
 msgid "IDS_SKILL_PLANES_TORPEDO_UW_REDUCED"
-msgstr "Неконтактный взрыватель торпед и мин"
+msgstr "Non-contact fuse for torpedoes and mines"
 
 msgid "IDS_SKILL_TORPEDO_DAMAGE"
-msgstr "Увеличенный заряд взрывчатого вещества торпед"
+msgstr "Increased explosive charge of torpedoes"
 
 msgid "IDS_SKILL_TRIGGER_ACTIVATIONONBURNFLOOD"
-msgstr "Улучшаются параметры корабля за каждый действующий пожар на вашем корабле."
+msgstr "Reduces main battery reload time for each instance of fire or flooding affecting your ship."
 
 msgid "IDS_SKILL_TRIGGER_ACTIVATIONONDETECTTRIGGER"
-msgstr "Уменьшается точность огня противника по вашему кораблю в течение 15 секунд после обнаружения."
+msgstr "Stays active for 15 s after your ship has been spotted."
 
 msgid "IDS_SKILL_TRIGGER_ENEMYWITHINVISIBILITYTRIGGER"
-msgstr "Увеличивается скорость перезарядки орудий главного калибра, пока в пределах заметности корабля есть видимый корабль противника. Изменения заметности при выстрелах из орудий главного калибра и других боевых событиях не учитываются."
+msgstr "Increases main battery reload speed while an enemy ship is within your ship's standard detectability range. Changes to ship detectability caused by firing main guns, and other combat events are not taken into account."
 
 msgid "IDS_SKILL_TRIGGER_NOENEMIESWITHINVISIBILITYTRIGGER"
-msgstr "Увеличивается точность орудий главного калибра, пока в пределах заметности корабля нет видимых кораблей противника. Изменения заметности при выстрелах из орудий ГК и других боевых событиях не учитываются."
+msgstr "Increases main battery firing accuracy as long as no enemy ship is within your ship's standard detectability range. Changes to ship detectability caused by firing main guns, and other combat events are not taken into account."
 
 msgid "IDS_SKILL_TRIGGER_POTENTIALDAMAGERATIO"
-msgstr "Эффективность снаряжения увеличивается каждый раз при получении потенциального урона, равного 100% от штатной боеспособности вашего корабля."
+msgstr "Consumable effectiveness increases each time you take potential damage equal to 100% of your ship's normal combat capability."
 
 msgid "IDS_SLAVYANA_SUMMER"
-msgstr "Славя"
+msgstr "Slavyana"
 
 msgid "IDS_SNOWFLAKES_COUNTER_SHORT_COLON"
-msgstr "Забрать без выхода в бой:"
+msgstr "Taken without going into battle:"
 
 msgid "IDS_SOME_PREFS_ORPHANED_CAPTION_APPLY_QUESTION"
 msgstr ""
-"Вы не назначили клавиши для некоторых действий.\n"
-"Применить изменения?"
+"You have not assigned keys for certain actions.\n"
+"Apply changes?"
 
 msgid "IDS_SOUND_MOD_ARIA_DUBININ_ARIA"
-msgstr "Виталий Дубинин"
+msgstr "Vitaly Dubinin"
 
 msgid "IDS_SOUND_MOD_ARIA_HOLSTININ_ARIA"
-msgstr "Владимир Холстинин"
+msgstr "Vladimir Kholstinin"
 
 msgid "IDS_SOUND_MOD_ARIA_JORICK_ARIA"
-msgstr "Жорик"
+msgstr "Jorick"
 
 msgid "IDS_SOUND_MOD_ASTRA_DOG"
-msgstr "Астра"
+msgstr "Astra"
 
 msgid "IDS_SOUND_MOD_CM_DZHABRAILOV"
-msgstr "Тимур Джабраилов"
+msgstr "Timur Dzhabrailov"
 
 msgid "IDS_SOUND_MOD_CM_KHARITONOV"
-msgstr "Александр Харитонов"
+msgstr "Alexander Kharitonov"
 
 msgid "IDS_SOUND_MOD_CM_POLYAKOV"
-msgstr "Павел Поляков"
+msgstr "Pavel Polyakov"
 
 msgid "IDS_SOUND_MOD_EVERLASTING_SUMMER_ALISA_SUMMER"
-msgstr "Алиса"
+msgstr "Alisa"
 
 msgid "IDS_SOUND_MOD_EVERLASTING_SUMMER_LENA_SUMMER"
-msgstr "Лена"
+msgstr "Lena"
 
 msgid "IDS_SOUND_MOD_EVERLASTING_SUMMER_SLAVYANA_SUMMER"
-msgstr "Славя"
+msgstr "Slavyana"
 
 msgid "IDS_SOUND_MOD_EVERLASTING_SUMMER_ULYANA_SUMMER"
-msgstr "Ульяна"
+msgstr "Ulyana"
 
 msgid "IDS_SOUND_MOD_EVERLASTING_SUMMER_YULIA_SUMMER"
-msgstr "Юля"
+msgstr "Yulia"
 
 msgid "IDS_SOUND_MOD_KINDZADZA_CHATLANIN_PATSAK"
-msgstr "Уэф и Би"
+msgstr "Uef and Bi"
 
 msgid "IDS_SOUND_MOD_KINDZADZA_VOVA_SKRIPACH"
-msgstr "Дядя Вова и Скрипач"
+msgstr "Uncle Vova and the Violinist"
 
 msgid "IDS_SOUND_MOD_MOSFILM_BALBES"
-msgstr "Балбес"
+msgstr "Fool"
 
 msgid "IDS_SOUND_MOD_MOSFILM_BYVALYJ"
-msgstr "Бывалый"
+msgstr "Veteran"
 
 msgid "IDS_SOUND_MOD_MOSFILM_TRUS"
-msgstr "Трус"
-
-msgid "IDS_SOUND_MOD_NATUEVENT_NATU"
-msgstr " "
+msgstr "Coward"
 
 msgid "IDS_SOUND_MOD_NEWYEAR2023_12_MONTHS_JANUARY"
-msgstr "Братец Январь"
+msgstr "Bro January"
 
 msgid "IDS_SOUND_MOD_NEWYEAR2023_12_MONTHS_MARCH"
-msgstr "Братец Март"
+msgstr "Bro March"
 
 msgid "IDS_SOUND_MOD_PUSHKIN"
-msgstr "Александр Пушкин"
+msgstr "Alexander Pushkin"
 
 msgid "IDS_SOUND_MOD_PUSHKINTALES_CAT_SCIENTIST"
-msgstr "Кот учёный"
+msgstr "Cat scientist"
 
 msgid "IDS_SOUND_MOD_PUSHKINTALES_CHERNOMOR"
-msgstr "Черномор"
+msgstr "Chernomor"
 
 msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_CAOCAO"
 msgstr "Cao Cao"
@@ -16179,70 +16176,70 @@ msgid "IDS_SOUND_MOD_THREEKINGDOMS_RUBY_SUNQUAN"
 msgstr "Sun Quan"
 
 msgid "IDS_SOUND_MOD_USAOVECHKIN_SINGLE"
-msgstr "Александр Овечкин EN"
+msgstr "Alexander Ovechkin EN"
 
 msgid "IDS_SOUND_MOD_USSROVECHKIN_SINGLE"
-msgstr "Александр Овечкин RU"
+msgstr "Alexander Ovechkin RU"
 
 msgid "IDS_SOUND_MOD_UVAROV"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_SOUND_MOD_WOWONIANG_SINGLE"
 msgstr "Wo Wo Niang"
 
 msgid "IDS_SPACES/04_ARCHIPELAGO"
-msgstr "Сахалин"
+msgstr "Sakhalin"
 
 msgid "IDS_SPACES/47_SLEEPING_GIANT"
 msgstr "Сонный Бохайвань"
 
 msgid "IDS_SPACES/56_KAMCHATKA"
-msgstr "Камчатка"
+msgstr "Kamchatka"
 
 msgid "IDS_SPACES/56_KAMCHATKA_DESCR"
-msgstr "Камчатка"
+msgstr "Kamchatka"
 
 msgid "IDS_SPACES/AS02_NEW_TIERRA"
-msgstr "Рейд во льдах"
+msgstr "A raid in the ice"
 
 msgid "IDS_SPACES/E12_APRIL_2024"
-msgstr "Проксима Центавра"
+msgstr "Proxima Centauri"
 
 msgid "IDS_SPACES/E12_APRIL_2024_DESCR"
-msgstr "Проксима Центавра"
+msgstr "Proxima Centauri"
 
 msgid "IDS_SPECIAL_CREW_STATUS"
-msgstr "Особый командир"
+msgstr "Special Commander"
 
 msgid "IDS_SPEED_HIGH"
-msgstr "Высокая скорость хода"
+msgstr "High speed"
 
 msgid "IDS_SPEED_LOW"
-msgstr "Низкая скорость хода"
+msgstr "Low speed"
 
 msgid "IDS_SPENT"
-msgstr "Потрачено"
+msgstr "Spent"
 
 msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_DAMAGE_FIRE_FLOOD_FULL"
-msgstr "Нанесите как можно больше урона пожарами и затоплениями"
+msgstr "Deal as much damage as you can with fire and flooding"
 
 msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_DAMAGE_MAIN_ATBA_FULL"
-msgstr "Нанесите как можно больше урона главным и вспомогательным калибром"
+msgstr "Do as much damage as possible with your main and auxiliary calibers"
 
 msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_DAMAGE_TORPS_TBOMBER_FULL"
-msgstr "Нанесите как можно больше урона корабельными и авиационными торпедами"
+msgstr "Do as much damage as possible with ship and aircraft torpedoes"
 
 msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_BASE_DEFENSE_BASE_CAPTURE_BASE_CAPTURE_ASSIST_FULL"
-msgstr "Получите как можно больше лент «Защитил», «Захватил» и «Помог захватить»"
+msgstr "Get as many \"Defended\", \"Captured\", and \"Assisted in capture\" ribbons as possible"
 
 msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_RIBBONS_SECONDARY_CALIBER_FULL"
-msgstr "Получите как можно больше лент «Попал из ПМК»"
+msgstr "Get as many \"Secondary battery hits\" ribbons as possible"
 
 msgid "IDS_SSE_TEMPLATES_META"
 msgstr "{    \"IDS\": {        \"IDS_ANTI_AIR_DEF\": {\"\": [\"используя корабельную ПВО\"]},        \"IDS_ANY_AIRCRAFT\": {            \"\": [\"самолёт\", \"самолёты\", \"самолёты\"],            \"ACC\": [\"самолёт\", \"самолёта\", \"самолётов\"]        },        \"IDS_BADGE\": {\"\": [\"лента\", \"ленты\", \"ленты\"], \"ACC\": [\"ленту\", \"ленты\", \"лент\"]},        \"IDS_BASE_CAPTURE_POINTS\": {\"\": [\"захвата базы\"]},        \"IDS_BASE_DEFENCE_POINTS\": {\"\": [\"защиты базы\"]},        \"IDS_BATTLES\": {            \"\": [\"бой\", \"боя\", \"боёв\"],            \"ACC\": [\"бою\", \"боях\", \"боях\"],            \"PREP\": [\"бою\", \"боях\", \"боях\"]        },        \"IDS_BATTLESHIP_CLASS\": {            \"\": [\"линкор\", \"линкоры\", \"линкоры\"],            \"ACC\": [\"линкор\", \"линкора\", \"линкоров\"],            \"DAT\": [\"линкору\", \"линкорам\", \"линкорам\"],            \"GEN\": [\"линкора\", \"линкора\", \"линкоров\"]        },        \"IDS_BATTLE_SIGNALS\": {            \"\": [\"боевой сигнал\", \"боевые сигналы\", \"боевые сигналы\"],            \"ACC\": [\"боевой сигнал\", \"боевых сигнала\", \"боевых сигналов\"]        },        \"IDS_BOMBER_CLASS\": {            \"\": [\"бомбардировщик\", \"бомбардировщики\", \"бомбардировщики\"],            \"ACC\": [\"бомбардировщик\", \"бомбардировщика\", \"бомбардировщиков\"]        },        \"IDS_CAMOUFLAGE\": {            \"\": [\"камуфляж\", \"камуфляжи\", \"камуфляжи\"],            \"ACC\": [\"камуфляж\", \"камуфляжа\", \"камуфляжей\"]        },        \"IDS_CARRIER_CLASS\": {            \"\": [\"авианосец\", \"авианосцы\", \"авианосцы\"],            \"ACC\": [\"авианосец\", \"авианосца\", \"авианосцев\"],            \"DAT\": [\"авианосцу\", \"авианосцам\", \"авианосцам\"],            \"GEN\": [\"авианосца\", \"авианосцев\", \"авианосцев\"]        },        \"IDS_CHAIN\": {            \"\": [\"цепочка\", \"цепочки\", \"цепочки\"],            \"ACC\": [\"цепочку\", \"цепочки\", \"цепочек\"]        },        \"IDS_CLAN_BATTLE\": {\"\": [\"Клановый\"], \"PREP\": [\"клановом\"]},        \"IDS_COMMONWEALTH_NATION\": {\"\": [\"Содружество\"], \"GEN\": [\"Содружества\"]},        \"IDS_COOP_BATTLE\": {\"\": [\"Кооперативный\"], \"PREP\": [\"кооперативном\"]},        \"IDS_CREDITS\": {\"\": [\"кредит\", \"кредиты\", \"кредиты\"], \"ACC\": [\"кредит\", \"кредита\", \"кредитов\"]},        \"IDS_CREWXP\": {\"\": [\"опыт командира\"], \"ACC\": [\"ед. опыта командира\"]},        \"IDS_CRUISER_CLASS\": {            \"\": [\"крейсер\", \"крейсеры\", \"крейсеры\"],            \"ACC\": [\"крейсер\", \"крейсера\", \"крейсеров\"],            \"DAT\": [\"крейсеру\", \"крейсерам\", \"крейсерам\"],            \"GEN\": [\"крейсера\", \"крейсеров\", \"крейсеров\"]        },        \"IDS_DESTROYER_CLASS\": {            \"\": [\"эсминец\", \"эсминцы\", \"эсминцы\"],            \"ACC\": [\"эсминец\", \"эсминцa\", \"эсминцев\"],            \"DAT\": [\"эсминцу\", \"эсминцам\", \"эсминцам\"],            \"GEN\": [\"эсминца\", \"эсминцев\", \"эсминцев\"]        },        \"IDS_ECO_SIGNALS\": {            \"\": [\"экономический сигнал\", \"экономические сигналы\", \"экономические сигналы\"],            \"ACC\": [\"экономический сигнал\", \"экономических сигнала\", \"экономических сигналов\"]        },        \"IDS_ELITE\": {            \"\": [\"элитный\", \"элитные\", \"элитные\"],            \"ACC\": [\"элитный\", \"элитных\", \"элитных\"],            \"DAT\": [\"элитному\", \"элитным\", \"элитным\"],            \"GEN\": [\"элитного\", \"элитных\", \"элитных\"]        },        \"IDS_ENUM_1\": {\"\": [\"{1}\"]},        \"IDS_ENUM_2\": {\"\": [\"{1} или {2}\"]},        \"IDS_ENUM_3\": {\"\": [\"{1}, {2} или {3}\"]},        \"IDS_ENUM_4\": {\"\": [\"{1}, {2}, {3} или {4}\"]},        \"IDS_ENUM_5\": {\"\": [\"{1}, {2}, {3}, {4} или {5}\"]},        \"IDS_ENUM_6\": {\"\": [\"{1}, {2}, {3}, {4}, {5} или {6}\"]},        \"IDS_ENUM_7\": {\"\": [\"{1}, {2}, {3}, {4}, {5}, {6} или {7}\"]},        \"IDS_ENUM_8\": {\"\": [\"{1}, {2}, {3}, {4}, {5}, {6}, {7} или {8}\"]},        \"IDS_EUROPE_NATION\": {\"\": [\"Европа\"], \"GEN\": [\"Европы\"]},        \"IDS_EVENT_BATTLE\": {\"\": [\"Ключевой\"], \"PREP\": [\"ключевом\"]},        \"IDS_EXP\": {\"\": [\"опыт корабля\"], \"ACC\": [\"ед. опыта корабля\"]},        \"IDS_FIGHTER_CLASS\": {            \"\": [\"штурмовик\", \"штурмовики\", \"штурмовики\"],            \"ACC\": [\"штурмовик\", \"штурмовика\", \"штурмовиков\"]        },        \"IDS_FRANCE_NATION\": {\"\": [\"Франция\"], \"GEN\": [\"Франции\"]},        \"IDS_FREEXP\": {\"\": [\"свободный опыт\"], \"ACC\": [\"ед. свободного опыта\"]},        \"IDS_GERMANY_NATION\": {\"\": [\"Германия\"], \"GEN\": [\"Германии\"]},        \"IDS_GOLD\": {\"\": [\"дублон\", \"дублоны\", \"дублоны\"], \"ACC\": [\"дублон\", \"дублона\", \"дублонов\"]},        \"IDS_HEROIC_ACHIEVEMENT\": {            \"\": [\"героическое достижение\", \"героические достижения\", \"героические достижения\"],            \"ACC\": [\"героическое достижение\", \"героических достижения\", \"героических достижений\"]        },        \"IDS_HONORABLE_ACHIEVEMENT\": {            \"\": [\"почётное достижение\", \"почётные достижения\", \"почётные достижения\"],            \"ACC\": [\"почётное достижение\", \"почётных достижения\", \"почётных достижений\"]        },        \"IDS_INTRO_BATTLE\": {\"\": [\"Вводный\"], \"PREP\": [\"вводном\"]},        \"IDS_IN_ONE_BATTLE\": {\"\": [\"В течение одного боя\"], \"SIMPLE\": [\"В течение одного боя\"]},        \"IDS_IN_SQUAD\": {\"\": [\"в составе отряда\"]},        \"IDS_ITALY_NATION\": {\"\": [\"Италия\"], \"GEN\": [\"Италии\"]},        \"IDS_JAPAN_NATION\": {\"\": [\"Япония\"], \"GEN\": [\"Японии\"]},        \"IDS_LEAGUE_EXACT\": {\"\": [\"{league}\"]},        \"IDS_LEAGUE_LESS\": {\"\": [\"{league} или выше\"]},        \"IDS_LEAGUE_MORE\": {\"\": [\"{league} или ниже\"]},        \"IDS_LEAGUE_RANGE\": {\"\": [\"{leaguemin} — {leaguemax}\"]},        \"IDS_LEVEL_EXACT\": {\"\": [\"{level} уровня\"]},        \"IDS_LEVEL_LESS\": {\"\": [\"{level} уровня или ниже\"]},        \"IDS_LEVEL_MORE\": {\"\": [\"{level} уровня или выше\"]},        \"IDS_LEVEL_RANGE\": {\"\": [\"{levelmin}–{levelmax} уровней\"]},        \"IDS_MODULE\": {\"\": [\"модуль\", \"модули\", \"модули\"], \"ACC\": [\"модуль\", \"модуля\", \"модулей\"]},        \"IDS_NETHERLANDS_NATION\": {\"\": [\"Нидерланды\"], \"GEN\": [\"Нидерландов\"]},        \"IDS_OF_ALL\": {\"\": [\"среди всех участников боя\"]},        \"IDS_OPERATION\": {            \"\": [\"операция\", \"операции\", \"операций\"],            \"PREP\": [\"операции\", \"операциях\", \"операциях\"]        },        \"IDS_PAN_AMERICA_NATION\": {\"\": [\"Пан-Америка\"], \"GEN\": [\"Пан-Америки\"]},        \"IDS_PAN_ASIA_NATION\": {\"\": [\"Пан-Азия\"], \"GEN\": [\"Пан-Азии\"]},        \"IDS_PERMANENT_CAMOUFLAGE\": {            \"\": [\"постоянный камуфляж\", \"постоянные камуфляжи\", \"постоянные камуфляжи\"],            \"ACC\": [\"постоянный камуфляж\", \"постоянных камуфляжа\", \"постоянных камуфляжей\"]        },        \"IDS_POLAND_NATION\": {\"\": [\"Польша\"], \"GEN\": [\"Польши\"]},        \"IDS_PREMIUM\": {\"\": [\"премиум\"]},        \"IDS_PTS_WORD\": {\"\": [\"очко\", \"очки\", \"очки\"], \"ACC\": [\"очко\", \"очка\", \"очков\"]},        \"IDS_PVE_BATTLE\": {\"\": [\"Сценарный\"], \"PREP\": [\"сценарном\"]},        \"IDS_RANDOM_BATTLE\": {\"\": [\"Случайный\"], \"PREP\": [\"случайном\"]},        \"IDS_RANK_BATTLE\": {\"\": [\"Ранговый\"], \"PREP\": [\"ранговом\"]},        \"IDS_RUSSIA_NATION\": {\"\": [\"СССР\"], \"GEN\": [\"СССР\"]},        \"IDS_SCOUT_CLASS\": {            \"\": [\"разведчик\", \"разведчики\", \"разведчики\"],            \"ACC\": [\"разведчик\", \"разведчика\", \"разведчиков\"]        },        \"IDS_SECONDARY_TASK\": {            \"\": [\"дополнительная задача\", \"дополнительные задачи\", \"дополнительные задачи\"],            \"ACC\": [\"дополнительную задачу\", \"дополнительных задачи\", \"дополнительных задач\"]        },        \"IDS_SHIP\": {            \"\": [\"корабль\", \"корабли\", \"корабли\"],            \"ACC\": [\"корабль\", \"корабля\", \"кораблей\"],            \"DAT\": [\"кораблю\", \"кораблям\", \"кораблям\"],            \"GEN\": [\"корабля\", \"кораблей\", \"кораблей\"],            \"PREP\": [\"корабле\", \"кораблях\", \"кораблях\"]        },        \"IDS_SIGNALS\": {\"\": [\"сигнал\", \"сигналы\", \"сигналы\"], \"ACC\": [\"сигнал\", \"сигнала\", \"сигналов\"]},        \"IDS_SOME_ACHIEVEMENT\": {            \"\": [\"достижение\", \"достижения\", \"достижения\"],            \"ACC\": [\"достижение\", \"достижения\", \"достижений\"]        },        \"IDS_SPAIN_NATION\": {\"\": [\"Испания\"], \"GEN\": [\"Испании\"]},        \"IDS_SPECIAL_SIGNALS\": {            \"\": [\"особый сигнал\", \"особые сигналы\", \"особые сигналы\"],            \"ACC\": [\"особый сигнал\", \"особых сигнала\", \"особых сигналов\"]        },        \"IDS_STAR\": {\"\": [\"звезда\", \"звёзды\", \"звёзды\"], \"ACC\": [\"звезду\", \"звезды\", \"звёзд\"]},        \"IDS_SUBMARINE_CLASS\": {            \"\": [\"подводная лодка\", \"подводные лодки\", \"подводные лодки\"],            \"ACC\": [\"подводную лодку\", \"подводные лодки\", \"подводных лодок\"],            \"DAT\": [\"подводной лодке\", \"подводным лодкам\", \"подводным лодкам\"],            \"GEN\": [\"подводной лодки\", \"подводных лодок\", \"подводных лодок\"]        },        \"IDS_SURVIVE_IN_BATTLES\": {\"\": [\"Выживите в бою и\"], \"SIMPLE\": [\"Выживите в бою\"]},        \"IDS_SURVIVE_IN_ONE_BATTLE\": {\"\": [\"Выживите в одном бою и\"], \"SIMPLE\": [\"Выживите в одном бою\"]},        \"IDS_SURVIVE_WIN_IN_BATTLES\": {            \"\": [\"Выживите, одержите победу в бою и\"],            \"SIMPLE\": [\"Выживите и одержите победу в бою\"]        },        \"IDS_SURVIVE_WIN_IN_ONE_BATTLE\": {            \"\": [\"Выживите, одержите победу в одном бою и\"],            \"SIMPLE\": [\"Выживите и одержите победу в одном бою\"]        },        \"IDS_TASK\": {\"\": [\"задача\", \"задачи\", \"задачи\"], \"ACC\": [\"задачу\", \"задачи\", \"задач\"]},        \"IDS_TBOMBER_CLASS\": {            \"\": [\"торпедоносец\", \"торпедоносцы\", \"торпедоносцы\"],            \"ACC\": [\"торпедоносец\", \"торпедоносца\", \"торпедоносцев\"]        },        \"IDS_TIMES_WORD\": {\"\": [\"раз\", \"раза\", \"раз\"]},        \"IDS_TOP_IN_TEAM\": {\"\": [\"своя команда\"], \"ACC\": [\"своей команды\"], \"PREP\": [\"в своей команде\"]},        \"IDS_TORPEDO\": {\"\": [\"торпеда\", \"торпеды\", \"торпеды\"], \"ACC\": [\"торпеду\", \"торпеды\", \"торпед\"]},        \"IDS_TRAINING_BATTLE\": {\"\": [\"Тренировочный\"], \"PREP\": [\"тренировочном\"]},        \"IDS_UNITED_KINGDOM_NATION\": {\"\": [\"Великобритания\"], \"GEN\": [\"Великобритании\"]},        \"IDS_USA_NATION\": {\"\": [\"США\"], \"GEN\": [\"США\"]},        \"IDS_USING_BOMBER\": {\"\": [\"авиабомбами\"]},        \"IDS_USING_FIGHTER\": {\"\": [\"используя штурмовики\"]},        \"IDS_USING_FIRE\": {\"\": [\"пожарами\"]},        \"IDS_USING_FLOOD\": {\"\": [\"затоплениями\"]},        \"IDS_USING_MAIN_GUN\": {\"\": [\"главным калибром\"]},        \"IDS_USING_RAM\": {\"\": [\"тараном\"]},        \"IDS_USING_ROCKET\": {\"\": [\"ракетами\"]},        \"IDS_USING_SEA_MINE\": {\"\": [\"миной\", \"минами\", \"минами\"]},        \"IDS_USING_SECONDARY_GUN\": {\"\": [\"вспомогательным калибром\"]},        \"IDS_USING_SKIPBOMBER\": {\"\": [\"топмачтовыми бомбами\"]},        \"IDS_USING_TBOMBER\": {\"\": [\"авиаторпедами\"]},        \"IDS_USING_TORPEDOES\": {\"\": [\"корабельными торпедами\"]},        \"IDS_WIN_IN_BATTLES\": {\"\": [\"Одержите победу в бою и\"], \"SIMPLE\": [\"Одержите победу в бою\"]},        \"IDS_WIN_IN_ONE_BATTLE\": {            \"\": [\"Одержите победу в одном бою и\"],            \"SIMPLE\": [\"Одержите победу в одном бою\"]        },        \"IDS_WITH_AGRO_AIR\": {\"\": [\"авиабомбами или ракетами\"]},        \"IDS_WITH_AGRO_ART\": {\"\": [\"артиллерией\"]},        \"IDS_WITH_AGRO_DBOMB\": {\"\": [\"глубинными бомбами\"]},        \"IDS_WITH_AGRO_MINES\": {\"\": [\"минами\"]},        \"IDS_WITH_AGRO_TORPS\": {\"\": [\"корабельными или авиаторпедами\"]}    },    \"TEMPLATES\": {        \"TEMPLATE_BATTLE_ACHIEVEMENTS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} получите {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"achievement.type\"},                        {\"isVar\": true, \"name\": \"achievement.ids\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"получите {}\",                    \"template_args\": [{\"isVar\": true, \"name\": \"achievement.type\"}]                }            ],            \"setVars\": [\"achievement.ids\"],            \"vars\": [\"precondition\", \"achievement.type\", \"achievement.ids\", \"count\"]        },        \"TEMPLATE_BATTLE_CONDITIONS\": {            \"optVars\": [\"battle_cond.in_squad\", \"league\"],            \"rules\": [                {                    \"cond\": {\"battle_cond.battle_type\": [null], \"battle_cond.in_squad\": [null]},                    \"template\": \"Выполните\",                    \"template_args\": []                },                {                    \"cond\": {\"battle_cond.battle_type\": [null]},                    \"template\": \"Выполняется {}\",                    \"template_args\": [{\"isVar\": true, \"name\": \"battle_cond.in_squad\"}]                },                {                    \"cond\": {\"battle_cond.battle_type\": [\"IDS_INTRO_BATTLE\"]},                    \"template\": \"Выполняется {} во {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"battle_cond.in_squad\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"battle_cond.battle_type\"},                        {\"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BATTLES\"}                    ]                },                {                    \"cond\": {\"battle_cond.battle_type\": [\"IDS_CLAN_BATTLE\"], \"league\": [null]},                    \"template\": \"Выполняется {} в {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"battle_cond.in_squad\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"battle_cond.battle_type\"},                        {\"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BATTLES\"}                    ]                },                {                    \"cond\": {\"battle_cond.battle_type\": [\"IDS_CLAN_BATTLE\"]},                    \"template\": \"Выполняется {} в {} {} ({})\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"battle_cond.in_squad\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"battle_cond.battle_type\"},                        {\"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BATTLES\"},                        {\"isVar\": true, \"name\": \"league\"}                    ]                },                {                    \"template\": \"Выполняется {} в {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"battle_cond.in_squad\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"battle_cond.battle_type\"},                        {\"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BATTLES\"}                    ]                }            ],            \"setVars\": [\"battle_cond.battle_type\"],            \"vars\": [\"battle_cond.in_squad\", \"battle_cond.battle_type\", \"league\"]        },        \"TEMPLATE_COMPLETE_TASKS\": {            \"cntVars\": [\"count\"],            \"rules\": [                {                    \"template\": \"Выполните {} {} типа «{}»\",                    \"template_args\": [                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"sseElement\"},                        {\"isVar\": true, \"name\": \"typeName\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"выполните {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": true, \"name\": \"sseElement\"}]                }            ],            \"vars\": [\"count\", \"typeName\", \"sseElement\"]        },        \"TEMPLATE_DAMAGE_SHIPS\": {            \"cntVars\": [\"damage\"],            \"optVars\": [\"damage_types\", \"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"ship.class\": \"10\", \"ship.nation\": \"10\"},            \"rules\": [                {                    \"template\": \"{} нанесите {} {} {} {} ед. урона {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"DAT\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"damage\"},                        {\"count\": 2, \"isVar\": true, \"name\": \"damage_types\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"damage_types.length\": [1]},                    \"template\": \"нанесите урон {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": true, \"name\": \"damage_types\"}]                },                {\"template\": \"нанесите урон\", \"template_args\": []}            ],            \"vars\": [\"precondition\", \"damage\", \"ship.nation\", \"ship.class\", \"level\", \"damage_types\"]        },        \"TEMPLATE_DESTROY_SHIPS\": {            \"cntVars\": [\"ship.count\"],            \"optVars\": [\"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"ship.class\": \"ship.count\", \"ship.nation\": \"ship.count\"},            \"rules\": [                {                    \"cond\": {\"ship.class\": [\"IDS_SHIP\"], \"ship.nation\": [null]},                    \"template\": \"{} уничтожьте {} {} противника {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"ship.count\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"ship.class\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"template\": \"{} уничтожьте {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"ship.count\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"ship.class\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"ship.nation\": [null]},                    \"template\": \"уничтожьте {} {}\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": true, \"name\": \"ship.class\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"}                    ]                },                {                    \"template\": \"уничтожьте {} {}\",                    \"template_args\": [                        {\"count\": 2, \"isVar\": true, \"name\": \"ship.class\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"}                    ]                }            ],            \"vars\": [\"precondition\", \"ship.count\", \"ship.nation\", \"ship.class\", \"level\"]        },        \"TEMPLATE_DESTROY_SPECIFIED_SHIPS\": {            \"cntVars\": [\"ship.count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} уничтожьте {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"ship.count\"},                        {\"count\": \"ship.count\", \"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_SHIP\"},                        {\"count\": \"ship.count\", \"isVar\": false, \"name\": \"ship.ids\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"уничтожьте {}\",                    \"template_args\": [{\"count\": \"ship.count\", \"isVar\": false, \"name\": \"ship.ids\"}]                }            ],            \"vars\": [\"precondition\", \"ship.count\"]        },        \"TEMPLATE_GET_BADGES\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} получите {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BADGE\"},                        {\"isVar\": true, \"name\": \"badge.names\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"получите {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": false, \"name\": \"IDS_BADGE\"}]                }            ],            \"setVars\": [\"badge.names\"],            \"vars\": [\"precondition\", \"count\", \"badge.names\"]        },        \"TEMPLATE_GO_INTO_BATTLE\": {            \"cntVars\": [\"count\"],            \"rules\": [                {                    \"template\": \"Сыграйте {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_BATTLES\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"выйдите в {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"name\": \"IDS_BATTLES\"}]                }            ],            \"vars\": [\"count\"]        },        \"TEMPLATE_MAKE_N_XP\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} заработайте {} ед. чистого опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"}                    ]                }            ],            \"rules_short\": [{\"template\": \"заработайте чистый опыт\", \"template_args\": []}],            \"vars\": [\"precondition\", \"count\"]        },        \"TEMPLATE_N_TIMES_HIT_SHIPS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"plurals\": {\"hit_types\": \"count\"},            \"rules\": [                {                    \"cond\": {\"count\": [1], \"hit_types\": [\"IDS_USING_SEA_MINE\"]},                    \"template\": \"{} повредите {} противника {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": \"count\", \"isVar\": true, \"name\": \"hit_types\"}                    ]                },                {                    \"cond\": {\"count\": [1]},                    \"template\": \"{} попадите в {} противника {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": \"count\", \"isVar\": true, \"name\": \"hit_types\"}                    ]                },                {                    \"cond\": {\"hit_types\": [\"IDS_USING_SEA_MINE\"]},                    \"template\": \"{} повредите {} противника {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 2, \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": 2, \"isVar\": true, \"name\": \"hit_types\"},                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_TIMES_WORD\"}                    ]                },                {                    \"template\": \"{} попадите в {} противника {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 2, \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": 2, \"isVar\": true, \"name\": \"hit_types\"},                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_TIMES_WORD\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"count\": [1], \"hit_types\": [\"IDS_USING_SEA_MINE\"]},                    \"template\": \"повредите {} {}\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": 1, \"isVar\": true, \"name\": \"hit_types\"}                    ]                },                {                    \"cond\": {\"hit_types\": [\"IDS_USING_SEA_MINE\"]},                    \"template\": \"повредите {} {}\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": 2, \"isVar\": true, \"name\": \"hit_types\"}                    ]                },                {                    \"cond\": {\"hit_types.length\": [1]},                    \"template\": \"попадите в {} {}\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": false, \"name\": \"IDS_SHIP\"},                        {\"count\": \"count\", \"isVar\": true, \"name\": \"hit_types\"}                    ]                },                {                    \"template\": \"попадите в {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"name\": \"IDS_SHIP\"}]                }            ],            \"vars\": [\"precondition\", \"count\", \"hit_types\"]        },        \"TEMPLATE_N_TIMES_IGNITE_SHIPS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"ship.class\": \"count\", \"ship.nation\": \"count\"},            \"rules\": [                {                    \"cond\": {\"count\": [1], \"ship.class\": [\"IDS_SHIP\"], \"ship.nation\": [null]},                    \"template\": \"{} подожгите {} противника {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": \"count\", \"isVar\": true, \"name\": \"ship.class\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"cond\": {\"count\": [1]},                    \"template\": \"{} подожгите {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": \"count\", \"isVar\": true, \"name\": \"ship.class\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"template\": \"{} подожгите {} {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 2, \"isVar\": true, \"name\": \"ship.class\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"},                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_TIMES_WORD\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"вызовите пожар на {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_SHIP\"}]                }            ],            \"vars\": [\"precondition\", \"count\", \"ship.nation\", \"ship.class\", \"level\"]        },        \"TEMPLATE_POTENTIAL_DAMAGE\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"damage_types\", \"precondition\"],            \"rules\": [                {                    \"template\": \"{} получите {} ед. потенциального урона {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"isVar\": true, \"name\": \"damage_types\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"damage_types.length\": [1]},                    \"template\": \"Получите потенциальный урон {}\",                    \"template_args\": [{\"isVar\": true, \"name\": \"damage_types\"}]                },                {\"template\": \"получите потенциальный урон\", \"template_args\": []}            ],            \"vars\": [\"precondition\", \"count\", \"damage_types\"]        },        \"TEMPLATE_PRECONDITION\": {            \"rules\": [                {                    \"cond\": {\"simple_precondition\": [true]},                    \"template\": \"{}\",                    \"template_args\": [{\"isVar\": true, \"mod\": \"SIMPLE\", \"name\": \"precondition\"}]                },                {\"template\": \"{}\", \"template_args\": [{\"isVar\": true, \"name\": \"precondition\"}]}            ],            \"vars\": [\"precondition\", \"simple_precondition\"]        },        \"TEMPLATE_PVE_OPERATIONS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"Выполняется в {} {}\",                    \"template_args\": [                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"PREP\", \"name\": \"operation\"},                        {\"isVar\": true, \"name\": \"operations_names\"}                    ]                }            ],            \"setVars\": [\"operations_names\"],            \"vars\": [\"precondition\", \"count\", \"operation\", \"operations_names\"]        },        \"TEMPLATE_PVE_SECONDARY_TASKS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} выполните {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"stask\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"выполните {} в {}\",                    \"template_args\": [                        {\"count\": 2, \"isVar\": true, \"name\": \"stask\"},                        {\"count\": 2, \"isVar\": true, \"mod\": \"PREP\", \"name\": \"operation\"}                    ]                }            ],            \"vars\": [\"precondition\", \"count\", \"stask\", \"operation\"]        },        \"TEMPLATE_RECEIVE_BASE_CAPTURE_POINTS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} заработайте {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_PTS_WORD\"},                        {\"isVar\": true, \"name\": \"base_points\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"заработайте {} {}\",                    \"template_args\": [                        {\"count\": 2, \"isVar\": false, \"name\": \"IDS_PTS_WORD\"},                        {\"isVar\": true, \"name\": \"base_points\"}                    ]                }            ],            \"vars\": [\"precondition\", \"count\", \"base_points\"]        },        \"TEMPLATE_SCOUTING_DAMAGE\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} обеспечьте нанесение {} ед. урона по вашим разведданным\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"}                    ]                }            ],            \"rules_short\": [{\"template\": \"обеспечьте нанесение урона\", \"template_args\": []}],            \"vars\": [\"precondition\", \"count\"]        },        \"TEMPLATE_SHIP_DAMAGE_MODULES\": {            \"cntVars\": [\"module.count\"],            \"optVars\": [\"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"module.type\": \"module.count\", \"ship.class\": \"10\", \"ship.nation\": \"10\"},            \"rules\": [                {                    \"cond\": {\"module.count\": [1], \"ship.class\": [\"IDS_SHIP\"]},                    \"template\": \"{} повредите {} {} любого {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"module.count\"},                        {\"count\": \"module.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"module.type\"},                        {\"count\": 1, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"cond\": {\"module.count\": [1]},                    \"template\": \"{} повредите {} {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"module.count\"},                        {\"count\": \"module.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"module.type\"},                        {\"count\": 1, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"template\": \"{} повредите {} {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"module.count\"},                        {\"count\": \"module.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"module.type\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"повредите {} {}\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": true, \"name\": \"module.type\"},                        {\"count\": 1, \"isVar\": false, \"mod\": \"GEN\", \"name\": \"IDS_SHIP\"}                    ]                }            ],            \"vars\": [                \"precondition\",                \"module.count\",                \"module.type\",                \"ship.nation\",                \"ship.class\",                \"level\"            ]        },        \"TEMPLATE_SHIP_HIT_CITADELS\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"ship.class\": \"10\", \"ship.nation\": \"10\"},            \"rules\": [                {                    \"cond\": {\"count\": [1], \"ship.class\": [\"IDS_SHIP\"]},                    \"template\": \"{} попадите в цитадель любого {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 1, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"cond\": {\"count\": [1]},                    \"template\": \"{} попадите в цитадель {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 1, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"template\": \"{} попадите в цитадели {} {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"},                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_TIMES_WORD\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"попадите в цитадель {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"mod\": \"GEN\", \"name\": \"IDS_SHIP\"}]                }            ],            \"vars\": [\"precondition\", \"count\", \"ship.nation\", \"ship.class\", \"level\"]        },        \"TEMPLATE_SHIP_LIMITATIONS\": {            \"optVars\": [\"level\", \"ship.elite\", \"ship.ids\", \"ship.nation\"],            \"plurals\": {\"level\": \"10\", \"ship.class\": \"10\", \"ship.elite\": \"10\", \"ship.nation\": \"10\"},            \"rules\": [                {                    \"cond\": {\"ship.ids\": [null]},                    \"template\": \"{} {} {} {}\",                    \"template_args\": [                        {\"count\": 10, \"isVar\": true, \"name\": \"ship.elite\"},                        {\"count\": 10, \"isVar\": true, \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"count\": 10, \"isVar\": true, \"name\": \"level\"}                    ]                },                {\"template\": \"{}\", \"template_args\": [{\"isVar\": true, \"name\": \"ship.ids\"}]}            ],            \"vars\": [\"ship.nation\", \"ship.class\", \"ship.elite\", \"level\", \"ship.ids\"]        },        \"TEMPLATE_SHIP_START_FLOOD\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"ship.class\": \"10\", \"ship.nation\": \"10\"},            \"rules\": [                {                    \"cond\": {\"count\": [1], \"ship.class\": [\"IDS_SHIP\"]},                    \"template\": \"{} вызовите затопление любого {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 1, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"cond\": {\"count\": [1]},                    \"template\": \"{} вызовите затопление у {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 1, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"template\": \"{} вызовите затопления у {} {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.class\"},                        {\"count\": 10, \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"},                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"name\": \"IDS_TIMES_WORD\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"вызовите затопление на {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_SHIP\"}]                }            ],            \"vars\": [\"precondition\", \"count\", \"ship.nation\", \"ship.class\", \"level\"]        },        \"TEMPLATE_SHOOT_AIRPLANES\": {            \"cntVars\": [\"aircraft.count\"],            \"optVars\": [\"precondition\"],            \"plurals\": {\"aircraft.class\": \"aircraft.count\"},            \"rules\": [                {                    \"template\": \"{} сбейте {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"aircraft.count\"},                        {                            \"count\": \"aircraft.count\",                            \"isVar\": true,                            \"mod\": \"ACC\",                            \"name\": \"aircraft.class\"                        }                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"уничтожьте {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"name\": \"IDS_ANY_AIRCRAFT\"}]                }            ],            \"vars\": [\"precondition\", \"aircraft.count\", \"aircraft.class\"]        },        \"TEMPLATE_SPOT\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"cond\": {\"spot_target\": [\"IDS_TORPEDO\"]},                    \"template\": \"{} обнаружьте {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"spot_target\"}                    ]                },                {                    \"template\": \"{} первым обнаружьте {} {} противника\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"spot_target\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"spot_target\": [\"IDS_TORPEDO\"]},                    \"template\": \"обнаружьте {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": true, \"name\": \"spot_target\"}]                },                {                    \"template\": \"первым обнаружьте {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": true, \"name\": \"spot_target\"}]                }            ],            \"vars\": [\"precondition\", \"count\", \"spot_target\"]        },        \"TEMPLATE_SPOT_SHIPS\": {            \"cntVars\": [\"ship.count\"],            \"optVars\": [\"level\", \"precondition\", \"ship.nation\"],            \"plurals\": {\"ship.class\": \"ship.count\", \"ship.nation\": \"ship.count\"},            \"rules\": [                {                    \"cond\": {\"ship.class\": [\"IDS_SHIP\"], \"ship.nation\": [null]},                    \"template\": \"{} первым обнаружьте {} {} противника {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"ship.count\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"ship.class\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                },                {                    \"template\": \"{} первым обнаружьте {} {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"ship.count\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"ship.class\"},                        {\"count\": \"ship.count\", \"isVar\": true, \"mod\": \"GEN\", \"name\": \"ship.nation\"},                        {\"isVar\": true, \"name\": \"level\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"обнаружьте {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": false, \"name\": \"IDS_SHIP\"}]                }            ],            \"vars\": [\"precondition\", \"ship.count\", \"ship.nation\", \"ship.class\", \"level\"]        },        \"TEMPLATE_SPOT_SPECIFIED_SHIPS\": {            \"cntVars\": [\"ship.count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} первым обнаружьте {} {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"name\": \"ship.count\"},                        {\"count\": \"ship.count\", \"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_SHIP\"},                        {\"count\": \"ship.count\", \"isVar\": false, \"name\": \"ship.ids\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"обнаружьте {} противника\",                    \"template_args\": [{\"count\": 2, \"isVar\": false, \"name\": \"IDS_SHIP\"}]                }            ],            \"vars\": [\"precondition\", \"ship.count\"]        },        \"TEMPLATE_SURVIVE_IN_BATTLES\": {            \"cntVars\": [\"count\"],            \"rules\": [                {                    \"template\": \"выживите в {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BATTLES\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"выживите в {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_BATTLES\"}]                }            ],            \"vars\": [\"count\"]        },        \"TEMPLATE_TOP_N_DAMAGE\": {            \"cntVars\": [\"top.rank\"],            \"optVars\": [\"precondition\", \"top.in_team\"],            \"rules\": [                {                    \"cond\": {\"top.in_team\": [null], \"top.rank\": [1]},                    \"template\": \"{} займите первое место {} по количеству нанесённого урона\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": \"top.rank\", \"isVar\": false, \"name\": \"IDS_OF_ALL\"}                    ]                },                {                    \"cond\": {\"top.in_team\": [null]},                    \"template\": \"{} войдите в топ-{} {} по количеству нанесённого урона\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"},                        {\"count\": \"top.rank\", \"isVar\": false, \"name\": \"IDS_OF_ALL\"}                    ]                },                {                    \"cond\": {\"top.rank\": [1]},                    \"template\": \"{} займите первое место {} по количеству нанесённого урона\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"top.in_team\"}                    ]                },                {                    \"template\": \"{} войдите в топ-{} {} по количеству нанесённого урона\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"},                        {\"isVar\": true, \"mod\": \"ACC\", \"name\": \"top.in_team\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"top.rank\": [1]},                    \"template\": \"займите первое место по количеству урона\",                    \"template_args\": []                },                {                    \"template\": \"войдите в топ-{} по количеству урона\",                    \"template_args\": [{\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"}]                }            ],            \"vars\": [\"precondition\", \"top.in_team\", \"top.rank\"]        },        \"TEMPLATE_TOP_N_EXP\": {            \"cntVars\": [\"top.rank\"],            \"optVars\": [\"precondition\", \"top.in_team\"],            \"rules\": [                {                    \"cond\": {\"top.in_team\": [null], \"top.rank\": [1]},                    \"template\": \"{} займите первое место {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"count\": \"top.rank\", \"isVar\": false, \"name\": \"IDS_OF_ALL\"}                    ]                },                {                    \"cond\": {\"top.in_team\": [null]},                    \"template\": \"{} войдите в топ-{} {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"},                        {\"count\": \"top.rank\", \"isVar\": false, \"name\": \"IDS_OF_ALL\"}                    ]                },                {                    \"cond\": {\"top.rank\": [1]},                    \"template\": \"{} займите первое место {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"top.in_team\"}                    ]                },                {                    \"template\": \"{} войдите в топ-{} {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"},                        {\"isVar\": true, \"mod\": \"ACC\", \"name\": \"top.in_team\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"top.rank\": [1]},                    \"template\": \"займите первое место по количеству опыта\",                    \"template_args\": []                },                {                    \"template\": \"войдите в топ-{} по количеству опыта\",                    \"template_args\": [{\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"}]                }            ],            \"vars\": [\"precondition\", \"top.in_team\", \"top.rank\"]        },        \"TEMPLATE_TOP_N_EXP_BATTLES\": {            \"cntVars\": [\"top.rank\"],            \"optVars\": [\"precondition\", \"top.in_team\"],            \"rules\": [                {                    \"cond\": {\"top.in_team\": [null], \"top.rank\": [1]},                    \"template\": \"В {} {} займите первое место {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_BATTLES\"},                        {\"count\": \"top.rank\", \"isVar\": false, \"name\": \"IDS_OF_ALL\"}                    ]                },                {                    \"cond\": {\"top.in_team\": [null]},                    \"template\": \"В {} {} войдите в топ-{} {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_BATTLES\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"},                        {\"count\": \"top.rank\", \"isVar\": false, \"name\": \"IDS_OF_ALL\"}                    ]                },                {                    \"cond\": {\"top.rank\": [1]},                    \"template\": \"В {} {} займите первое место {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_BATTLES\"},                        {\"isVar\": true, \"mod\": \"PREP\", \"name\": \"top.in_team\"}                    ]                },                {                    \"template\": \"В {} {} войдите в топ-{} {} по количеству полученного опыта\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_BATTLES\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"},                        {\"isVar\": true, \"mod\": \"ACC\", \"name\": \"top.in_team\"}                    ]                }            ],            \"rules_short\": [                {                    \"cond\": {\"top.rank\": [1]},                    \"template\": \"займите первое место по количеству опыта\",                    \"template_args\": []                },                {                    \"template\": \"войдите в топ-{} по количеству опыта\",                    \"template_args\": [{\"isVar\": true, \"mod\": \"incl1\", \"name\": \"top.rank\"}]                }            ],            \"vars\": [\"precondition\", \"top.in_team\", \"top.rank\", \"count\"]        },        \"TEMPLATE_TOTAL_CURRENCY\": {            \"cntVars\": [\"count\"],            \"optVars\": [\"precondition\"],            \"rules\": [                {                    \"template\": \"{} заработайте {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"precondition\"},                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"currency\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"заработайте {}\",                    \"template_args\": [{\"count\": 2, \"isVar\": true, \"name\": \"currency\"}]                }            ],            \"vars\": [\"precondition\", \"count\", \"currency\"]        },        \"TEMPLATE_USE_CAMOUFLAGE\": {            \"rules\": [                {                    \"template\": \"На корабле должен быть установлен {} «{}»\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": false, \"name\": \"IDS_CAMOUFLAGE\"},                        {\"isVar\": true, \"name\": \"camouflage.id\"}                    ]                }            ],            \"setVars\": [\"camouflage.id\"],            \"vars\": [\"camouflage.id\"]        },        \"TEMPLATE_USE_PERMOFLAGE\": {            \"rules\": [                {                    \"template\": \"На корабле должен быть установлен {} «{}»\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": false, \"name\": \"IDS_PERMANENT_CAMOUFLAGE\"},                        {\"isVar\": true, \"name\": \"permoflage.id\"}                    ]                }            ],            \"setVars\": [\"permoflage.id\"],            \"vars\": [\"permoflage.id\"]        },        \"TEMPLATE_USE_SIGNALS\": {            \"optVars\": [\"signal.group\"],            \"rules\": [                {\"cond\": {\"signal.group\": [null]}, \"template\": \"\", \"template_args\": []},                {                    \"cond\": {\"count\": [1], \"signal.ids\": [null]},                    \"template\": \"На корабле должен быть установлен {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"mod\": \"incl1\", \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"signal.group\"}                    ]                },                {                    \"cond\": {\"signal.ids\": [null]},                    \"template\": \"На корабле должно быть установлено {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": true, \"mod\": \"ACC\", \"name\": \"signal.group\"}                    ]                },                {                    \"template\": \"На корабле должен быть установлен {} {}\",                    \"template_args\": [                        {\"count\": 1, \"isVar\": true, \"name\": \"signal.group\"},                        {\"isVar\": true, \"name\": \"signal.ids\"}                    ]                }            ],            \"setVars\": [\"signal.ids\"],            \"vars\": [\"signal.group\", \"count\", \"signal.ids\"]        },        \"TEMPLATE_WIN_IN_BATTLES\": {            \"cntVars\": [\"count\"],            \"rules\": [                {                    \"template\": \"одержите победу в {} {}\",                    \"template_args\": [                        {\"isVar\": true, \"name\": \"count\"},                        {\"count\": \"count\", \"isVar\": false, \"mod\": \"ACC\", \"name\": \"IDS_BATTLES\"}                    ]                }            ],            \"rules_short\": [                {                    \"template\": \"победите в {}\",                    \"template_args\": [{\"count\": 1, \"isVar\": false, \"mod\": \"PREP\", \"name\": \"IDS_BATTLES\"}]                }            ],            \"vars\": [\"count\"]        }    }}"
 
 msgid "IDS_START_BATTLE_DENY_REASON_NOT_READY_IN_TRAINING_ROOM"
-msgstr "Выберите подходящий корабль и нажмите кнопку «Готов», чтобы вы могли начать Тренировочный бой."
+msgstr "Select the appropriate ship and click the “Ready” button so you can start the Training Battle."
 
 msgid "IDS_STRATEGIC_ACTIONS_COMMON_EVENT_TITLE"
 msgstr "Рейд во льдах"
@@ -17077,7 +17074,7 @@ msgid "IDS_TRAINING_WEATHER_TOOLTIP"
 msgstr "Погодные условия в бою"
 
 msgid "IDS_TRUS"
-msgstr "Трус"
+msgstr "Coward"
 
 msgid "IDS_TUTORIALBATTLE_DESCRIPTION"
 msgstr ""
