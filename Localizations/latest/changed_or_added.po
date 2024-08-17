@@ -16200,7 +16200,7 @@ msgid "IDS_SPACES/56_KAMCHATKA_DESCR"
 msgstr "Kamchatka"
 
 msgid "IDS_SPACES/AS02_NEW_TIERRA"
-msgstr "A raid in the ice"
+msgstr "Raid in the Ice"
 
 msgid "IDS_SPACES/E12_APRIL_2024"
 msgstr "Proxima Centauri"
@@ -16242,412 +16242,412 @@ msgid "IDS_START_BATTLE_DENY_REASON_NOT_READY_IN_TRAINING_ROOM"
 msgstr "Select the appropriate ship and click the “Ready” button so you can start the Training Battle."
 
 msgid "IDS_STRATEGIC_ACTIONS_COMMON_EVENT_TITLE"
-msgstr "Рейд во льдах"
+msgstr "Raid in the Ice"
 
 msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_0"
-msgstr "«Рейд во льдах» — это событие, в рамках которого вам предстоит брать территории под контроль, выполняя задачи."
+msgstr "\"Raid in the Ice\" is an event where you need to take control of territories by completing tasks."
 
 msgid "IDS_STRATEGIC_ACTIONS_ONBOARDING_TEXT_2"
-msgstr "Взяв под контроль необходимое количество территорий, вы получите финальную награду и памятное достижение. Вы также будете получать промежуточные награды по мере выполнения задач события."
+msgstr "By taking control of the required number of territories, you will receive the final reward and a commemorative achievement. You will also earn intermediate rewards as you complete event tasks."
 
 msgid "IDS_STRATEGIC_ACTIONS_PROCEED_TO_TERRITORY"
-msgstr "Перейти к территории"
+msgstr "Proceed to Territory"
 
 msgid "IDS_STRATEGIC_ACTIONS_RESULTS_COMMON_SUBTITLE"
-msgstr "Общие результаты"
+msgstr "Total Results"
 
 msgid "IDS_STRATEGIC_ACTIONS_RESULTS_REWARDS_SUBTITLE"
-msgstr "Полученные награды"
+msgstr "Received Rewards"
 
 msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TASKS"
-msgstr "Выполнено задач"
+msgstr "Tasks Completed"
 
 msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TERRITORIES"
-msgstr "Территории под контролем"
+msgstr "Territories Controlled"
 
 msgid "IDS_STRATEGIC_ACTIONS_RESULTS_TITLE"
-msgstr "Событие «Рейд во льдах» завершено"
+msgstr "The \"Raid in the Ice\" Event Has Ended"
 
 msgid "IDS_STRATEGIC_ACTIONS_TASK_CURRENT"
-msgstr "Текущая задача"
+msgstr "Current Task"
 
 msgid "IDS_STRATEGIC_ACTIONS_TASK_NEXT"
-msgstr "Следующая задача"
+msgstr "Next Task"
 
 msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_MARKER_TOOLTIP_STATUS_LOCKED"
-msgstr "Территория недоступна. Нужно взять прилегающую территорию под контроль."
+msgstr "Territory unavailable. You need to take control of the adjacent territory."
 
 msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_TOOLTIP"
-msgstr "Награды территории"
+msgstr "Territory Rewards"
 
 msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SCORE"
-msgstr "Очки территории"
+msgstr "Territory Score"
 
 msgid "IDS_STRATEGIC_ACTIONS_TERRITORY_SELECTED"
-msgstr "Выбранная территория"
+msgstr "Selected Territory"
 
 msgid "IDS_SUBHEADER_BRAWLBATTLE"
-msgstr "Против игроков"
+msgstr "Battle against players"
 
 msgid "IDS_SUBHEADER_COOPERATIVEBATTLE"
-msgstr "Против ботов"
+msgstr "Battle against bots"
 
 msgid "IDS_SUBHEADER_EVENTBATTLE"
-msgstr "Против игроков"
+msgstr "Battle against players"
 
 msgid "IDS_SUBHEADER_PVEBATTLE"
-msgstr "Против ботов"
+msgstr "Battle against bots"
 
 msgid "IDS_SUBHEADER_RANDOMBATTLE"
-msgstr "Против игроков"
+msgstr "Battle against players"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
-msgstr "Правило испытания"
+msgstr "Test rules"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
-msgstr "Правило испытания"
+msgstr "Test rules"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
-msgstr "Эффект снаряжения противника"
+msgstr "Effect of enemy equipment"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_MOVEMENT"
-msgstr "Правило испытания"
+msgstr "Test rules"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
-msgstr "Правило испытания"
+msgstr "Test rules"
 
 msgid "IDS_SUBMARINES_LEGENDARY"
-msgstr "Суперподлодки"
+msgstr "Supersubmarine"
 
 msgid "IDS_SUBMARINE_LEGENDARY"
-msgstr "Суперподлодка"
+msgstr "Supersubmarine"
 
 msgid "IDS_SUBMARINE_SPEED_DEEP_WATER_HIGH"
-msgstr "Высокая скорость хода в подводном положении"
+msgstr "High underwater speed"
 
 msgid "IDS_SUBMARINE_SPEED_DEEP_WATER_LOW"
-msgstr "Низкая скорость хода в подводном положении"
+msgstr "Low underwater speed"
 
 msgid "IDS_SUBMARINE_SPEED_SURFACE_HIGH"
-msgstr "Высокая скорость хода в надводном положении"
+msgstr "High surface speed"
 
 msgid "IDS_SUBMARINE_SPEED_SURFACE_LOW"
-msgstr "Низкая скорость хода в надводном положении"
+msgstr "Low surface speed"
 
 msgid "IDS_SUBST_BATTLEPASS_CURRENT_LEVEL"
-msgstr "%(_level)s-й уровень"
+msgstr "Level %(_level)s"
 
 msgid "IDS_SUBST_BATTLEPASS_FREE_TOOLTIP_TEXT"
-msgstr "%(_level)s-й уровень Базового пропуска"
+msgstr "Level %(_level)s - Free Pass"
 
 msgid "IDS_SUBST_BATTLEPASS_PAID_TOOLTIP_TEXT"
-msgstr "%(_level)s-й уровень Улучшенного пропуска"
+msgstr "Level %(_level)s - Premium Pass"
 
 msgid "IDS_SUBST_DOCK_BANNER_BATTLEPASS_PROGRESS_TEXT"
-msgstr "До %(_level)s-го уровня:"
+msgstr "To %(_level)s:"
 
 msgid "IDS_SUBST_DOCK_BANNER_BATTLEPASS_TOOLTIP_TIME"
-msgstr "До окончания сезона: %(_timeLeft)s"
+msgstr "Event ends in: %(_timeLeft)s"
 
 msgid "IDS_SUBST_EVENT_SEASON_ENDS_IN"
-msgstr "До конца сезона: %(_timeLeft)s"
+msgstr "Event ends in: %(_timeLeft)s"
 
 msgid "IDS_SUBST_SHIP_TAG_HEADER"
-msgstr "Отличия от других %(_shipClass)s %(_shipLevel)s уровня"
+msgstr "Differences from other %(_shipClass)s of tier %(_shipLevel)s"
 
 msgid "IDS_SUBST_SHIP_TAG_HEADER_LEGENDARY"
-msgstr "Отличия от других %(_shipClass)s"
+msgstr "Differences from other %(_shipClass)s"
 
 msgid "IDS_SUBST_SSE_DAILY_RESET_IN"
-msgstr "Ежедневная задача: обновление через %(timeLeft)s"
+msgstr "Updating in %(timeLeft)s"
 
 msgid "IDS_SUBST_SSE_DAILY_RESET_IN_TOOLTIP"
-msgstr "Задача обновляется каждый день. Следующее обновление: %(timeLeft)s."
+msgstr "The task is updated every day. Next update: %(timeLeft)s."
 
 msgid "IDS_SUBST_SSE_WEEKLY_RESET_IN"
-msgstr "Еженедельная задача: обновление через %(timeLeft)s"
+msgstr "Weekly task: update in %(timeLeft)s"
 
 msgid "IDS_SUBST_SSE_WEEKLY_RESET_IN_TOOLTIP"
-msgstr "Задача обновляется каждую неделю. Следующее обновление: %(timeLeft)s."
+msgstr "The task is updated every week. Next update: %(timeLeft)s."
 
 msgid "IDS_SYS_MESSAGE_GROUP_SESSION_STATISTICS_DESCRIPTION"
-msgstr "Статистика боёв за сутки (сбрасывается автоматически каждый день в %(_nextRefreshTime)s МСК)"
+msgstr "Battle statistics for a day (reset automatically every day at 2:00 UTC)"
 
 msgid "IDS_SYS_MSG_AUTO_PURCHASE_LOOTBOX"
-msgstr "Получены контейнеры"
+msgstr "Containers received"
 
 msgid "IDS_SYS_MSG_BATTLEPASS_BOUGHT"
-msgstr "Куплен Улучшенный боевой пропуск"
+msgstr "Premium Battle Pass purchased"
 
 msgid "IDS_SYS_MSG_BATTLEPASS_LEVEL_BOUGHT"
-msgstr "Уровни Боевого пропуска куплены"
+msgstr "Battle Pass points purchased"
 
 msgid "IDS_SYS_MSG_BATTLEPASS_REWARDS_CLAIM"
-msgstr "Получены награды Боевого пропуска"
+msgstr "Battle Pass rewards received"
 
 msgid "IDS_SYS_MSG_BATTLE_RESULTS_10"
-msgstr "%(_wonPosition)d-е место"
+msgstr "RANK-%(_wonPosition)d"
 
 msgid "IDS_SYS_MSG_BOUGHT_BRASS"
-msgstr "Чемпионские жетоны куплены"
+msgstr "Champion Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_CLIENTUM_2"
-msgstr "Жетоны прогресса куплены"
+msgstr "Progress Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
-msgstr "Яркие жетоны куплены"
+msgstr "Colorful Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_10"
-msgstr "Летние жетоны куплены"
+msgstr "Summer Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
-msgstr "Легендарные жетоны куплены"
+msgstr "Legendary Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "Американские жетоны куплены"
+msgstr "American Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
-msgstr "Флотские жетоны куплены"
+msgstr "Fleet Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_5"
-msgstr "Памятные жетоны куплены"
+msgstr "Commemorative Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_6"
-msgstr "Рейдерские жетоны куплены"
+msgstr "Raider Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
-msgstr "Космические жетоны куплены"
+msgstr "Space Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_8"
-msgstr "Зимние жетоны куплены"
+msgstr "Winter Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_9"
-msgstr "Корабельные жетоны куплены"
+msgstr "Ship Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_SHIP_COMPONENT"
-msgstr "Конструкции куплены"
+msgstr "Structures purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_SHIP_MATERIAL"
-msgstr "Заготовки куплены"
+msgstr "Blanks purchased"
 
 msgid "IDS_SYS_MSG_CREW_BOUND_TO_NATION"
-msgstr "Командиру присвоена нация"
+msgstr "Commander nationality assigned"
 
 msgid "IDS_SYS_MSG_CREW_BOUND_TO_SHIP"
-msgstr "Командир подготовлен на корабль"
+msgstr "Commander ready for the ship"
 
 msgid "IDS_SYS_MSG_KICKED_FROM_TRAINING_ROOM"
-msgstr "Вы исключены из тренировочной комнаты"
+msgstr "You are excluded from the training room"
 
 msgid "IDS_SYS_MSG_NEW_BATTLEPASS_LEVEL_REACHED"
-msgstr "Достигнут новый уровень Боевого пропуска"
+msgstr "Battle Pass level reached"
 
 msgid "IDS_SYS_MSG_OPEN_LOOTBOX"
-msgstr "%(lootboxName)s открыт"
+msgstr "%(lootboxName)s opened"
 
 msgid "IDS_SYS_MSG_RANK_REMAINING_REWARDS"
-msgstr "Награды пройденной лиги"
+msgstr "Rewards of the league"
 
 msgid "IDS_SYS_MSG_RECEIVED_BP_POINTS"
-msgstr "Получены бонусы Боевого пропуска"
+msgstr "Battle Pass points received"
 
 msgid "IDS_SYS_MSG_RECEIVED_BRASS"
-msgstr "Получены чемпионские жетоны"
+msgstr "Champion Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_CLIENTUM_2"
-msgstr "Получены жетоны прогресса"
+msgstr "Progress Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
-msgstr "Получены яркие жетоны"
+msgstr "Colorful Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_10"
-msgstr "Получены летние жетоны "
+msgstr "Summer Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
-msgstr "Получены легендарные жетоны"
+msgstr "Legendary Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "Получены американские жетоны"
+msgstr "American Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
-msgstr "Получены флотские жетоны"
+msgstr "Fleet Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_5"
-msgstr "Получены памятные жетоны"
+msgstr "Commemorative Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_6"
-msgstr "Получены рейдерские жетоны"
+msgstr "Raider Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
-msgstr "Получены космические жетоны"
+msgstr "Space Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_8"
-msgstr "Получены зимние жетоны"
+msgstr "Winter Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_9"
-msgstr "Получены корабельные жетоны"
+msgstr "Ship Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_SHIP_COMPONENT"
-msgstr "Получены конструкции"
+msgstr "Structures received"
 
 msgid "IDS_SYS_MSG_RECEIVED_SHIP_MATERIAL"
-msgstr "Получены заготовки"
+msgstr "Blanks received"
 
 msgid "IDS_SYS_MSG_SHIP_CRAFTED"
-msgstr "Корабль отремонтирован"
+msgstr "Ship repaired"
 
 msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARDS_CLAIM"
-msgstr "Награды события «Рейд во льдах»"
+msgstr "\"Raid in the Ice\" event awards"
 
 msgid "IDS_SYS_MSG_STRATEGIC_ACTIONS_REWARD_CLAIM"
-msgstr "Награды события"
+msgstr "Event rewards"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_BRASS"
-msgstr "Списаны чемпионские жетоны"
+msgstr "Champion Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_CLIENTUM_2"
-msgstr "Списаны жетоны прогресса"
+msgstr "Progress Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
-msgstr "Списаны яркие жетоны"
+msgstr "Colorful Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_10"
-msgstr "Списаны летние жетоны"
+msgstr "Summer Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
-msgstr "Списаны легендарные жетоны"
+msgstr "Legendary Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "Списаны американские жетоны"
+msgstr "American Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
-msgstr "Списаны флотские жетоны"
+msgstr "Fleet Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_5"
-msgstr "Списаны памятные жетоны"
+msgstr "Commemorative Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
-msgstr "Списаны рейдерские жетоны"
+msgstr "Raider Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
-msgstr "Списаны космические жетоны"
+msgstr "Space Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_8"
-msgstr "Списаны зимние жетоны"
+msgstr "Winter Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_9"
-msgstr "Списаны корабельные жетоны"
+msgstr "Ship Tokens written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_SHIP_COMPONENT"
-msgstr "Списаны конструкции"
+msgstr "Structures written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_SHIP_MATERIAL"
-msgstr "Списаны заготовки"
+msgstr "Blanks written off"
 
 msgid "IDS_TAKEN_DAMAGED_MODULES_HINT"
-msgstr "Количество выведенных из строя модулей"
+msgstr "Number of incapacitated modules"
 
 msgid "IDS_TALENTS_AND_VANITIES"
-msgstr "Национальные таланты и персонализации"
+msgstr "National Talents and Personalizations"
 
 msgid "IDS_TALENT_CAT_NAME_DEFAULT"
-msgstr "Национальный талант"
+msgstr "National Talent"
 
 msgid "IDS_TALENT_PFW405_DAMAGE_8_DESCRIPTION"
-msgstr "Срабатывает при получении каждых 2 000 000 ед. потенциального урона."
+msgstr "Activates after every 2,000,000 HP of potential damage."
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_BB_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_BB_2"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_CA_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_DD_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_1EPOCH_DD_2"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_BB_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_BB_2"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_CA_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_CA_2"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_DD_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_2EPOCH_DD_2"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_AA"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_BB_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_CA_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_CA_2"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_DD_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_3EPOCH_DD_2"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_BB_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_BB_2"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_CA_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_CA_2"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_DD_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_4EPOCH_DD_2"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_AA"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_BB_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_BB_2"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_CA_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_CA_2"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_DD_1"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TASKRESTRICTIONSPECIAL_5EPOCH_DD_3"
-msgstr "Условия выполнения:"
+msgstr "Completion criteria:"
 
 msgid "IDS_TEAM_STRATEGIC_ACTIONS"
-msgstr "Рейд во льдах"
+msgstr "Raid in the Ice"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_CASUAL"
 msgstr "Офицер военно-морской разведки"
