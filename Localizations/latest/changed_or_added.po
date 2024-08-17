@@ -423,10 +423,10 @@ msgid "IDS_ADVANCED_CREW_STATUS"
 msgstr "Rare Commander"
 
 msgid "IDS_AIRCRAFT_CARRIER_LOGMESSAGE_MINE_BOMBER"
-msgstr "Press %(_cmd)s again to launch mine layers"
+msgstr "Press %(_cmd)s again to launch mine bombers"
 
 msgid "IDS_AIRCRAFT_CARRIER_LOGMESSAGE_MINE_BOMBER_NOT_ENOUGH"
-msgstr "Insufficient number of mine layers for launch"
+msgstr "Insufficient number of mine bombers for launch"
 
 msgid "IDS_AIR_DEFENSE_DISTANCE_HIGH"
 msgstr "Long range of AA fire"
@@ -1458,40 +1458,40 @@ msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
 msgstr "I need air support!"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_MINEBOMBER"
-msgstr "Provide cover for allied mine layers!"
+msgstr "Provide cover for allied mine bombers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Provide cover for allied mine layers!"
+msgstr "Provide cover for allied mine bombers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_MINEBOMBER"
-msgstr "Attention, enemy mine layers!"
+msgstr "Attention, enemy mine bombers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Attention, enemy mine layers!"
+msgstr "Attention, enemy mine bombers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_MINEBOMBER"
-msgstr "Allied mine layers!"
+msgstr "Allied mine bombers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Allied mine layers!"
+msgstr "Allied mine bombers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_MINEBOMBER"
-msgstr "Enemy mine layers!"
+msgstr "Enemy mine bombers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Enemy mine layers!"
+msgstr "Enemy mine bombers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_MINEBOMBER"
-msgstr "Allied mine layers!"
+msgstr "Allied mine bombers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Allied mine layers!"
+msgstr "Allied mine bombers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_MINEBOMBER"
-msgstr "Enemy mine layers!"
+msgstr "Enemy mine bombers!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
-msgstr "Enemy mine layers!"
+msgstr "Enemy mine bombers!"
 
 msgid "IDS_COMMANDERS_MANAGEMENT_DISABLED"
 msgstr "Commanders are not allowed to invite players"
@@ -1948,10 +1948,10 @@ msgstr ""
 "High chance of causing fire."
 
 msgid "IDS_DOCK_AMMO_TITLE_MINE_SEAMINE"
-msgstr "Mine Layers"
+msgstr "Mine Bombers"
 
 msgid "IDS_DOCK_AMMO_TITLE_MINE_SEAMINE_ALT"
-msgstr "Mine Layers"
+msgstr "Mine Bombers"
 
 msgid "IDS_DOCK_BACK_TO_NATION"
 msgstr "To the Tech Tree"
@@ -2551,7 +2551,7 @@ msgid "IDS_DOGTAG_PCNB209_NAME"
 msgstr "U.S. Marine Corps Anniversary"
 
 msgid "IDS_DOGTAG_PCNB211_DESCRIPTION"
-msgstr "The name of the Japanese destroyer Asashio translates as 'Morning Tide.' Asashio entered service in 1937 as the lead ship in a series of similar ships and perished in the Battle of the Bismarck Sea in March 1943."
+msgstr "The name of the Japanese destroyer Asashio translates as 'Morning Tide'. Asashio entered service in 1937 as the lead ship in a series of similar ships and perished in the Battle of the Bismarck Sea in March 1943."
 
 msgid "IDS_DOGTAG_PCNB211_NAME"
 msgstr "Asashio"
@@ -2875,7 +2875,7 @@ msgid "IDS_DOGTAG_PCNB326_NAME"
 msgstr "Yoshino"
 
 msgid "IDS_DOGTAG_PCNB328_DESCRIPTION"
-msgstr "The Dunkerque-class battleships were designed to counter the Deutschland-class 'pocket battleships.' At the time of their commissioning, the only ships capable of fighting them on equal terms were the battlecruisers of the Royal Navy of Great Britain and the Imperial Japanese Navy."
+msgstr "The Dunkerque-class battleships were designed to counter the Deutschland-class 'pocket battleships'. At the time of their commissioning, the only ships capable of fighting them on equal terms were the battlecruisers of the Royal Navy of Great Britain and the Imperial Japanese Navy."
 
 msgid "IDS_DOGTAG_PCNB328_NAME"
 msgstr "Dunkerque"
@@ -2926,7 +2926,7 @@ msgid "IDS_DOGTAG_PCNB372_NAME"
 msgstr "Mainz"
 
 msgid "IDS_DOGTAG_PCNB374_DESCRIPTION"
-msgstr "In Japanese, Shinonome translates to 'morning dawn.' In the rays of the rising sun, Mount Fuji, a sacred symbol in Japanese culture, is depicted."
+msgstr "In Japanese, Shinonome translates to 'morning dawn'. In the rays of the rising sun, Mount Fuji, a sacred symbol in Japanese culture, is depicted."
 
 msgid "IDS_DOGTAG_PCNB374_NAME"
 msgstr "Shinonome"
@@ -3142,7 +3142,7 @@ msgstr "Smolensk"
 
 msgid "IDS_DOGTAG_PCNB428_DESCRIPTION"
 msgstr ""
-"The holder of this symbol won a chance to win a guitar with the signatures of the musicians of 'Aria.'\n"
+"The holder of this symbol won a chance to win a guitar with the signatures of the musicians of 'Aria'.\n"
 "\n"
 "For completing the 'Forging Metal' collection."
 
@@ -4811,7 +4811,7 @@ msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_3"
 msgstr "The kingdom of Shu was located in western China. Its founder, Liu Bei, claimed to be related to the imperial Han dynasty, calling himself the legitimate heir."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_4"
-msgstr "The kingdom of Wu was located in eastern and southern China. It is believed that Sun Quan, the ruler of Wu, was a descendant of Sun Tzu, the famous author of 'The Art of War.' Sun Quan proclaimed himself emperor after inheriting the lands from his elder brother and became the youngest of the three famous leaders of the Three Kingdoms era."
+msgstr "The kingdom of Wu was located in eastern and southern China. It is believed that Sun Quan, the ruler of Wu, was a descendant of Sun Tzu, the famous author of 'The Art of War'. Sun Quan proclaimed himself emperor after inheriting the lands from his elder brother and became the youngest of the three famous leaders of the Three Kingdoms era."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_3_TEXT_1"
 msgstr "In the winter of 208-209 AD, the legendary Battle of Red Cliffs took place. Cao Cao gathered a massive force to conquer the lands south of the Yangtze River. His troops had little experience in naval battles, so Cao chained his ships together to prevent them from rocking. The combined forces of Wu and Shu, led by Sun Quan and Liu Bei, were outnumbered, but they managed to win through cunning: pretending to surrender, the allies sent ships filled with flammable material towards Cao's forces and set them on fire."
@@ -4889,7 +4889,7 @@ msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_1"
 msgstr "You will compete with other players in a contest consisting of 5 rounds."
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "In each round, you will participate in one of the challenges selected at random: 'Combat Endurance', 'Speed Maneuvers', 'Firepower', 'Target Elimination', and 'Shooting Accuracy.'"
+msgstr "In each round, you will participate in one of the challenges selected at random: 'Combat Endurance', 'Speed Maneuvers', 'Firepower', 'Target Elimination', and 'Shooting Accuracy'."
 
 msgid "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_1_TEXT_3"
 msgstr "In different challenges, certain changes and restrictions will be applied to your ship's characteristics. You will not be able to use consumables throughout the contest."
@@ -7457,7 +7457,7 @@ msgid "IDS_PCEE059_PEARL_HARBOR_DESCRIPTION"
 msgstr "On the morning of December 7, 1941, Japanese aviation and forces of the Imperial Japanese Navy launched a surprise massive attack on the American military base at Pearl Harbor, resulting in the deaths of over 2,000 servicemen. The United States declared war on Japan on December 8, thus entering World War II in both the European and Pacific theaters."
 
 msgid "IDS_PCEE060_OLEG_FLAG_DESCRIPTION"
-msgstr "Shortly after the start of the October Revolution in 1917, the crew of the armored cruiser Oleg joined the Bolsheviks. Under the terms of the Brest-Litovsk Peace Treaty, the Soviet forces were required to leave the base in Helsinki in March 1918, despite the Gulf of Finland still being covered in ice. If they refused, all Soviet ships were to be transferred to the newly independent Finland. Under the difficult ice conditions, Oleg had to break through to Kronstadt as part of the operation known as the 'Ice March.'"
+msgstr "Shortly after the start of the October Revolution in 1917, the crew of the armored cruiser Oleg joined the Bolsheviks. Under the terms of the Brest-Litovsk Peace Treaty, the Soviet forces were required to leave the base in Helsinki in March 1918, despite the Gulf of Finland still being covered in ice. If they refused, all Soviet ships were to be transferred to the newly independent Finland. Under the difficult ice conditions, Oleg had to break through to Kronstadt as part of the operation known as the 'Ice March'."
 
 msgid "IDS_PCEE062_KING_OF_THE_SEA"
 msgstr "Naval Battle"
@@ -7609,7 +7609,7 @@ msgid "IDS_PCEE471_RANKEDFLAG_5_EXTRA_DESCRIPTION"
 msgstr "For achieving 1st rank in the Bronze League in the 5th season of Ranked Battles."
 
 msgid "IDS_PCEE560_WOWS_WOT_FLAG_DESCRIPTION"
-msgstr "In honor of the games 'World of Warships', 'World of Tanks', and 'Tanks Blitz.'"
+msgstr "In honor of the games 'World of Warships', 'World of Tanks', and 'Tanks Blitz'."
 
 msgid "IDS_PCEE563_CHKALOVBLACK_FLAG"
 msgstr "Chkalov C"
@@ -7693,7 +7693,7 @@ msgid "IDS_PCEE642_THREEKINGDOMS_FLAG"
 msgstr "Wu Kingdom"
 
 msgid "IDS_PCEE642_THREEKINGDOMS_FLAG_DESCRIPTION"
-msgstr "The Wu Kingdom was one of the states of the Three Kingdoms period, which fought for control over China in the 3rd century. It was located in the east and south. It is believed that Sun Quan, the ruler of the kingdom, was a descendant of Sun Tzu, the famous author of 'The Art of War.' Sun Quan proclaimed himself emperor, inheriting the lands from his elder brother, and became the youngest of the three famous leaders of the Three Kingdoms period."
+msgstr "The Wu Kingdom was one of the states of the Three Kingdoms period, which fought for control over China in the 3rd century. It was located in the east and south. It is believed that Sun Quan, the ruler of the kingdom, was a descendant of Sun Tzu, the famous author of 'The Art of War'. Sun Quan proclaimed himself emperor, inheriting the lands from his elder brother, and became the youngest of the three famous leaders of the Three Kingdoms period."
 
 msgid "IDS_PCEE643_THREEKINGDOMS_FLAG"
 msgstr "Wei Kingdom"
@@ -7743,7 +7743,7 @@ msgid "IDS_PCEE658_12_MONTHS_FLAG"
 msgstr "Winter Fairy Tale"
 
 msgid "IDS_PCEE658_12_MONTHS_FLAG_DESCRIPTION"
-msgstr "'The trees stopped crackling from the frost, and the snow began to fall thickly, in large, soft flakes.'"
+msgstr "'The trees stopped crackling from the frost, and the snow began to fall thickly, in large, soft flakes'."
 
 msgid "IDS_PCEE658_12_MONTHS_FLAG_EXTRA_DESCRIPTION"
 msgstr "In honor of the New Year's celebration."
@@ -7944,7 +7944,7 @@ msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG"
 msgstr "Akizuki CLR"
 
 msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG_DESCRIPTION"
-msgstr "Akizuki translates from Japanese as 'Autumn Moon.' In mid-autumn, Japan celebrates a festival dedicated to the moon: during these days, it is customary to admire the night light, decorate homes, and prepare special treats."
+msgstr "Akizuki translates from Japanese as 'Autumn Moon'. In mid-autumn, Japan celebrates a festival dedicated to the moon: during these days, it is customary to admire the night light, decorate homes, and prepare special treats."
 
 msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG_EXTRA_DESCRIPTION"
 msgstr "In honor of the release of dazzlingly bright ships."
@@ -7959,7 +7959,7 @@ msgid "IDS_PCEE690_NATSUKAZE_FLAG"
 msgstr "Natsukaze"
 
 msgid "IDS_PCEE690_NATSUKAZE_FLAG_DESCRIPTION"
-msgstr "Natsukaze translates from Japanese as 'Summer Breeze.' A breeze is a type of coastal wind with a daily periodicity. During the day, cool air moves from the sea to the warm shore, and at night, warm air from the sea moves to the rapidly cooling land."
+msgstr "Natsukaze translates from Japanese as 'Summer Breeze'. A breeze is a type of coastal wind with a daily periodicity. During the day, cool air moves from the sea to the warm shore, and at night, warm air from the sea moves to the rapidly cooling land."
 
 msgid "IDS_PCEE691_OYODO_FLAG"
 msgstr "Ōyodo"
@@ -7980,7 +7980,7 @@ msgid "IDS_PCEE693_PIORUN_FLAG"
 msgstr "ORP Piorun"
 
 msgid "IDS_PCEE693_PIORUN_FLAG_DESCRIPTION"
-msgstr "The Virtuti Militari Order is Poland's highest military order, awarded for outstanding combat achievements. One of the oldest military orders in the world. Established by the King of the Polish-Lithuanian Commonwealth Stanisław August Poniatowski in 1792. The order's motto: 'Honor and Homeland.'"
+msgstr "The Virtuti Militari Order is Poland's highest military order, awarded for outstanding combat achievements. One of the oldest military orders in the world. Established by the King of the Polish-Lithuanian Commonwealth Stanisław August Poniatowski in 1792. The order's motto: 'Honor and Homeland'."
 
 msgid "IDS_PCEE695_EVERLASTING_SUMMER_FLAG"
 msgstr "Everlasting Summer"
@@ -7989,7 +7989,7 @@ msgid "IDS_PCEE695_EVERLASTING_SUMMER_FLAG_DESCRIPTION"
 msgstr "Suddenly wanted to spit on everything, forget about yesterday's winter, and just believe that all this is real, that this is how it should be, that all this, in the end, is for the better..."
 
 msgid "IDS_PCEE695_EVERLASTING_SUMMER_FLAG_EXTRA_DESCRIPTION"
-msgstr "From the game 'Everlasting Summer.'"
+msgstr "From the game 'Everlasting Summer'."
 
 msgid "IDS_PCEE696_SCARLET_SAILS_FLAG"
 msgstr "Scarlet Sails"
@@ -8169,7 +8169,7 @@ msgid "IDS_PCQM071_DESCR"
 msgstr ""
 "Commissioned as an officer in 1906, Halsey participated in the legendary 'Great White Fleet' voyage — a round-the-world cruise of 16 of America's newest battleships, intended to showcase the United States' growing naval power. During the voyage, when visiting Japan, he had the opportunity to board the famous flagship of the Combined Fleet, Mikasa. The battle-honored Japanese battleship did not impress Halsey... After returning from the cruise, the young lieutenant left 'big gun ships' for service on small and fast torpedo boats.\n"
 "\n"
-"During World War I, Halsey finally became a ship commander, commanding the destroyer USS Shaw, a Sampson-class destroyer. Finding himself once in command of a detachment of two American destroyers and two British sloops, he later recalled that he was 'as proud as a dog with two tails.' After the war, Halsey's chest was adorned with the Navy Cross."
+"During World War I, Halsey finally became a ship commander, commanding the destroyer USS Shaw, a Sampson-class destroyer. Finding himself once in command of a detachment of two American destroyers and two British sloops, he later recalled that he was 'as proud as a dog with two tails'. After the war, Halsey's chest was adorned with the Navy Cross."
 
 msgid "IDS_PCQM074_DESCR"
 msgstr ""
@@ -9192,7 +9192,7 @@ msgstr ""
 "\n"
 "From childhood, he was engrossed in the right books. It was his desire to emulate his favorite characters that made the inspector an adventurer who eagerly plunges into the heat of events, often forgetting about his own safety.\n"
 "\n"
-"For Mikhail, the word 'impossible' does not exist. His motto is: 'I see the goal, I see no obstacles.' Although, truth be told, there is one thing the inspector could never allow himself – to put others in danger. 'Die yourself, but rescue your comrade' is another of his life credos."
+"For Mikhail, the word 'impossible' does not exist. His motto is: 'I see the goal, I see no obstacles'. Although, truth be told, there is one thing the inspector could never allow himself – to put others in danger. 'Die yourself, but rescue your comrade' is another of his life credos."
 
 msgid "IDS_PCZC806_SCARLET_BIRTHDAY_2_2"
 msgstr "Anton Grant"
@@ -9203,7 +9203,7 @@ msgstr ""
 "\n"
 "Having been through more than one conflict, Admiral Grant has often inspired people to great deeds. Everyone who has ever participated in campaigns with Grant can confidently say that he is not only an excellent commander but also a true friend.\n"
 "\n"
-"'Manners make the man.' The famous admiral remembers this even on the battlefield or after hitting his finger with a hammer.\n"
+"'Manners make the man'. The famous admiral remembers this even on the battlefield or after hitting his finger with a hammer.\n"
 "\n"
 "However, behind the stern exterior lies a very interesting personality. It turns out that Anton Grant plays the violin quite well, and his truly British jokes have won over more than one young lady's heart."
 
@@ -9245,7 +9245,7 @@ msgid "IDS_PCZC810_SCARLET_BIRTHDAY_2_6_DESCRIPTION"
 msgstr ""
 "A genius, a hard worker, a ladies' man, a philanthropist... Arkady Kulibin is a fan of fashionable glasses and stylish clothing. But don't be fooled, this seemingly unserious man and disco lover is actually one of the greatest minds of modern humanity.\n"
 "\n"
-"Diligent and dedicated to science, he, along with his friend and colleague Boris Venner, participated in the creation of the artificial intelligence that was later named 'Wisdom.'\n"
+"Diligent and dedicated to science, he, along with his friend and colleague Boris Venner, participated in the creation of the artificial intelligence that was later named 'Wisdom'.\n"
 "\n"
 "Currently, Arkady Kulibin heads the MC Research Institute. Under his leadership, thousands of scientific employees work, including roboticists, engineers, molecular biologists, and space industry specialists.\n"
 "\n"
@@ -9312,7 +9312,7 @@ msgstr "Anti-Aircraft System 'Sunset'"
 
 msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2_DESCRIPTION"
 msgstr ""
-"A new robotic anti-aircraft system 'Sunset' was specially developed for the 'Scarlet Thunder.' The romantic name was chosen for a reason: it hints to the potential enemy that this 'Sunset' might be their last.\n"
+"A new robotic anti-aircraft system 'Sunset' was specially developed for the 'Scarlet Thunder'. The romantic name was chosen for a reason: it hints to the potential enemy that this 'Sunset' might be their last.\n"
 "\n"
 "The automatic target acquisition system and the use of plasma charges as ammunition allow the battleship to deal with most enemies."
 
@@ -9321,7 +9321,7 @@ msgstr "V.A.N.S.H.O.T."
 
 msgid "IDS_PCZC819_SCARLET_BIRTHDAY_4_3_DESCRIPTION"
 msgstr ""
-"The highly efficient automatic targeting triple-barreled main gun – the main caliber weapon of the 'Scarlet Thunder.' A salvo from one turret can deal damage comparable to the salvo of an entire battery of battleship guns from World War II.\n"
+"The highly efficient automatic targeting triple-barreled main gun – the main caliber weapon of the 'Scarlet Thunder'. A salvo from one turret can deal damage comparable to the salvo of an entire battery of battleship guns from World War II.\n"
 "\n"
 "The V.A.N.S.H.O.T. guns performed excellently in suppressing the crisis near MC-8."
 
@@ -9329,14 +9329,14 @@ msgid "IDS_PCZC820_SCARLET_BIRTHDAY_4_4"
 msgstr "OCO Enemy Detection System"
 
 msgid "IDS_PCZC820_SCARLET_BIRTHDAY_4_4_DESCRIPTION"
-msgstr "An unparalleled detection device was developed specifically for the modification of the 'Scarlet Thunder' battleship. Conducting radar searches using an AI analyzer, OCO can detect the enemy at a distance of up to 400 km, as well as at depths of up to 10 km. The crew of the 'Scarlet Thunder' rightfully nicknamed OCO the 'All-Seeing Eye.'"
+msgstr "An unparalleled detection device was developed specifically for the modification of the 'Scarlet Thunder' battleship. Conducting radar searches using an AI analyzer, OCO can detect the enemy at a distance of up to 400 km, as well as at depths of up to 10 km. The crew of the 'Scarlet Thunder' rightfully nicknamed OCO the 'All-Seeing Eye'."
 
 msgid "IDS_PCZC821_SCARLET_BIRTHDAY_4_5"
 msgstr "Power Turbine Engine"
 
 msgid "IDS_PCZC821_SCARLET_BIRTHDAY_4_5_DESCRIPTION"
 msgstr ""
-"The modernization of the 'Scarlet Thunder' also affected its engines. Steam engines and boilers were replaced with new-generation turbine engines 'Power.' This type of engine provides rapid acceleration and also increases the ship's maximum speed.\n"
+"The modernization of the 'Scarlet Thunder' also affected its engines. Steam engines and boilers were replaced with new-generation turbine engines 'Power'. This type of engine provides rapid acceleration and also increases the ship's maximum speed.\n"
 "\n"
 "No one knows exactly how fast a ship equipped with 'Power' can move."
 
@@ -9614,7 +9614,7 @@ msgid "IDS_PCZC897_ARIA_3_5"
 msgstr "Prize Guitar"
 
 msgid "IDS_PCZC897_ARIA_3_5_DESCRIPTION"
-msgstr "A guitar with autographs of Aria's musicians, intended to be raffled off among players of 'World of Warships.'"
+msgstr "A guitar with autographs of Aria's musicians, intended to be raffled off among players of 'World of Warships'."
 
 msgid "IDS_PCZC898_ARIA_4_1"
 msgstr "20 Years: Will and Reason!"
@@ -13249,7 +13249,7 @@ msgid "IDS_PRSS111"
 msgstr "B-4"
 
 msgid "IDS_PRSS111_DESCR"
-msgstr "Diesel-electric submarines of Project 641 were designed for operations on enemy communications, reconnaissance, and mine laying. These were among the last submarines with a traditional, non-teardrop hull. B-4 was laid down and launched in Leningrad, then transferred to Severodvinsk, where it was commissioned. During the Cuban Missile Crisis, B-4 participated in breaking the blockade of Cuba, becoming the only submarine that U.S. forces could not force to surface. In 1963, B-4 was awarded the honorary name 'Chelyabinsk Komsomolets.'"
+msgstr "Diesel-electric submarines of Project 641 were designed for operations on enemy communications, reconnaissance, and mine laying. These were among the last submarines with a traditional, non-teardrop hull. B-4 was laid down and launched in Leningrad, then transferred to Severodvinsk, where it was commissioned. During the Cuban Missile Crisis, B-4 participated in breaking the blockade of Cuba, becoming the only submarine that U.S. forces could not force to surface. In 1963, B-4 was awarded the honorary name 'Chelyabinsk Komsomolets'."
 
 msgid "IDS_PRSS111_FULL"
 msgstr "B-4"
@@ -15341,7 +15341,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT
 msgstr "Camouflage"
 
 msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_TITLE"
-msgstr "Premium Container 'Etc.'"
+msgstr "Premium Container 'Etc'."
 
 msgid "IDS_REWARD_LOOTBOX_PCL197_KIN_DZA_DZA_TITLE_SHORT"
 msgstr "Etc."
@@ -15640,7 +15640,7 @@ msgid "IDS_SESSION_VICTORY_PERCENT"
 msgstr "Victory percentage in battles."
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_MODERNIZATION"
-msgstr "Status set to 'Ready for battle in a division.' Click 'Not Ready' to change modernizations."
+msgstr "Status set to 'Ready for battle in a division'. Click 'Not Ready' to change modernizations."
 
 msgid "IDS_SHIPCOMPONENT_INFO_DESCRIPTION"
 msgstr "To repair a certain ship."
@@ -15739,10 +15739,10 @@ msgid "IDS_SHIP_MAIN_MC_AP_SUPER_OVERMATCH_GOOD"
 msgstr "AP shells don't ricochet off the hulls of ships."
 
 msgid "IDS_SHIP_MANAGEMENT_MINE_ALT_SUBBLOCK_DESCR"
-msgstr "Armament and consumables of mine layers"
+msgstr "Armament and consumables of mine bombers"
 
 msgid "IDS_SHIP_MANAGEMENT_MINE_SUBBLOCK_DESCR"
-msgstr "Armament and consumables of mine layers"
+msgstr "Armament and consumables of mine bombers"
 
 msgid "IDS_SHIP_MANAGEMENT_PREVIEW"
 msgstr "About the ship"
@@ -16650,689 +16650,689 @@ msgid "IDS_TEAM_STRATEGIC_ACTIONS"
 msgstr "Raid in the Ice"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_CASUAL"
-msgstr "Офицер военно-морской разведки"
+msgstr "Naval Intelligence Officer"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_HARD"
-msgstr "Офицер военно-морской разведки"
+msgstr "Naval Intelligence Officer"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_CENTER_MIDDLE"
-msgstr "Офицер военно-морской разведки"
+msgstr "Naval Intelligence Officer"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_GLOBAL"
-msgstr "Офицер военно-морской разведки"
+msgstr "Naval Intelligence Officer"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_CASUAL"
-msgstr "Офицер военно-морской разведки"
+msgstr "Naval Intelligence Officer"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_HARD"
-msgstr "Офицер военно-морской разведки"
+msgstr "Naval Intelligence Officer"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_NORTH_MIDDLE"
-msgstr "Офицер военно-морской разведки"
+msgstr "Naval Intelligence Officer"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_CASUAL"
-msgstr "Офицер военно-морской разведки"
+msgstr "Naval Intelligence Officer"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_HARD"
-msgstr "Офицер военно-морской разведки"
+msgstr "Naval Intelligence Officer"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_SOUTH_MIDDLE"
-msgstr "Офицер военно-морской разведки"
+msgstr "Naval Intelligence Officer"
 
 msgid "IDS_TERRITORY_MESSAGE_SUBTITLE_START"
-msgstr "Офицер военно-морской разведки"
+msgstr "Naval Intelligence Officer"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_CASUAL"
-msgstr "Итак, мы подошли к «Новой Вестфалии». Нам докладывают о скоплении нескольких крейсерских соединений противника у этой базы."
+msgstr "So, we have reached 'New Westphalia'. We have reports of several enemy cruiser groups gathering near this base."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_CASUAL_COMPLETED"
-msgstr "Отличная работа, соединения противника уничтожены! На базе также были обнаружены чертежи энергетической установки линкора Pfalz."
+msgstr "Excellent work, the enemy groups have been destroyed! We also found blueprints for the battleship Pfalz's power plant at the base."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_HARD"
-msgstr "Выдвигаемся к базе «Новый Дюссельдорф». Похоже, что именно здесь затаился один из лидеров пиратов."
+msgstr "We are moving towards the 'New Düsseldorf' base. It seems one of the pirate leaders is hiding here."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_HARD_COMPLETED"
-msgstr "Бой был не из лёгких, но вы отлично справились с заданием! Ещё один комплект чертежей линкора Pfalz в наших руках."
+msgstr "The battle was tough, but you handled it well! We have secured another set of Pfalz battleship blueprints."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_MIDDLE"
-msgstr "Наша следующая цель — база «Новый Бремен». Здесь должны храниться схемы бронирования линкора Pfalz."
+msgstr "Our next target is the 'New Bremen' base. The armor schemes for the battleship Pfalz are supposed to be stored here."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_CENTER_MIDDLE_COMPLETED"
-msgstr "База перешла под наш контроль! Здесь нам удалось получить важную зацепку о местонахождении остальных чертежей."
+msgstr "The base is under our control! We found an important clue about the location of the remaining blueprints."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL"
-msgstr "В годы Второй мировой в Антарктике действовал немецкий военно-научный комплекс, где тайно разрабатывали линкор-рейдер Pfalz. Теперь этот комплекс захвачен пиратами, которые хотят построить Pfalz и атаковать торговые пути в Южной Атлантике. Не допустите, чтобы линкор оказался в руках разбойников!"
+msgstr "During World War II, there was a German military-scientific complex in Antarctica where the raider battleship Pfalz was secretly developed. This complex is now captured by pirates who plan to build the Pfalz and attack trade routes in the South Atlantic. Prevent the battleship from falling into the hands of the raiders!"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_GLOBAL_COMPLETED"
-msgstr "Все поставленные цели достигнуты: силы пиратов полностью уничтожены, а чертежи линкора Pfalz в надёжных руках. Командование выражает вам особую благодарность!"
+msgstr "All objectives have been achieved: pirate forces have been completely destroyed, and the Pfalz battleship blueprints are secure. The command extends its special gratitude to you!"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_CASUAL"
-msgstr "Чтобы противник не смог поднять тревогу, необходимо уничтожить главную радиостанцию на базе «Новый Гамбург». Там же находятся чертежи орудий линкора Pfalz."
+msgstr "To prevent the enemy from raising the alarm, we need to destroy the main radio station at the 'New Hamburg' base. The Pfalz battleship gun blueprints are also located there."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_CASUAL_COMPLETED"
-msgstr "Отлично, нам удалось нарушить коммуникацию между островами. Теперь базы не смогут прийти друг другу на помощь."
+msgstr "Excellent, we've disrupted communications between the islands. Now the bases won't be able to assist each other."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_HARD"
-msgstr "База «Новый Бранденбург» — это логово одного из предводителей пиратов, поэтому нас ждёт серьёзное сопротивление. Соберитесь с силами, мы выступаем!"
+msgstr "The 'New Brandenburg' base is the lair of one of the pirate leaders, so we can expect heavy resistance. Get ready for battle, we're moving out!"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_HARD_COMPLETED"
-msgstr "Превосходно! Задание выполнено, наши специалисты уже изучают новые чертежи."
+msgstr "Superb! The mission is complete, and our specialists are already studying the new blueprints."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_MIDDLE"
-msgstr "Впереди «Новый Мекленбург». По последней информации, здесь базируется подводный флот пиратов."
+msgstr "Ahead is 'New Mecklenburg'. According to the latest information, this is where the pirate submarine fleet is based."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_NORTH_MIDDLE_COMPLETED"
-msgstr "На этой базе хранились чертежи торпедных аппаратов линкора Pfalz. Предполагается, что это девять однотрубных аппаратов, расположенных ниже ватерлинии. Линкоры с таким вооружением — большая редкость!"
+msgstr "The base housed blueprints for the Pfalz battleship's torpedo tubes. It's speculated to be equipped with nine single-tube launchers located below the waterline. Battleships with such armament are a rarity!"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_CASUAL"
-msgstr "Подходим к базе «Новая Саксония». Когда-то тут занимались активной разработкой боевых самолётов и средств противовоздушной обороны."
+msgstr "We are approaching the 'New Saxony' base. It was once an active site for developing combat aircraft and anti-aircraft defense systems."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_CASUAL_COMPLETED"
-msgstr "На этом острове работали специалисты одной из ведущих немецких военно-промышленных фирм: ничего удивительного, что именно здесь мы обнаружили чертежи зенитных установок линкора Pfalz!"
+msgstr "This island housed specialists from one of the leading German military-industrial firms: it's no surprise that we found the Pfalz battleship's anti-aircraft gun blueprints here!"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_HARD"
-msgstr "Это «Новый Дортмунд», один из главарей пиратов скрывается именно тут. Приготовьтесь к серьёзному отпору!"
+msgstr "This is 'New Dortmund,' where one of the pirate leaders is hiding. Prepare for a fierce resistance!"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_HARD_COMPLETED"
-msgstr "Отличная работа, чертежи линкора у нас! В них хранится информация об экипаже, модулях и о потенциальной модернизации."
+msgstr "Great job, the battleship blueprints are in our hands! They contain information about the crew, modules, and potential upgrades."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_MIDDLE"
-msgstr "Похоже, что часть кораблей противника отошла к «Новому Кёльну». Будьте готовы к любым неприятностям."
+msgstr "It seems that part of the enemy fleet has retreated to 'New Cologne'. Be prepared for any surprises."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_SOUTH_MIDDLE_COMPLETED"
-msgstr "Превосходно, нам удалось обнаружить новые чертежи линкора Pfalz! Здесь хранились данные об артиллерийских погребах и снарядах."
+msgstr "Excellent, we managed to find new blueprints for the Pfalz battleship! These documents contained data on artillery magazines and shells."
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_START"
-msgstr "Комплекс «Новый Берлин» состоит из девяти баз, расположенных на островах. Подойти к ним непросто: акваторию охраняет патруль из нескольких кораблей. Потопите их, чтобы добраться до комплекса!"
+msgstr "The 'New Berlin' complex consists of nine bases located on islands. It's not easy to approach them: the area is patrolled by several ships. Sink them to reach the complex!"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_START_COMPLETED"
-msgstr "Патруль противника успешно потоплен, путь к комплексу «Новый Берлин» открыт!"
+msgstr "The enemy patrol has been successfully sunk, and the way to the 'New Berlin' complex is clear!"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_CASUAL"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_HARD"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_CENTER_MIDDLE"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_GLOBAL"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_CASUAL"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_HARD"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_NORTH_MIDDLE"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_CASUAL"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_HARD"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_SOUTH_MIDDLE"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_TERRITORY_MESSAGE_TITLE_START"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_TERRITORY_TITLE_CENTER_CASUAL"
-msgstr "Новая Вестфалия"
+msgstr "New Westphalia"
 
 msgid "IDS_TERRITORY_TITLE_CENTER_HARD"
-msgstr "Новый Дюссельдорф"
+msgstr "New Düsseldorf"
 
 msgid "IDS_TERRITORY_TITLE_CENTER_MIDDLE"
-msgstr "Новый Бремен"
+msgstr "New Bremen"
 
 msgid "IDS_TERRITORY_TITLE_NORTH_CASUAL"
-msgstr "Новый Гамбург"
+msgstr "New Hamburg"
 
 msgid "IDS_TERRITORY_TITLE_NORTH_HARD"
-msgstr "Новый Бранденбург"
+msgstr "New Brandenburg"
 
 msgid "IDS_TERRITORY_TITLE_NORTH_MIDDLE"
-msgstr "Новый Мекленбург"
+msgstr "New Mecklenburg"
 
 msgid "IDS_TERRITORY_TITLE_SOUTH_CASUAL"
-msgstr "Новая Саксония"
+msgstr "New Saxony"
 
 msgid "IDS_TERRITORY_TITLE_SOUTH_HARD"
-msgstr "Новый Дортмунд"
+msgstr "New Dortmund"
 
 msgid "IDS_TERRITORY_TITLE_SOUTH_MIDDLE"
-msgstr "Новый Кёльн"
+msgstr "New Cologne"
 
 msgid "IDS_TERRITORY_TITLE_START"
-msgstr "Море Беллинсгаузена"
+msgstr "Bellingshausen Sea"
 
 msgid "IDS_THIRD_ARIA_NAME"
-msgstr "Инструменты"
+msgstr "Instruments"
 
 msgid "IDS_THIRD_SCARLET_BIRTHDAY_NAME"
-msgstr "Учёные всех стран, соединяйтесь!"
+msgstr "Scientists of all nations, unite!"
 
 msgid "IDS_TIME_LEFT_FOR_LOOTEXP"
-msgstr "Следующий ежедневный контейнер будет доступен через %(_timeLeft)s"
+msgstr "The next daily container will be available after %(_timeLeft)s"
 
 msgid "IDS_TIPS_AIRCRAFT_SQUADRON_MINE_BOMBERS"
-msgstr "Постановщики мин"
+msgstr "Mine bombers"
 
 msgid "IDS_TIPS_AIRCRAFT_SQUADRON_MINE_BOMBERS_DESCRIPTION"
 msgstr ""
-"Этот тип самолётов способен устанавливать минные заграждения на поле боя.\n"
+"This type of aircraft can deploy minefields on the battlefield.\n"
 "\n"
-"Мины взрываются при контакте с кораблями, могут вызвать затопление и вывести модули из строя.\n"
+"Mines explode on contact with ships, potentially causing flooding and disabling modules.\n"
 "\n"
-"Ставьте минные заграждения между островами, чтобы заманить корабли противника в ловушку."
+"Place minefields between islands to trap enemy ships."
 
 msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_DESCRIPTION"
 msgstr ""
-"Альтернативный режим стрельбы «Серия залпов» позволяет произвести несколько залпов из орудий главного калибра без перезарядки с коротким минимальным интервалом.\n"
+"The alternative 'Burst Fire' mode allows you to fire several salvos from the main battery guns in quick succession without reloading, with a short minimum interval.\n"
 "\n"
-"После каждой серии залпов требуется долгая перезарядка.\n"
+"A long reload is required after each series of salvos.\n"
 "\n"
-"Переключение режима стрельбы доступно по клавише [CMD_TOGGLE_FIRE_MODE]."
+"Toggle the fire mode using the [CMD_TOGGLE_FIRE_MODE] key."
 
 msgid "IDS_TIPS_AVIA_ZONE_AIR_DEFENSE"
-msgstr "Отключение ПВО"
+msgstr "Disabling AA Defense"
 
 msgid "IDS_TIPS_AVIA_ZONE_AIR_DEFENSE_DESCRIPTION"
 msgstr ""
-"Если в зону действия вашей ПВО залетит самолёт противника, то он обнаружит ваш корабль.\n"
+"If an enemy aircraft enters your AA defense zone, it will detect your ship.\n"
 "\n"
-"Нажмите [CMD_SWITCH_ATBA_AIRDEFENSE], чтобы отключить ПВО и ПМК."
+"Press [CMD_SWITCH_ATBA_AIRDEFENSE] to disable AA defense and secondary armament."
 
 msgid "IDS_TIPS_AVIA_ZONE_BASIC"
-msgstr "Зона обнаружения авиацией"
+msgstr "Aviation Detection Zone"
 
 msgid "IDS_TIPS_AVIA_ZONE_BASIC_DESCRIPTION"
 msgstr ""
-"Самолёты могут обнаружить корабль противника только в области вокруг авианосца или корабля-гибрида, с которого эти самолёты были подняты в воздух.\n"
+"Aircraft can only detect enemy ships within a specific area around the carrier or hybrid ship from which they were launched.\n"
 "\n"
-"Вдали от авианесущего корабля самолёты могут обнаружить корабль противника, только если они залетят в область действия его ПВО."
+"Away from the carrier, aircraft can only detect enemy ships if they enter the AA defense zone."
 
 msgid "IDS_TIPS_FIRE_AND_FLOODING_DESCRIPTION"
 msgstr ""
-"Пожары и затопления наносят урон вашему кораблю, пока не будут устранены.\n"
+"Fires and flooding damage your ship until they are extinguished.\n"
 "\n"
-"Используйте «Аварийную команду» для ускоренного тушения пожаров и ликвидации затоплений."
+"Use 'Damage Control Party' to quickly extinguish fires and stop flooding."
 
 msgid "IDS_TIPS_FORCING_DESCRIPTION"
-msgstr "Временно увеличивает максимальную скорость корабля, а также уменьшает время разгона и торможения."
+msgstr "Temporarily increases the ship's maximum speed and reduces acceleration and deceleration time."
 
 msgid "IDS_TIPS_HYDROACUSTIC_SEARCH_DESCRIPTION"
-msgstr "Увеличивает дистанцию гарантированного обнаружения кораблей, торпед и мин, в том числе в зоне дымовой завесы."
+msgstr "Increases the guaranteed detection range of ships, torpedoes, and mines, including in smoke screens."
 
 msgid "IDS_TIPS_MODULES_DESCRIPTION"
 msgstr ""
-"Модули корабля могут быть выведены из строя.\n"
+"Ship modules can be disabled.\n"
 "\n"
-"Используйте «Аварийную команду» для мгновенного ремонта повреждённых модулей."
+"Use 'Damage Control Party' to instantly repair damaged modules."
 
 msgid "IDS_TIPS_PLANE_SMOKES"
-msgstr "Авиационный дымогенератор"
+msgstr "Aviation Smoke Generator"
 
 msgid "IDS_TIPS_PLANE_SMOKES_DESCRIPTION"
-msgstr "Создаёт дымовую завесу, уменьшающую вероятность обнаружения противником союзных кораблей."
+msgstr "Creates a smoke screen that reduces the chance of allied ships being detected by the enemy."
 
 msgid "IDS_TIPS_REPAIR_CONSUMABLE_01_DESCRIPTION"
 msgstr ""
-"Ремонтирует повреждённые модули, тушит пожары и устраняет затопления.\n"
+"Repairs damaged modules, extinguishes fires, and stops flooding.\n"
 "\n"
-"Не спешите использовать «Аварийную команду», если находитесь под плотным огнём."
+"Don't rush to use 'Damage Control Party' if you are under heavy fire."
 
 msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_HYDROPHONE_DESCRIPTION"
-msgstr "В подводном положении показывает рельеф, а также позиции кораблей и подводных лодок, находящихся в надводном положении или на перископной глубине."
+msgstr "While submerged, reveals terrain, as well as the positions of ships and submarines on the surface or at periscope depth."
 
 msgid "IDS_TITLE_PCM026_LOOKOUTSTATION_MOD_I"
-msgstr "Система противодействия торпедам и минам"
+msgstr "Torpedo & Mine Lookout System"
 
 msgid "IDS_TITLE_PCM065_DIVEBOMBER_MOD_I"
-msgstr "Бомбардировщики Модификация 2"
+msgstr "Bombers Modification 2"
 
 msgid "IDS_TITLE_PCM073_ADDITIONALCONSUMABLECV_MOD_I"
-msgstr "Снаряжение эскадрильи Модификация 1"
+msgstr "Squadron Consumables Modification 1"
 
 msgid "IDS_TITLE_PCM090_STEERINGGEARSUBMARINE_MOD_II"
-msgstr "Рулевые машины подводной лодки Модификация 2"
+msgstr "Submarine Steering Gears Modification 2"
 
 msgid "IDS_TITLE_PCM098_SPECIAL_MOD_I_GOUDEN_LEEUW"
-msgstr "Система управления ударной авиацией"
+msgstr "Strike Aviation Control System"
 
 msgid "IDS_TITLE_PCM099_SPECIAL_MOD_I_ELBING"
-msgstr "Форсированная энергетическая установка"
+msgstr "Boosted Engine System"
 
 msgid "IDS_TITLE_PCM100_MINEFIELD_MOD_I"
-msgstr "Минное заграждение Модификация 1"
+msgstr "Minefield Modification 1"
 
 msgid "IDS_TITLE_PCM101_MINEBOMBER_MOD_I"
-msgstr "Постановщики мин Модификация 1"
+msgstr "Mine Bomber Modification 1"
 
 msgid "IDS_TITLE_PCM994_MODERNIZATION_SLOT_DUMMY"
-msgstr "Тестовая модернизация"
+msgstr "Test modernization"
 
 msgid "IDS_TITLE_PCM995_MODERNIZATION_SLOT_DUMMY"
-msgstr "Тестовая модернизация"
+msgstr "Test modernization"
 
 msgid "IDS_TITLE_PCM996_MODERNIZATION_SLOT_DUMMY"
-msgstr "Тестовая модернизация"
+msgstr "Test modernization"
 
 msgid "IDS_TOOLTIP_AVAILABLE_LATER"
-msgstr "Не получена предыдущая награда"
+msgstr "Previous reward not obtained"
 
 msgid "IDS_TOOLTIP_BACK_TO_NATION"
-msgstr "Вернуться к дереву развития"
+msgstr "Go back to the Tech Tree"
 
 msgid "IDS_TOOLTIP_BATTLE_BONUS_TAG_DESCRIPTION"
-msgstr "Награда за победу в любом типе боя."
+msgstr "Reward for winning any type of battle."
 
 msgid "IDS_TOOLTIP_CHARS_LEFT"
-msgstr "Оставшееся количество символов"
+msgstr "Remaining number of characters"
 
 msgid "IDS_TOOLTIP_KARMA_DESCRIPTION"
-msgstr "Совокупность ваших положительных и отрицательных действий."
+msgstr "The sum total of your positive and negative actions."
 
 msgid "IDS_TOOLTIP_KARMA_HEADER"
-msgstr "Карма"
+msgstr "Karma"
 
 msgid "IDS_TOOLTIP_PROFILE"
-msgstr "Здесь доступна сводка ваших боевых результатов за всё время, достижения, коллекции и другое."
+msgstr "A summary of your all-time combat scores, achievements, collections and more is available here."
 
 msgid "IDS_TOOLTIP_SHIP_NEEDS_SERVICE"
-msgstr "Требуется обслуживание"
+msgstr "Maintenance required"
 
 msgid "IDS_TOOLTIP_STATUS_NO_NATION_AND_SPECIALIZATION_CREW"
-msgstr "Не присвоена нация. Не подготовлен на корабль."
+msgstr "Nationality not assigned. Not ready for a ship."
 
 msgid "IDS_TOOLTIP_STATUS_NO_SPECIALIZATION_CREW"
-msgstr "Не подготовлен на корабль"
+msgstr "Not ready for a ship"
 
 msgid "IDS_TOOLTIP_TRAINING_ORGANIZER"
-msgstr "Организатор:"
+msgstr "Organizer:"
 
 msgid "IDS_TORPEDO_ALPHA_DAMAGE_HIGH"
-msgstr "Торпеды наносят большой урон"
+msgstr "Torpedoes deal high damage"
 
 msgid "IDS_TORPEDO_ALPHA_DAMAGE_LOW"
-msgstr "Торпеды наносят малый урон"
+msgstr "Torpedoes deal low damage"
 
 msgid "IDS_TORPEDO_AVAILABILITY"
-msgstr "Есть торпедное вооружение"
+msgstr "Torpedoes available"
 
 msgid "IDS_TORPEDO_BARRELS_NUM_HIGH"
-msgstr "Большое количество торпедных труб"
+msgstr "High Number of Torpedo Tubes"
 
 msgid "IDS_TORPEDO_BARRELS_NUM_LOW"
-msgstr "Малое количество торпедных труб"
+msgstr "Low Number of Torpedo Tubes"
 
 msgid "IDS_TORPEDO_DEEPWATER_AVAILABLE"
-msgstr "Доступны глубоководные торпеды"
+msgstr "Deepwater Torpedoes Available"
 
 msgid "IDS_TORPEDO_MAX_DIST_HIGH"
-msgstr "Большая дальность хода торпед"
+msgstr "Long Torpedo Range"
 
 msgid "IDS_TORPEDO_MAX_DIST_LOW"
-msgstr "Малая дальность хода торпед"
+msgstr "Short Torpedo Range"
 
 msgid "IDS_TORPEDO_NOT_AVAILABILITY"
-msgstr "Нет торпедного вооружения"
+msgstr "No Torpedo Armament"
 
 msgid "IDS_TORPEDO_RELOAD_FAST"
-msgstr "Быстрая перезарядка ТА"
+msgstr "Fast Torpedo Reload"
 
 msgid "IDS_TORPEDO_RELOAD_SLOW"
-msgstr "Медленная перезарядка ТА"
+msgstr "Slow Torpedo Reload"
 
 msgid "IDS_TORPEDO_SPEED_HIGH"
-msgstr "Высокая скорость торпед"
+msgstr "High Torpedo Speed"
 
 msgid "IDS_TORPEDO_SPEED_LOW"
-msgstr "Низкая скорость торпед"
+msgstr "Low Torpedo Speed"
 
 msgid "IDS_TORPEDO_USE_ONE_SHOOT_AVAILABLE"
-msgstr "Возможность потрубного пуска торпед"
+msgstr "Single-Tube Torpedo Launch Available"
 
 msgid "IDS_TORPEDO_VISIBILITY_HIGH"
-msgstr "Высокая заметность торпед"
+msgstr "High Torpedo Visibility"
 
 msgid "IDS_TORPEDO_VISIBILITY_LOW"
-msgstr "Низкая заметность торпед"
+msgstr "Low Torpedo Visibility"
 
 msgid "IDS_TOWER1_HW2023"
-msgstr "Внимание!"
+msgstr "Attention!"
 
 msgid "IDS_TOWER2_HW2023"
-msgstr "Внимание!"
+msgstr "Attention!"
 
 msgid "IDS_TOWER3_HW2023"
-msgstr "Внимание!"
+msgstr "Attention!"
 
 msgid "IDS_TO_THE_NEXT_LOOTBOX"
-msgstr "Следующий ежедневный контейнер"
+msgstr "Next Daily Container"
 
 msgid "IDS_TRAININGBATTLE_DESCRIPTION"
-msgstr "Здесь вы можете создать бой вручную."
+msgstr "Here you can create a battle manually."
 
 msgid "IDS_TRAINING_BATTLE_TIME"
-msgstr "Длительность боя"
+msgstr "Duration of battle"
 
 msgid "IDS_TRAINING_MAP_TOOLTIP"
-msgstr "Карта, на которой пройдёт бой"
+msgstr "The map on which the battle will take place"
 
 msgid "IDS_TRAINING_PLAYERS_COUNT_TOOLTIP"
-msgstr "Максимальное количество игроков, участвующих в бою"
+msgstr "Maximum number of players participating in a battle"
 
 msgid "IDS_TRAINING_ROOM_BOT_REMOVE_ZONE"
-msgstr "Удалить бота"
+msgstr "Delete"
 
 msgid "IDS_TRAINING_ROOM_DESCRIPTION_PLACEHOLDER"
-msgstr "Введите описание"
+msgstr "Enter a description"
 
 msgid "IDS_TRAINING_ROOM_INPUT_PASSWORD_INFO"
-msgstr "Не более 8 символов. Пароль может содержать только латинские буквы, цифры и подчёркивание."
+msgstr "No more than 8 characters. The password can contain only Latin letters, numbers and underscores."
 
 msgid "IDS_TRAINING_ROOM_MANAGEMENT_HINT"
-msgstr "Настроить корабль"
+msgstr "Customize the ship"
 
 msgid "IDS_TRAINING_ROOM_PASSWORD_INFO"
-msgstr "Комната, для которой задан пароль, будет отображаться в списке тренировочных комнат."
+msgstr "The room for which the password is set will be displayed in the list of training rooms."
 
 msgid "IDS_TRAINING_ROOM_PASSWORD_WRONG_CHARACTERS"
-msgstr "Введён недопустимый символ"
+msgstr "Invalid character entered"
 
 msgid "IDS_TRAINING_ROOM_PLAYER_STATE_COMMANDER"
-msgstr "Командир команды"
+msgstr "Team commander"
 
 msgid "IDS_TRAINING_ROOM_PLAYER_STATE_DEFAULT"
-msgstr "Участник команды"
+msgstr "Team member"
 
 msgid "IDS_TRAINING_ROOM_PLAYER_STATE_NEUTRAL"
-msgstr "Не распределён"
+msgstr "Not assigned"
 
 msgid "IDS_TRAINING_ROOM_PLAYER_STATE_OBSERVER"
-msgstr "Наблюдатель"
+msgstr "Observer"
 
 msgid "IDS_TRAINING_ROOM_SPECTATORS_IS_ENABLED"
-msgstr "Наблюдатели разрешены"
+msgstr "Observers are allowed"
 
 msgid "IDS_TRAINING_TEAM_RESTRICTIONS_TOOLTIP"
-msgstr "Ограничение количества кораблей по уровням, классам и нациям"
+msgstr "Limit the number of ships by level, class and nation"
 
 msgid "IDS_TRAINING_TYPE_OF_BATTLE"
-msgstr "Режим боя"
+msgstr "Battle Mode"
 
 msgid "IDS_TRAINING_TYPE_OF_BATTLE_TOOLTIP"
-msgstr "От выбранного режима зависят правила боя и стартовые позиции игроков"
+msgstr "The selected mode determines the rules of combat and the starting positions of the players"
 
 msgid "IDS_TRAINING_WEATHER_TOOLTIP"
-msgstr "Погодные условия в бою"
+msgstr "Weather conditions in battle"
 
 msgid "IDS_TRUS"
 msgstr "Coward"
 
 msgid "IDS_TUTORIALBATTLE_DESCRIPTION"
 msgstr ""
-"Сражение, в котором вы можете освоить основы управления и стрельбы.\n"
-"Повторное прохождение доступно первые %(amount)s боёв."
+"A battle where you can learn the basics of control and shooting.\n"
+"Replaying is available for the first %(amount)s battles."
 
 msgid "IDS_ULYANA_SUMMER"
-msgstr "Ульяна"
+msgstr "Ulyana"
 
 msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_2"
-msgstr "Особые сигналы будут доступны для покупки позднее"
+msgstr "Special signals will be available for purchase at a later date"
 
 msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_3"
-msgstr "Редкие сигналы недоступны для покупки"
+msgstr "Rare signals are not available for purchase"
 
 msgid "IDS_UNAVAILABLE_SIGNAL_FOR_PURCHASE_4"
-msgstr "Элитные сигналы недоступны для покупки"
+msgstr "Elite signals are not available for purchase"
 
 msgid "IDS_UNAVAILABLE_UNIQUE_CAMOUFLAGE_FOR_PURCHASE"
-msgstr "Уникальные камуфляжи недоступны для покупки"
+msgstr "Unique camouflages are not available for purchase"
 
 msgid "IDS_UNAVAILABLE_UNIQUE_ECOBOOST_FOR_PURCHASE"
-msgstr "Элитные бонусы недоступны для покупки"
+msgstr "Elite bonuses are not available for purchase"
 
 msgid "IDS_UNIFIED_BATTLE_OPTION_HAS_BATTLE_MODIFIERS"
-msgstr "Характеристики корабля будут изменены"
+msgstr "The ship's characteristics will be changed"
 
 msgid "IDS_UNINSTALL_ALL_SIGNALS"
-msgstr "Снять все"
+msgstr "Remove all"
 
 msgid "IDS_UNINSTALL_ALL_SIGNALS_HINT"
-msgstr "Снять все сигналы, установленные на этот корабль"
+msgstr "Remove all signals set to this ship"
 
 msgid "IDS_UNIQUE_CREW"
-msgstr "Легендарный командир"
+msgstr "Legendary Commander"
 
 msgid "IDS_UNIQUE_CREW_CAN_NOT_BE_DEMOBOLIZED"
-msgstr "Легендарного командира нельзя демобилизовать"
+msgstr "Legendary Commanders cannot be dismissed"
 
 msgid "IDS_UNIQUE_CREW_DESCRIPTION"
-msgstr "Легендарный командир может обладать улучшенными навыками, талантами и возможностью персонализации"
+msgstr "Legendary Commanders can have improved skills, national talents, and personalization options"
 
 msgid "IDS_UNIQUE_CREW_STATUS"
-msgstr "Легендарный командир"
+msgstr "Legendary Commander"
 
 msgid "IDS_UNLOCKS_11"
-msgstr "Установите на корабль экономические бонусы, чтобы получать больше кредитов и опыта за бой."
+msgstr "Equip economic bonuses to earn more credits and experience per battle."
 
 msgid "IDS_UNLOCKS_12"
-msgstr "Модернизации улучшают характеристики ваших кораблей."
+msgstr "Modernizations improve your ships' characteristics."
 
 msgid "IDS_UNLOCKS_13"
-msgstr "Навыки командира позволяют улучшать характеристики корабля и использовать новые возможности."
+msgstr "Commander skills enhance ship attributes and unlock new abilities."
 
 msgid "IDS_UNLOCKS_1600"
-msgstr "Участвуйте в сражениях за ранги и покажите, на что вы способны!"
+msgstr "Participate in Ranked battles and showcase your skills!"
 
 msgid "IDS_UNLOCKS_17"
-msgstr "Исследуйте и покупайте новые корабли."
+msgstr "Research and purchase new ships."
 
 msgid "IDS_UNLOCKS_23"
-msgstr "Продавайте модули, модернизации и другие виды имущества, которыми вы не пользуетесь."
+msgstr "Sell unused modules, upgrades, and other assets."
 
 msgid "IDS_UNLOCKS_2827"
-msgstr "Вступайте в клан и сражайтесь в одной команде!"
+msgstr "Join a clan and fight as a team!"
 
 msgid "IDS_UNLOCKS_3124"
-msgstr "Выполняйте сюжетные задания вместе с командой, сражаясь против ботов."
+msgstr "Complete story missions with your team, battling against bots."
 
 msgid "IDS_UNLOCKS_5"
-msgstr "Исследовать корабли становится проще. Используйте свободный опыт для исследования любого корабля или модуля."
+msgstr "Use Free XP to research any ship or module more easily."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_12_0"
-msgstr "Модернизации позволяют развить сильные стороны корабля и скорректировать слабые."
+msgstr "Modernizations strengthen your ship's strengths and address its weaknesses."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_12_1"
-msgstr "Чем выше уровень корабля, тем больше модернизаций на него можно установить."
+msgstr "Higher-level ships can equip more upgrades."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_13_0"
-msgstr "Навыки командира позволяют улучшать характеристики корабля и использовать новые возможности."
+msgstr "Commander skills improve ship attributes and unlock new abilities."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_13_1"
-msgstr "Командир получает очки навыков за опыт, заработанный в боях."
+msgstr "The commander earns skill points through battle experience."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_13_2"
-msgstr "При назначении на другой корабль командиру необходимо пройти переподготовку. В период переподготовки эффективность изученных навыков снижается."
+msgstr "Reassigning a commander to a different ship temporarily reduces skill effectiveness during retraining."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_14_0"
-msgstr "Сигналы позволяют повысить боевые характеристики вашего корабля."
+msgstr "Signals enhance your ship's combat performance."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_15_0"
-msgstr "Камуфляжи и флаги позволяют изменять внешний вид ваших кораблей."
+msgstr "Camouflages and flags alter the appearance of your ships."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_1600_1"
-msgstr "За победы в Ранговых боях, прохождение квалификации и взятие первого ранга вы получите уголь, сталь, дублоны, камуфляжи, жетоны и памятный флаг. Чем выше лига, тем количество ранговых наград больше."
+msgstr "Winning Ranked battles, qualifying, and reaching the first rank rewards you with coal, steel, doubloons, camouflages, tokens, and a commemorative flag. The higher the league, the more rewards you earn."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_17_0"
-msgstr "В игре представлены корабли разных наций и классов: универсальные крейсеры, незаметные эсминцы, тяжелобронированные линкоры, авианосцы, вооружённые быстрой и сокрушительной авиацией. Выберите свою роль в бою."
+msgstr "The game features ships from various nations and classes: versatile cruisers, stealthy destroyers, heavily armored battleships, and aircraft carriers with fast and devastating aircraft. Choose your role in battle."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_17_1"
-msgstr "После каждого боя вам начисляются опыт и кредиты для исследования и покупки кораблей. Также вы можете исследовать и покупать модули для улучшения кораблей."
+msgstr "Earn experience and credits after each battle to research and purchase ships. You can also research and purchase modules to improve your ships."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_1_0"
-msgstr "Сражайтесь вместе с другими игроками против ботов."
+msgstr "Fight alongside other players against bots."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_21_0"
-msgstr "Зарабатывайте опыт в боях и получайте до трёх контейнеров ежедневно. Когда вы заработаете достаточно опыта, контейнер будет начислен автоматически."
+msgstr "Earn experience in battles to receive up to three containers daily. Once you've earned enough experience, a container will be automatically awarded."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_21_1"
-msgstr "Из любого ежедневного контейнера вы можете получить Суперконтейнер с особенно ценными наградами."
+msgstr "Any daily container has a chance to grant a Supercontainer with particularly valuable rewards."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_22_0"
-msgstr "Проходите миссии в кампаниях на пути к главной награде."
+msgstr "Complete missions in campaigns to earn major rewards."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_22_1"
-msgstr "Миссии состоят из заданий, за выполнение которых вы получаете звёзды. Они открывают вам доступ к следующим миссиям."
+msgstr "Missions consist of tasks that grant stars upon completion. Stars unlock access to the next missions."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_22_2"
-msgstr "Недостающие звёзды можно получить, выполняя задания повторно."
+msgstr "Missing stars can be earned by repeating tasks."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_22_3"
-msgstr "Вы можете выполнять до трёх заданий одновременно."
+msgstr "You can complete up to three tasks simultaneously."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_23_0"
-msgstr "Продавайте модули, модернизации и другие виды имущества, которыми вы не пользуетесь."
+msgstr "Sell unused modules, modernizations, and other assets."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_2827_0"
-msgstr "Вступите в клан для участия в Клановых сражениях."
+msgstr "Join a clan to participate in Clan Battles."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_2827_1"
-msgstr "Клановые бои доступны только во время проведения кланового сезона."
+msgstr "Clan Battles are available only during the clan season."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_2827_2"
-msgstr "Побеждайте в Клановых боях и зарабатывайте очки рейтинга для продвижения по группам и лигам."
+msgstr "Win Clan Battles and earn ranking points to progress through groups and leagues."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_2827_3"
-msgstr "Зарабатывайте нефть и развивайте Военно-морскую базу. Это позволит увеличить постоянные экономические бонусы."
+msgstr "Earn oil and develop your Naval Base, which increases permanent economic bonuses."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_2827_4"
-msgstr "Создавайте тренировочные комнаты и участвуйте в тренировочных боях, чтобы отточить командные навыки."
+msgstr "Create training rooms and participate in training battles to hone team skills."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3029_1"
-msgstr "Вы можете приобрести корабли, слоты в Порту, контейнеры, экономические бонусы, модернизации, сигналы, камуфляжи и нашивки, а также рекрутировать редких и легендарных командиров."
+msgstr "You can purchase ships, Port slots, containers, economic bonuses, modernizations, signals, camouflages, patches, and recruit rare and legendary commanders."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
-msgstr "В Операциях вашей команде необходимо выполнять различные задания, сражаясь с ботами. Каждая Операция обладает уникальными сюжетными элементами."
+msgstr "In Operations, your team must complete various tasks while fighting bots. Each Operation features unique story elements."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
-msgstr "Достигните основной цели, чтобы одержать победу. Выполнение дополнительных задач увеличит количество заработанных за бой ресурсов."
+msgstr "Achieve the main objective to secure victory. Completing additional tasks increases the resources earned in battle."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
-msgstr "Сложность Операции зависит от уровней и классов кораблей в вашей команде."
+msgstr "The difficulty of an Operation depends on the levels and classes of ships in your team."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3_0"
-msgstr "Сражайтесь против реальных игроков. Составы команд подбираются случайным образом."
+msgstr "Fight against real players. Teams are selected randomly."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5_0"
-msgstr "Если вам не хватает опыта для исследования корабля или модуля, используйте свободный опыт."
+msgstr "If you lack experience to research a ship or module, use Free XP."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5_1"
-msgstr "Свободный опыт начисляется в размере 10% от полученного за бой опыта корабля до применения модификаторов."
+msgstr "Free XP is awarded as 10% of the battle experience earned by a ship before applying modifiers."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5_2"
-msgstr "Вы также можете переводить опыт с элитных и премиум кораблей в свободный."
+msgstr "You can also convert experience from elite and premium ships into Free XP."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_9_0"
-msgstr "Выполняйте боевые задачи и получайте ценные награды."
+msgstr "Complete combat missions and earn valuable rewards."
 
 msgid "IDS_UNLOCKS_LEVEL_UP_3124"
 msgstr ""
-"<body>Вам стали доступны\n"
-"<h3>Операции</h3></body>"
+"<body>Operations are now available to you.\n"
+"<h3>Operations</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_5"
 msgstr ""
-"<body>Вам стал доступен\n"
-"<h3>Свободный опыт</h3></body>"
+"<body>Free XP is now available to you.\n"
+"<h3>Free XP</h3></body>"
 
 msgid "IDS_UNLOCKS_LOCATION_12"
-msgstr "Модернизации корабля доступны на экране «Оснащение»."
+msgstr "Upgrades are available on the 'Equipment' screen."
 
 msgid "IDS_UNLOCKS_LOCATION_14"
-msgstr "Доступно во вкладке «Оснащение»."
+msgstr "Available in the 'Equipment' tab."
 
 msgid "IDS_UNLOCKS_LOCATION_15"
-msgstr "Доступно во вкладке «Внешний вид»."
+msgstr "Available in the 'Exterior' tab."
 
 msgid "IDS_UNLOCKS_LOCATION_1600"
-msgstr "Доступно на экране выбора типа боя."
+msgstr "Available on the battle type selection screen."
 
 msgid "IDS_UNLOCKS_LOCATION_17"
-msgstr "Новые корабли доступны на вкладке «Развитие». Улучшения доступны на вкладке «Оснащение»."
+msgstr "New ships are available in the 'Tech Tree' tab. Upgrades are available in the 'Equipment' tab."
 
 msgid "IDS_UNLOCKS_LOCATION_2827"
-msgstr "Клановые и Тренировочные бои доступны на экране выбора типа боя."
+msgstr "Clan and Training Battles are available on the battle type selection screen."
 
 msgid "IDS_UNLOCKS_LOCATION_3"
-msgstr "Выбор типа боя расположен рядом с кнопкой «В бой!»."
+msgstr "Battle type selection is next to the 'Battle!' button."
 
 msgid "IDS_UNLOCKS_LOCATION_3124"
-msgstr "Доступно на экране выбора типа боя."
+msgstr "Available on the battle type selection screen."
 
 msgid "IDS_UNLOCKS_LOCATION_5"
-msgstr "Свободный опыт отображается в правом верхнем углу экрана в Порту."
+msgstr "Free XP is displayed in the upper right corner of the Port screen."
 
 msgid "IDS_UNLOCKS_TITLE_3124"
-msgstr "Операции"
+msgstr "Operations"
 
 msgid "IDS_UNLOCKS_TITLE_5"
-msgstr "Свободный опыт"
+msgstr "Free XP"
 
 msgid "IDS_USAOVECHKINPREMHELL"
 msgstr "Tsar Alexander"
 
 msgid "IDS_USA_ARC_COMPANY_COMMANDER_DESCRIPTION"
-msgstr "Легендарный командир с талантами, персонализациями и улучшенными навыками"
+msgstr "Legendary commander with national talents, personalizations and improved skills"
 
 msgid "IDS_USSROVECHKINPREM"
-msgstr "Александр Овечкин"
+msgstr "Alexander Ovechkin"
 
 msgid "IDS_USSROVECHKINPREMHELL"
-msgstr "Царь Александр"
+msgstr "Tsar Alexander"
 
 msgid "IDS_UVAROV"
-msgstr "Александр Уваров"
+msgstr "Alexander Uvarov"
 
 msgid "IDS_VASILY_YUTOV"
 msgstr "Vasily Yutov"
 
 msgid "IDS_VIEW_SHIP_INFO_DISABLED"
-msgstr "Информация об оснащении кораблей противника скрыта."
+msgstr "Information about the equipment of enemy ships is invisible."
 
 msgid "IDS_VISIBILITY_FACTOR_HIGH"
-msgstr "Высокая маскировка"
+msgstr "High concealment"
 
 msgid "IDS_VISIBILITY_FACTOR_LOW"
-msgstr "Низкая маскировка"
+msgstr "Low concealment"
 
 msgid "IDS_VOVA_SKRIPACH"
-msgstr "Дядя Вова и Скрипач"
+msgstr "Uncle Vova and the Violinist"
 
 msgid "IDS_WANT_IN_DIVISION"
-msgstr "Хочу в отряд"
+msgstr "Find a division"
 
 msgid "IDS_WAREHOUSE_LOOTBOXES"
-msgstr "В наличии"
+msgstr "Available"
 
 msgid "IDS_WARNING_CANT_EQUIP_CAMOUFLAGE"
-msgstr "На этот корабль нельзя установить камуфляж"
+msgstr "You can't put camouflage on this ship"
 
 msgid "IDS_WARNING_MSKIN_BEFORE_LINK"
-msgstr "После привязки камуфляжа его нельзя будет установить на другой корабль."
+msgstr "Once the camouflage is bound, it cannot be installed on another ship."
 
 msgid "IDS_WORLD_OF_WARSHIPS"
 msgstr "Мир кораблей"
 
 msgid "IDS_WOT_KATUKOV"
-msgstr "Михаил Катуков"
+msgstr "Mikhail Katukov"
 
 msgid "IDS_WOWONIANG_FRANCE"
 msgstr "Wo Wo Niang"
@@ -17350,25 +17350,25 @@ msgid "IDS_WOWONIANG_USA"
 msgstr "Wo Wo Niang"
 
 msgid "IDS_WRONG_GROUP_TITLE_GET_TRY_ANOTHER_TITLE"
-msgstr "Группа с таким названием уже существует. Введите другое название."
+msgstr "A group with this name already exists. Enter another name."
 
 msgid "IDS_YULIA_SUMMER"
-msgstr "Юля"
+msgstr "Yulia"
 
 msgid "IDS_ZOOM_IN_PREF_TOOLTIP_DESCRIPTION"
-msgstr "Приблизить камеру к кораблю."
+msgstr "Zoom in on water."
 
 msgid "IDS_ZOOM_IN_SPECTATOR"
-msgstr "Приблизить"
+msgstr "Zoom in"
 
 msgid "IDS_ZOOM_IN_SPECTATOR_PREF_TOOLTIP_DESCRIPTION"
-msgstr "Приблизить камеру к воде."
+msgstr "Zoom in on water."
 
 msgid "IDS_ZOOM_OUT_PREF_TOOLTIP_DESCRIPTION"
-msgstr "Отдалить камеру от корабля."
+msgstr "Zoom out from water."
 
 msgid "IDS_ZOOM_OUT_SPECTATOR"
-msgstr "Отдалить"
+msgstr "Zoom out"
 
 msgid "IDS_ZOOM_OUT_SPECTATOR_PREF_TOOLTIP_DESCRIPTION"
-msgstr "Отдалить камеру от воды."
+msgstr "Zoom out from water."
