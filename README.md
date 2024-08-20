@@ -2,109 +2,61 @@
 
   <img  width="160" src="https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/assets/81358657/26415d14-c46e-4bdd-aa26-f7f0234911ce" alt="logo">
 
-<h3>战舰世界莱服非官方本地化</h3>
+<h3>Unofficial Internationalization for Mir Korabli</h3>
 
-[![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/stargazers)
-[![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)
-[![last-commit](https://img.shields.io/github/last-commit/LocalizedKorabli/Korabli-LESTA-L10N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/commit)
+[![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-I18N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/stargazers)
+[![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-I18N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/releases/latest)
+[![last-commit](https://img.shields.io/github/last-commit/LocalizedKorabli/Korabli-LESTA-I18N.svg)](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/commit)
 
 </div>
 
-## 如何使用
+Looking for 简体中文 Localization? Check [Korabli-LESTA-L10N](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N)!
 
-<details><summary style="font-size: 20px;">教学视频</summary>
+## Download & Installation
 
-[![](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/assets/81358657/d8d44d1f-f448-4feb-ab07-7ab2ccbca54e)](https://player.bilibili.com/player.html?aid=1755946809&bvid=BV1c4421D7Gh&cid=1596825150&page=1)
+### Download
 
-</details>
+#### Via GitHub
 
-### 下载
+I18n Package: Extract the `global.mo` file from the downloaded archive in the [latest release](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/releases/latest).
 
-#### 通过蓝奏云
+### Installation
 
-1. 汉化安装器（[GUI新版](https://tapio.lanzn.com/b0nybehgb) | [命令行旧版](https://tapio.lanzn.com/b0nybx87c)）：下载最新`exe`文件；
-2. （汉化安装器已内置汉化包下载功能，按需下载）[汉化包](https://tapio.lanzn.com/b01lit85i)：根据游戏版本选择正确的文件夹，下载最新压缩包并解压出`global.mo`文件。
+I18n Installer WIP, but you can check out [BingBongBrian's Tutorial](https://www.reddit.com/r/MirKorabley/comments/1c3k3z8/how_to_set_game_client_to_english/) for now to manually install the package.
 
-#### 通过 GitHub
+<details><summary style="font-size: 20px;">Optional</summary>
 
-1. 汉化安装器：[GUI新版](https://github.com/LocalizedKorabli/L10nInstallerGUI/releases/latest) | [命令行旧版](https://github.com/LocalizedKorabli/L10nInstaller/releases/latest)；
-2. （汉化安装器已内置汉化包下载功能，按需下载）汉化包：在本仓库[Releases](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/releases/latest)中，下载该发布版本下的`global.mo`文件；
+#### Mods (Modifications)
 
-### 安装
+Mods for i18n are **NOT READY**.
 
-1. 下载汉化安装器，放入战舰世界安装目录后运行，按程序指示操作；
-2. 若汉化安装器内置下载失败，请手动下载汉化包并选择`使用本地文件`。
+#### Download Mods
 
-<details><summary style="font-size: 20px;">可选步骤</summary>
+Mods for i18n are **NOT READY**.
 
-#### 模组
+#### Apply Mods
 
-自`v2024.03.30.1528`版本开始，汉化安装器可以自动将放置于`l10n_installer/mods/`目录的`mo`文件形式模组应用到即将被安装的汉化包。
-
-#### 下载模组
-
-[蓝奏云](https://tapio.lanzn.com/b0nxzso2b) | [GitHub](https://github.com/LocalizedKorabli/L10nModifications)
-
-#### 安装模组
-
-- 将相应模组的`mo`文件（从蓝奏云下载的模组需先解压）放入游戏目录下`l10n_installer`文件夹下的`mods`文件夹（这些文件夹会在第一次运行汉化安装器时被创建）；
-- 运行汉化安装器；
-- （GUI新版安装器）勾选“安装模组（汉化修改包）”；
-- （命令行旧版安装器）在提示`是否将l10n_installer/mods/下的模组应用到汉化文件？`时输入Y后按回车键，等待安装器将模组应用到即将被安装的汉化包。
+Mods for i18n are **NOT READY**.
 
 </details>
 
 ## Q&A
 
-- Q：为什么兵工厂、造船厂没有被翻译？
+- Q: Armory and dockyard unlocalized?
 
-  A：这些页面实际上是由内置网页浏览器显示的，无法通过本地化文件翻译。
+  A: Those are website pages displayed by the game's built-in browser and are not able to be localized via MO localization.
   
-- Q：为什么游戏内文本又变回俄语了？
+- Q: After a certain startup, the game shows up in Russian again?
 
-  A：每次版本更新时都会更换`bin`目录下的数字文件夹，重新安装汉化包即可。
-  
-- Q：为什么一些本该意译的船名被音译了？
+  A: The build number folder in the `bin` directory is replaced with each version update, just reinstall the package.
 
-  A：部分意译船名可能存在敏感内容，会给想要直播莱服游玩的汉化用户带来不便。若您需要意译版本的船名，请考虑使用`模组`（使用方法见本文-如何使用-安装-可选步骤-模组）。
+## Background
 
-## 贡献
+As of September 20, 2022, World of Warships CIS Zone players have begun to transfer, with some choosing to merge into Wargaming's European server and others being shunted to the new Russian server (Lesta server) managed by Lesta Games.
 
-[贡献指南](CONTRIBUTING.md)
+As the Lesta server is primarily for Russian and Belarusian players, its World of Warships client retains only the Russian localization files.
+Non-Russian-speaking players who wanted to play on the Lesta servers would generally overwrite the Russian language files with localization files extracted from the Wargaming client.
+This worked initially, but as versions change, the Lesta server is introducing content that was not present on the Wargaming server.
+Its text will obviously not be overwritten by the Wargaming's, and thus will not display properly, affecting the experience.
 
-## 背景
-
-自2022年9月20日起，战舰世界独联体区玩家开始转移，一部分选择并入Wargaming直营欧服，另一部分则被分流到Lesta Games管理的新俄服（莱服）。
-
-由于莱服主要面向俄罗斯和白俄罗斯玩家，其战舰世界客户端仅保留了俄语本地化文件。
-想在莱服游玩的非俄语玩家一般会用从直营服提取的本地化文件来覆盖俄语文件。
-这在最初是可行的，但随着版本更迭，莱服正在引入一些在直营服未曾出现的内容，
-其文本显然不会被直营服的本地化文件所覆盖，从而不能正常显示，影响游玩体验。
-
-于是，本项目应运而生。
-
-## 相关链接
-
-[Gitee](https://gitee.com/nova-committee/korabli-LESTA-L10N)
-
-[Korabli Forum发布页](https://forum.korabli.su/topic/161848-/)
-
-[Bilibili教学视频](https://www.bilibili.com/video/BV1c4421D7Gh)
-
-[Bilibili专栏](https://www.bilibili.com/opus/918285182086152224)
-
-[Patreon](https://www.patreon.com/LocalizedKorabli)
-
-## 同类项目
-
-### [Lavandel的修改版](https://github.com/EGIST-Lavandel/RU2CNKorabliModificate)
-
-基于本项目8275422-20240410.2319版本的修改版，分叉后保持更新。
-
-主打创造性的、具有节目效果的文本翻译。
-
-### [REPAD本土化](https://github.com/DDFantasyV/Korabli_localization_chs)
-
-与本项目几乎同时起步的汉化项目，主打流畅的、谨慎的新增文本翻译。
-
-
+Thus, this project was born.
