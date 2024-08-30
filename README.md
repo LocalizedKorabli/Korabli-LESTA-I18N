@@ -60,3 +60,15 @@ This worked initially, but as versions change, the Lesta server is introducing c
 Its text will obviously not be overwritten by the Wargaming's, and thus will not display properly, affecting the experience.
 
 Thus, this project was born.
+
+## Portal
+
+LocalizedKorabli is making localizations for multiple languages and server types.
+
+You can easily access the corresponding project repositories by clicking on the links in the table below.
+
+| Language\Server Type | Live Server | Public Test Server |
+|:--------------------:|:-----------:|:------------------:|
+| L10N-简体中文 | [Repository Link](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N) | [Repository Link](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
+| I18N-English | **This Repository** | [Repository Link](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
+
