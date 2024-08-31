@@ -20,7 +20,7 @@ I18n Installer: Download the executable attached to the [latest release](https:/
 
 I18n Package: Extract the `global.mo` file from the downloaded archive in the [latest release](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/releases/latest).
 
-### Installation
+### Installation (Pick one out of two below)
 
 #### Via I18n Installer
 
