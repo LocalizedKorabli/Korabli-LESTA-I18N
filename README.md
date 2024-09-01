@@ -26,7 +26,7 @@ I18n Package: Extract the `global.mo` file from the downloaded archive in the [l
 
 1. Place the downloaded executable anywhere you want, better into Mir Korabli's installation directory;
 2. Run and operate the program under its instruction;
-3. In case the built-in download feature goes wrong, please manually download the l10n package and use `Local File`.
+3. In case the built-in download feature goes wrong, please manually download the i18n package and use `Local File`.
 
 #### Manually
 
