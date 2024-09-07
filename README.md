@@ -2,14 +2,14 @@
 
   <img  width="160" src="https://github.com/LocalizedKorabli/Korabli-LESTA-L10N/assets/81358657/26415d14-c46e-4bdd-aa26-f7f0234911ce" alt="logo">
 
-<h3>Unofficial Internationalization for Mir Korabli</h3>
+<h3>Unofficial Internationalization for Mir Korabley</h3>
 
 [![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-LESTA-I18N.svg?style=for-the-badge)](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/stargazers)
 [![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-LESTA-I18N.svg?style=for-the-badge)](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/releases/latest)
 [![last-commit](https://img.shields.io/github/last-commit/LocalizedKorabli/Korabli-LESTA-I18N.svg?style=for-the-badge)](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/commit)
 
-[![发布群](https://img.shields.io/badge/QQ-发布群-red?style=for-the-badge)](https://qm.qq.com/q/oLZZH47TRA)
-[![闲聊群](https://img.shields.io/badge/QQ-闲聊群-blue?style=for-the-badge)](https://qm.qq.com/q/n3gtv0yfwQ)
+[![发布群](https://img.shields.io/badge/QQ-Publish-red?style=for-the-badge)](https://qm.qq.com/q/oLZZH47TRA)
+[![闲聊群](https://img.shields.io/badge/QQ-Chat-blue?style=for-the-badge)](https://qm.qq.com/q/n3gtv0yfwQ)
 [![Discord](https://img.shields.io/discord/1275430075369656381?style=for-the-badge)](https://discord.gg/3d9k2mkWy4)
 
 </div>
@@ -28,7 +28,7 @@ I18n Package: Extract the `global.mo` file from the downloaded archive in the [l
 
 #### Via I18n Installer
 
-1. Place the downloaded executable anywhere you want, better into Mir Korabli's installation directory;
+1. Place the downloaded executable anywhere you want, better into Mir Korabley's installation directory;
 2. Run and operate the program under its instruction;
 3. In case the built-in download feature goes wrong, please manually download the i18n package and use `Local File`.
 
