@@ -14,477 +14,477 @@ msgstr ""
 "X-Generator: Poedit 3.5\n"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC025_DESCRIPTION"
-msgstr "Нанесите 30 000 ед. урона, будучи необнаруженным"
+msgstr "Deal 30 000 damage while remaining undetected"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC025_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC026_DESCRIPTION"
-msgstr "Нанесите 42 500 ед. урона, будучи необнаруженным"
+msgstr "Deal 42 500 damage while remaining undetected"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC026_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC027_DESCRIPTION"
-msgstr "Нанесите 60 000 ед. урона с расстояния 10 км или более"
+msgstr "Deal 60 000 damage from a distance of 10 km or more"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC027_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC028_DESCRIPTION"
-msgstr "Нанесите 70 000 ед. урона с расстояния 10 км или более"
+msgstr "Deal 70 000 damage from a distance of 10 km or more"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC028_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC029_DESCRIPTION"
-msgstr "Нанесите 90 000 ед. урона с расстояния 10 км или более"
+msgstr "Deal 90 000 damage from a distance of 10 km or more"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC029_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC030_DESCRIPTION"
-msgstr "Нанесите 105 000 ед. урона с расстояния 10 км или более"
+msgstr "Deal 105 000 damage from a distance of 10 km or more"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC030_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC031_DESCRIPTION"
-msgstr "Нанесите 50 000 ед. урона с расстояния 10 км или менее"
+msgstr "Deal 50 000 damage from a distance of 10 km or less"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC031_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC032_DESCRIPTION"
-msgstr "Нанесите 60 000 ед. урона с расстояния 10 км или менее"
+msgstr "Deal 60 000 damage from a distance of 10 km or less"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC032_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC033_DESCRIPTION"
-msgstr "Нанесите 75 000 ед. урона с расстояния 10 км или менее"
+msgstr "Deal 75 000 damage from a distance of 10 km or less"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC033_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC034_DESCRIPTION"
-msgstr "Нанесите 80 000 ед. урона с расстояния 10 км или менее"
+msgstr "Deal 80 000 damage from a distance of 10 km or less"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC034_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC035_DESCRIPTION"
-msgstr "Нанесите 50 000 ед. урона, будучи необнаруженным"
+msgstr "Deal 50 000 damage while remaining undetected"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC035_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC036_DESCRIPTION"
-msgstr "Нанесите 62 500 ед. урона, будучи необнаруженным"
+msgstr "Deal 62 500 damage while remaining undetected"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC036_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC037_DESCRIPTION"
-msgstr "Нанесите кораблю противника урон, составляющий не менее 50% от его штатной боеспособности, и уничтожьте его"
+msgstr "Inflict damage on an enemy ship amounting to at least 50% of its full combat capability and destroy it"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC037_TITLE"
-msgstr "Уничтожьте корабль"
+msgstr "Destroy a ship"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC038_DESCRIPTION"
-msgstr "Уничтожьте корабль противника, будучи необнаруженным"
+msgstr "Destroy an enemy ship while remaining undetected"
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC038_TITLE"
-msgstr "Нанесите урон"
+msgstr "Deal damage"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_1"
-msgstr "Достигнуть 25-го уровня мастерства на любом корабле."
+msgstr "Reach Mastery Level 25 on any ship."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_2"
-msgstr "Достигнуть 25-го уровня мастерства на 5 кораблях."
+msgstr "Reach Mastery Level 25 on 5 ships."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_3"
-msgstr "Достигнуть 50-го уровня мастерства на любом корабле."
+msgstr "Reach Mastery Level 50 on any ship."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_4"
-msgstr "Достигнуть 50-го уровня мастерства на 5 кораблях."
+msgstr "Reach Mastery Level 50 on 5 ships."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_5"
-msgstr "Достигнуть 75-го уровня мастерства на любом корабле."
+msgstr "Reach Mastery Level 75 on any ship."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_6"
-msgstr "Достигнуть 75-го уровня мастерства на 5 кораблях."
+msgstr "Reach Mastery Level 75 on 5 ships."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_THREE_KINGDOMS_2"
-msgstr "Принять активное участие в событии «Троецарствие: битва при Дункоу»."
+msgstr "Actively participate in the event 'Three Kingdoms: Battle of Dongkou'."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_VANGUARD"
-msgstr "Получить %(potentialDamage)s ед. потенциального урона."
+msgstr "Obtain %(potentialDamage)s units of potential damage."
 
 msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_1"
-msgstr "Зарождение мастерства"
+msgstr "The Birth of Mastery"
 
 msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_2"
-msgstr "Становление мастерства"
+msgstr "The Rise of Mastery"
 
 msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_3"
-msgstr "Расцвет мастерства"
+msgstr "The Flourishing of Mastery"
 
 msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_4"
-msgstr "Подтверждение мастерства"
+msgstr "The Confirmation of Mastery"
 
 msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_5"
-msgstr "Закалка мастерства"
+msgstr "The Tempering of Mastery"
 
 msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_6"
-msgstr "Торжество мастерства"
+msgstr "The Triumph of Mastery"
 
 msgid "IDS_ACHIEVEMENT_RVR_THREE_KINGDOMS_2"
-msgstr "Троецарствие: битва при Дункоу"
+msgstr "Three Kingdoms: Battle of Dongkou"
 
 msgid "IDS_ACHIEVEMENT_TYPE_HEROIC_DESC"
-msgstr "Героические достижения выдаются за один бой и говорят о чрезвычайно высокой боевой эффективности."
+msgstr "Heroic achievements are awarded for a single battle and signify exceptionally high combat performance."
 
 msgid "IDS_ACHIEVEMENT_TYPE_HEROIC_PLURAL"
-msgstr "Героические достижения"
+msgstr "Heroic achievements"
 
 msgid "IDS_ACHIEVEMENT_TYPE_HONORABLE_DESC"
-msgstr "Почётные достижения выдаются за один бой и говорят о высокой боевой эффективности."
+msgstr "Honorable achievements are awarded for a single battle and denote high combat performance."
 
 msgid "IDS_ACHIEVEMENT_TYPE_HONORABLE_PLURAL"
-msgstr "Почётные достижения"
+msgstr "Honorable achievements"
 
 msgid "IDS_ACHIEVEMENT_VANGUARD"
-msgstr "Авангард"
+msgstr "Vanguard"
 
 msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_SHIPMASTERY"
-msgstr "Отфильтровать по испытаниям мастерства"
+msgstr "Filter by Mastery Trials"
 
 msgid "IDS_DOGTAG_PCNB454_DESCRIPTION"
-msgstr "Фэнхуан, или китайский феникс, — мифическая птица, царящая над всеми другими птицами. Перья этой птицы окрашены в пять основных цветов: чёрный, белый, красный, жёлтый и зелёный (которые, в свою очередь, олицетворяют пять конфуцианских добродетелей)."
+msgstr "Fenghuang, or the Chinese phoenix, is a mythical bird that reigns over all other birds. Its feathers are colored in five primary colors—black, white, red, yellow, and green (which, in turn, represent the five Confucian virtues)."
 
 msgid "IDS_DOGTAG_PCNB454_NAME"
-msgstr "Пылающий фэнхуан"
+msgstr "Blazing Fenghuang"
 
 msgid "IDS_DOGTAG_PCNB455_DESCRIPTION"
-msgstr "Цилинь — существо из китайской мифологии, напоминающее химеру. По легенде, цилинь предвещает рождение или смерть выдающегося человека. Так, это существо якобы предвестило рождение великого мыслителя Конфуция, а также появлялось в саду легендарного Хуан-ди и в столице императора Яо."
+msgstr "Qilin is a creature from Chinese mythology resembling a chimera. Legend has it that the Qilin foretells the birth or death of a remarkable person. It is said to have heralded the birth of the great thinker Confucius, and also appeared in the garden of the legendary Huangdi and in the capital of Emperor Yao."
 
 msgid "IDS_DOGTAG_PCNB455_NAME"
-msgstr "Божественный цилинь"
+msgstr "Divine Qilin"
 
 msgid "IDS_DOGTAG_PCNB456_DESCRIPTION"
-msgstr "Пылающий фэнхуан и божественный цилинь, мифические покровители Древнего Китая, сошлись в таинственном танце."
+msgstr "The Blazing Fenghuang and the Divine Qilin, mythical patrons of Ancient China, converged in a mysterious dance."
 
 msgid "IDS_DOGTAG_PCNB456_NAME"
-msgstr "Покровители Востока"
+msgstr "Patrons of the East"
 
 msgid "IDS_DOGTAG_PCNB457_DESCRIPTION"
-msgstr "Масленица — восточнославянский праздник, знаменующий прощание с зимой и встречу весны. Празднование длится неделю, в течение которой принято готовить блины, вареники и сырники, а завершается Масленица сожжением соломенного чучела. Согласно археологическим свидетельствам, это один из древнейших славянских праздников."
+msgstr "Maslenitsa is an East Slavic festival that marks the farewell to winter and the welcome of spring. The celebration lasts for a week, during which it is customary to prepare pancakes, dumplings, and cottage cheese pancakes, culminating in the burning of a straw effigy. According to archaeological evidence, it is one of the oldest Slavic festivals."
 
 msgid "IDS_DOGTAG_PCNB457_NAME"
-msgstr "Масленица"
+msgstr "Maslenitsa"
 
 msgid "IDS_EARN_ANY_BATTLE_ACHIEVEMENT_PLURAL"
 msgid_plural "IDS_EARN_ANY_BATTLE_ACHIEVEMENT_PLURAL"
-msgstr[0] "Получите %(_amount)s любое боевое достижение"
-msgstr[1] ""
+msgstr[0] "Earn any %(_amount)s battle achievement"
+msgstr[1] "Earn any %(_amount)s battle achievements"
 
 msgid "IDS_EARN_ANY_BATTLE_ACHIEVEMENT_SINGLE"
-msgstr "Получите любое боевое достижение"
+msgstr "Earn any battle achievement"
 
 msgid "IDS_GUIDING_TIP_320_DESC"
-msgstr "Продемонстрируйте своё мастерство на определённом корабле! Чтобы повысить уровень мастерства, нужно зарабатывать чистый опыт и проходить испытания."
+msgstr "Demonstrate your mastery on a specific ship! To increase your mastery level, you need to earn base experience and complete trials."
 
 msgid "IDS_GUIDING_TIP_320_HEADER"
-msgstr "Уровень мастерства"
+msgstr "Mastery Level"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SHIP_MASTERY_TASKS_AVAILABLE"
-msgstr "У вас нет кораблей с доступными испытаниями"
+msgstr "You have no ships with available trials"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SHIP_MASTERY_TASKS_IN_PROGRESS"
-msgstr "У вас нет кораблей с активными испытаниями"
+msgstr "You have no ships with active trials"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_SHIP_MASTERY_TASKS_AVAILABLE"
-msgstr "Показать корабли с доступными испытаниями"
+msgstr "Show ships with available trials"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_SHIP_MASTERY_TASKS_IN_PROGRESS"
-msgstr "Показать корабли со взятыми испытаниями"
+msgstr "Show ships with active trials"
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_HEADER"
-msgstr "Мастерство"
+msgstr "Mastery"
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_1_HEADER"
-msgstr "Уровень мастерства"
+msgstr "Mastery Level"
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Мастерство отражает степень владения определённым кораблём и ваш боевой опыт на нём. Уровень мастерства отображается рядом с именем корабля."
+msgstr "Mastery reflects your proficiency with a specific ship and your combat experience on it. The mastery level is displayed next to the ship's name."
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "Доступно только для кораблей VIII–X уровней и суперкораблей."
+msgstr "Available only for Tier VIII–X ships and Super Ships."
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_2_HEADER"
-msgstr "Прогресс"
+msgstr "Progress"
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Чтобы перейти на следующий уровень мастерства, нужно набрать определённое количество чистого опыта."
+msgstr "To advance to the next mastery level, you must accumulate a certain amount of base experience."
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "Чем выше уровень корабля и уровень вашего мастерства на нём, тем больше чистого опыта нужно заработать, чтобы перейти на следующий уровень мастерства."
+msgstr "The higher the ship's tier and your mastery level on it, the more base experience you need to earn to advance to the next mastery level."
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_3_HEADER"
-msgstr "Испытания"
+msgstr "Trials"
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "Для перехода на каждый 10-й уровень мастерства нужно пройти испытания, которые подбираются специально для корабля. В любой момент вы можете сбросить испытания и получить новые."
+msgstr "To reach every 10th mastery level, you must complete trials that are specifically selected for the ship. You can reset your trials at any time to receive new ones."
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "Одновременно можно взять испытания не более чем на 15 кораблях. Испытания учитывают половину результата в Кооперативных боях и Операциях."
+msgstr "You can have trials active on no more than 15 ships at the same time. Trials account for half of the results in Cooperative Battles and Operations."
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_4_HEADER"
-msgstr "Общее мастерство"
+msgstr "Overall Mastery"
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_4_TEXT_1"
-msgstr "Ваше мастерство на всех кораблях складывается в общий уровень мастерства."
+msgstr "Your mastery on all ships contributes to your overall mastery level."
 
 msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_4_TEXT_2"
-msgstr "Это происходит автоматически, для повышения общего мастерства не нужно проходить испытания."
+msgstr "This happens automatically; you do not need to complete trials to increase your overall mastery."
 
 msgid "IDS_NAVAL_FLAG_CAO_WEI"
-msgstr "Флот Вэй"
+msgstr "Wei Fleet"
 
 msgid "IDS_NAVAL_FLAG_CAO_WEI_DESCRIPTION"
-msgstr "Царство Вэй было одним из государств эпохи Троецарствия, боровшихся за контроль над Китаем в III в. Располагалось на севере. Основателем царства был Цао Цао, государственный деятель, фактически правивший империей Хань на её закате. Император пожаловал Цао Цао земли с десятью городами, которые и стали царством Вэй."
+msgstr "The Kingdom of Wei was one of the states of the Three Kingdoms period, fighting for control over China in the 3rd century. It was located in the north. The kingdom was founded by Cao Cao, a statesman who effectively ruled the Han Empire during its decline. The emperor granted Cao Cao lands encompassing ten cities, which formed the Kingdom of Wei."
 
 msgid "IDS_NAVAL_FLAG_DONG_WU"
-msgstr "Флот У"
+msgstr "Wu Fleet"
 
 msgid "IDS_NAVAL_FLAG_DONG_WU_DESCRIPTION"
-msgstr "Царство У было одним из государств эпохи Троецарствия, боровшихся за контроль над Китаем в III в. Располагалось на востоке и юге. Считается что Сунь Цюань, правитель царства, был потомком Сунь-цзы — знаменитого автора «Искусства войны». Сунь Цюань провозгласил себя императором, унаследовав земли от старшего брата, и стал самым молодым из трёх знаменитых лидеров эпохи Троецарствия."
+msgstr "The Kingdom of Wu was one of the states during the Three Kingdoms period that fought for control of China in the 3rd century. It was located in the east and south. It is believed that Sun Quan, the ruler of the kingdom, was a descendant of Sun Tzu—the famous author of 'The Art of War'. Sun Quan proclaimed himself emperor, inheriting lands from his elder brother, and became the youngest of the three renowned leaders of the Three Kingdoms era."
 
 msgid "IDS_NAVAL_FLAG_SHU_HAN"
-msgstr "Флот Шу"
+msgstr "Shu Fleet"
 
 msgid "IDS_NAVAL_FLAG_SHU_HAN_DESCRIPTION"
-msgstr "Царство Шу было одним из государств эпохи Троецарствия, боровшихся за контроль над Китаем в III в. Располагалось на западе. Название Шу отсылает к одноимённому царству эпохи Чжоу, занимавшему приблизительно ту же территорию. Лю Бэй, основатель царства Шу, претендовал на родство с императорской династией Хань, называя себя законным наследником."
+msgstr "The Kingdom of Shu was one of the states during the Three Kingdoms period that fought for control of China in the 3rd century. It was located in the west. The name Shu references a similarly named state from the Zhou period, occupying roughly the same territory. Liu Bei, the founder of the Kingdom of Shu, claimed kinship with the Han imperial family, declaring himself the legitimate heir."
 
 msgid "IDS_NEWBIE_QUESTS_BATTLE_ICON_HINT"
-msgstr "Вводная боевая задача"
+msgstr "Introductory Battle Quest"
 
 msgid "IDS_NEWBIE_QUESTS_COMMON_ICON_HINT"
-msgstr "Вводная задача"
+msgstr "Introductory Quest"
 
 msgid "IDS_NEWBIE_QUESTS_PCON001_DESCRIPTION"
-msgstr "Исследуйте и купите крейсер II уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier II cruiser, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON001_NAME"
-msgstr "Выйдите в бой на исследуемом крейсере II уровня"
+msgstr "Take the researched Tier II cruiser into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON002_DESCRIPTION"
-msgstr "Пришло время сразиться с другими игроками! Случайный бой — серьёзный вызов, но в нём можно заработать больше опыта и кредитов, чем в Кооперативном."
+msgstr "It's time to battle other players! A Random Battle is a serious challenge, but you can earn more experience and credits than in Cooperative Play."
 
 msgid "IDS_NEWBIE_QUESTS_PCON002_NAME"
-msgstr "Победите в Случайном бою"
+msgstr "Win a Random Battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON003_DESCRIPTION"
-msgstr "С помощью камуфляжей вы можете изменять внешний вид ваших кораблей. Камуфляжи можно купить за кредиты или дублоны, а также получить за участие в различных событиях."
+msgstr "Using camouflages, you can change the appearance of your ships. Camouflages can be purchased with credits or doubloons, and also obtained by participating in various events."
 
 msgid "IDS_NEWBIE_QUESTS_PCON003_NAME"
-msgstr "Установите камуфляж на свой корабль"
+msgstr "Apply a camouflage to your ship"
 
 msgid "IDS_NEWBIE_QUESTS_PCON004_DESCRIPTION"
-msgstr "С помощью сигналов можно повысить живучесть корабля, эффективность вооружения и снаряжения, а также увеличить максимальную скорость корабля."
+msgstr "Using signals, you can increase your ship's durability, the effectiveness of its armament and equipment, and also boost its maximum speed."
 
 msgid "IDS_NEWBIE_QUESTS_PCON004_NAME"
-msgstr "Установите 3 сигнала на корабль"
+msgstr "Install 3 signals on a ship"
 
 msgid "IDS_NEWBIE_QUESTS_PCON005_DESCRIPTION"
-msgstr "Свободный опыт можно использовать тогда, когда вам не хватает опыта корабля или командира. Он начисляется за каждый бой в размере 10% от полученного опыта корабля."
+msgstr "Free experience can be used when you are short on ship or commander experience. It is awarded in each battle at a rate of 10% of the ship's experience earned."
 
 msgid "IDS_NEWBIE_QUESTS_PCON005_NAME"
-msgstr "Исследуйте корабль или модуль за свободный опыт"
+msgstr "Research a ship or module using free experience"
 
 msgid "IDS_NEWBIE_QUESTS_PCON006_DESCRIPTION"
-msgstr "С помощью экономических бонусов вы сможете получать больше кредитов и опыта за бой."
+msgstr "Using economic bonuses, you can earn more credits and experience per battle."
 
 msgid "IDS_NEWBIE_QUESTS_PCON006_NAME"
-msgstr "Установите 3 экономических бонуса на корабль"
+msgstr "Install 3 economic bonuses on a ship"
 
 msgid "IDS_NEWBIE_QUESTS_PCON007_DESCRIPTION"
-msgstr "Открывая контейнеры, вы можете получить самое разнообразное имущество: камуфляжи, сигналы, экономические бонусы, различные ресурсы и даже корабли!"
+msgstr "By opening containers, you can obtain a wide variety of items: camouflages, signals, economic bonuses, various resources, and even ships!"
 
 msgid "IDS_NEWBIE_QUESTS_PCON007_NAME"
-msgstr "Откройте 3 контейнера"
+msgstr "Open 3 containers"
 
 msgid "IDS_NEWBIE_QUESTS_PCON008_DESCRIPTION"
-msgstr "Навыки командира позволяют получить преимущества и новые возможности в бою. Для изучения новых навыков вам понадобятся очки навыков, которые можно получить, зарабатывая опыт командира в бою."
+msgstr "Commander skills provide advantages and new opportunities in battle. To learn new skills, you will need skill points, which can be earned by gaining commander experience in battle."
 
 msgid "IDS_NEWBIE_QUESTS_PCON008_NAME"
-msgstr "Изучите навык командира"
+msgstr "Learn a commander skill"
 
 msgid "IDS_NEWBIE_QUESTS_PCON009_DESCRIPTION"
-msgstr "Боевые задачи представляют собой набор определённых целей, которых необходимо достичь в бою. В зависимости от конкретной боевой задачи вам могут понадобиться корабли разных классов, уровней и наций."
+msgstr "Battle quests consist of a set of specific objectives that must be achieved in battle. Depending on the quest, you may need ships of different classes, tiers, and nations."
 
 msgid "IDS_NEWBIE_QUESTS_PCON009_NAME"
-msgstr "Выполните 3 боевые задачи"
+msgstr "Complete 3 battle quests"
 
 msgid "IDS_NEWBIE_QUESTS_PCON010_DESCRIPTION"
-msgstr "Модернизации позволяют развить сильные стороны корабля и скорректировать слабые."
+msgstr "Modernizations allow you to enhance your ship's strengths and mitigate its weaknesses."
 
 msgid "IDS_NEWBIE_QUESTS_PCON010_NAME"
-msgstr "Установите модернизацию на корабль"
+msgstr "Install a modernization on a ship"
 
 msgid "IDS_NEWBIE_QUESTS_PCON011_DESCRIPTION"
-msgstr "Кампании — это цепочки из миссий и заданий, объединённых определённой тематикой. Проходя кампании, вы сможете получить множество наград."
+msgstr "Campaigns are chains of missions and quests united by a common theme. By completing campaigns, you can earn numerous rewards."
 
 msgid "IDS_NEWBIE_QUESTS_PCON011_NAME"
-msgstr "Выполните 3 задания в любых кампаниях"
+msgstr "Complete 3 quests in any campaign"
 
 msgid "IDS_NEWBIE_QUESTS_PCON012_DESCRIPTION"
-msgstr "Адмиралтейство — это магазин игровых товаров в «Мире кораблей». Здесь вы можете приобрести премиум корабли и другое имущество, а также принять участие в различных событиях. Во вкладке «Рекомендованное» часто можно найти бесплатные наборы!"
+msgstr "The Armory is the in‐game store in 'World of Warships'. Here you can purchase premium ships and other items, as well as participate in various events. In the 'Featured' tab, you can often find free bundles!"
 
 msgid "IDS_NEWBIE_QUESTS_PCON012_NAME"
-msgstr "Получите любое имущество в Адмиралтействе"
+msgstr "Obtain any item from the Armory"
 
 msgid "IDS_NEWBIE_QUESTS_PCON013_DESCRIPTION"
-msgstr "Операции — это тип боя, в котором вам предстоит выполнять сюжетные задания вместе с другими игроками, сражаясь против ботов. Каждая операция обладает уникальными сюжетными элементами."
+msgstr "Operations are a battle mode in which you complete story-driven objectives together with other players while fighting against bots. Each operation features unique narrative elements."
 
 msgid "IDS_NEWBIE_QUESTS_PCON013_NAME"
-msgstr "Победите в Операциях"
+msgstr "Win an Operation"
 
 msgid "IDS_NEWBIE_QUESTS_PCON014_DESCRIPTION"
-msgstr "По мере прогресса у вас будет накапливаться имущество, которое вы не используете. Продайте ненужное имущество, чтобы получить кредиты."
+msgstr "As you progress, you'll accumulate items that you don't use. Sell unwanted items to earn credits."
 
 msgid "IDS_NEWBIE_QUESTS_PCON014_NAME"
-msgstr "Продайте имущество на 50 000 кредитов"
+msgstr "Sell items worth 50 000 credits"
 
 msgid "IDS_NEWBIE_QUESTS_PCON015_DESCRIPTION"
-msgstr "В Ранговых боях вам предстоит побороться за ценные награды, продвигаясь по рангам и лигам. Правила могут меняться от сезона к сезону."
+msgstr "In Ranked Battles, you will compete for valuable rewards as you advance through ranks and leagues. Rules may change from season to season."
 
 msgid "IDS_NEWBIE_QUESTS_PCON015_NAME"
-msgstr "Победите в Ранговом бою"
+msgstr "Win a Ranked Battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON016_DESCRIPTION"
-msgstr "Участники кланов могут сражаться в Клановых боях, а также строить и улучшать клановую базу, чтобы получать дополнительные ресурсы и скидки. Вы можете вступить в клан или создать свой."
+msgstr "Clan members can battle in Clan Battles and also build and upgrade a clan base to receive additional resources and discounts. You can join a clan or create your own."
 
 msgid "IDS_NEWBIE_QUESTS_PCON016_NAME"
-msgstr "Вступите в клан"
+msgstr "Join a clan"
 
 msgid "IDS_NEWBIE_QUESTS_PCON017_DESCRIPTION"
-msgstr "Исследуйте и купите крейсер III уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier III cruiser, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON017_NAME"
-msgstr "Выйдите в бой на исследуемом крейсере III уровня"
+msgstr "Take the researched Tier III cruiser into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON018_DESCRIPTION"
-msgstr "Исследуйте и купите крейсер IV уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier IV cruiser, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON018_NAME"
-msgstr "Выйдите в бой на исследуемом крейсере IV уровня"
+msgstr "Take the researched Tier IV cruiser into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON019_DESCRIPTION"
-msgstr "Исследуйте и купите крейсер V уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier V cruiser, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON019_NAME"
-msgstr "Выйдите в бой на исследуемом крейсере V уровня"
+msgstr "Take the researched Tier V cruiser into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON020_DESCRIPTION"
-msgstr "Исследуйте и купите крейсер VI уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier VI cruiser, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON020_NAME"
-msgstr "Выйдите в бой на исследуемом крейсере VI уровня"
+msgstr "Take the researched Tier VI cruiser into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON021_DESCRIPTION"
-msgstr "Исследуйте и купите крейсер VII уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier VII cruiser, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON021_NAME"
-msgstr "Выйдите в бой на исследуемом крейсере VII уровня"
+msgstr "Take the researched Tier VII cruiser into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON022_DESCRIPTION"
-msgstr "Исследуйте и купите эсминец II уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier II destroyer, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON022_NAME"
-msgstr "Выйдите в бой на исследуемом эсминце II уровня"
+msgstr "Take the researched Tier II destroyer into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON023_DESCRIPTION"
-msgstr "Исследуйте и купите линкор III уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier III battleship, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON023_NAME"
-msgstr "Выйдите в бой на исследуемом линкоре III уровня"
+msgstr "Take the researched Tier III battleship into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON024_DESCRIPTION"
-msgstr "Исследуйте и купите эсминец III уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier III destroyer, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON024_NAME"
-msgstr "Выйдите в бой на исследуемом эсминце III уровня"
+msgstr "Take the researched Tier III destroyer into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON025_DESCRIPTION"
-msgstr "Исследуйте и купите линкор IV уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier IV battleship, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON025_NAME"
-msgstr "Выйдите в бой на исследуемом линкоре IV уровня"
+msgstr "Take the researched Tier IV battleship into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON026_DESCRIPTION"
-msgstr "Исследуйте и купите эсминец IV уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier IV destroyer, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON026_NAME"
-msgstr "Выйдите в бой на исследуемом эсминце IV уровня"
+msgstr "Take the researched Tier IV destroyer into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON027_DESCRIPTION"
-msgstr "Исследуйте и купите линкор V уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier V battleship, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON027_NAME"
-msgstr "Выйдите в бой на исследуемом линкоре V уровня"
+msgstr "Take the researched Tier V battleship into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON028_DESCRIPTION"
-msgstr "Исследуйте и купите эсминец V уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier V destroyer, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON028_NAME"
-msgstr "Выйдите в бой на исследуемом эсминце V уровня"
+msgstr "Take the researched Tier V destroyer into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON029_DESCRIPTION"
-msgstr "Исследуйте и купите линкор VI уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier VI battleship, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON029_NAME"
-msgstr "Выйдите в бой на исследуемом линкоре VI уровня"
+msgstr "Take the researched Tier VI battleship into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON030_DESCRIPTION"
-msgstr "Исследуйте и купите эсминец VI уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier VI destroyer, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON030_NAME"
-msgstr "Выйдите в бой на исследуемом эсминце VI уровня"
+msgstr "Take the researched Tier VI destroyer into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON031_DESCRIPTION"
-msgstr "Исследуйте и купите линкор VII уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier VII battleship, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON031_NAME"
-msgstr "Выйдите в бой на исследуемом линкоре VII уровня"
+msgstr "Take the researched Tier VII battleship into battle"
 
 msgid "IDS_NEWBIE_QUESTS_PCON032_DESCRIPTION"
-msgstr "Исследуйте и купите эсминец VII уровня, затем выйдите на нём в бой. Сражаясь на этом корабле, вы будете зарабатывать опыт для исследования следующего корабля ветки."
+msgstr "Research and purchase a Tier VII destroyer, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
 
 msgid "IDS_NEWBIE_QUESTS_PCON032_NAME"
-msgstr "Выйдите в бой на исследуемом эсминце VII уровня"
+msgstr "Take the researched Tier VII destroyer into battle"
 
 msgid "IDS_PCEE733_PARIZHSKAYA_KOMMUNA_FLAG"
-msgstr "Парижская коммуна"
+msgstr "Paris Commune"
 
 msgid "IDS_PCEE733_PARIZHSKAYA_KOMMUNA_FLAG_DESCRIPTION"
-msgstr "Шефское знамя линкора Рабоче-крестьянского Красного флота «Парижская коммуна». Этот корабль носил имя в честь революционной коммуны, просуществовавшей 72 дня весной 1871 г. в Париже. Фридрих Энгельс писал, что Парижская коммуна показала миру пример настоящей диктатуры пролетариата."
+msgstr "The command flag of the battleship of the Workers' and Peasants' Red Fleet 'Paris Commune'. This ship was named in honor of the revolutionary commune that lasted for 72 days in the spring of 1871 in Paris. Friedrich Engels wrote that the Paris Commune demonstrated to the world an example of the true dictatorship of the proletariat."
 
 msgid "IDS_PFPA099_305MM_HE_BERNADOTTE"
-msgstr "305-мм Spr.Gr. L/4.9"
+msgstr "305mm Spr.Gr. L/4.9"
 
 msgid "IDS_PFPA100_305MM_AP_BERNADOTTE"
-msgstr "305-мм P.Spr.Gr. L/3.8"
+msgstr "305mm P.Spr.Gr. L/3.8"
 
 msgid "IDS_PFPT025_BERNADOTTE"
-msgstr "Torped M1943 mod 2"
+msgstr "Torpedo M1943 mod. 2"
 
 msgid "IDS_PFSB509"
 msgstr "Bernadotte"
 
 msgid "IDS_PFSB509_DESCR"
-msgstr "Версальский договор строго ограничивал водоизмещение кораблей, которые могли числиться в немецком флоте. В результате после окончания Первой мировой войны у Германии образовался запас из кораблей, которые так и не были достроены: от линкоров до тральщиков. Так, незаконченным оказался заказанный Грецией линкор Salamis, но до начала 1930-х гг. Германия рассматривала вариант достройки этого корабля. Впоследствии часть из оставшихся кораблей была достроена и продана за рубеж."
+msgstr "The Treaty of Versailles strictly limited the displacement of ships that could be part of the German fleet. As a result, after World War I, Germany had a stockpile of ships that were never completed—from battleships to trawlers. For instance, the battleship Salamis, ordered by Greece, was left unfinished, although until the early 1930s Germany considered completing it. Subsequently, some of the remaining ships were completed and sold abroad."
 
 msgid "IDS_PFSB509_FULL"
 msgstr "Bernadotte"
@@ -493,475 +493,475 @@ msgid "IDS_PFSB509_NUMBER"
 msgstr "1"
 
 msgid "IDS_PFSB509_YEAR"
-msgstr "1952 г."
+msgstr "1952"
 
 msgid "IDS_PFUA806_ART_BERNADOTTE"
-msgstr "305-мм/56 SK C/39 в башенной установке"
+msgstr "305mm/56 SK C/39 in the MK-3-12 mounting"
 
 msgid "IDS_PFUE806_ENG_BERNADOTTE"
-msgstr "ЭУ 152 000 л.с."
+msgstr "Propulsion: 152 000 hp"
 
 msgid "IDS_PFUH809_HULL_BERNADOTTE"
 msgstr "Bernadotte"
 
 msgid "IDS_PFUS809_SUO_BERNADOTTE"
-msgstr "PCA n°9"
+msgstr "PCA No. 9"
 
 msgid "IDS_PFUT803_TORP_BERNADOTTE"
 msgstr "Mk14"
 
 msgid "IDS_PL_RANK_REWARDS_DIFF_COUNT"
 msgid_plural "IDS_PL_RANK_REWARDS_DIFF_COUNT"
-msgstr[0] "и ещё %(_rewardsCount)s"
-msgstr[1] ""
+msgstr[0] "and %(_rewardsCount)s more item"
+msgstr[1] "and %(_rewardsCount)s more items"
 
 msgid "IDS_PRAB911_ULYANOVSK_TACT"
-msgstr "Туполев Ту-91"
+msgstr "Tupolev Tu-91"
 
 msgid "IDS_PRAF911_ULYANOVSK_STOCK"
-msgstr "Лавочкин Ла-9"
+msgstr "Lavochkin La-9"
 
 msgid "IDS_PRAF912_ULYANOVSK_TACT"
-msgstr "МиГ-15бис"
+msgstr "MiG-15bis"
 
 msgid "IDS_PRAL911_ULYANOVSK_STOCK"
-msgstr "Сухой Су-6 (АМ-42)"
+msgstr "Sukhoi Su-6 (AM-42)"
 
 msgid "IDS_PRES338_23FEBRUARY_SVERDLOVSK"
-msgstr "На страже Отечества"
+msgstr "On Guard for the Motherland"
 
 msgid "IDS_PRGA238_12_DSHK"
-msgstr "12,7-мм ДШК"
+msgstr "12.7mm DShK"
 
 msgid "IDS_PRGM237_12IN52_MOD_6"
-msgstr "305-мм/52 обр. 1907 г. в установке МК-3-12"
+msgstr "305mm/52, built in 1907, in the MK-3-12 mounting"
 
 msgid "IDS_PRGS247_130MM_58_CM_62"
-msgstr "130-мм/58 обр. 1957 г. в установке СМ-61"
+msgstr "130mm/58, built in 1957, in the SM-61 mounting"
 
 msgid "IDS_PRPA195_130MM_HE_CM_62"
-msgstr "ОФ-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA237_305MM_HE_P_KOMMUNA"
-msgstr "305-мм ОФ обр. 1911 г."
+msgstr "305mm HE, built in 1911"
 
 msgid "IDS_PRPA238_305MM_AP_P_KOMMUNA"
-msgstr "305-мм ББ обр. 1911 г."
+msgstr "305mm AP, built in 1911"
 
 msgid "IDS_PRPR011_ULYANOVSK_STOCK"
-msgstr "С-21"
+msgstr "S-21"
 
 msgid "IDS_PRPR012_ULYANOVSK_TACT"
-msgstr "С-24"
+msgstr "S-24"
 
 msgid "IDS_PRPS010_ULYANOVSK_STOCK"
-msgstr "ФАБ-500"
+msgstr "FAB-500"
 
 msgid "IDS_PRPT088_ULYANOVSK_TACT"
-msgstr "45-36 МАИ"
+msgstr "45-36 MAI"
 
 msgid "IDS_PRSA111"
-msgstr "Ульяновск"
+msgstr "Ulyanovsk"
 
 msgid "IDS_PRSA111_DESCR"
-msgstr "Гипотетический проект ударного авианосца для советского флота, оснащённого угловой полётной палубой и паровыми катапультами. Спроектирован для условий навигации в водах Северного Ледовитого океана, для действий против вражеских военных баз и авианосных соединений. Палубные самолёты такого авианосца могли бы использовать вооружение со специальной боевой частью."
+msgstr "A hypothetical project of a strike aircraft carrier for the Soviet Navy, equipped with an angled flight deck and steam catapults. Designed for navigation in the waters of the Northern Arctic Ocean and for operations against enemy military bases and carrier groups. The carrier-based aircraft of such a carrier could use armament with a specialized warhead."
 
 msgid "IDS_PRSA111_FULL"
-msgstr "Ульяновск"
+msgstr "Ulyanovsk"
 
 msgid "IDS_PRSA111_NUMBER"
 msgstr "1"
 
 msgid "IDS_PRSA111_YEAR"
-msgstr "1957 г."
+msgstr "1957"
 
 msgid "IDS_PRSB515"
-msgstr "П. коммуна"
+msgstr "P. Commune"
 
 msgid "IDS_PRSB515_DESCR"
 msgstr ""
-"Линейный корабль, построенный на Балтийском заводе и спущенный на воду в июне 1911 г. под именем «Севастополь», стал первым дредноутом императорского флота. Участвовал в Первой мировой и Гражданской войнах.\n"
+"A battleship built at the Baltic Shipyard and launched in June 1911 under the name 'Sevastopol', it became the first dreadnought of the Imperial Navy. It participated in World War I and the Civil War.\n"
 "\n"
-"В марте 1921 г. корабль получил имя «Парижская коммуна». В 1921–24 гг. линкор был отремонтирован, после чего вошёл в действующий состав Морских сил Балтийского моря. В 1929 г. в рамках модернизации на баке линкора была смонтирована носовая наделка для улучшения мореходных и скоростных качеств. В конце того же года «Парижская коммуна» была переведена на Чёрное море. В 1930–36 гг. в Севастополе линкор прошёл большую модернизацию с заменой котлов и усилением зенитного вооружения.\n"
+"In March 1921, the ship was renamed 'Paris Commune'. In 1921–24, the battleship was repaired and subsequently entered active service in the Baltic Fleet. In 1929, as part of modernization, a bow extension was installed to improve its seakeeping and speed. Later that year, 'Paris Commune' was transferred to the Black Sea. In 1930–36, in Sevastopol, the battleship underwent extensive modernization with boiler replacement and upgrades to its anti-aircraft armament.\n"
 "\n"
-"Во время Великой Отечественной войны корабль принимал участие в обороне Одессы и Севастополя. «Парижская коммуна» поддерживала действия Крымского фронта и Феодосийский десант."
+"During the Great Patriotic War, the ship participated in the defense of Odessa and Sevastopol. 'Paris Commune' supported the operations of the Crimea Front and the Feodosia landing."
 
 msgid "IDS_PRSB515_FULL"
-msgstr "Парижская коммуна"
+msgstr "Paris Commune"
 
 msgid "IDS_PRSB515_NUMBER"
 msgstr "4"
 
 msgid "IDS_PRSB515_YEAR"
-msgstr "1914 г."
+msgstr "1914"
 
 msgid "IDS_PRUA406_ART_P_KOMMUNA"
-msgstr "305-мм/52 обр. 1907 г. в установке МК-3-12"
+msgstr "305mm/52, built in 1907, in the MK-3-12 mounting"
 
 msgid "IDS_PRUB900_CV11_TB_STOCK"
-msgstr "Туполев Ту-91"
+msgstr "Tupolev Tu-91"
 
 msgid "IDS_PRUE406_ENG_P_KOMMUNA"
-msgstr "ЭУ 62 300 л.с."
+msgstr "Propulsion: 62 300 hp"
 
 msgid "IDS_PRUE925_CV11_ENG_STOCK"
-msgstr "ЭУ 267 000 л.с."
+msgstr "Propulsion: 267 000 hp"
 
 msgid "IDS_PRUF900_CV11_FC_STOCK"
-msgstr "Тип 11"
+msgstr "Type 11"
 
 msgid "IDS_PRUH406_P_KOMMUNA"
-msgstr "Парижская коммуна"
+msgstr "Paris Commune"
 
 msgid "IDS_PRUH925_CV11_HULL_STOCK"
-msgstr "Ульяновск"
+msgstr "Ulyanovsk"
 
 msgid "IDS_PRUI900_CV11_F_STOCK"
-msgstr "Лавочкин Ла-9/МиГ-15бис"
+msgstr "Lavochkin La-9/MiG-15bis"
 
 msgid "IDS_PRUL900_CV11_SB_STOCK"
-msgstr "Сухой Су-6 (АМ-42)"
+msgstr "Sukhoi Su-6 (AM-42)"
 
 msgid "IDS_PRUS406_SUO_P_KOMMUNA"
-msgstr "СУО V мод. 1"
+msgstr "SUO V mod. 1"
 
 msgid "IDS_PZES420_3KINGS_XIAN_DENG"
-msgstr "Пылающий фэнхуан"
+msgstr "Blazing Fenghuang"
 
 msgid "IDS_PZES428_3KINGS_DOU_JIAN"
-msgstr "Божественный цилинь"
+msgstr "Divine Qilin"
 
 msgid "IDS_PZGA174_37MM_SKC_30_TWIN"
-msgstr "37-мм/83 SK C/30 в установке Dopp LC/30"
+msgstr "37mm/83 SK C/30 in the Dopp LC/30 mounting"
 
 msgid "IDS_PZGA175_20MM_FLAK_38"
-msgstr "20-мм/65 C/38 в одиночной установке"
+msgstr "20mm/65 C/38 in a single mounting"
 
 msgid "IDS_PZGA178_STAAG_MARKV"
-msgstr "40-мм/56 OQF Mk.X в установке STAAG Mk.2"
+msgstr "40mm/56 OQF Mk.X in the STAAG Mk.2 mounting"
 
 msgid "IDS_PZGM179_234MM50_MK_XII_TWIN"
-msgstr "234-мм/50 Mk.XII в башенной установке"
+msgstr "234mm/50 Mk.XII in a turret mounting"
 
 msgid "IDS_PZGS176_105MM_SKC_33"
-msgstr "105-мм/65 SK C/33 в установке Dop. L. C/31"
+msgstr "105mm/65 SK C/33 in the Dop. L. C/31 mounting"
 
 msgid "IDS_PZGS181_15CM_SK_C28_MPL_C_36"
-msgstr "150-мм/55 SK C/28 в установке Dop. MPL C/36"
+msgstr "150mm/55 SK C/28 in the Dop. MPL C/36 mounting"
 
 msgid "IDS_PZGT180_21IN_QUAD_TORPEDO_TUBE"
-msgstr "533-мм QR Mk II"
+msgstr "533mm QR Mk II"
 
 msgid "IDS_PZPB519_XIAN_DENG_TACT"
 msgstr "PC 1000"
 
 msgid "IDS_QUALIFICATION_STAR_EARNED"
-msgstr "Квалификация: звезда получена"
+msgstr "Qualification: star earned"
 
 msgid "IDS_QUALIFICATION_STAR_LOST"
-msgstr "Квалификация: звезда потеряна"
+msgstr "Qualification: star lost"
 
 msgid "IDS_QUALIFICATION_STAR_SAVED"
-msgstr "Квалификация: звезда сохранена"
+msgstr "Qualification: star saved"
 
 msgid "IDS_RANKED_BATTLES_SEASON_AND_SPRINT"
-msgstr "%(_seasonId)s-й сезон, %(_sprintId)s-й спринт"
+msgstr "%(_seasonId)s season, %(_sprintId)s sprint"
 
 msgid "IDS_RANKED_PRIME_FINISH"
-msgstr "Cессия завершена"
+msgstr "Session finished"
 
 msgid "IDS_RANKED_PRIME_TIME"
-msgstr "Cессия: %(_timeLeft)s"
+msgstr "Session: %(_timeLeft)s"
 
 msgid "IDS_RANKED_QUALIFICATION_STATUS_MISSED"
-msgstr "Пропущена"
+msgstr "Skipped"
 
 msgid "IDS_RANKED_REWARDS_COUNT"
-msgstr "+ %(_value)s"
+msgstr "+ %(_value)s"
 
 msgid "IDS_RANKED_SEASON_FINISHED"
-msgstr "Cезон завершён"
+msgstr "Season finished"
 
 msgid "IDS_RANKED_SEASON_TIME"
-msgstr "Cезон: %(_timeLeft)s"
+msgstr "Season: %(_timeLeft)s"
 
 msgid "IDS_RANKED_SPRINT_FINISHED"
-msgstr "Спринт завершён"
+msgstr "Sprint finished"
 
 msgid "IDS_RANKED_SPRINT_TIME"
-msgstr "Спринт: %(_timeLeft)s"
+msgstr "Sprint: %(_timeLeft)s"
 
 msgid "IDS_RANKED_VICTORY_REWARDS_TITLE"
-msgstr "Награды за победы"
+msgstr "Victory rewards"
 
 msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_DEFAULT"
-msgstr "Не получено"
+msgstr "Not received"
 
 msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_DONE"
-msgstr "Получено"
+msgstr "Received"
 
 msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_LOCKED"
-msgstr "Лига пропущена"
+msgstr "League skipped"
 
 msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON"
-msgstr "Пропустить лигу"
+msgstr "Skip league"
 
 msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_1_LEAGUE_2"
-msgstr "Вы можете пропустить Серебряную лигу и перейти на 10-й ранг Золотой лиги."
+msgstr "You can skip the Silver League and move to the 10th rank of the Gold League."
 
 msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_1_LEAGUE_3"
-msgstr "Вы можете пропустить Бронзовую лигу и перейти на 10-й ранг Серебряной лиги."
+msgstr "You can skip the Bronze League and move to the 10th rank of the Silver League."
 
 msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_2_LEAGUE_REWARDS"
-msgstr "Награды за пропущенную лигу не выдаются."
+msgstr "Rewards for the skipped league will not be granted."
 
 msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_LOCKED"
-msgstr "Вы можете пропустить только ту лигу, в которой сейчас сражаетесь."
+msgstr "You can only skip the league in which you are currently competing."
 
 msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_UNAVAILABLE"
-msgstr "Сейчас пропуск лиг недоступен."
+msgstr "League skipping is not available at the moment."
 
 msgid "IDS_RANKS_LEAGUE_SKIP_HEADER_2"
-msgstr "Пропуск Серебряной лиги"
+msgstr "Skip Silver League"
 
 msgid "IDS_RANKS_LEAGUE_SKIP_HEADER_3"
-msgstr "Пропуск Бронзовой лиги"
+msgstr "Skip Bronze League"
 
 msgid "IDS_RANKS_LEAGUE_SKIP_QUESTION"
-msgstr "Пропустить лигу за"
+msgstr "Skip the league for"
 
 msgid "IDS_RANKS_LEAGUE_SKIP_TEXT_2"
-msgstr "Вы перейдёте на 10-й ранг Золотой лиги. Награды за пропущенную лигу не будут начислены."
+msgstr "You will move to the 10th rank of the Gold League. Rewards for the skipped league will not be granted."
 
 msgid "IDS_RANKS_LEAGUE_SKIP_TEXT_3"
-msgstr "Вы перейдёте на 10-й ранг Серебряной лиги. Награды за пропущенную лигу не будут начислены."
+msgstr "You will move to the 10th rank of the Silver League. Rewards for the skipped league will not be granted."
 
 msgid "IDS_RANKS_SHIP_RESTRICTIONS"
-msgstr "Условия участия:"
+msgstr "Participation requirements:"
 
 msgid "IDS_RANKS_SHIP_RESTRICTIONS_QUALIFICATION"
-msgstr "Условия участия в квалификации:"
+msgstr "Qualification requirements:"
 
 msgid "IDS_RANK_CHANGED_REWARDS_QUALIFICATION"
-msgstr "За прохождение квалификации:"
+msgstr "For completing the qualification:"
 
 msgid "IDS_RANK_CHANGED_REWARDS_TOP_RANK"
-msgstr "За получение 1-го ранга:"
+msgstr "For achieving the 1st rank:"
 
 msgid "IDS_RANK_CHANGED_REWARDS_VICTORIES_FINAL"
-msgstr "За победы:"
+msgstr "For victories:"
 
 msgid "IDS_RANK_IN_LEAGUE_STATUS_DONE"
-msgstr "Получен"
+msgstr "Received"
 
 msgid "IDS_RANK_IN_LEAGUE_STATUS_SKIPPED"
-msgstr "Пропущен"
+msgstr "Skipped"
 
 msgid "IDS_RANK_REACHED_FIRST_IN_LEAGUE"
-msgstr "Поздравляем! Вы получили 1-й ранг."
+msgstr "Congratulations! You have achieved the 1st rank."
 
 msgid "IDS_RANK_REWARDS_LEAGUE_COMPLETED"
-msgstr "За прохождение лиги:"
+msgstr "For completing the league:"
 
 msgid "IDS_RANK_REWARDS_PARTICIPATED_IN_SEASON"
-msgstr "За участие в сезоне:"
+msgstr "For participating in the season:"
 
 msgid "IDS_RANK_REWARDS_TOOLTIP_TITLE_QUALIFICATION"
-msgstr "Награда:"
+msgstr "Reward:"
 
 msgid "IDS_RANK_REWARDS_TOOLTIP_TITLE_TOP_RANK"
-msgstr "Награда:"
+msgstr "Reward:"
 
 msgid "IDS_RANK_REWARD_BUTTON_CHECK_ALL_REWARDS"
-msgstr "Посмотреть все"
+msgstr "View all"
 
 msgid "IDS_REST_REWARDS_HINT_LOWER"
-msgstr "и ещё %(_count)s"
+msgstr "and %(_count)s more"
 
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_TITLE_FULL"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль IX уровня"
+msgstr "Premium Ship Tier IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "IX уровень"
+msgstr "Tier IX"
 
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Премиум корабль VIII уровня"
+msgstr "Premium Ship Tier VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VIII уровень"
+msgstr "Tier VIII"
 
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_TITLE"
-msgstr "Премиум контейнер «Достояние династии»"
+msgstr "Premium Container 'Dynastic Heritage'"
 
 msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_TITLE_SHORT"
-msgstr "Достояние династии"
+msgstr "Dynastic Heritage"
 
 msgid "IDS_REWARD_SHIPXP_TITLE"
-msgstr "Опыт корабля"
+msgstr "Ship Experience"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_TANKING"
-msgstr "В течение 15 секунд получить потенциальный урон от 3 кораблей противника или более."
+msgstr "Within 15 seconds, absorb potential damage from 3 or more enemy ships."
 
 msgid "IDS_RIBBON_SSE_TANKING"
-msgstr "Взял огонь на себя"
+msgstr "Took the hit"
 
 msgid "IDS_RIBBON_SUBRIBBON_TANKING"
-msgstr "Взял огонь на себя"
+msgstr "Took the hit"
 
 msgid "IDS_SHIPS_MASTERY_SELECT_SHIP"
-msgstr "ВЫБЕРИТЕ ПОДХОДЯЩИЙ КОРАБЛЬ"
+msgstr "SELECT A SUITABLE SHIP"
 
 msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON"
-msgstr "Сбросить"
+msgstr "Reset"
 
 msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_QUESTION"
-msgstr "Сбросить испытания за"
+msgstr "Reset trials for"
 
 msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_TITLE"
-msgstr "Сброс испытаний"
+msgstr "Reset Trials"
 
 msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_WARNING"
-msgstr "Прогресс прохождения испытаний будет сброшен"
+msgstr "Your trial progress will be reset"
 
 msgid "IDS_SHIP_MASTERY"
-msgstr "Мастерство"
+msgstr "Mastery"
 
 msgid "IDS_SHIP_MASTERY_BUTTON_ABOUT"
-msgstr "Правила"
+msgstr "Rules"
 
 msgid "IDS_SHIP_MASTERY_DEFAULT"
-msgstr "Уровень мастерства"
+msgstr "Mastery Level"
 
 msgid "IDS_SHIP_MASTERY_LEAGUE_TOOLTIP_HEADER"
-msgstr "Уровень мастерства на этом корабле"
+msgstr "Mastery level on this ship"
 
 msgid "IDS_SHIP_MASTERY_LEAGUE_TOOLTIP_POINTS"
-msgstr "Всего заработано %(_points)s ед. чистого опыта."
+msgstr "A total of %(_points)s base experience points earned."
 
 msgid "IDS_SHIP_MASTERY_LEVEL_TASKS_IN_PROGRESS"
-msgstr "Проходит испытания"
+msgstr "Trials in progress"
 
 msgid "IDS_SHIP_MASTERY_LEVEL_TITLE"
 msgstr ""
-"Общее\n"
-"мастерство"
+"Overall\n"
+"Mastery"
 
 msgid "IDS_SHIP_MASTERY_MAX_RANK"
 msgstr "10K+"
 
 msgid "IDS_SHIP_MASTERY_MOUSE_HINT"
-msgstr "Перейти к экрану «Мастерство»"
+msgstr "Go to the 'Mastery' screen"
 
 msgid "IDS_SHIP_MASTERY_SHIPS_COUNT_TITLE"
-msgstr "Корабли со взятыми испытаниями"
+msgstr "Ships with active trials"
 
 msgid "IDS_SHIP_MASTERY_STATUS_1"
-msgstr "Осталось %(_pointsNext)s ед. чистого опыта до следующего уровня"
+msgstr "%(_pointsNext)s base experience points remaining to the next level"
 
 msgid "IDS_SHIP_MASTERY_STATUS_2"
-msgstr "Чтобы перейти на следующий уровень мастерства, нужно пройти испытания"
+msgstr "To advance to the next mastery level, you must complete trials"
 
 msgid "IDS_SHIP_MASTERY_STATUS_3"
-msgstr "Чтобы перейти на следующий уровень мастерства, нужно пройти испытания"
+msgstr "To advance to the next mastery level, you must complete trials"
 
 msgid "IDS_SHIP_MASTERY_STATUS_4"
-msgstr "Поздравляем! Вы достигли максимального уровня мастерства на этом корабле."
+msgstr "Congratulations! You have reached the maximum mastery level on this ship."
 
 msgid "IDS_SHIP_MASTERY_TASKS_AVAILABLE"
-msgstr "Доступны испытания"
+msgstr "Trials available"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_AVAILABLE"
-msgstr "Доступны испытания"
+msgstr "Trials available"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_BUTTON_OPEN"
-msgstr "Взять испытания"
+msgstr "Take Trials"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_COUNTER_TITLE"
-msgstr "Корабли со взятыми испытаниями"
+msgstr "Ships with active trials"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_0"
-msgstr "Сражайтесь на этом корабле и зарабатывайте чистый опыт, чтобы повышать уровень мастерства."
+msgstr "Battle with this ship and earn base experience to increase your mastery level."
 
 msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_1"
-msgstr "<body>Для перехода на <h3>%(_threshold)s-й</h3> уровень нужно будет пройти испытания мастерства.</body>"
+msgstr "<body>To reach Mastery Level <h3>%(_threshold)s</h3>, you will need to complete mastery trials.</body>"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_2"
-msgstr "Зарабатывайте чистый опыт на этом корабле, чтобы получить доступ к испытаниям. Пройдя испытания, вы перейдёте на следующий уровень мастерства."
+msgstr "Earn base experience on this ship to gain access to trials. Once you complete the trials, you will advance to the next mastery level."
 
 msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_3"
-msgstr "Возьмите испытания и пройдите их, чтобы перейти на следующий уровень мастерства."
+msgstr "Take the trials and complete them to advance to the next mastery level."
 
 msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_BUTTON_HINT"
-msgstr "Недостаточно чистого опыта для доступа к испытаниям мастерства"
+msgstr "Not enough base experience to access mastery trials"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE"
-msgstr "Пройдите испытания. Каждое испытание выполняется в одном бою."
+msgstr "Complete the trials. Each trial is completed in a single battle."
 
 msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE_1"
-msgstr "Пройдите любое испытание."
+msgstr "Complete any one trial."
 
 msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE_2"
-msgstr "Пройдите 2 любых испытания."
+msgstr "Complete any 2 trials."
 
 msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE_3"
-msgstr "Пройдите все испытания."
+msgstr "Complete all trials."
 
 msgid "IDS_SHIP_MASTERY_TRIALS_TITLE"
-msgstr "Испытания мастерства"
+msgstr "Mastery Trials"
 
 msgid "IDS_SORT_BY_MASTERY_RANK"
-msgstr "по уровню мастерства"
+msgstr "by mastery level"
 
 msgid "IDS_SOUND_MOD_SOVIET_8_MARCH_2"
-msgstr "Анна Щетинина"
+msgstr "Anna Shchetinina"
 
 msgid "IDS_SOUND_MOD_ZHANGLIAO"
 msgstr "Zhang Liao"
 
 msgid "IDS_SOVIET_8_MARCH_2"
-msgstr "Анна Щетинина"
+msgstr "Anna Shchetinina"
 
 msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS"
-msgstr "Ограничения"
+msgstr "Restrictions"
 
 msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS_DESC"
-msgstr "Боевую задачу можно выполнить только на определённых кораблях."
+msgstr "The battle quest can only be completed on specific ships."
 
 msgid "IDS_STAR_SAVED_DESCRIPTION"
-msgstr "Вы не победили, но заняли 1-е место по опыту в своей команде."
+msgstr "You did not win, but you ranked 1st in experience on your team."
 
 msgid "IDS_SYS_MSG_HINT_LEFT_CLICK_TO_NAVIGATE_TO_SHIP_MASTERY"
-msgstr "Перейти к экрану «Мастерство»"
+msgstr "Go to the 'Mastery' screen"
 
 msgid "IDS_SYS_MSG_MASTERY_RANK_INCREASED"
-msgstr "Уровень мастерства повышен"
+msgstr "Mastery level increased"
 
 msgid "IDS_SYS_MSG_MASTERY_TASKS_AVAILABLE"
-msgstr "Доступны испытания мастерства"
+msgstr "Mastery trials available"
 
 msgid "IDS_SYS_MSG_MASTERY_TASKS_DENIED"
-msgstr "Испытания мастерства сброшены"
+msgstr "Mastery trials have been reset"
 
 msgid "IDS_SYS_MSG_MASTERY_TASK_DONE"
-msgstr "Пройдено испытание мастерства"
+msgstr "Mastery trial completed"
 
 msgid "IDS_SYS_MSG_RECEIVED_SXP"
-msgstr "Получен опыт корабля"
+msgstr "Ship experience received"
 
 msgid "IDS_SYS_MSG_SKIP_BRONZE_LEAGUE"
-msgstr "Вы пропустили Бронзовую лигу"
+msgstr "You have skipped the Bronze League"
 
 msgid "IDS_SYS_MSG_SKIP_SILVER_LEAGUE"
-msgstr "Вы пропустили Серебряную лигу"
+msgstr "You have skipped the Silver League"
 
 msgid "IDS_TOOLTIP_BATTLE_BONUSES"
-msgstr "Награды:"
+msgstr "Rewards:"
 
 msgid "IDS_ZHANGLIAO"
 msgstr "Zhang Liao"

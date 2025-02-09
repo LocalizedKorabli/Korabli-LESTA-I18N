@@ -14,427 +14,427 @@ msgstr ""
 "X-Generator: Poedit 3.5\n"
 
 msgid "IDS_ABUSE_RANKED_RESULTS_REASON"
-msgstr "За совершённые вами нарушения этот бой не будет учтён в прогрессе для получения наград."
+msgstr "Due to your violations, this battle will not count towards your reward progress."
 
 msgid "IDS_ACHIEVEMENT_CONDITION_PCOC012_DESCRIPTION"
-msgstr "Нанесите 25 000 ед. урона кораблям противника, оставаясь необнаруженными"
+msgstr "Deal 25 000 damage to enemy ships while remaining undetected"
 
 msgid "IDS_ARC_EVENT_CHANGE_SIDE_IN_NEXT_SPRINT"
-msgstr "Смена команды будет доступна на следующем этапе. Каждый этап длится неделю."
+msgstr "Switching teams will be available in the next stage. Each stage lasts one week."
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_DESCRIPTION"
-msgstr "Древние царства сошлись в битве за господство над Китаем. Сразитесь на стороне одного из них!"
+msgstr "Ancient kingdoms clashed in a battle for dominion over China. Fight on the side of one of them!"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_0"
-msgstr "Вступить в команду царства У"
+msgstr "Join the Kingdom Wu team"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_1"
-msgstr "Вступить в команду царства Вэй"
+msgstr "Join the Kingdom Wei team"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_2"
-msgstr "Вступить в команду царства Шу"
+msgstr "Join the Kingdom Shu team"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_0"
-msgstr "Царство У"
+msgstr "Kingdom Wu"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_1"
-msgstr "Царство Вэй"
+msgstr "Kingdom Wei"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_2"
-msgstr "Царство Шу"
+msgstr "Kingdom Shu"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_0"
-msgstr "На востоке и юге Китая расположилось царство У, которым правит Сунь Цюань — молодой лидер, считающийся потомком автора «Искусства войны»."
+msgstr "In eastern and southern China lies Kingdom Wu, ruled by Sun Quan – a young leader believed to be a descendant of the author of 'The Art of War'."
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_1"
-msgstr "Основатель северного царства Вэй — военачальник и государственный деятель Цао Цао, фактически правивший империей Хань на её закате."
+msgstr "The founder of northern Kingdom Wei is the military commander and statesman Cao Cao, who effectively ruled the Han Empire in its decline."
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_2"
-msgstr "Лю Бэй, основатель царства Шу на западе Китая, претендует на родство с императорской династией Хань, называя себя законным наследником."
+msgstr "Liu Bei, the founder of Kingdom Shu in western China, claims kinship with the Han imperial dynasty, declaring himself the rightful heir."
 
 msgid "IDS_ARC_EVENT_INTRO_SUBHEADER"
-msgstr "Присоединяйтесь к борьбе полководцев за господство над Древним Китаем!"
+msgstr "Join the battle of commanders for dominion over Ancient China!"
 
 msgid "IDS_ARC_EVENT_MAIN_SCREEN_POINTS_CALL_TO_ACTION"
-msgstr "Выполняйте задачи, чтобы получить награды"
+msgstr "Complete tasks to earn rewards"
 
 msgid "IDS_ARC_EVENT_PORT_BANNER_TOOLTIP_HINT"
-msgstr "К экрану события «Троецарствие: битва при Дункоу»"
+msgstr "Go to the 'Three Kingdoms: Battle of Dongkou' event screen"
 
 msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
-msgstr "Фильтр кораблей, подходящих для участия в Операциях"
+msgstr "Filter ships suitable for Operations"
 
 msgid "IDS_CURRENCY_BRASS_SPEND_DESCRIPTION"
-msgstr "Постоянные камуфляжи для определённых кораблей, а также на пропуск Бронзовой и Серебряной лиг в Ранговых боях."
+msgstr "Permanent camouflages for certain ships, as well as skips for the Bronze and Silver leagues in Ranked Battles."
 
 msgid "IDS_CURRENCY_EVENTUM_4"
-msgstr "Жетоны Троецарствия"
+msgstr "Three Kingdoms Tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
-msgstr "За выполнение задач события «Троецарствие: битва при Дункоу» и дополнительных боевых задач в течение ограниченного времени в обновлении 25.2, а также в Базовом боевом пропуске, в разделе «Ежедневные награды» и из наборов в Адмиралтействе до конца обновления 25.2."
+msgstr "Earn these by completing tasks from the 'Three Kingdoms: Battle of Dongkou' event and additional battle tasks during the limited-time update 25.2, as well as via the Basic Battle Pass in the 'Daily Rewards' section and from bundles in the Armory until the end of update 25.2."
 
 msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
-msgstr "На крейсер VIII уровня Dou Jian и авианосец VIII уровня Xian Deng с тематическими камуфляжами, на элитного командира Zhang Liao, на премиум контейнеры «Достояние династии», а также на другое имущество до конца обновления 25.2."
+msgstr "Spend them on the Tier VIII cruiser Dou Jian and the Tier VIII aircraft carrier Xian Deng with themed camouflages, on the elite commander Zhang Liao, on the premium container 'Dynastic Heritage', and on other items until the end of update 25.2."
 
 msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
-msgstr "Временный ресурс события «Троецарствие: битва при Дункоу». С выходом обновления 25.3 жетоны будут списаны без компенсации."
+msgstr "A temporary resource for the 'Three Kingdoms: Battle of Dongkou' event. With the release of update 25.3, the tokens will be deducted without compensation."
 
 msgid "IDS_ENABLE_FOGHORN"
-msgstr "Корабельные гудки в бою"
+msgstr "Ship horns in battle"
 
 msgid "IDS_GUIDING_TIP_258_HEADER"
-msgstr "Троецарствие: битва при Дункоу"
+msgstr "Three Kingdoms: Battle of Dongkou"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_1_TEXT_1"
-msgstr "В III в. н. э. Китай раскололся на три государства: У, Вэй и Шу. Правитель каждого из них называл себя императором и претендовал на власть над всем Китаем. Этот период вошёл в историю как Троецарствие."
+msgstr "In the 3rd century AD, China split into three states: Wu, Wei, and Shu. The ruler of each proclaimed himself emperor and claimed dominion over all of China. This period went down in history as the Three Kingdoms."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_1_TEXT_2"
-msgstr "На протяжении десятилетий власть правящей династии слабела, в то время как позиции региональных лидеров и военачальников усиливались. В результате борьбы за власть после смерти императора юный наследник престола был вынужден покинуть разорённую столицу. Это означало падение центральной власти."
+msgstr "Over the decades, the power of the ruling dynasty waned while the influence of regional leaders and military commanders grew. As a result of the power struggle following the emperor’s death, the young heir was forced to abandon the ruined capital, marking the collapse of central authority."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_1"
-msgstr "После периода междоусобиц на территории Китая возвысились три лидера, правившие собственными царствами: Цао Цао, Лю Бэй и Сунь Цюань."
+msgstr "After a period of internal strife, three leaders emerged in China, each ruling his own kingdom: Cao Cao, Liu Bei, and Sun Quan."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_2"
-msgstr "Царство У располагалось на востоке и юге Китая, им правил Сунь Цюань — самый молодой из трёх знаменитых лидеров эпохи Троецарствия."
+msgstr "Kingdom Wu was located in eastern and southern China, ruled by Sun Quan – the youngest of the three famed leaders of the Three Kingdoms era."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_3"
-msgstr "Царство Вэй располагалось на севере Китая. Основателем царства был Цао Цао, который получил титул главного министра империи Хань и фактически правил страной при юном императоре, унаследовавшем престол."
+msgstr "Kingdom Wei was located in northern China. Its founder, Cao Cao, was appointed chief minister of the Han Empire and effectively ruled the country under a young emperor."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_4"
-msgstr "Царство Шу располагалось на западе Китая. Лю Бэй, основатель царства, претендовал на родство с императорской династией Хань, называя себя законным наследником."
+msgstr "Kingdom Shu was located in western China. Liu Bei, its founder, claimed kinship with the Han imperial dynasty, declaring himself the rightful heir."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_3_TEXT_1"
-msgstr "В 221 г. Сунь Цюань признал вассальную зависимость от царства Вэй, чтобы обрести союзника в борьбе с Лю Бэем. Когда же противник был разгромлен, Сунь Цюань начал искать способы отозвать вассальную присягу. Отношения между царствами стремительно портились."
+msgstr "In 221 AD, Sun Quan acknowledged vassalage to Kingdom Wei to secure an ally against Liu Bei. However, once the enemy was defeated, he began seeking ways to rescind the vassal oath. Relations between the kingdoms rapidly deteriorated."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_3_TEXT_2"
-msgstr "В октябре 222 г. правитель Вэй приказал своим генералам атаковать Дункоу на реке Янцзы — территорию царства У."
+msgstr "In October 222 AD, the ruler of Wei ordered his generals to attack Dongkou on the Yangtze River – territory of Kingdom Wu."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_1"
-msgstr "Авангардом Вэй командовал Чжан Ляо — ослабевший от болезни, но легендарный полководец. Узнав об этом, Сунь Цюань сказал своим подчинённым: «Даже если Чжан Ляо и болен, это противник, с которым стоит считаться. Действуйте осторожно!»"
+msgstr "Leading the vanguard of Wei was Zhang Liao – a legendary commander weakened by illness. Upon hearing this, Sun Quan told his subordinates, 'Even if Zhang Liao is sick, he is an opponent to be reckoned with. Proceed with caution!'"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_2"
-msgstr "Силы Вэй с лёгкостью прорвали оборону У. Однако прибывшие подкрепления смогли переломить ход сражения, и силы царства Вэй были вынуждены отступить. После отступления состояние Чжан Ляо ухудшилось. Узнав о смерти полководца, император Вэй объявил, что Чжан Ляо героически победил стотысячную армию противника, командуя всего лишь восьмьюстами пехотинцами."
+msgstr "Wei’s forces easily broke through Wu’s defenses. However, arriving reinforcements turned the tide, forcing Wei to retreat. After the withdrawal, Zhang Liao’s condition worsened. Upon hearing of the commander’s death, the Wei emperor declared that Zhang Liao had heroically defeated a hundred‐thousand-strong enemy army while commanding only eight hundred infantry."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_3"
-msgstr "После победы над Вэй в Дункоу Сунь Цюань воспользовался преимуществом, чтобы начать наступательную кампанию. Успех на поле боя вдохновил Сунь Цюаня провозгласить себя императором — он стал последним из трёх правителей, основавших свои династии в период Троецарствия."
+msgstr "After defeating Wei at Dongkou, Sun Quan seized the advantage to launch an offensive campaign. The battlefield success inspired him to proclaim himself emperor – making him the last of the three rulers who founded dynasties during the Three Kingdoms period."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_1"
-msgstr "Закат старой династии"
+msgstr "The Fall of the Old Dynasty"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_2"
-msgstr "Три правителя"
+msgstr "Three Rulers"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_3"
-msgstr "Противостояние царств"
+msgstr "The Clash of Kingdoms"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_4"
-msgstr "Битва при Дункоу"
+msgstr "The Battle of Dongkou"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_HEADER"
-msgstr "Этапы"
+msgstr "Stages"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Событие проходит в 3 этапа по одной неделе."
+msgstr "The event takes place in 3 stages, each lasting one week."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "В начале каждого этапа вы можете выбрать новую команду, чтобы получить другие награды."
+msgstr "At the start of each stage, you can choose a new team to earn different rewards."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_HEADER"
-msgstr "Прогресс"
+msgstr "Progress"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "Чтобы зарабатывать очки прогресса, вам необходимо выполнять задачи."
+msgstr "To earn progress points, you need to complete tasks."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "За достижение каждой отметки на шкале прогресса выдаётся награда."
+msgstr "A reward is granted for reaching each milestone on the progress scale."
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "Событие доступно для кораблей V уровня и выше в Кооперативных, Случайных и Ранговых боях, а также в Операциях."
+msgstr "The event is available for Tier V ships and above in Cooperative, Random, and Ranked Battles, as well as in Operations."
 
 msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Вам предстоит сражаться с другими игроками, получая ранги и продвигаясь по лигам."
+msgstr "You will battle other players, earning ranks and advancing through leagues."
 
 msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "Для перехода в следующую лигу нужно получить 1-й ранг и пройти квалификацию."
+msgstr "To advance to the next league, you must achieve the 1st rank and pass qualification."
 
 msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "Чтобы получать ранги, необходимо зарабатывать звёзды."
+msgstr "To earn ranks, you need to accumulate stars."
 
 msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_4_TEXT_2"
-msgstr "Вы не потеряете звезду, если по итогам боя займёте 1-е место в своей команде по заработанному опыту."
+msgstr "You will not lose a star if you finish first in your team by earned experience."
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "На каждый советский корабль в вашем Порту, от III уровня до суперкораблей, начислена праздничная награда. Чтобы забрать награду с корабля, нужно выйти на нём в бой и заработать 300 ед. чистого опыта или одержать победу."
+msgstr "Each Soviet ship in your Port, from Tier III to Super Ships, is assigned a festive reward. To claim the reward from a ship, you must take it into battle and either earn 300 net experience points or achieve a victory."
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "100 кораблей: +1 за 350 ед. опыта"
+msgstr "100 ships: +1 for 350 XP"
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_2"
-msgstr "200 кораблей: +2 за 400 ед. опыта"
+msgstr "200 ships: +2 for 400 XP"
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_3"
-msgstr "300 кораблей: +3 за 450 ед. опыта"
+msgstr "300 ships: +3 for 450 XP"
 
 msgid "IDS_OTHER_FEATURE_CATEGORY_AUXILIARY_WEAPON"
-msgstr "Вспомогательное вооружение"
+msgstr "Auxiliary Weaponry"
 
 msgid "IDS_PCEE011_SEASONFLAG01_EXTRA_DESCRIPTION"
-msgstr "За получение 14-го ранга во 2-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 14th rank in the 2nd season of old Ranked Battles."
 
 msgid "IDS_PCEE012_SEASONFLAG02_EXTRA_DESCRIPTION"
-msgstr "За получение 1-го ранга в старых Ранговых боях."
+msgstr "For achieving the 1st rank in old Ranked Battles."
 
 msgid "IDS_PCEE013_SEASONFLAG03_EXTRA_DESCRIPTION"
-msgstr "За получение 14-го ранга в 3-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 14th rank in the 3rd season of old Ranked Battles."
 
 msgid "IDS_PCEE015_JOLLY_ROGER_2_DESCRIPTION"
-msgstr "За повторное получение 1-го ранга в старых Ранговых боях."
+msgstr "For re-achieving the 1st rank in old Ranked Battles."
 
 msgid "IDS_PCEE028_SEASONFLAG04_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 4-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 4th season of old Ranked Battles."
 
 msgid "IDS_PCEE048_SEASONFLAG05_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 5-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 5th season of old Ranked Battles."
 
 msgid "IDS_PCEE049_JOLLY_ROGER_3_DESCRIPTION"
-msgstr "За получение 1-го ранга в старых Ранговых боях в четвёртый раз."
+msgstr "For achieving the 1st rank in old Ranked Battles for the fourth time."
 
 msgid "IDS_PCEE075_SEASONFLAG06_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 6-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 6th season of old Ranked Battles."
 
 msgid "IDS_PCEE104_SEASONFLAG07_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 7-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 7th season of old Ranked Battles."
 
 msgid "IDS_PCEE118_JOLLY_ROGER_4_DESCRIPTION"
-msgstr "За получение 1-го ранга в старых Ранговых боях в шестой раз."
+msgstr "For achieving the 1st rank in old Ranked Battles for the sixth time."
 
 msgid "IDS_PCEE168_SEASONFLAG08_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 8-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 8th season of old Ranked Battles."
 
 msgid "IDS_PCEE194_JOLLY_ROGER_5_DESCRIPTION"
-msgstr "За получение 1-го ранга в старых Ранговых боях в седьмой раз."
+msgstr "For achieving the 1st rank in old Ranked Battles for the seventh time."
 
 msgid "IDS_PCEE195_SEASONFLAG09_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 9-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 9th season of old Ranked Battles."
 
 msgid "IDS_PCEE209_JOLLY_ROGER_6_DESCRIPTION"
-msgstr "За получение 1-го ранга в 10-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 1st rank in the 10th season of old Ranked Battles."
 
 msgid "IDS_PCEE210_SEASONFLAG10_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 10-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 10th season of old Ranked Battles."
 
 msgid "IDS_PCEE236_MALTA_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 11-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 11th season of old Ranked Battles."
 
 msgid "IDS_PCEE269_SEASONFLAG12_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 12-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 12th season of old Ranked Battles."
 
 msgid "IDS_PCEE282_SEASONFLAG13_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 13-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 13th season of old Ranked Battles."
 
 msgid "IDS_PCEE313_SEASONFLAG14_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 14-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 14th season of old Ranked Battles."
 
 msgid "IDS_PCEE332_SEASONFLAG15_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 15-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 15th season of old Ranked Battles."
 
 msgid "IDS_PCEE344_SEASONFLAG16_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 16-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 16th season of old Ranked Battles."
 
 msgid "IDS_PCEE353_SEASONFLAG17_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 17-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 17th season of old Ranked Battles."
 
 msgid "IDS_PCEE362_SEASONFLAG18_EXTRA_DESCRIPTION"
-msgstr "За получение 15-го ранга в 18-м сезоне старых Ранговых боёв."
+msgstr "For achieving the 15th rank in the 18th season of old Ranked Battles."
 
 msgid "IDS_PCEE381_RANKEDFLAG_1_EXTRA_DESCRIPTION"
-msgstr "За получение 1-го ранга в Бронзовой лиге в тестовом ранговом сезоне."
+msgstr "For achieving the 1st rank in the Bronze League during the test Ranked season."
 
 msgid "IDS_PCEE396_RANKEDFLAG_2_EXTRA_DESCRIPTION"
-msgstr "За получение 1-го ранга в Бронзовой лиге во 2-м сезоне Ранговых боёв."
+msgstr "For achieving the 1st rank in the Bronze League in the 2nd season of Ranked Battles."
 
 msgid "IDS_PCEE421_RANKEDFLAG_3_EXTRA_DESCRIPTION"
-msgstr "За получение 1-го ранга в Бронзовой лиге в 3-м сезоне Ранговых боёв."
+msgstr "For achieving the 1st rank in the Bronze League in the 3rd season of Ranked Battles."
 
 msgid "IDS_PCEE434_RANKEDFLAG_4_EXTRA_DESCRIPTION"
-msgstr "За получение 1-го ранга в Бронзовой лиге в 4-м сезоне Ранговых боёв."
+msgstr "For achieving the 1st rank in the Bronze League in the 4th season of Ranked Battles."
 
 msgid "IDS_PCEE471_RANKEDFLAG_5_EXTRA_DESCRIPTION"
-msgstr "За получение 1-го ранга в Бронзовой лиге в 5-м сезоне Ранговых боёв."
+msgstr "For achieving the 1st rank in the Bronze League in the 5th season of Ranked Battles."
 
 msgid "IDS_PCEE498_RANKEDFLAG_6_EXTRA_DESCRIPTION"
-msgstr "За получение 1-го ранга в Бронзовой лиге в 6-м сезоне Ранговых боёв."
+msgstr "For achieving the 1st rank in the Bronze League in the 6th season of Ranked Battles."
 
 msgid "IDS_PCEE528_RANKEDFLAG_7_EXTRA_DESCRIPTION"
-msgstr "За получение 1-го ранга в Бронзовой лиге в 7-м сезоне Ранговых боёв."
+msgstr "For achieving the 1st rank in the Bronze League in the 7th season of Ranked Battles."
 
 msgid "IDS_PCEE716_BLYSKAWICA_1963_FLAG"
-msgstr "Błyskawica '63"
+msgstr "Błyskawica '63"
 
 msgid "IDS_PCZC939_UTOPIA_1_1_DESCRIPTION"
 msgstr ""
-"В 1932 г., в разгар Великой депрессии, владельцы магазинов в городе Меса (штат Аризона) переживали непростые времена. Приближался ежегодный рождественский парад, и предприниматели искали способ привлечь посетителей на него, и, следовательно, к магазинам на его маршруте.\n"
+"In 1932, amid the Great Depression, store owners in Mesa, Arizona, faced hard times. With the annual Christmas parade approaching, local entrepreneurs sought a way to draw visitors to the event—and consequently, to the stores along its route.\n"
 "\n"
-"Редактор местной газеты Джон Макфи предложил интересную идею: нанять парашютиста, чтобы он в костюме Санта-Клауса спрыгнул из самолёта и приземлился в поле за городом, после чего полиция должна была отвезти его к параду, где он раздал бы подарки.\n"
+"John McAfee, an editor at a local newspaper, proposed an unusual idea: hire a parachutist dressed as Santa Claus to jump from an airplane and land in a field outside town, after which the police would escort him to the parade to distribute gifts.\n"
 "\n"
-"План столкнулся с первым препятствием, когда нанятый парашютист в день парада оказался не в состоянии совершить прыжок. Однако изобретательный Макфи не растерялся: он позаимствовал манекен из одного из магазинов, нарядил его в костюм Санты и посадил в самолёт вместо парашютиста. Поскольку Санта должен был приземлиться за городом, Макфи полагал, что издалека никто не заметит подмены. Когда самолёт набрал достаточную высоту, манекен в костюме Санты вытолкнули наружу, дёрнув кольцо парашюта. В этот ответственный момент парашют не раскрылся, и Санта камнем упал на землю на глазах у собравшихся детей.\n"
+"The plan hit its first snag when the hired parachutist was unable to jump on the day of the parade. Undeterred, the resourceful McAfee borrowed a mannequin from one of the stores, dressed it in a Santa costume, and placed it on the airplane instead. Believing that no one would notice the substitution from afar since Santa was meant to land outside town, McAfee proceeded. When the airplane reached sufficient altitude, the mannequin was pushed out by pulling the parachute cord. At that critical moment, the parachute failed to deploy, and 'Santa' crashed to the ground like a stone before the eyes of gathered children.\n"
 "\n"
-"Макфи снова попытался спасти праздник: он сам надел костюм Санта-Клауса и вышел к детям, чтобы успокоить их. Однако дети были безутешны: они были уверены, что Санта только что разбился насмерть. Макфи даже уехал из города на несколько дней, надеясь, что со временем всё утрясётся. Но ситуация не была забыта, и с тех пор Джон Макфи был известен как «человек, который убил Санта-Клауса»."
+"McAfee then attempted to salvage the holiday by donning a Santa costume himself and approaching the children to calm them down. However, the children were inconsolable, convinced that Santa had just perished in a crash. McAfee even left town for several days, hoping that time would mend the situation. Nevertheless, the incident was not forgotten, and henceforth John McAfee became known as 'the man who killed Santa Claus.'"
 
 msgid "IDS_PCZC946_UTOPIA_2_4_DESCRIPTION"
 msgstr ""
-"Стаббс — кот, почётный мэр поселения Талкитна (штат Аляска) в США в 1997–2017 гг.\n"
+"Stabbes – a cat who served as the honorary mayor of Talkeetna, Alaska, from 1997 to 2017.\n"
 "\n"
-"В 1997 г. Лори Стек, управляющая магазином «Нэглиз», обнаружила на парковке коробку с котятами. Стек выбрала Стаббса, потому что у него не было хвоста. Котёнок поселился в магазине, и вскоре о нём узнали многие жители этого маленького города.\n"
+"In 1997, Lori Stack, the manager of the 'Naglis' store, discovered a box of kittens in the parking lot. She chose Stabbes because he had no tail. The kitten soon settled into the store, and word of him spread throughout the small town.\n"
 "\n"
-"Легенда гласит, что Стаббс стал мэром после того, как ряд избирателей вписали его имя в бюллетени на выборах. Скептики ставят эту версию под сомнение: Талкитна, будучи маленьким поселением, официально не имеет позиции мэра. Магазин «Нэглиз» служил коту офисом на протяжении всего срока на посту мэра. Каждый день Стаббс ходил в соседний ресторан, где пил воду с кошачьей мятой из винного бокала."
+"Legend has it that Stabbes became mayor after some voters wrote his name on the ballots during an election. Skeptics dispute this version, noting that Talkeetna, being a small settlement, does not officially have a mayor. The 'Naglis' store served as the cat’s office throughout his term. Every day, Stabbes would visit a nearby restaurant where he sipped water with catnip from a wine glass."
 
 msgid "IDS_PGSC529_DESCR"
 msgstr ""
-"В результате осмысления опыта Первой мировой войны в Германии в конце 1920-х гг. появилась концепция крупного надводного рейдера. Было разработано несколько проектов такого корабля, в которых учитывалось желание Великобритании ограничить на будущих военно-морских конференциях вооружение линейных кораблей калибром 305 мм.\n"
+"In the late 1920s, as Germany reflected on its experiences during World War I, the concept of a large surface raider emerged. Several designs were developed for such a ship, taking into account Britain’s desire at future naval conferences to limit battleship armament to a 305mm caliber.\n"
 "\n"
-"Стандартное водоизмещение корабля составляло, по разным проектам, от 17 500 до 25 000 т, а вооружение было представлено восемью 305-мм орудиями в четырёх башнях и сильной вспомогательной 150-мм артиллерией. Бронирование и противоторпедная защита предполагались слишком лёгкими, чтобы такой корабль можно было классифицировать как линкор."
+"Depending on the design, the ship’s standard displacement ranged from 17,500 to 25,000 tons, and its armament typically consisted of eight 305mm guns in four turrets along with a robust secondary battery of 150mm guns. The armor and anti-torpedo protection were considered too light for the vessel to be classified as a true battleship."
 
 msgid "IDS_PL_RANK_REWARDS_VICTORIES_NEXT"
 msgid_plural "IDS_PL_RANK_REWARDS_VICTORIES_NEXT"
-msgstr[0] "До следующей награды: %(_victoriesCount)s победа"
-msgstr[1] ""
+msgstr[0] "Until the next reward: %(_victoriesCount)s win"
+msgstr[1] "Until the next reward: %(_victoriesCount)s wins"
 
 msgid "IDS_PROFILE_RANK_INSTRUCTION_1"
 msgstr ""
-"Ранговые бои\n"
-"Ранги, полученные вами на момент окончания сезона, будут учтены в начале следующего сезона в виде звёзд. Награды за ранги, полученные по результатам предыдущего сезона, будут начислены после первого боя в текущем сезоне."
+"Ranked Battles\n"
+"The ranks you achieved at the end of the season will carry over as stars at the start of the next season. Rewards for the ranks attained in the previous season will be granted after your first battle in the current season."
 
 msgid "IDS_PROFILE_RANK_INSTRUCTION_2"
 msgstr ""
-"Ранговые спринты\n"
-"Ранги, полученные вами на момент окончания сезона, не учитываются в следующем сезоне."
+"Ranked Sprints\n"
+"The ranks you achieved at the end of the season do not carry over to the next season."
 
 msgid "IDS_PWSB509_DESCR"
-msgstr "Согласно Версальскому договору, во флоте Германии не должны были состоять корабли водоизмещением более 10 000 т. Однако после Первой мировой войны у Германии осталось несколько сотен недостроенных кораблей, и часть из них была достроена и продана за рубеж. Швеция, которая была заинтересована в усилении своего флота, могла рассматривать приобретение и достройку немецкого линейного корабля."
+msgstr "According to the Treaty of Versailles, the German navy was prohibited from including ships with a displacement of more than 10,000 tons. However, after World War I, Germany was left with several hundred incomplete ships, some of which were finished and sold abroad. Sweden, keen to strengthen its fleet, even considered acquiring and completing one of these German battleships."
 
 msgid "IDS_PZSA518_DESCR"
-msgstr "Сяньндэн — вид «штурмовых» кораблей, предназначенных для ближнего боя и появившихся в период Троецарствия. В Древнем Китае бои между кораблями чаще всего были речными и проходили на близкой дистанции. Именно поэтому особую роль играли корабли, способные наносить таранные удары, обстреливать противника с близкого расстояния и брать на абордаж."
+msgstr "Xian Deng is a type of 'assault' ship designed for close combat that emerged during the Three Kingdoms period. In Ancient China, naval engagements were predominantly fought on rivers at close range, which made ships capable of ramming, shelling at close quarters, and boarding particularly valuable."
 
 msgid "IDS_PZSC528_DESCR"
-msgstr "Доуцзянь — вид военных кораблей, который появился в Китае в II–III вв. н. э. и представлял собой быстроходную боевую единицу флота. В переводе с китайского название означает буквально «боевой корабль». Он занимал во флотах эпохи Троецарствия важную роль, прикрывая главные силы."
+msgstr "Dou Jian is a type of warship that appeared in China during the 2nd–3rd centuries AD, serving as a fast combat unit in the fleet. Its name literally means 'combat ship' in Chinese. During the Three Kingdoms era, it played an important role in covering the main forces."
 
 msgid "IDS_RANKED_BATTLE_STAR_LOSS_PLACE_CONDITION"
-msgstr "Если вы по итогам боя займёте 1-е место по заработанному опыту, вы не потеряете звезду."
+msgstr "If you finish first in earned experience in the battle, you will not lose a star."
 
 msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_1"
-msgstr "Вы перешли в Золотую лигу."
+msgstr "You have advanced to the Gold League."
 
 msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_2"
-msgstr "Вы перешли в Серебряную лигу."
+msgstr "You have advanced to the Silver League."
 
 msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_3"
-msgstr "Вы перешли в Бронзовую лигу."
+msgstr "You have advanced to the Bronze League."
 
 msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_SPRINT_STARTED_1"
-msgstr "Вы начали новый спринт в Золотой лиге."
+msgstr "You have started a new sprint in the Gold League."
 
 msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_SPRINT_STARTED_2"
-msgstr "Вы начали новый спринт в Серебряной лиге."
+msgstr "You have started a new sprint in the Silver League."
 
 msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_SPRINT_STARTED_3"
-msgstr "Вы начали новый спринт в Бронзовой лиге."
+msgstr "You have started a new sprint in the Bronze League."
 
 msgid "IDS_RANKED_QUALIFICATION_DESC"
-msgstr "Пройдите квалификацию, чтобы перейти в следующую лигу."
+msgstr "Complete the qualification to advance to the next league."
 
 msgid "IDS_RANKED_QUALIFICATION_NEXT_LEAGUE_1"
-msgstr "Пройдите квалификацию, чтобы перейти в Золотую лигу."
+msgstr "Complete the qualification to advance to the Gold League."
 
 msgid "IDS_RANKED_QUALIFICATION_NEXT_LEAGUE_2"
-msgstr "Пройдите квалификацию, чтобы перейти в Серебряную лигу."
+msgstr "Complete the qualification to advance to the Silver League."
 
 msgid "IDS_RANKED_QUALIFICATION_STATUS_DEFAULT"
-msgstr "Доступна"
+msgstr "Available"
 
 msgid "IDS_RANKED_QUALIFICATION_STATUS_LOCK"
-msgstr "Недоступна"
+msgstr "Unavailable"
 
 msgid "IDS_RANKED_REWARDS_TITLE"
-msgstr "Награды"
+msgstr "Rewards"
 
 msgid "IDS_RANKED_REWARDS_TOOLTIP_DESC"
 msgstr ""
-"Если вы не успели пройти квалификацию до завершения спринта, вы вернётесь на начальный ранг лиги и сможете получить все награды заново.\n"
+"If you fail to complete qualification before the sprint ends, you will revert to the starting rank of the league and can earn all rewards again.\n"
 "\n"
-"Если в бою вы продемонстрируете неспортивное поведение, победа не будет учтена в прогрессе для получения наград."
+"If you demonstrate unsportsmanlike conduct during battle, the victory will not count towards reward progress."
 
 msgid "IDS_RANKED_STAR_CONDITION_REGULAR"
-msgstr "Вы получаете одну звезду за каждую победу и теряете за каждое поражение или ничью"
+msgstr "You earn one star for each victory and lose one for each defeat or draw"
 
 msgid "IDS_RANK_BATTLES_FIRST_RANK_REACHED"
-msgstr "Вы получили 1-й ранг в текущей лиге. Возвращайтесь в Ранговые бои в следующем спринте."
+msgstr "You have achieved the 1st rank in the current league. Return to Ranked Battles in the next sprint."
 
 msgid "IDS_RANK_BATTLES_FIRST_RANK_REACHED_IN_DIVISION"
-msgstr "Участники вашего отряда получили высший ранг в текущем сезоне. Возвращайтесь в Ранговые бои в следующем сезоне."
+msgstr "Members of your squad have achieved the highest rank this season. Return to Ranked Battles in the next season."
 
 msgid "IDS_RANK_BATTLES_LAST_FIRST_RANK_REACHED"
-msgstr "Вы получили высший ранг в текущем сезоне. Возвращайтесь в Ранговые бои в следующем сезоне."
+msgstr "You have achieved the highest rank in the current season. Return to Ranked Battles in the next season."
 
 msgid "IDS_RANK_BATTLES_LAST_QUALIFICATION_COMPLETED"
-msgstr "Вы получили 1-й ранг в текущем сезоне и прошли квалификацию. Возвращайтесь в Ранговые бои в следующем сезоне."
+msgstr "You have achieved the 1st rank in the current season and passed qualification. Return to Ranked Battles in the next season."
 
 msgid "IDS_RANK_IN_LEAGUE_1"
-msgstr "%(_rankId)s-й ранг Золотой лиги"
+msgstr "%(_rankId)s rank in the Gold League"
 
 msgid "IDS_RANK_IN_LEAGUE_2"
-msgstr "%(_rankId)s-й ранг Серебряной лиги"
+msgstr "%(_rankId)s rank in the Silver League"
 
 msgid "IDS_RANK_IN_LEAGUE_3"
-msgstr "%(_rankId)s-й ранг Бронзовой лиги"
+msgstr "%(_rankId)s rank in the Bronze League"
 
 msgid "IDS_RANK_IN_LEAGUE_STATUS_LOCK"
-msgstr "Не получен"
+msgstr "Not achieved"
 
 msgid "IDS_RANK_REACHED_FIRST"
-msgstr "Поздравляем! Вы получили 1-й ранг текущей лиги. Чтобы перейти в следующую лигу, пройдите квалификацию."
+msgstr "Congratulations! You have achieved the 1st rank in the current league. To advance to the next league, complete the qualification."
 
 msgid "IDS_RANK_REACHED_TOP"
-msgstr "Поздравляем! Вы получили высший ранг."
+msgstr "Congratulations! You have achieved the highest rank."
 
 msgid "IDS_RANK_REWARDS_TOP_RANK"
-msgstr "Награда за получение 1-го ранга"
+msgstr "Reward for achieving the 1st rank"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
-msgstr "Жетоны Троецарствия"
+msgstr "Three Kingdoms Tokens"
 
 msgid "IDS_REWARD_FOR_RANK"
-msgstr "Награда за получение ранга"
+msgstr "Reward for achieving a rank"
 
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Премиум корабль"
+msgstr "Premium Ship"
 
 msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Корабль"
+msgstr "Ship"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
-msgstr "Жетоны Троецарствия куплены"
+msgstr "Three Kingdoms Tokens purchased"
 
 msgid "IDS_SYS_MSG_CHECK_ALL_ITEMS"
-msgstr "Посмотреть все награды"
+msgstr "View all rewards"
 
 msgid "IDS_SYS_MSG_NEWBIE_QUEST_REWARDED"
-msgstr "Вводная задача выполнена"
+msgstr "Introductory quest completed"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
-msgstr "Получены жетоны Троецарствия"
+msgstr "Three Kingdoms Tokens received"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
-msgstr "Списаны жетоны Троецарствия"
+msgstr "Three Kingdoms Tokens deducted"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_1"
-msgstr "Другое дело! Ещё немного — и с экрана нам споют. Телевизор есть, а вот тумба какая-то непраздничная... Думаю, мандарины исправят положение."
+msgstr "Now that's more like it! Just a little more—and we'll have a TV show. We have a television, but the stand is a bit unfestive... I think some tangerines will set things right."
 
 msgid "IDS_YOUR_RANK_IN_LEAGUE_1"
-msgstr "%(_rankId)s-й ранг Золотой лиги"
+msgstr "%(_rankId)s rank in the Gold League"
 
 msgid "IDS_YOUR_RANK_IN_LEAGUE_2"
-msgstr "%(_rankId)s-й ранг Серебряной лиги"
+msgstr "%(_rankId)s rank in the Silver League"
 
 msgid "IDS_YOUR_RANK_IN_LEAGUE_3"
-msgstr "%(_rankId)s-й ранг Бронзовой лиги"
+msgstr "%(_rankId)s rank in the Bronze League"
