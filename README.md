@@ -22,7 +22,7 @@ Looking for 简体中文 Localization? Check [Korabli-LESTA-L10N](https://github
 
 I18n Installer: Download the executable attached to the [latest release](https://github.com/LocalizedKorabli/I18nInstallerGUI/releases/latest).
 
-I18n Package: Extract the `global.mo` file from the downloaded archive in the [latest release](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/releases/latest).
+I18n Package (if the installer's download does not work): Extract the `global.mo` file from the downloaded archive in the [latest release](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N/releases/latest).
 
 ### Installation (Pick one out of two below)
 
