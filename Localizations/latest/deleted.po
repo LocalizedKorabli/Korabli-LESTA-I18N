@@ -1,0 +1,153 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_4_HEADER"
+msgstr "Задачи"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "Для получения наград нужно выполнять задачи, которые постепенно выдаются всем участникам события. Задачи обновляются каждые 2 часа."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_4_TEXT_2"
+msgstr "Если результаты не были засчитаны в конце боя, то они будут учтены в задаче следующего двухчасового периода."
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_4"
+msgstr "300 кораблей: +4 за 600 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_5"
+msgstr "400 кораблей: +5 за 700 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_6"
+msgstr "500 кораблей: +6 за 800 ед. опыта"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_7"
+msgstr "600 кораблей: +7 за 1 000 ед. опыта"
+
+msgid "IDS_NEWBIE_QUESTS_10_DESCRIPTION"
+msgstr "Боевые задачи представляют собой набор определённых целей, которых необходимо достичь в бою. В зависимости от конкретной боевой задачи вам могут понадобиться корабли разных классов, уровней и наций."
+
+msgid "IDS_NEWBIE_QUESTS_10_NAME"
+msgstr "Выполните 3 боевые задачи"
+
+msgid "IDS_NEWBIE_QUESTS_11_DESCRIPTION"
+msgstr "Модернизации позволяют развить сильные стороны корабля и скорректировать слабые."
+
+msgid "IDS_NEWBIE_QUESTS_11_NAME"
+msgstr "Установите модернизацию на корабль"
+
+msgid "IDS_NEWBIE_QUESTS_12_DESCRIPTION"
+msgstr "Кампании — это цепочки из миссий и заданий, объединённых определённой тематикой. Проходя кампании, вы сможете получить множество наград."
+
+msgid "IDS_NEWBIE_QUESTS_12_NAME"
+msgstr "Выполните 3 задания в любых кампаниях"
+
+msgid "IDS_NEWBIE_QUESTS_13_DESCRIPTION"
+msgstr "Адмиралтейство — это магазин игровых товаров в «Мире кораблей». Здесь вы можете приобрести премиум корабли и другое имущество, а также принять участие в различных событиях. Во вкладке «Рекомендованное» часто можно найти бесплатные наборы!"
+
+msgid "IDS_NEWBIE_QUESTS_13_NAME"
+msgstr "Получите любое имущество в Адмиралтействе"
+
+msgid "IDS_NEWBIE_QUESTS_14_DESCRIPTION"
+msgstr "Операции — это тип боя, в котором вам предстоит выполнять сюжетные задания вместе с другими игроками, сражаясь против ботов. Каждая операция обладает уникальными сюжетными элементами."
+
+msgid "IDS_NEWBIE_QUESTS_14_NAME"
+msgstr "Победите в Операциях"
+
+msgid "IDS_NEWBIE_QUESTS_15_DESCRIPTION"
+msgstr "По мере прогресса у вас будет накапливаться имущество, которое вы не используете. Продайте ненужное имущество, чтобы получить кредиты."
+
+msgid "IDS_NEWBIE_QUESTS_15_NAME"
+msgstr "Продайте имущество на 50 000 кредитов"
+
+msgid "IDS_NEWBIE_QUESTS_16_DESCRIPTION"
+msgstr "В Ранговых боях вам предстоит побороться за ценные награды, продвигаясь по рангам и лигам. Правила могут меняться от сезона к сезону."
+
+msgid "IDS_NEWBIE_QUESTS_16_NAME"
+msgstr "Победите в Ранговом бою"
+
+msgid "IDS_NEWBIE_QUESTS_17_DESCRIPTION"
+msgstr "Участники кланов могут сражаться в Клановых боях, а также строить и улучшать клановую базу, чтобы получать дополнительные ресурсы и скидки. Вы можете вступить в клан или создать свой."
+
+msgid "IDS_NEWBIE_QUESTS_17_NAME"
+msgstr "Вступите в клан"
+
+msgid "IDS_NEWBIE_QUESTS_2_DESCRIPTION"
+msgstr ""
+"Исследуйте и купите корабль II уровня, затем выйдите на нём в бой. Для исследования вам понадобится опыт предыдущего корабля в ветке,\n"
+"а для покупки — кредиты."
+
+msgid "IDS_NEWBIE_QUESTS_2_NAME"
+msgstr "Выйдите в бой на корабле II уровня"
+
+msgid "IDS_NEWBIE_QUESTS_3_DESCRIPTION"
+msgstr "Пришло время сразиться с другими игроками! Случайный бой — серьёзный вызов, но в нём можно заработать больше опыта и кредитов, чем в Кооперативном."
+
+msgid "IDS_NEWBIE_QUESTS_3_NAME"
+msgstr "Победите в Случайном бою"
+
+msgid "IDS_NEWBIE_QUESTS_4_DESCRIPTION"
+msgstr "С помощью камуфляжей вы можете изменять внешний вид ваших кораблей. Камуфляжи можно купить за кредиты или дублоны, а также получить за участие в различных событиях."
+
+msgid "IDS_NEWBIE_QUESTS_4_NAME"
+msgstr "Установите камуфляж на свой корабль"
+
+msgid "IDS_NEWBIE_QUESTS_5_DESCRIPTION"
+msgstr "С помощью сигналов можно повысить живучесть корабля, эффективность вооружения и снаряжения, а также увеличить максимальную скорость корабля."
+
+msgid "IDS_NEWBIE_QUESTS_5_NAME"
+msgstr "Установите 3 сигнала на корабль"
+
+msgid "IDS_NEWBIE_QUESTS_6_DESCRIPTION"
+msgstr "Свободный опыт можно использовать тогда, когда вам не хватает опыта корабля или командира. Он начисляется за каждый бой в размере 10% от полученного опыта корабля."
+
+msgid "IDS_NEWBIE_QUESTS_6_NAME"
+msgstr "Исследуйте корабль или модуль за свободный опыт"
+
+msgid "IDS_NEWBIE_QUESTS_7_DESCRIPTION"
+msgstr "С помощью экономических бонусов вы сможете получать больше кредитов и опыта за бой."
+
+msgid "IDS_NEWBIE_QUESTS_7_NAME"
+msgstr "Установите 3 экономических бонуса на корабль"
+
+msgid "IDS_NEWBIE_QUESTS_8_DESCRIPTION"
+msgstr "Открывая контейнеры, вы можете получить самое разнообразное имущество: камуфляжи, сигналы, экономические бонусы, различные ресурсы и даже корабли!"
+
+msgid "IDS_NEWBIE_QUESTS_8_NAME"
+msgstr "Откройте 3 контейнера"
+
+msgid "IDS_NEWBIE_QUESTS_9_DESCRIPTION"
+msgstr "Навыки командира позволяют получить преимущества и новые возможности в бою. Для изучения новых навыков вам понадобятся очки навыков, которые можно получить, зарабатывая опыт командира в бою."
+
+msgid "IDS_NEWBIE_QUESTS_9_NAME"
+msgstr "Изучите навык командира"
+
+msgid "IDS_NEWBIE_QUESTS_ICON_HINT"
+msgstr "Вводная задача, которую можно выполнить независимо от других задач"
+
+msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_SEAMLESS_1"
+msgstr "Вы перешли в Золотую лигу"
+
+msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_SEAMLESS_2"
+msgstr "Вы перешли в Серебряную лигу"
+
+msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_SEAMLESS_3"
+msgstr "Вы перешли в Бронзовую лигу"
+
+msgid "IDS_RANKED_QUALIFICATION_NEXT_LEAGUE_SEAMLESS_1"
+msgstr "Пройдя квалификацию, вы перейдёте в Золотую лигу"
+
+msgid "IDS_RANKED_QUALIFICATION_NEXT_LEAGUE_SEAMLESS_2"
+msgstr "Пройдя квалификацию, вы перейдёте в Серебряную лигу"
+
+msgid "IDS_RANKED_QUALIFICATION_SEAMLESS_DESC"
+msgstr "Пройдите квалификацию, чтобы перейти в следующую лигу."
