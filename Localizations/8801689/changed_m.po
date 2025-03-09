@@ -1,0 +1,440 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ABUSE_RANKED_RESULTS_REASON"
+msgstr "Due to your violations, this battle will not count towards your reward progress."
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC012_DESCRIPTION"
+msgstr "Deal 25 000 damage to enemy ships while remaining undetected"
+
+msgid "IDS_ARC_EVENT_CHANGE_SIDE_IN_NEXT_SPRINT"
+msgstr "Switching teams will be available in the next stage. Each stage lasts one week."
+
+msgid "IDS_ARC_EVENT_CHOOSE_SIDE_DESCRIPTION"
+msgstr "Ancient kingdoms clashed in a battle for dominion over China. Fight on the side of one of them!"
+
+msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_0"
+msgstr "Join the Kingdom Wu team"
+
+msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_1"
+msgstr "Join the Kingdom Wei team"
+
+msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_2"
+msgstr "Join the Kingdom Shu team"
+
+msgid "IDS_ARC_EVENT_COMMON_SIDE_0"
+msgstr "Kingdom Wu"
+
+msgid "IDS_ARC_EVENT_COMMON_SIDE_1"
+msgstr "Kingdom Wei"
+
+msgid "IDS_ARC_EVENT_COMMON_SIDE_2"
+msgstr "Kingdom Shu"
+
+msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_0"
+msgstr "In eastern and southern China lies Kingdom Wu, ruled by Sun Quan – a young leader believed to be a descendant of the author of 'The Art of War'."
+
+msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_1"
+msgstr "The founder of northern Kingdom Wei is the military commander and statesman Cao Cao, who effectively ruled the Han Empire in its decline."
+
+msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_2"
+msgstr "Liu Bei, the founder of Kingdom Shu in western China, claims kinship with the Han imperial dynasty, declaring himself the rightful heir."
+
+msgid "IDS_ARC_EVENT_INTRO_SUBHEADER"
+msgstr "Join the battle of commanders for dominion over Ancient China!"
+
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_POINTS_CALL_TO_ACTION"
+msgstr "Complete tasks to earn rewards"
+
+msgid "IDS_ARC_EVENT_PORT_BANNER_TOOLTIP_HINT"
+msgstr "Go to the 'Three Kingdoms: Battle of Dongkou' event screen"
+
+msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
+msgstr "Filter ships suitable for Operations"
+
+msgid "IDS_CURRENCY_BRASS_SPEND_DESCRIPTION"
+msgstr "Permanent camouflages for certain ships, as well as skips for the Bronze and Silver leagues in Ranked Battles."
+
+msgid "IDS_CURRENCY_EVENTUM_4"
+msgstr "Three Kingdoms Tokens"
+
+msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
+msgstr "Earn these by completing tasks from the 'Three Kingdoms: Battle of Dongkou' event and additional battle tasks during the limited-time update 25.2, as well as via the Basic Battle Pass in the 'Daily Rewards' section and from bundles in the Armory until the end of update 25.2."
+
+msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
+msgstr "Spend them on the Tier VIII cruiser Dou Jian and the Tier VIII aircraft carrier Xian Deng with themed camouflages, on the elite commander Zhang Liao, on the premium container 'Dynastic Heritage', and on other items until the end of update 25.2."
+
+msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
+msgstr "A temporary resource for the 'Three Kingdoms: Battle of Dongkou' event. With the release of update 25.3, the tokens will be deducted without compensation."
+
+msgid "IDS_ENABLE_FOGHORN"
+msgstr "Ship horns in battle"
+
+msgid "IDS_GUIDING_TIP_258_HEADER"
+msgstr "Three Kingdoms: Battle of Dongkou"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_1_TEXT_1"
+msgstr "In the 3rd century AD, China split into three states: Wu, Wei, and Shu. The ruler of each proclaimed himself emperor and claimed dominion over all of China. This period went down in history as the Three Kingdoms."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_1_TEXT_2"
+msgstr "Over the decades, the power of the ruling dynasty waned while the influence of regional leaders and military commanders grew. As a result of the power struggle following the emperor’s death, the young heir was forced to abandon the ruined capital, marking the collapse of central authority."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_1"
+msgstr "After a period of internal strife, three leaders emerged in China, each ruling his own kingdom: Cao Cao, Liu Bei, and Sun Quan."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_2"
+msgstr "Kingdom Wu was located in eastern and southern China, ruled by Sun Quan – the youngest of the three famed leaders of the Three Kingdoms era."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_3"
+msgstr "Kingdom Wei was located in northern China. Its founder, Cao Cao, was appointed chief minister of the Han Empire and effectively ruled the country under a young emperor."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_2_TEXT_4"
+msgstr "Kingdom Shu was located in western China. Liu Bei, its founder, claimed kinship with the Han imperial dynasty, declaring himself the rightful heir."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_3_TEXT_1"
+msgstr "In 221 AD, Sun Quan acknowledged vassalage to Kingdom Wei to secure an ally against Liu Bei. However, once the enemy was defeated, he began seeking ways to rescind the vassal oath. Relations between the kingdoms rapidly deteriorated."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_3_TEXT_2"
+msgstr "In October 222 AD, the ruler of Wei ordered his generals to attack Dongkou on the Yangtze River – territory of Kingdom Wu."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_1"
+msgstr "Leading the vanguard of Wei was Zhang Liao – a legendary commander weakened by illness. Upon hearing this, Sun Quan told his subordinates, 'Even if Zhang Liao is sick, he is an opponent to be reckoned with. Proceed with caution!'"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_2"
+msgstr "Wei’s forces easily broke through Wu’s defenses. However, arriving reinforcements turned the tide, forcing Wei to retreat. After the withdrawal, Zhang Liao’s condition worsened. Upon hearing of the commander’s death, the Wei emperor declared that Zhang Liao had heroically defeated a hundred‐thousand-strong enemy army while commanding only eight hundred infantry."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_4_TEXT_3"
+msgstr "After defeating Wei at Dongkou, Sun Quan seized the advantage to launch an offensive campaign. The battlefield success inspired him to proclaim himself emperor – making him the last of the three rulers who founded dynasties during the Three Kingdoms period."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_1"
+msgstr "The Fall of the Old Dynasty"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_2"
+msgstr "Three Rulers"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_3"
+msgstr "The Clash of Kingdoms"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_SUBHEADER_4"
+msgstr "The Battle of Dongkou"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_HEADER"
+msgstr "Stages"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "The event takes place in 3 stages, each lasting one week."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "At the start of each stage, you can choose a new team to earn different rewards."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_HEADER"
+msgstr "Progress"
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "To earn progress points, you need to complete tasks."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "A reward is granted for reaching each milestone on the progress scale."
+
+msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "The event is available for Tier V ships and above in Cooperative, Random, and Ranked Battles, as well as in Operations."
+
+msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "You will battle other players, earning ranks and advancing through leagues."
+
+msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "To advance to the next league, you must achieve the 1st rank and pass qualification."
+
+msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "To earn ranks, you need to accumulate stars."
+
+msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_PARAGRAPH_4_TEXT_2"
+msgstr "You will not lose a star if you finish first in your team by earned experience."
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Each Soviet ship in your Port, from Tier III to Super Ships, is assigned a festive reward. To claim the reward from a ship, you must take it into battle and either earn 300 net experience points or achieve a victory."
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "100 ships: +1 for 350 XP"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "200 ships: +2 for 400 XP"
+
+msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_3"
+msgstr "300 ships: +3 for 450 XP"
+
+msgid "IDS_OTHER_FEATURE_CATEGORY_AUXILIARY_WEAPON"
+msgstr "Auxiliary Weaponry"
+
+msgid "IDS_PCEE011_SEASONFLAG01_EXTRA_DESCRIPTION"
+msgstr "For achieving the 14th rank in the 2nd season of old Ranked Battles."
+
+msgid "IDS_PCEE012_SEASONFLAG02_EXTRA_DESCRIPTION"
+msgstr "For achieving the 1st rank in old Ranked Battles."
+
+msgid "IDS_PCEE013_SEASONFLAG03_EXTRA_DESCRIPTION"
+msgstr "For achieving the 14th rank in the 3rd season of old Ranked Battles."
+
+msgid "IDS_PCEE015_JOLLY_ROGER_2_DESCRIPTION"
+msgstr "For re-achieving the 1st rank in old Ranked Battles."
+
+msgid "IDS_PCEE028_SEASONFLAG04_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 4th season of old Ranked Battles."
+
+msgid "IDS_PCEE048_SEASONFLAG05_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 5th season of old Ranked Battles."
+
+msgid "IDS_PCEE049_JOLLY_ROGER_3_DESCRIPTION"
+msgstr "For achieving the 1st rank in old Ranked Battles for the fourth time."
+
+msgid "IDS_PCEE075_SEASONFLAG06_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 6th season of old Ranked Battles."
+
+msgid "IDS_PCEE104_SEASONFLAG07_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 7th season of old Ranked Battles."
+
+msgid "IDS_PCEE118_JOLLY_ROGER_4_DESCRIPTION"
+msgstr "For achieving the 1st rank in old Ranked Battles for the sixth time."
+
+msgid "IDS_PCEE168_SEASONFLAG08_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 8th season of old Ranked Battles."
+
+msgid "IDS_PCEE194_JOLLY_ROGER_5_DESCRIPTION"
+msgstr "For achieving the 1st rank in old Ranked Battles for the seventh time."
+
+msgid "IDS_PCEE195_SEASONFLAG09_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 9th season of old Ranked Battles."
+
+msgid "IDS_PCEE209_JOLLY_ROGER_6_DESCRIPTION"
+msgstr "For achieving the 1st rank in the 10th season of old Ranked Battles."
+
+msgid "IDS_PCEE210_SEASONFLAG10_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 10th season of old Ranked Battles."
+
+msgid "IDS_PCEE236_MALTA_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 11th season of old Ranked Battles."
+
+msgid "IDS_PCEE269_SEASONFLAG12_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 12th season of old Ranked Battles."
+
+msgid "IDS_PCEE282_SEASONFLAG13_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 13th season of old Ranked Battles."
+
+msgid "IDS_PCEE313_SEASONFLAG14_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 14th season of old Ranked Battles."
+
+msgid "IDS_PCEE332_SEASONFLAG15_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 15th season of old Ranked Battles."
+
+msgid "IDS_PCEE344_SEASONFLAG16_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 16th season of old Ranked Battles."
+
+msgid "IDS_PCEE353_SEASONFLAG17_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 17th season of old Ranked Battles."
+
+msgid "IDS_PCEE362_SEASONFLAG18_EXTRA_DESCRIPTION"
+msgstr "For achieving the 15th rank in the 18th season of old Ranked Battles."
+
+msgid "IDS_PCEE381_RANKEDFLAG_1_EXTRA_DESCRIPTION"
+msgstr "For achieving the 1st rank in the Bronze League during the test Ranked season."
+
+msgid "IDS_PCEE396_RANKEDFLAG_2_EXTRA_DESCRIPTION"
+msgstr "For achieving the 1st rank in the Bronze League in the 2nd season of Ranked Battles."
+
+msgid "IDS_PCEE421_RANKEDFLAG_3_EXTRA_DESCRIPTION"
+msgstr "For achieving the 1st rank in the Bronze League in the 3rd season of Ranked Battles."
+
+msgid "IDS_PCEE434_RANKEDFLAG_4_EXTRA_DESCRIPTION"
+msgstr "For achieving the 1st rank in the Bronze League in the 4th season of Ranked Battles."
+
+msgid "IDS_PCEE471_RANKEDFLAG_5_EXTRA_DESCRIPTION"
+msgstr "For achieving the 1st rank in the Bronze League in the 5th season of Ranked Battles."
+
+msgid "IDS_PCEE498_RANKEDFLAG_6_EXTRA_DESCRIPTION"
+msgstr "For achieving the 1st rank in the Bronze League in the 6th season of Ranked Battles."
+
+msgid "IDS_PCEE528_RANKEDFLAG_7_EXTRA_DESCRIPTION"
+msgstr "For achieving the 1st rank in the Bronze League in the 7th season of Ranked Battles."
+
+msgid "IDS_PCEE716_BLYSKAWICA_1963_FLAG"
+msgstr "Błyskawica '63"
+
+msgid "IDS_PCZC939_UTOPIA_1_1_DESCRIPTION"
+msgstr ""
+"In 1932, amid the Great Depression, store owners in Mesa, Arizona, faced hard times. With the annual Christmas parade approaching, local entrepreneurs sought a way to draw visitors to the event—and consequently, to the stores along its route.\n"
+"\n"
+"John McAfee, an editor at a local newspaper, proposed an unusual idea: hire a parachutist dressed as Santa Claus to jump from an airplane and land in a field outside town, after which the police would escort him to the parade to distribute gifts.\n"
+"\n"
+"The plan hit its first snag when the hired parachutist was unable to jump on the day of the parade. Undeterred, the resourceful McAfee borrowed a mannequin from one of the stores, dressed it in a Santa costume, and placed it on the airplane instead. Believing that no one would notice the substitution from afar since Santa was meant to land outside town, McAfee proceeded. When the airplane reached sufficient altitude, the mannequin was pushed out by pulling the parachute cord. At that critical moment, the parachute failed to deploy, and 'Santa' crashed to the ground like a stone before the eyes of gathered children.\n"
+"\n"
+"McAfee then attempted to salvage the holiday by donning a Santa costume himself and approaching the children to calm them down. However, the children were inconsolable, convinced that Santa had just perished in a crash. McAfee even left town for several days, hoping that time would mend the situation. Nevertheless, the incident was not forgotten, and henceforth John McAfee became known as 'the man who killed Santa Claus.'"
+
+msgid "IDS_PCZC946_UTOPIA_2_4_DESCRIPTION"
+msgstr ""
+"Stabbes – a cat who served as the honorary mayor of Talkeetna, Alaska, from 1997 to 2017.\n"
+"\n"
+"In 1997, Lori Stack, the manager of the 'Naglis' store, discovered a box of kittens in the parking lot. She chose Stabbes because he had no tail. The kitten soon settled into the store, and word of him spread throughout the small town.\n"
+"\n"
+"Legend has it that Stabbes became mayor after some voters wrote his name on the ballots during an election. Skeptics dispute this version, noting that Talkeetna, being a small settlement, does not officially have a mayor. The 'Naglis' store served as the cat’s office throughout his term. Every day, Stabbes would visit a nearby restaurant where he sipped water with catnip from a wine glass."
+
+msgid "IDS_PGSC529_DESCR"
+msgstr ""
+"In the late 1920s, as Germany reflected on its experiences during World War I, the concept of a large surface raider emerged. Several designs were developed for such a ship, taking into account Britain’s desire at future naval conferences to limit battleship armament to a 305mm caliber.\n"
+"\n"
+"Depending on the design, the ship’s standard displacement ranged from 17,500 to 25,000 tons, and its armament typically consisted of eight 305mm guns in four turrets along with a robust secondary battery of 150mm guns. The armor and anti-torpedo protection were considered too light for the vessel to be classified as a true battleship."
+
+msgid "IDS_PL_RANK_REWARDS_VICTORIES_NEXT"
+msgid_plural "IDS_PL_RANK_REWARDS_VICTORIES_NEXT"
+msgstr[0] "Until the next reward: %(_victoriesCount)s win"
+msgstr[1] "Until the next reward: %(_victoriesCount)s wins"
+
+msgid "IDS_PROFILE_RANK_INSTRUCTION_1"
+msgstr ""
+"Ranked Battles\n"
+"The ranks you achieved at the end of the season will carry over as stars at the start of the next season. Rewards for the ranks attained in the previous season will be granted after your first battle in the current season."
+
+msgid "IDS_PROFILE_RANK_INSTRUCTION_2"
+msgstr ""
+"Ranked Sprints\n"
+"The ranks you achieved at the end of the season do not carry over to the next season."
+
+msgid "IDS_PWSB509_DESCR"
+msgstr "According to the Treaty of Versailles, the German navy was prohibited from including ships with a displacement of more than 10,000 tons. However, after World War I, Germany was left with several hundred incomplete ships, some of which were finished and sold abroad. Sweden, keen to strengthen its fleet, even considered acquiring and completing one of these German battleships."
+
+msgid "IDS_PZSA518_DESCR"
+msgstr "Xian Deng is a type of 'assault' ship designed for close combat that emerged during the Three Kingdoms period. In Ancient China, naval engagements were predominantly fought on rivers at close range, which made ships capable of ramming, shelling at close quarters, and boarding particularly valuable."
+
+msgid "IDS_PZSC528_DESCR"
+msgstr "Dou Jian is a type of warship that appeared in China during the 2nd–3rd centuries AD, serving as a fast combat unit in the fleet. Its name literally means 'combat ship' in Chinese. During the Three Kingdoms era, it played an important role in covering the main forces."
+
+msgid "IDS_RANKED_BATTLE_STAR_LOSS_PLACE_CONDITION"
+msgstr "If you finish first in earned experience in the battle, you will not lose a star."
+
+msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_1"
+msgstr "You have advanced to the Gold League."
+
+msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_2"
+msgstr "You have advanced to the Silver League."
+
+msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_3"
+msgstr "You have advanced to the Bronze League."
+
+msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_SPRINT_STARTED_1"
+msgstr "You have started a new sprint in the Gold League."
+
+msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_SPRINT_STARTED_2"
+msgstr "You have started a new sprint in the Silver League."
+
+msgid "IDS_RANKED_NEXT_LEAGUE_DETERMINED_SPRINT_STARTED_3"
+msgstr "You have started a new sprint in the Bronze League."
+
+msgid "IDS_RANKED_QUALIFICATION_DESC"
+msgstr "Complete the qualification to advance to the next league."
+
+msgid "IDS_RANKED_QUALIFICATION_NEXT_LEAGUE_1"
+msgstr "Complete the qualification to advance to the Gold League."
+
+msgid "IDS_RANKED_QUALIFICATION_NEXT_LEAGUE_2"
+msgstr "Complete the qualification to advance to the Silver League."
+
+msgid "IDS_RANKED_QUALIFICATION_STATUS_DEFAULT"
+msgstr "Available"
+
+msgid "IDS_RANKED_QUALIFICATION_STATUS_LOCK"
+msgstr "Unavailable"
+
+msgid "IDS_RANKED_REWARDS_TITLE"
+msgstr "Rewards"
+
+msgid "IDS_RANKED_REWARDS_TOOLTIP_DESC"
+msgstr ""
+"If you fail to complete qualification before the sprint ends, you will revert to the starting rank of the league and can earn all rewards again.\n"
+"\n"
+"If you demonstrate unsportsmanlike conduct during battle, the victory will not count towards reward progress."
+
+msgid "IDS_RANKED_STAR_CONDITION_REGULAR"
+msgstr "You earn one star for each victory and lose one for each defeat or draw"
+
+msgid "IDS_RANK_BATTLES_FIRST_RANK_REACHED"
+msgstr "You have achieved the 1st rank in the current league. Return to Ranked Battles in the next sprint."
+
+msgid "IDS_RANK_BATTLES_FIRST_RANK_REACHED_IN_DIVISION"
+msgstr "Members of your squad have achieved the highest rank this season. Return to Ranked Battles in the next season."
+
+msgid "IDS_RANK_BATTLES_LAST_FIRST_RANK_REACHED"
+msgstr "You have achieved the highest rank in the current season. Return to Ranked Battles in the next season."
+
+msgid "IDS_RANK_BATTLES_LAST_QUALIFICATION_COMPLETED"
+msgstr "You have achieved the 1st rank in the current season and passed qualification. Return to Ranked Battles in the next season."
+
+msgid "IDS_RANK_IN_LEAGUE_1"
+msgstr "%(_rankId)s rank in the Gold League"
+
+msgid "IDS_RANK_IN_LEAGUE_2"
+msgstr "%(_rankId)s rank in the Silver League"
+
+msgid "IDS_RANK_IN_LEAGUE_3"
+msgstr "%(_rankId)s rank in the Bronze League"
+
+msgid "IDS_RANK_IN_LEAGUE_STATUS_LOCK"
+msgstr "Not achieved"
+
+msgid "IDS_RANK_REACHED_FIRST"
+msgstr "Congratulations! You have achieved the 1st rank in the current league. To advance to the next league, complete the qualification."
+
+msgid "IDS_RANK_REACHED_TOP"
+msgstr "Congratulations! You have achieved the highest rank."
+
+msgid "IDS_RANK_REWARDS_TOP_RANK"
+msgstr "Reward for achieving the 1st rank"
+
+msgid "IDS_REWARD_EVENTUM_4_TITLE"
+msgstr "Three Kingdoms Tokens"
+
+msgid "IDS_REWARD_FOR_RANK"
+msgstr "Reward for achieving a rank"
+
+msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Ship"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
+msgstr "Three Kingdoms Tokens purchased"
+
+msgid "IDS_SYS_MSG_CHECK_ALL_ITEMS"
+msgstr "View all rewards"
+
+msgid "IDS_SYS_MSG_NEWBIE_QUEST_REWARDED"
+msgstr "Introductory quest completed"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
+msgstr "Three Kingdoms Tokens received"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
+msgstr "Three Kingdoms Tokens deducted"
+
+msgid "IDS_TERRITORY_MESSAGE_TEXT_TV_1"
+msgstr "Now that's more like it! Just a little more—and we'll have a TV show. We have a television, but the stand is a bit unfestive... I think some tangerines will set things right."
+
+msgid "IDS_YOUR_RANK_IN_LEAGUE_1"
+msgstr "%(_rankId)s rank in the Gold League"
+
+msgid "IDS_YOUR_RANK_IN_LEAGUE_2"
+msgstr "%(_rankId)s rank in the Silver League"
+
+msgid "IDS_YOUR_RANK_IN_LEAGUE_3"
+msgstr "%(_rankId)s rank in the Bronze League"

@@ -1,0 +1,967 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC025_DESCRIPTION"
+msgstr "Deal 30 000 damage while remaining undetected"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC025_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC026_DESCRIPTION"
+msgstr "Deal 42 500 damage while remaining undetected"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC026_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC027_DESCRIPTION"
+msgstr "Deal 60 000 damage from a distance of 10 km or more"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC027_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC028_DESCRIPTION"
+msgstr "Deal 70 000 damage from a distance of 10 km or more"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC028_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC029_DESCRIPTION"
+msgstr "Deal 90 000 damage from a distance of 10 km or more"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC029_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC030_DESCRIPTION"
+msgstr "Deal 105 000 damage from a distance of 10 km or more"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC030_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC031_DESCRIPTION"
+msgstr "Deal 50 000 damage from a distance of 10 km or less"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC031_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC032_DESCRIPTION"
+msgstr "Deal 60 000 damage from a distance of 10 km or less"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC032_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC033_DESCRIPTION"
+msgstr "Deal 75 000 damage from a distance of 10 km or less"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC033_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC034_DESCRIPTION"
+msgstr "Deal 80 000 damage from a distance of 10 km or less"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC034_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC035_DESCRIPTION"
+msgstr "Deal 50 000 damage while remaining undetected"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC035_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC036_DESCRIPTION"
+msgstr "Deal 62 500 damage while remaining undetected"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC036_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC037_DESCRIPTION"
+msgstr "Inflict damage on an enemy ship amounting to at least 50% of its full combat capability and destroy it"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC037_TITLE"
+msgstr "Destroy a ship"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC038_DESCRIPTION"
+msgstr "Destroy an enemy ship while remaining undetected"
+
+msgid "IDS_ACHIEVEMENT_CONDITION_PCOC038_TITLE"
+msgstr "Deal damage"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_1"
+msgstr "Reach Mastery Level 25 on any ship."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_2"
+msgstr "Reach Mastery Level 25 on 5 ships."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_3"
+msgstr "Reach Mastery Level 50 on any ship."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_4"
+msgstr "Reach Mastery Level 50 on 5 ships."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_5"
+msgstr "Reach Mastery Level 75 on any ship."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MASTERY_RANKS_6"
+msgstr "Reach Mastery Level 75 on 5 ships."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_THREE_KINGDOMS_2"
+msgstr "Actively participate in the event 'Three Kingdoms: Battle of Dongkou'."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_VANGUARD"
+msgstr "Obtain %(potentialDamage)s units of potential damage."
+
+msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_1"
+msgstr "The Birth of Mastery"
+
+msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_2"
+msgstr "The Rise of Mastery"
+
+msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_3"
+msgstr "The Flourishing of Mastery"
+
+msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_4"
+msgstr "The Confirmation of Mastery"
+
+msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_5"
+msgstr "The Tempering of Mastery"
+
+msgid "IDS_ACHIEVEMENT_MASTERY_RANKS_6"
+msgstr "The Triumph of Mastery"
+
+msgid "IDS_ACHIEVEMENT_RVR_THREE_KINGDOMS_2"
+msgstr "Three Kingdoms: Battle of Dongkou"
+
+msgid "IDS_ACHIEVEMENT_TYPE_HEROIC_DESC"
+msgstr "Heroic achievements are awarded for a single battle and signify exceptionally high combat performance."
+
+msgid "IDS_ACHIEVEMENT_TYPE_HEROIC_PLURAL"
+msgstr "Heroic achievements"
+
+msgid "IDS_ACHIEVEMENT_TYPE_HONORABLE_DESC"
+msgstr "Honorable achievements are awarded for a single battle and denote high combat performance."
+
+msgid "IDS_ACHIEVEMENT_TYPE_HONORABLE_PLURAL"
+msgstr "Honorable achievements"
+
+msgid "IDS_ACHIEVEMENT_VANGUARD"
+msgstr "Vanguard"
+
+msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_SHIPMASTERY"
+msgstr "Filter by Mastery Trials"
+
+msgid "IDS_DOGTAG_PCNB454_DESCRIPTION"
+msgstr "Fenghuang, or the Chinese phoenix, is a mythical bird that reigns over all other birds. Its feathers are colored in five primary colors—black, white, red, yellow, and green (which, in turn, represent the five Confucian virtues)."
+
+msgid "IDS_DOGTAG_PCNB454_NAME"
+msgstr "Blazing Fenghuang"
+
+msgid "IDS_DOGTAG_PCNB455_DESCRIPTION"
+msgstr "Qilin is a creature from Chinese mythology resembling a chimera. Legend has it that the Qilin foretells the birth or death of a remarkable person. It is said to have heralded the birth of the great thinker Confucius, and also appeared in the garden of the legendary Huangdi and in the capital of Emperor Yao."
+
+msgid "IDS_DOGTAG_PCNB455_NAME"
+msgstr "Divine Qilin"
+
+msgid "IDS_DOGTAG_PCNB456_DESCRIPTION"
+msgstr "The Blazing Fenghuang and the Divine Qilin, mythical patrons of Ancient China, converged in a mysterious dance."
+
+msgid "IDS_DOGTAG_PCNB456_NAME"
+msgstr "Patrons of the East"
+
+msgid "IDS_DOGTAG_PCNB457_DESCRIPTION"
+msgstr "Maslenitsa is an East Slavic festival that marks the farewell to winter and the welcome of spring. The celebration lasts for a week, during which it is customary to prepare pancakes, dumplings, and cottage cheese pancakes, culminating in the burning of a straw effigy. According to archaeological evidence, it is one of the oldest Slavic festivals."
+
+msgid "IDS_DOGTAG_PCNB457_NAME"
+msgstr "Maslenitsa"
+
+msgid "IDS_EARN_ANY_BATTLE_ACHIEVEMENT_PLURAL"
+msgid_plural "IDS_EARN_ANY_BATTLE_ACHIEVEMENT_PLURAL"
+msgstr[0] "Earn any %(_amount)s battle achievement"
+msgstr[1] "Earn any %(_amount)s battle achievements"
+
+msgid "IDS_EARN_ANY_BATTLE_ACHIEVEMENT_SINGLE"
+msgstr "Earn any battle achievement"
+
+msgid "IDS_GUIDING_TIP_320_DESC"
+msgstr "Demonstrate your mastery on a specific ship! To increase your mastery level, you need to earn base experience and complete trials."
+
+msgid "IDS_GUIDING_TIP_320_HEADER"
+msgstr "Mastery Level"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SHIP_MASTERY_TASKS_AVAILABLE"
+msgstr "You have no ships with available trials"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SHIP_MASTERY_TASKS_IN_PROGRESS"
+msgstr "You have no ships with active trials"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_SHIP_MASTERY_TASKS_AVAILABLE"
+msgstr "Show ships with available trials"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_SHIP_MASTERY_TASKS_IN_PROGRESS"
+msgstr "Show ships with active trials"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_HEADER"
+msgstr "Mastery"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_1_HEADER"
+msgstr "Mastery Level"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Mastery reflects your proficiency with a specific ship and your combat experience on it. The mastery level is displayed next to the ship's name."
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Available only for Tier VIII–X ships and Super Ships."
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_2_HEADER"
+msgstr "Progress"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "To advance to the next mastery level, you must accumulate a certain amount of base experience."
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "The higher the ship's tier and your mastery level on it, the more base experience you need to earn to advance to the next mastery level."
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_3_HEADER"
+msgstr "Trials"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "To reach every 10th mastery level, you must complete trials that are specifically selected for the ship. You can reset your trials at any time to receive new ones."
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "You can have trials active on no more than 15 ships at the same time. Trials account for half of the results in Cooperative Battles and Operations."
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_4_HEADER"
+msgstr "Overall Mastery"
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "Your mastery on all ships contributes to your overall mastery level."
+
+msgid "IDS_MODAL_WINDOW_SHIP_MASTERY_RULES_PARAGRAPH_4_TEXT_2"
+msgstr "This happens automatically; you do not need to complete trials to increase your overall mastery."
+
+msgid "IDS_NAVAL_FLAG_CAO_WEI"
+msgstr "Wei Fleet"
+
+msgid "IDS_NAVAL_FLAG_CAO_WEI_DESCRIPTION"
+msgstr "The Kingdom of Wei was one of the states of the Three Kingdoms period, fighting for control over China in the 3rd century. It was located in the north. The kingdom was founded by Cao Cao, a statesman who effectively ruled the Han Empire during its decline. The emperor granted Cao Cao lands encompassing ten cities, which formed the Kingdom of Wei."
+
+msgid "IDS_NAVAL_FLAG_DONG_WU"
+msgstr "Wu Fleet"
+
+msgid "IDS_NAVAL_FLAG_DONG_WU_DESCRIPTION"
+msgstr "The Kingdom of Wu was one of the states during the Three Kingdoms period that fought for control of China in the 3rd century. It was located in the east and south. It is believed that Sun Quan, the ruler of the kingdom, was a descendant of Sun Tzu—the famous author of 'The Art of War'. Sun Quan proclaimed himself emperor, inheriting lands from his elder brother, and became the youngest of the three renowned leaders of the Three Kingdoms era."
+
+msgid "IDS_NAVAL_FLAG_SHU_HAN"
+msgstr "Shu Fleet"
+
+msgid "IDS_NAVAL_FLAG_SHU_HAN_DESCRIPTION"
+msgstr "The Kingdom of Shu was one of the states during the Three Kingdoms period that fought for control of China in the 3rd century. It was located in the west. The name Shu references a similarly named state from the Zhou period, occupying roughly the same territory. Liu Bei, the founder of the Kingdom of Shu, claimed kinship with the Han imperial family, declaring himself the legitimate heir."
+
+msgid "IDS_NEWBIE_QUESTS_BATTLE_ICON_HINT"
+msgstr "Introductory Battle Quest"
+
+msgid "IDS_NEWBIE_QUESTS_COMMON_ICON_HINT"
+msgstr "Introductory Quest"
+
+msgid "IDS_NEWBIE_QUESTS_PCON001_DESCRIPTION"
+msgstr "Research and purchase a Tier II cruiser, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON001_NAME"
+msgstr "Take the researched Tier II cruiser into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON002_DESCRIPTION"
+msgstr "It's time to battle other players! A Random Battle is a serious challenge, but you can earn more experience and credits than in Cooperative Play."
+
+msgid "IDS_NEWBIE_QUESTS_PCON002_NAME"
+msgstr "Win a Random Battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON003_DESCRIPTION"
+msgstr "Using camouflages, you can change the appearance of your ships. Camouflages can be purchased with credits or doubloons, and also obtained by participating in various events."
+
+msgid "IDS_NEWBIE_QUESTS_PCON003_NAME"
+msgstr "Apply a camouflage to your ship"
+
+msgid "IDS_NEWBIE_QUESTS_PCON004_DESCRIPTION"
+msgstr "Using signals, you can increase your ship's durability, the effectiveness of its armament and equipment, and also boost its maximum speed."
+
+msgid "IDS_NEWBIE_QUESTS_PCON004_NAME"
+msgstr "Install 3 signals on a ship"
+
+msgid "IDS_NEWBIE_QUESTS_PCON005_DESCRIPTION"
+msgstr "Free experience can be used when you are short on ship or commander experience. It is awarded in each battle at a rate of 10% of the ship's experience earned."
+
+msgid "IDS_NEWBIE_QUESTS_PCON005_NAME"
+msgstr "Research a ship or module using free experience"
+
+msgid "IDS_NEWBIE_QUESTS_PCON006_DESCRIPTION"
+msgstr "Using economic bonuses, you can earn more credits and experience per battle."
+
+msgid "IDS_NEWBIE_QUESTS_PCON006_NAME"
+msgstr "Install 3 economic bonuses on a ship"
+
+msgid "IDS_NEWBIE_QUESTS_PCON007_DESCRIPTION"
+msgstr "By opening containers, you can obtain a wide variety of items: camouflages, signals, economic bonuses, various resources, and even ships!"
+
+msgid "IDS_NEWBIE_QUESTS_PCON007_NAME"
+msgstr "Open 3 containers"
+
+msgid "IDS_NEWBIE_QUESTS_PCON008_DESCRIPTION"
+msgstr "Commander skills provide advantages and new opportunities in battle. To learn new skills, you will need skill points, which can be earned by gaining commander experience in battle."
+
+msgid "IDS_NEWBIE_QUESTS_PCON008_NAME"
+msgstr "Learn a commander skill"
+
+msgid "IDS_NEWBIE_QUESTS_PCON009_DESCRIPTION"
+msgstr "Battle quests consist of a set of specific objectives that must be achieved in battle. Depending on the quest, you may need ships of different classes, tiers, and nations."
+
+msgid "IDS_NEWBIE_QUESTS_PCON009_NAME"
+msgstr "Complete 3 battle quests"
+
+msgid "IDS_NEWBIE_QUESTS_PCON010_DESCRIPTION"
+msgstr "Modernizations allow you to enhance your ship's strengths and mitigate its weaknesses."
+
+msgid "IDS_NEWBIE_QUESTS_PCON010_NAME"
+msgstr "Install a modernization on a ship"
+
+msgid "IDS_NEWBIE_QUESTS_PCON011_DESCRIPTION"
+msgstr "Campaigns are chains of missions and quests united by a common theme. By completing campaigns, you can earn numerous rewards."
+
+msgid "IDS_NEWBIE_QUESTS_PCON011_NAME"
+msgstr "Complete 3 quests in any campaign"
+
+msgid "IDS_NEWBIE_QUESTS_PCON012_DESCRIPTION"
+msgstr "The Armory is the in‐game store in 'World of Warships'. Here you can purchase premium ships and other items, as well as participate in various events. In the 'Featured' tab, you can often find free bundles!"
+
+msgid "IDS_NEWBIE_QUESTS_PCON012_NAME"
+msgstr "Obtain any item from the Armory"
+
+msgid "IDS_NEWBIE_QUESTS_PCON013_DESCRIPTION"
+msgstr "Operations are a battle mode in which you complete story-driven objectives together with other players while fighting against bots. Each operation features unique narrative elements."
+
+msgid "IDS_NEWBIE_QUESTS_PCON013_NAME"
+msgstr "Win an Operation"
+
+msgid "IDS_NEWBIE_QUESTS_PCON014_DESCRIPTION"
+msgstr "As you progress, you'll accumulate items that you don't use. Sell unwanted items to earn credits."
+
+msgid "IDS_NEWBIE_QUESTS_PCON014_NAME"
+msgstr "Sell items worth 50 000 credits"
+
+msgid "IDS_NEWBIE_QUESTS_PCON015_DESCRIPTION"
+msgstr "In Ranked Battles, you will compete for valuable rewards as you advance through ranks and leagues. Rules may change from season to season."
+
+msgid "IDS_NEWBIE_QUESTS_PCON015_NAME"
+msgstr "Win a Ranked Battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON016_DESCRIPTION"
+msgstr "Clan members can battle in Clan Battles and also build and upgrade a clan base to receive additional resources and discounts. You can join a clan or create your own."
+
+msgid "IDS_NEWBIE_QUESTS_PCON016_NAME"
+msgstr "Join a clan"
+
+msgid "IDS_NEWBIE_QUESTS_PCON017_DESCRIPTION"
+msgstr "Research and purchase a Tier III cruiser, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON017_NAME"
+msgstr "Take the researched Tier III cruiser into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON018_DESCRIPTION"
+msgstr "Research and purchase a Tier IV cruiser, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON018_NAME"
+msgstr "Take the researched Tier IV cruiser into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON019_DESCRIPTION"
+msgstr "Research and purchase a Tier V cruiser, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON019_NAME"
+msgstr "Take the researched Tier V cruiser into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON020_DESCRIPTION"
+msgstr "Research and purchase a Tier VI cruiser, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON020_NAME"
+msgstr "Take the researched Tier VI cruiser into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON021_DESCRIPTION"
+msgstr "Research and purchase a Tier VII cruiser, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON021_NAME"
+msgstr "Take the researched Tier VII cruiser into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON022_DESCRIPTION"
+msgstr "Research and purchase a Tier II destroyer, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON022_NAME"
+msgstr "Take the researched Tier II destroyer into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON023_DESCRIPTION"
+msgstr "Research and purchase a Tier III battleship, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON023_NAME"
+msgstr "Take the researched Tier III battleship into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON024_DESCRIPTION"
+msgstr "Research and purchase a Tier III destroyer, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON024_NAME"
+msgstr "Take the researched Tier III destroyer into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON025_DESCRIPTION"
+msgstr "Research and purchase a Tier IV battleship, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON025_NAME"
+msgstr "Take the researched Tier IV battleship into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON026_DESCRIPTION"
+msgstr "Research and purchase a Tier IV destroyer, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON026_NAME"
+msgstr "Take the researched Tier IV destroyer into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON027_DESCRIPTION"
+msgstr "Research and purchase a Tier V battleship, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON027_NAME"
+msgstr "Take the researched Tier V battleship into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON028_DESCRIPTION"
+msgstr "Research and purchase a Tier V destroyer, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON028_NAME"
+msgstr "Take the researched Tier V destroyer into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON029_DESCRIPTION"
+msgstr "Research and purchase a Tier VI battleship, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON029_NAME"
+msgstr "Take the researched Tier VI battleship into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON030_DESCRIPTION"
+msgstr "Research and purchase a Tier VI destroyer, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON030_NAME"
+msgstr "Take the researched Tier VI destroyer into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON031_DESCRIPTION"
+msgstr "Research and purchase a Tier VII battleship, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON031_NAME"
+msgstr "Take the researched Tier VII battleship into battle"
+
+msgid "IDS_NEWBIE_QUESTS_PCON032_DESCRIPTION"
+msgstr "Research and purchase a Tier VII destroyer, then take it into battle. Fighting with this ship will earn you experience to research the next ship in the branch."
+
+msgid "IDS_NEWBIE_QUESTS_PCON032_NAME"
+msgstr "Take the researched Tier VII destroyer into battle"
+
+msgid "IDS_PCEE733_PARIZHSKAYA_KOMMUNA_FLAG"
+msgstr "Paris Commune"
+
+msgid "IDS_PCEE733_PARIZHSKAYA_KOMMUNA_FLAG_DESCRIPTION"
+msgstr "The command flag of the battleship of the Workers' and Peasants' Red Fleet 'Paris Commune'. This ship was named in honor of the revolutionary commune that lasted for 72 days in the spring of 1871 in Paris. Friedrich Engels wrote that the Paris Commune demonstrated to the world an example of the true dictatorship of the proletariat."
+
+msgid "IDS_PFPA099_305MM_HE_BERNADOTTE"
+msgstr "305mm Spr.Gr. L/4.9"
+
+msgid "IDS_PFPA100_305MM_AP_BERNADOTTE"
+msgstr "305mm P.Spr.Gr. L/3.8"
+
+msgid "IDS_PFPT025_BERNADOTTE"
+msgstr "Torpedo M1943 mod. 2"
+
+msgid "IDS_PFSB509"
+msgstr "Bernadotte"
+
+msgid "IDS_PFSB509_DESCR"
+msgstr "The Treaty of Versailles strictly limited the displacement of ships that could be part of the German fleet. As a result, after World War I, Germany had a stockpile of ships that were never completed—from battleships to trawlers. For instance, the battleship Salamis, ordered by Greece, was left unfinished, although until the early 1930s Germany considered completing it. Subsequently, some of the remaining ships were completed and sold abroad."
+
+msgid "IDS_PFSB509_FULL"
+msgstr "Bernadotte"
+
+msgid "IDS_PFSB509_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFSB509_YEAR"
+msgstr "1952"
+
+msgid "IDS_PFUA806_ART_BERNADOTTE"
+msgstr "305mm/56 SK C/39 in the MK-3-12 mounting"
+
+msgid "IDS_PFUE806_ENG_BERNADOTTE"
+msgstr "Propulsion: 152 000 hp"
+
+msgid "IDS_PFUH809_HULL_BERNADOTTE"
+msgstr "Bernadotte"
+
+msgid "IDS_PFUS809_SUO_BERNADOTTE"
+msgstr "PCA No. 9"
+
+msgid "IDS_PFUT803_TORP_BERNADOTTE"
+msgstr "Mk14"
+
+msgid "IDS_PL_RANK_REWARDS_DIFF_COUNT"
+msgid_plural "IDS_PL_RANK_REWARDS_DIFF_COUNT"
+msgstr[0] "and %(_rewardsCount)s more item"
+msgstr[1] "and %(_rewardsCount)s more items"
+
+msgid "IDS_PRAB911_ULYANOVSK_TACT"
+msgstr "Tupolev Tu-91"
+
+msgid "IDS_PRAF911_ULYANOVSK_STOCK"
+msgstr "Lavochkin La-9"
+
+msgid "IDS_PRAF912_ULYANOVSK_TACT"
+msgstr "MiG-15bis"
+
+msgid "IDS_PRAL911_ULYANOVSK_STOCK"
+msgstr "Sukhoi Su-6 (AM-42)"
+
+msgid "IDS_PRES338_23FEBRUARY_SVERDLOVSK"
+msgstr "On Guard for the Motherland"
+
+msgid "IDS_PRGA238_12_DSHK"
+msgstr "12.7mm DShK"
+
+msgid "IDS_PRGM237_12IN52_MOD_6"
+msgstr "305mm/52, built in 1907, in the MK-3-12 mounting"
+
+msgid "IDS_PRGS247_130MM_58_CM_62"
+msgstr "130mm/58, built in 1957, in the SM-61 mounting"
+
+msgid "IDS_PRPA195_130MM_HE_CM_62"
+msgstr "OF-42"
+
+msgid "IDS_PRPA237_305MM_HE_P_KOMMUNA"
+msgstr "305mm HE, built in 1911"
+
+msgid "IDS_PRPA238_305MM_AP_P_KOMMUNA"
+msgstr "305mm AP, built in 1911"
+
+msgid "IDS_PRPR011_ULYANOVSK_STOCK"
+msgstr "S-21"
+
+msgid "IDS_PRPR012_ULYANOVSK_TACT"
+msgstr "S-24"
+
+msgid "IDS_PRPS010_ULYANOVSK_STOCK"
+msgstr "FAB-500"
+
+msgid "IDS_PRPT088_ULYANOVSK_TACT"
+msgstr "45-36 MAI"
+
+msgid "IDS_PRSA111"
+msgstr "Ulyanovsk"
+
+msgid "IDS_PRSA111_DESCR"
+msgstr "A hypothetical project of a strike aircraft carrier for the Soviet Navy, equipped with an angled flight deck and steam catapults. Designed for navigation in the waters of the Northern Arctic Ocean and for operations against enemy military bases and carrier groups. The carrier-based aircraft of such a carrier could use armament with a specialized warhead."
+
+msgid "IDS_PRSA111_FULL"
+msgstr "Ulyanovsk"
+
+msgid "IDS_PRSA111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSA111_YEAR"
+msgstr "1957"
+
+msgid "IDS_PRSB515"
+msgstr "P. Commune"
+
+msgid "IDS_PRSB515_DESCR"
+msgstr ""
+"A battleship built at the Baltic Shipyard and launched in June 1911 under the name 'Sevastopol', it became the first dreadnought of the Imperial Navy. It participated in World War I and the Civil War.\n"
+"\n"
+"In March 1921, the ship was renamed 'Paris Commune'. In 1921–24, the battleship was repaired and subsequently entered active service in the Baltic Fleet. In 1929, as part of modernization, a bow extension was installed to improve its seakeeping and speed. Later that year, 'Paris Commune' was transferred to the Black Sea. In 1930–36, in Sevastopol, the battleship underwent extensive modernization with boiler replacement and upgrades to its anti-aircraft armament.\n"
+"\n"
+"During the Great Patriotic War, the ship participated in the defense of Odessa and Sevastopol. 'Paris Commune' supported the operations of the Crimea Front and the Feodosia landing."
+
+msgid "IDS_PRSB515_FULL"
+msgstr "Paris Commune"
+
+msgid "IDS_PRSB515_NUMBER"
+msgstr "4"
+
+msgid "IDS_PRSB515_YEAR"
+msgstr "1914"
+
+msgid "IDS_PRUA406_ART_P_KOMMUNA"
+msgstr "305mm/52, built in 1907, in the MK-3-12 mounting"
+
+msgid "IDS_PRUB900_CV11_TB_STOCK"
+msgstr "Tupolev Tu-91"
+
+msgid "IDS_PRUE406_ENG_P_KOMMUNA"
+msgstr "Propulsion: 62 300 hp"
+
+msgid "IDS_PRUE925_CV11_ENG_STOCK"
+msgstr "Propulsion: 267 000 hp"
+
+msgid "IDS_PRUF900_CV11_FC_STOCK"
+msgstr "Type 11"
+
+msgid "IDS_PRUH406_P_KOMMUNA"
+msgstr "Paris Commune"
+
+msgid "IDS_PRUH925_CV11_HULL_STOCK"
+msgstr "Ulyanovsk"
+
+msgid "IDS_PRUI900_CV11_F_STOCK"
+msgstr "Lavochkin La-9/MiG-15bis"
+
+msgid "IDS_PRUL900_CV11_SB_STOCK"
+msgstr "Sukhoi Su-6 (AM-42)"
+
+msgid "IDS_PRUS406_SUO_P_KOMMUNA"
+msgstr "SUO V mod. 1"
+
+msgid "IDS_PZES420_3KINGS_XIAN_DENG"
+msgstr "Blazing Fenghuang"
+
+msgid "IDS_PZES428_3KINGS_DOU_JIAN"
+msgstr "Divine Qilin"
+
+msgid "IDS_PZGA174_37MM_SKC_30_TWIN"
+msgstr "37mm/83 SK C/30 in the Dopp LC/30 mounting"
+
+msgid "IDS_PZGA175_20MM_FLAK_38"
+msgstr "20mm/65 C/38 in a single mounting"
+
+msgid "IDS_PZGA178_STAAG_MARKV"
+msgstr "40mm/56 OQF Mk.X in the STAAG Mk.2 mounting"
+
+msgid "IDS_PZGM179_234MM50_MK_XII_TWIN"
+msgstr "234mm/50 Mk.XII in a turret mounting"
+
+msgid "IDS_PZGS176_105MM_SKC_33"
+msgstr "105mm/65 SK C/33 in the Dop. L. C/31 mounting"
+
+msgid "IDS_PZGS181_15CM_SK_C28_MPL_C_36"
+msgstr "150mm/55 SK C/28 in the Dop. MPL C/36 mounting"
+
+msgid "IDS_PZGT180_21IN_QUAD_TORPEDO_TUBE"
+msgstr "533mm QR Mk II"
+
+msgid "IDS_PZPB519_XIAN_DENG_TACT"
+msgstr "PC 1000"
+
+msgid "IDS_QUALIFICATION_STAR_EARNED"
+msgstr "Qualification: star earned"
+
+msgid "IDS_QUALIFICATION_STAR_LOST"
+msgstr "Qualification: star lost"
+
+msgid "IDS_QUALIFICATION_STAR_SAVED"
+msgstr "Qualification: star saved"
+
+msgid "IDS_RANKED_BATTLES_SEASON_AND_SPRINT"
+msgstr "%(_seasonId)s season, %(_sprintId)s sprint"
+
+msgid "IDS_RANKED_PRIME_FINISH"
+msgstr "Session finished"
+
+msgid "IDS_RANKED_PRIME_TIME"
+msgstr "Session: %(_timeLeft)s"
+
+msgid "IDS_RANKED_QUALIFICATION_STATUS_MISSED"
+msgstr "Skipped"
+
+msgid "IDS_RANKED_REWARDS_COUNT"
+msgstr "+ %(_value)s"
+
+msgid "IDS_RANKED_SEASON_FINISHED"
+msgstr "Season finished"
+
+msgid "IDS_RANKED_SEASON_TIME"
+msgstr "Season: %(_timeLeft)s"
+
+msgid "IDS_RANKED_SPRINT_FINISHED"
+msgstr "Sprint finished"
+
+msgid "IDS_RANKED_SPRINT_TIME"
+msgstr "Sprint: %(_timeLeft)s"
+
+msgid "IDS_RANKED_VICTORY_REWARDS_TITLE"
+msgstr "Victory rewards"
+
+msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_DEFAULT"
+msgstr "Not received"
+
+msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_DONE"
+msgstr "Received"
+
+msgid "IDS_RANKS_LEAGUE_REWARDS_STATUS_LOCKED"
+msgstr "League skipped"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON"
+msgstr "Skip league"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_1_LEAGUE_2"
+msgstr "You can skip the Silver League and move to the 10th rank of the Gold League."
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_1_LEAGUE_3"
+msgstr "You can skip the Bronze League and move to the 10th rank of the Silver League."
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_2_LEAGUE_REWARDS"
+msgstr "Rewards for the skipped league will not be granted."
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_LOCKED"
+msgstr "You can only skip the league in which you are currently competing."
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_UNAVAILABLE"
+msgstr "League skipping is not available at the moment."
+
+msgid "IDS_RANKS_LEAGUE_SKIP_HEADER_2"
+msgstr "Skip Silver League"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_HEADER_3"
+msgstr "Skip Bronze League"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_QUESTION"
+msgstr "Skip the league for"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_TEXT_2"
+msgstr "You will move to the 10th rank of the Gold League. Rewards for the skipped league will not be granted."
+
+msgid "IDS_RANKS_LEAGUE_SKIP_TEXT_3"
+msgstr "You will move to the 10th rank of the Silver League. Rewards for the skipped league will not be granted."
+
+msgid "IDS_RANKS_SHIP_RESTRICTIONS"
+msgstr "Participation requirements:"
+
+msgid "IDS_RANKS_SHIP_RESTRICTIONS_QUALIFICATION"
+msgstr "Qualification requirements:"
+
+msgid "IDS_RANK_CHANGED_REWARDS_QUALIFICATION"
+msgstr "For completing the qualification:"
+
+msgid "IDS_RANK_CHANGED_REWARDS_TOP_RANK"
+msgstr "For achieving the 1st rank:"
+
+msgid "IDS_RANK_CHANGED_REWARDS_VICTORIES_FINAL"
+msgstr "For victories:"
+
+msgid "IDS_RANK_IN_LEAGUE_STATUS_DONE"
+msgstr "Received"
+
+msgid "IDS_RANK_IN_LEAGUE_STATUS_SKIPPED"
+msgstr "Skipped"
+
+msgid "IDS_RANK_REACHED_FIRST_IN_LEAGUE"
+msgstr "Congratulations! You have achieved the 1st rank."
+
+msgid "IDS_RANK_REWARDS_LEAGUE_COMPLETED"
+msgstr "For completing the league:"
+
+msgid "IDS_RANK_REWARDS_PARTICIPATED_IN_SEASON"
+msgstr "For participating in the season:"
+
+msgid "IDS_RANK_REWARDS_TOOLTIP_TITLE_QUALIFICATION"
+msgstr "Reward:"
+
+msgid "IDS_RANK_REWARDS_TOOLTIP_TITLE_TOP_RANK"
+msgstr "Reward:"
+
+msgid "IDS_RANK_REWARD_BUTTON_CHECK_ALL_REWARDS"
+msgstr "View all"
+
+msgid "IDS_REST_REWARDS_HINT_LOWER"
+msgstr "and %(_count)s more"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_TITLE_FULL"
+msgstr "Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium Ship Tier IX"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier IX"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Premium Ship Tier VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_TITLE"
+msgstr "Premium Container 'Dynastic Heritage'"
+
+msgid "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_TITLE_SHORT"
+msgstr "Dynastic Heritage"
+
+msgid "IDS_REWARD_SHIPXP_TITLE"
+msgstr "Ship Experience"
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_TANKING"
+msgstr "Within 15 seconds, absorb potential damage from 3 or more enemy ships."
+
+msgid "IDS_RIBBON_SSE_TANKING"
+msgstr "Took the hit"
+
+msgid "IDS_RIBBON_SUBRIBBON_TANKING"
+msgstr "Took the hit"
+
+msgid "IDS_SHIPS_MASTERY_SELECT_SHIP"
+msgstr "SELECT A SUITABLE SHIP"
+
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON"
+msgstr "Reset"
+
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_QUESTION"
+msgstr "Reset trials for"
+
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_TITLE"
+msgstr "Reset Trials"
+
+msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_WARNING"
+msgstr "Your trial progress will be reset"
+
+msgid "IDS_SHIP_MASTERY"
+msgstr "Mastery"
+
+msgid "IDS_SHIP_MASTERY_BUTTON_ABOUT"
+msgstr "Rules"
+
+msgid "IDS_SHIP_MASTERY_DEFAULT"
+msgstr "Mastery Level"
+
+msgid "IDS_SHIP_MASTERY_LEAGUE_TOOLTIP_HEADER"
+msgstr "Mastery level on this ship"
+
+msgid "IDS_SHIP_MASTERY_LEAGUE_TOOLTIP_POINTS"
+msgstr "A total of %(_points)s base experience points earned."
+
+msgid "IDS_SHIP_MASTERY_LEVEL_TASKS_IN_PROGRESS"
+msgstr "Trials in progress"
+
+msgid "IDS_SHIP_MASTERY_LEVEL_TITLE"
+msgstr ""
+"Overall\n"
+"Mastery"
+
+msgid "IDS_SHIP_MASTERY_MAX_RANK"
+msgstr "10K+"
+
+msgid "IDS_SHIP_MASTERY_MOUSE_HINT"
+msgstr "Go to the 'Mastery' screen"
+
+msgid "IDS_SHIP_MASTERY_SHIPS_COUNT_TITLE"
+msgstr "Ships with active trials"
+
+msgid "IDS_SHIP_MASTERY_STATUS_1"
+msgstr "%(_pointsNext)s base experience points remaining to the next level"
+
+msgid "IDS_SHIP_MASTERY_STATUS_2"
+msgstr "To advance to the next mastery level, you must complete trials"
+
+msgid "IDS_SHIP_MASTERY_STATUS_3"
+msgstr "To advance to the next mastery level, you must complete trials"
+
+msgid "IDS_SHIP_MASTERY_STATUS_4"
+msgstr "Congratulations! You have reached the maximum mastery level on this ship."
+
+msgid "IDS_SHIP_MASTERY_TASKS_AVAILABLE"
+msgstr "Trials available"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_AVAILABLE"
+msgstr "Trials available"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_BUTTON_OPEN"
+msgstr "Take Trials"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_COUNTER_TITLE"
+msgstr "Ships with active trials"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_0"
+msgstr "Battle with this ship and earn base experience to increase your mastery level."
+
+msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_1"
+msgstr "<body>To reach Mastery Level <h3>%(_threshold)s</h3>, you will need to complete mastery trials.</body>"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_2"
+msgstr "Earn base experience on this ship to gain access to trials. Once you complete the trials, you will advance to the next mastery level."
+
+msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_3"
+msgstr "Take the trials and complete them to advance to the next mastery level."
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_BUTTON_HINT"
+msgstr "Not enough base experience to access mastery trials"
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE"
+msgstr "Complete the trials. Each trial is completed in a single battle."
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE_1"
+msgstr "Complete any one trial."
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE_2"
+msgstr "Complete any 2 trials."
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TASKS_TITLE_3"
+msgstr "Complete all trials."
+
+msgid "IDS_SHIP_MASTERY_TRIALS_TITLE"
+msgstr "Mastery Trials"
+
+msgid "IDS_SORT_BY_MASTERY_RANK"
+msgstr "by mastery level"
+
+msgid "IDS_SOUND_MOD_SOVIET_8_MARCH_2"
+msgstr "Anna Shchetinina"
+
+msgid "IDS_SOUND_MOD_ZHANGLIAO"
+msgstr "Zhang Liao"
+
+msgid "IDS_SOVIET_8_MARCH_2"
+msgstr "Anna Shchetinina"
+
+msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS"
+msgstr "Restrictions"
+
+msgid "IDS_SSE_TASK_SHIP_RESTRICTIONS_DESC"
+msgstr "The battle quest can only be completed on specific ships."
+
+msgid "IDS_STAR_SAVED_DESCRIPTION"
+msgstr "You did not win, but you ranked 1st in experience on your team."
+
+msgid "IDS_SYS_MSG_HINT_LEFT_CLICK_TO_NAVIGATE_TO_SHIP_MASTERY"
+msgstr "Go to the 'Mastery' screen"
+
+msgid "IDS_SYS_MSG_MASTERY_RANK_INCREASED"
+msgstr "Mastery level increased"
+
+msgid "IDS_SYS_MSG_MASTERY_TASKS_AVAILABLE"
+msgstr "Mastery trials available"
+
+msgid "IDS_SYS_MSG_MASTERY_TASKS_DENIED"
+msgstr "Mastery trials have been reset"
+
+msgid "IDS_SYS_MSG_MASTERY_TASK_DONE"
+msgstr "Mastery trial completed"
+
+msgid "IDS_SYS_MSG_RECEIVED_SXP"
+msgstr "Ship experience received"
+
+msgid "IDS_SYS_MSG_SKIP_BRONZE_LEAGUE"
+msgstr "You have skipped the Bronze League"
+
+msgid "IDS_SYS_MSG_SKIP_SILVER_LEAGUE"
+msgstr "You have skipped the Silver League"
+
+msgid "IDS_TOOLTIP_BATTLE_BONUSES"
+msgstr "Rewards:"
+
+msgid "IDS_ZHANGLIAO"
+msgstr "Zhang Liao"
