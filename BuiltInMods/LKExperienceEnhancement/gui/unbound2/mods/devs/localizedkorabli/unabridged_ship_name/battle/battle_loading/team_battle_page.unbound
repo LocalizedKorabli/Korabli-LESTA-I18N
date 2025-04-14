@@ -1,1 +1,3 @@
 (def constant COLUMN_SHIP_WIDTH 241)
+(def constant COLUMN_SHIP_WIDTH_ONE_TEAM 510)
+# cswot = csw / csw0 * cswot0
