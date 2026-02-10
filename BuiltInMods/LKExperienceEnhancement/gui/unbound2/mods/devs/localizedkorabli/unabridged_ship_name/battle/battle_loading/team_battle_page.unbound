@@ -1,3 +1,4 @@
-(def constant COLUMN_SHIP_WIDTH 241)
-(def constant COLUMN_SHIP_WIDTH_ONE_TEAM 510)
+(def constant COLUMN_SHIP_WIDTH 230px)
+(def constant COLUMN_SHIP_WIDTH_ONE_TEAM 505px)
+(def constant COLUMN_EMOJI_WIDTH 30px)
 # cswot = csw / csw0 * cswot0
