@@ -827,9 +827,7 @@ msgid "IDS_ACCOUNT_COMPLETION_PASSWORD_DEFAULT_TEXT"
 msgstr "New password"
 
 msgid "IDS_ACCOUNT_COMPLETION_PASSWORD_WRONG_CHARACTERS"
-msgstr ""
-"You have entered an invalid character.\n"
-"Use only Latin characters, numbers, and underscores."
+msgstr "An invalid character has been entered. The password may contain Latin letters, digits, spaces, and special characters (~`!@#$%^&*()_-+={[}]|\\:;'\"<,>.?/)."
 
 msgid "IDS_ACCOUNT_COMPLETION_PROMO_BTN"
 msgstr "Create account"
@@ -2572,7 +2570,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SOVIETBB_COMPLETED"
 msgstr "Complete the \"In the Service of the Motherland\" collection."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SPACE_MUSEUM_COMPLETED"
-msgstr "Complete the “Space Era” collection."
+msgstr "Complete the \"Space Era\" collection."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_TFTM_108_COMPLETED"
 msgstr "Complete the entire \"The Transformers: The Movie 35th Anniversary\" collection."
@@ -2732,6 +2730,9 @@ msgstr "Destroy an enemy ship. Flooding damage must account for at least %(damag
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_LONGTIME_PA"
 msgstr "Survive in battle for over 10 minutes."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_LUKOMORYE"
+msgstr "Complete all progression levels in the battle between warriors and evil spirits."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MAINCALIBER_AMOUNT_1"
 msgstr "Get %(achievementCount)s \"High Caliber\" achievements."
@@ -3877,6 +3878,9 @@ msgstr "Liquidator"
 msgid "IDS_ACHIEVEMENT_LONGTIME_PA"
 msgstr "Weather Beaten"
 
+msgid "IDS_ACHIEVEMENT_LUKOMORYE"
+msgstr "Defense of Lukomorye"
+
 msgid "IDS_ACHIEVEMENT_MAINCALIBER_AMOUNT_1"
 msgstr "A Weighty Argument"
 
@@ -4154,7 +4158,7 @@ msgid "IDS_ACHIEVEMENT_RESET_UNTIL_ZERO"
 msgstr "Progress reset — execution unavailable"
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_BATTLE_TOURNAMENT"
-msgstr "Completed in Tournament Battles."
+msgstr "Can be completed in Tournament Battles."
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_CLAN"
 msgstr "Can be completed in Clan Battles."
@@ -4178,7 +4182,7 @@ msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_2AIRSHIPS"
 msgstr "Can be completed in Airship Escort."
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_ASYMM_BATTLE"
-msgstr "Completed in Asymmetric Battle."
+msgstr "Can be completed in Asymmetric Battles."
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_AXISVSALLIES"
 msgstr "Can be completed during the Axis vs. Allies event."
@@ -4227,6 +4231,9 @@ msgstr "Can be completed in the Savage Battle mode."
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_KEY"
 msgstr "Can be completed in Key Battles."
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_LUKOMORYE"
+msgstr "Can be completed during the \"Defense of Lukomorye\" event"
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_OPERATIONS"
 msgstr "Can be completed in Operations."
@@ -5230,6 +5237,9 @@ msgstr "Potential damage"
 msgid "IDS_AGRO_AVERAGE_TOOLTIP"
 msgstr "Average damage from ammunition fired at your warship by enemy ships"
 
+msgid "IDS_AGRO_DAMAGE_STAT"
+msgstr "Potential damage"
+
 msgid "IDS_AGRO_MAX"
 msgstr "Potential damage"
 
@@ -5778,6 +5788,12 @@ msgstr "All Achievements"
 msgid "IDS_ALL_ACHIEVEMENTS_EARNED"
 msgstr "You have received all achievements available at the moment"
 
+msgid "IDS_ALL_CONSUMABLE_RELOAD_TIME_CHANGED"
+msgstr "Reduced cooldown time of all consumables"
+
+msgid "IDS_ALL_CONSUMABLE_WORK_TIME_CHANGED"
+msgstr "All consumable action time extended"
+
 msgid "IDS_ALL_CREW_BUTTON"
 msgstr "ALL COMMANDERS"
 
@@ -5819,6 +5835,9 @@ msgstr "All time"
 
 msgid "IDS_ALL_VEHICLES"
 msgstr "All warships"
+
+msgid "IDS_ALL_WEAPONS_RELOAD_FACTOR_CHANGED"
+msgstr "Reload time of all armament is reduced"
 
 msgid "IDS_ALMANAC_BUTTON_REWARD_LOOTED"
 msgstr "Reward received"
@@ -5944,6 +5963,12 @@ msgstr " "
 
 msgid "IDS_AMMOTYPE_HE_EVENT_HW20"
 msgstr " "
+
+msgid "IDS_AMMOTYPE_HE_GORYNYCH"
+msgstr "HE"
+
+msgid "IDS_AMMOTYPE_TORPEDO_VODYANOI"
+msgstr "Ice Torpedoes"
 
 msgid "IDS_AMMUNITION"
 msgstr "Ammunition"
@@ -6543,6 +6568,12 @@ msgstr "Deck"
 msgid "IDS_ARMOR_CAS_FWDTRANS"
 msgstr "Internal Bulkhead"
 
+msgid "IDS_ARMOR_DESCRIPTION"
+msgstr "This tab shows the armor thickness in different parts of the ship."
+
+msgid "IDS_ARMOR_HEADER_DESCRIPTION"
+msgstr "Armor"
+
 msgid "IDS_ARMOR_INFO_DETONATION_DESCRIPTION"
 msgstr "After penetrating armor, a shell must arm inside the ship to detonate. If the shell caliber is too large for the armor, it will not arm and will pass through the ship, dealing only minimal damage."
 
@@ -6775,6 +6806,9 @@ msgstr "By providing intelligence data"
 
 msgid "IDS_ASSIST_SPOT_KILLS_TOOLTIP"
 msgstr "Total number of enemy ships to whose destruction you contributed by providing intelligence data"
+
+msgid "IDS_ASSIST_STAT"
+msgstr "Assisted in destruction"
 
 msgid "IDS_ASTRA_DOG"
 msgstr "Astra"
@@ -8130,6 +8164,12 @@ msgstr "You can earn more resources:"
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_SSE_CHAIN"
 msgstr "Number of Battle Pass Points you can get"
 
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_TEXT_BONUS_0"
+msgstr "Two tasks to choose from in the \"Defense of Lukomorye\" event"
+
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_TEXT_BONUS_0_TOOLTIP"
+msgstr "You will be able to choose one of two tasks to replace in the \"Defense of Lukomorye\" event"
+
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_TEXT_1"
 msgstr "Everything available in the Premium Pass"
 
@@ -8736,6 +8776,9 @@ msgstr "Battle duration"
 msgid "IDS_BATTLE_STATS_BATTLE_TIME_HINT"
 msgstr "Battle duration"
 
+msgid "IDS_BATTLE_STATS_BEST_PLAYERS"
+msgstr "BEST PLAYERS"
+
 msgid "IDS_BATTLE_STATS_BUILDING_DAMAGE_NOT_FOR_STATS"
 msgstr "Damage caused to onshore installations is not counted in the battle statistics on the Summary screen"
 
@@ -8827,7 +8870,7 @@ msgid "IDS_BATTLE_STATS_DAMAGED_BY_2"
 msgstr "Destroyed by secondary battery"
 
 msgid "IDS_BATTLE_STATS_DAMAGED_BY_20"
-msgstr "destroyed by the Filth"
+msgstr "destroyed by Morok"
 
 msgid "IDS_BATTLE_STATS_DAMAGED_BY_21"
 msgstr "exited via the Portal"
@@ -9869,6 +9912,9 @@ msgstr "Before training:"
 msgid "IDS_BELT"
 msgstr "Armor Belt"
 
+msgid "IDS_BEST_PLAYER_STAT"
+msgstr "The best of all"
+
 msgid "IDS_BEST_RANK"
 msgstr "Highest Rank"
 
@@ -10688,6 +10734,9 @@ msgstr "Filter ships suitable for the Seek for Pandora event"
 msgid "IDS_CAROUSEL_PCVE033_FILTER"
 msgstr "Filter ships suitable for the \"Aggression\" event"
 
+msgid "IDS_CAROUSEL_PCVE034_FILTER"
+msgstr "Filter ships suitable for the \"Defense of Lukomorye\" event"
+
 msgid "IDS_CAROUSEL_PCVE035_FILTER"
 msgstr "Filter ships suitable for the \"Deathmatch\" event"
 
@@ -11466,6 +11515,9 @@ msgstr "Select Seek for Pandora"
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE033"
 msgstr "Select \"Aggression\""
 
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE034"
+msgstr "Select Defense of Lukomorye"
+
 msgid "IDS_CHOOSE_MK_NAME"
 msgstr ""
 "Choose a name.\n"
@@ -11568,6 +11620,9 @@ msgstr "Fire and lock the camera on a flying shell or launched torpedo."
 
 msgid "IDS_CITADELS_OUTSIDER_HINT"
 msgstr "To hit the citadel, aim at the side of the ship near the waterline."
+
+msgid "IDS_CITADELS_STAT"
+msgstr "Citadel hits"
 
 msgid "IDS_CITADEL_HEALTH_REGENERATION_HIGH"
 msgstr "Citadel damage is repaired with increased efficiency"
@@ -13714,7 +13769,7 @@ msgid "IDS_COMMANDER_GEARING_PA"
 msgstr "Dr. Ecraseur"
 
 msgid "IDS_COMMANDER_GROZOVOY_PA"
-msgstr "Ivan the Terrible"
+msgstr "Ivan Grozny"
 
 msgid "IDS_COMMANDER_H2019_BORISANGLER"
 msgstr "Boris Angler"
@@ -14233,9 +14288,6 @@ msgstr "The engine boost mounted on aircraft of this type does not restore when 
 
 msgid "IDS_CONTEXT_PLANES_CANT_SLOWDOWN_IN_FLIGHT"
 msgstr "Aircraft of this type cannot slow down below their cruising speed"
-
-msgid "IDS_CONTEXT_RAGE_MODE_BETTER_SHOOT_SALVO"
-msgstr "Firing all turrets speeds up the fire adjustment process."
 
 msgid "IDS_CONTEXT_RAGE_MODE_CHARGED"
 msgstr "Press to use Combat Instructions"
@@ -15278,6 +15330,9 @@ msgstr "Zimbabwe"
 
 msgid "IDS_COUNT_OF_ALLIES_IN_AIRSHIP_ZONE"
 msgstr "Allies nearby: %(_countOfAllies)d"
+
+msgid "IDS_CP_CAPTURE_POINTS_STAT"
+msgstr "Capture points"
 
 msgid "IDS_CP_DEFEAT_CONDITION"
 msgstr "A team loses if its score reaches %s %s."
@@ -21527,13 +21582,16 @@ msgid "IDS_CURRENCY_CLAN_RESOURCE"
 msgstr "Oil"
 
 msgid "IDS_CURRENCY_CLIENTUM_1"
-msgstr "Battle Tokens"
+msgstr "Soul Crystals"
 
 msgid "IDS_CURRENCY_CLIENTUM_1_GET_DESCRIPTION"
-msgstr "Can be earned by progressing through combat missions of the event."
+msgstr "For completing combat missions, progressing through progression levels in update 26.10, and from bundles in the Armory during the event in updates 26.10 and 26.11."
 
 msgid "IDS_CURRENCY_CLIENTUM_1_SPEND_DESCRIPTION"
-msgstr "Required to enter temporary battle type."
+msgstr "For going into battle on the ships of the evil spirits — \"Gorynych\", \"Likho\", and \"Vodyanoi\" — during the \"Defense of Lukomorye\" event in update 26.10."
+
+msgid "IDS_CURRENCY_CLIENTUM_1_STATUS"
+msgstr "With the release of update 26.12, it will be written off without compensation"
 
 msgid "IDS_CURRENCY_CLIENTUM_2"
 msgstr "Progress tokens"
@@ -21662,16 +21720,16 @@ msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
 msgstr "Temporary resource for the \"American Battleships\" event. With the release of Update 26.9, the tokens will be removed without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_4"
-msgstr "Equilibrium Tokens"
+msgstr "Old Russian Tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_4_GET_DESCRIPTION"
-msgstr "For completing event progress levels within the limited time in update 26.8, as well as from bundles in the Armory until the end of update 26.8."
+msgstr "For completing combat missions within a limited time and from sets in the Armory until the end of update 26.10."
 
 msgid "IDS_CURRENCY_EVENTUM_4_SPEND_DESCRIPTION"
-msgstr "For rewards in the Admiralty category \"Etheria: Ice and Steam\", which include rare and special commanders, elite and rare commander manuals, the tier IX cruiser Danzig with the permanent camouflage \"Steam and Steel\" and a flag, the permanent camouflage \"Septet's Spear\" for the tier X cruiser Zaō, as well as other property until the end of update 26.8."
+msgstr "For the bundle with the new Tier VIII cruiser \"Knyaginya Olga\" with the permanent camouflage \"Princely Rook\" and a flag, for the \"Chest\" containers, as well as other items for a limited time in Update 26.10."
 
 msgid "IDS_CURRENCY_EVENTUM_4_STATUS"
-msgstr "Temporary resource of the event \"Guardians of Etheria: Ice and Steam\". With the release of update 26.9, tokens will be written off without compensation."
+msgstr "Temporary resource. With the release of update 26.11, tokens will be written off without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_5"
 msgstr "Map Fragments"
@@ -21686,16 +21744,16 @@ msgid "IDS_CURRENCY_EVENTUM_5_STATUS"
 msgstr "Temporary resource of the \"11 Years: Once Upon a Time in the Wild Lands\" event. With the release of update 26.11, Map Fragments will be written off without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_6"
-msgstr "Summer Tokens"
+msgstr "Koschei's Gold Coins"
 
 msgid "IDS_CURRENCY_EVENTUM_6_GET_DESCRIPTION"
-msgstr "For completing combat missions and from bundles in the Premium Shop for a limited time in update 26.8, for progressing through Post-progression levels in the Premium Battle Pass, and also from bundles in the Armory until the end of update 26.8."
+msgstr "For completing the progression levels of \"Defense of Lukomorye\" during the event, for completing combat missions until the end of update 26.10, as well as from bundles in the Armory for a limited time in updates 26.10 and 26.11."
 
 msgid "IDS_CURRENCY_EVENTUM_6_SPEND_DESCRIPTION"
-msgstr "For random bundles including Tier X cruiser Kaimon with the permanent camouflage \"Junpūmanpan\", Tier IX battleship Bernadotte, premium containers \"Premium Ship VIII. Collector's Reserves\" and \"Lesta Games\", for premium containers \"Black Box\", as well as on other property until the end of update 26.8."
+msgstr "For rewards in the Admiralty subcategory \"Koshchei's Power,\" including the supercruiser \"Ivan Grozny,\" the rare commander Dobrozhir Drobodanovich, the \"Hare\" containers, as well as other property, for a limited time in updates 26.10 and 26.11."
 
 msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
-msgstr "Temporary resource of the event \"On the Shore of Summer\". With the release of update 26.9, tokens will be written off without compensation."
+msgstr "Temporary resource of the event \"Defense of Lukomorye\". With the release of update 26.12, tokens will be written off without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_7"
 msgstr "German tokens"
@@ -21728,10 +21786,10 @@ msgid "IDS_CURRENCY_EVENTUM_9_GET_DESCRIPTION"
 msgstr "From random bundles in the Armory until the end of Update 25.3."
 
 msgid "IDS_CURRENCY_EVENTUM_9_SPEND_DESCRIPTION"
-msgstr "On random bundles containing “Premium Ship II–IV,” “Premium Ship V,” “Premium Ship VI,” “Premium Ship VIII,” and “Premium Ship IX” containers, Research Points, “Elite Bonuses” containers, and other items until the end of Update 25.3."
+msgstr "On random bundles containing \"Premium Ship II–IV,\" \"Premium Ship V,\" \"Premium Ship VI,\" \"Premium Ship VIII,\" and \"Premium Ship IX\" containers, Research Points, \"Elite Bonuses\" containers, and other items until the end of Update 25.3."
 
 msgid "IDS_CURRENCY_EVENTUM_9_STATUS"
-msgstr "A temporary resource of the “Naval Trophies” event. It will be removed without compensation with the release of Update 25.4."
+msgstr "A temporary resource of the \"Naval Trophies\" event. It will be removed without compensation with the release of Update 25.4."
 
 msgid "IDS_CURRENCY_EVENTUM_CN"
 msgstr "Supply Vouchers"
@@ -21940,7 +21998,7 @@ msgid "IDS_CURRENCY_STEEL"
 msgstr "Steel"
 
 msgid "IDS_CURRENCY_STEEL_GET_DESCRIPTION"
-msgstr "Can be earned by fighting Ranked and Clan Battles, as well as by participating in various events."
+msgstr "Can be earned by fighting Ranked and Rating Battles, as well as by participating in various events."
 
 msgid "IDS_CURRENCY_STEEL_SPEND_DESCRIPTION"
 msgstr "Special and Premium ships in the Armory."
@@ -22182,6 +22240,9 @@ msgstr "Aircraft carrier is under attack!"
 msgid "IDS_DAMAGE_SELECTED_PROJECTILE_DESCRIPTION_INFO_TOOLTIP"
 msgstr "When a ship is hit by a main battery shell, 0%, 10%, 33%, or 100% of the shell's maximum damage may be dealt. These values correspond to hit results that are accompanied by ribbons in battle. If a shell penetrates a main or secondary battery gun, or a torpedo tube, it deals 10% of the maximum damage."
 
+msgid "IDS_DAMAGE_STAT"
+msgstr "Damage Caused"
+
 msgid "IDS_DAMAGE_WIDGET"
 msgstr "Damage Indicator"
 
@@ -22377,6 +22438,9 @@ msgstr "Destroy enemy ships and earn points for victory"
 msgid "IDS_DEATHMATCH_TITLE"
 msgstr "Deathmatch"
 
+msgid "IDS_DECAL_NOT_RECEIVED_ATTENTION"
+msgstr "Not received"
+
 msgid "IDS_DECAL_PCED001_NAME"
 msgstr "Russian Tricolor"
 
@@ -22485,6 +22549,9 @@ msgstr "Alpha Tester"
 msgid "IDS_DECAL_PCED036_NAME"
 msgstr "Beta Tester"
 
+msgid "IDS_DECAL_PCED037_NAME"
+msgstr "Firebird"
+
 msgid "IDS_DECAL_PCED038_NAME"
 msgstr "For Astrillia!"
 
@@ -22532,6 +22599,45 @@ msgstr "Hot summer"
 
 msgid "IDS_DECAL_PCED053_NAME"
 msgstr "Red panda"
+
+msgid "IDS_DECAL_PCED501_DESCRIPTION"
+msgstr "Results on this ship in Co-op, Random, Ranked, and Rating Battles, as well as in Brawls and Operations, are counted. Maximum value: 9,999."
+
+msgid "IDS_DECAL_PCED501_NAME"
+msgstr "Destruction"
+
+msgid "IDS_DECAL_PCED502_DESCRIPTION"
+msgstr "Results on this ship in Co-op, Random, Ranked, and Rating Battles, as well as in Brawls and Operations, are counted. Maximum value: 9,999."
+
+msgid "IDS_DECAL_PCED502_NAME"
+msgstr "Victories"
+
+msgid "IDS_DECAL_PCED503_NAME"
+msgstr "Mastery"
+
+msgid "IDS_DECAL_PCED503_PROGRESS_TITLE"
+msgstr "Mastery Level:"
+
+msgid "IDS_DECAL_PCED503_SUBST_DESCRIPTION"
+msgstr "To receive the decal, reach mastery level %(_value)s on the selected ship."
+
+msgid "IDS_DECAL_PCED504_DESCRIPTION"
+msgstr "To receive the decal, reach Rank 1 of the Bronze League or higher by earning 20 stars for wins in Ranked Battles."
+
+msgid "IDS_DECAL_PCED504_NAME"
+msgstr "Rank"
+
+msgid "IDS_DECAL_PCED505_DESCRIPTION"
+msgstr "To get the decal, reach Silver League or higher in Rating Battles."
+
+msgid "IDS_DECAL_PCED505_NAME"
+msgstr "Rating"
+
+msgid "IDS_DECAL_PCED506_DESCRIPTION"
+msgstr "All battles on this ship in which you received the \"Best of the Winners\" status are counted. Maximum value: 9,999."
+
+msgid "IDS_DECAL_PCED506_NAME"
+msgstr "Best of the Winners"
 
 msgid "IDS_DECK"
 msgstr "Deck"
@@ -22739,7 +22845,7 @@ msgid "IDS_DESCRIPTION_PCZA041_BD25_PUZZLE"
 msgstr "<p>Close your eyes and count to ten. What do you see? Perhaps visions of past battles flash before your eyes: the roar of artillery, the silhouettes of steel giants, the spray of stormy waves, the faces of loyal comrades... Or maybe you are looking strictly ahead—into the unknown?</p><p class=\"p_spacing\"> </p><p>Make a wish. Whatever awaits you beyond the horizon, the ten years of battles behind you are forever in your heart, and that is why you steer your ship so confidently on the only true course.</p>"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
-msgstr "Secondary battery guns cannot be used in this battle."
+msgstr "You cannot use secondary battery guns."
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
 msgstr "You cannot use certain types of consumable."
@@ -23145,6 +23251,12 @@ msgstr "The effects of the test upgrade have already been applied to the ship's 
 
 msgid "IDS_DESELECT_AIRPLANES"
 msgstr "Deselect Squadron"
+
+msgid "IDS_DESIGNATOR_NOMINATION"
+msgstr "SCOUT"
+
+msgid "IDS_DESIGNATOR_NOMINATION_DESC"
+msgstr "Help your team inflict a significant amount damage by spotting enemy targets"
 
 msgid "IDS_DESTROY"
 msgstr "Destroy"
@@ -23703,6 +23815,9 @@ msgstr ""
 "\n"
 "Armor will cause these shells to ricochet if they impact at a sharp angle."
 
+msgid "IDS_DOCK_AMMO_DESCRIPTION_AP_GORYNYCH_SEC"
+msgstr "<p>Deals significant damage by penetrating the armor and exploding inside the ship. The closer the distance to the target at the moment of salvo, the higher the penetration. They have a chance of ricochet and over-penetration.</p><p class=\"p_spacing\"> </p><p>They restore the ship's HP and shield when dealing damage to the enemy.</p>"
+
 msgid "IDS_DOCK_AMMO_DESCRIPTION_AP_SEC"
 msgstr "<p>Penetrates heavily armored targets, explodes inside the ship, and deals significant damage.</p><p class=\"p_spacing\"> </p><p>If the armor is too thin, the shell will pass through the ship, dealing minor damage.</p><p class=\"p_spacing\"> </p><p>Armor causes ricochet when a shell hits at a sharp angle.</p>"
 
@@ -23800,6 +23915,9 @@ msgstr ""
 "Effective against lightly armored targets.\n"
 "\n"
 "These shells have the potential to deal significant damage and high chances of causing fire or incapacitating modules."
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_HE_GORYNYCH"
+msgstr "<p>They can cause fires and incapacitate modules. Armor penetration is low and does not depend on distance.</p><p class=\"p_spacing\"> </p><p>The flame from exploded shells remains on the water, deals damage to the enemy, and causes fires.</p>"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_HE_SEC"
 msgstr "<p>Targets lightly armored targets and deals significant potential damage.</p><p class=\"p_spacing\"> </p><p>Has a high chance of setting the ship on fire and disabling modules.</p>"
@@ -23911,6 +24029,9 @@ msgstr "<p>Home in on enemy ships, deal significant damage, and can cause floodi
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUPERSHIP"
 msgstr "Most effective against large, armored targets. Maneuverable ships have high chances of dodging torpedo attacks."
 
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_VODYANOI"
+msgstr "<p>They glide across the water, fettering the enemy with bitter frost.</p><p class=\"p_spacing\"> </p><p>They deal significant damage and reduce the enemy's movement speed. They can cause flooding. They are most effective against large and low-maneuverability targets.</p><p>They restore the ship's HP when dealing damage to the enemy.</p>"
+
 msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_DEPTHCHARGE"
 msgstr "Depth Charges (DC)"
 
@@ -23940,6 +24061,9 @@ msgstr "Armor-Piercing Bubbles"
 
 msgid "IDS_DOCK_AMMO_TITLE_AP_EVENT_HW20"
 msgstr "Armor-Piercing Shells (AP)"
+
+msgid "IDS_DOCK_AMMO_TITLE_AP_GORYNYCH_SEC"
+msgstr "Ghoul's Projectiles"
 
 msgid "IDS_DOCK_AMMO_TITLE_AP_SEC"
 msgstr "Armor-Piercing Shells (AP)"
@@ -24012,6 +24136,9 @@ msgstr "Artillery Mines"
 
 msgid "IDS_DOCK_AMMO_TITLE_HE_EVENT_HW20"
 msgstr "High-Explosive Shells (HE)"
+
+msgid "IDS_DOCK_AMMO_TITLE_HE_GORYNYCH"
+msgstr "Fire Shells"
 
 msgid "IDS_DOCK_AMMO_TITLE_HE_SEC"
 msgstr "High-Explosive Shells (HE)"
@@ -24108,6 +24235,9 @@ msgstr "Acoustic Torpedoes"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUPERSHIP"
 msgstr "Torpedoes"
+
+msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_VODYANOI"
+msgstr "Ice Torpedoes"
 
 msgid "IDS_DOCK_BACK_TO_NATION"
 msgstr "To the Tech Tree"
@@ -24572,7 +24702,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY308_HEALALL_PVP"
 msgstr "<p>Restores 10,000 HP for all allied ships.</p><p class=\"p_spacing\"> </p><p>HP restoration efficiency doubles if your remaining allies are fewer in number than the enemy ships.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY309_SNIPER_PVP"
-msgstr "Significantly increases main battery gun firing accuracy."
+msgstr "Significantly increases main battery gun firing accuracy and speeds up the reloading of all weapons."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY310_HEALZONE_PVP"
 msgstr "<p>Creates a repair zone within a 5 km radius of the ship that recovers the ship's own HP and her allied ships HP at a rate of 500 HP per second.</p><p class=\"p_spacing\"> </p><p>HP restoration efficiency doubles if your remaining allies are fewer in number than the enemy ships.</p>"
@@ -24725,10 +24855,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY418_BUFFSSHIFT_DAMAGERESIST"
 msgstr "Absorbs damage dealt to the ship."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY500_GODEEP"
-msgstr ""
-"The ship submerges for a short period of time.\n"
-"When submerged, enemy shells, torpedoes, and waves won't deal any damage to your ship.\n"
-"While underwater, maneuverability is preserved and the ship's speed is increased."
+msgstr "Submerges the ship underwater, extinguishes fires, increases maneuverability, and temporarily blocks armament. The ship's consumables and combat instructions continue to work."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY501_BUFFSSHIFT_VAMPYRE"
 msgstr "Regenerates HP when damage is dealt to enemy ships."
@@ -24764,34 +24891,34 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY513_2025WT_ADDBB"
 msgstr "<p>Calls the Fusō battleship-automaton.</p><p class=\"p_spacing\"> </p><p>When entering battle, the automaton permanently restores 30 hp per second to your ship. Bonuses from identical automatons stack.</p><p class=\"p_spacing\"> </p><p>Each use consumes one charge of all 'Signal' type consumables. Consumable charges are replenished using 'Signal Generator' battle instructions.</p><p class=\"p_spacing\"> </p><p>Aim at an enemy ship and press [KEY_F3] to focus automaton fire on that ship.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY514_2025WT_STEALTHTELEPORT"
-msgstr "Instantly moves your ship 3 km in the direction of view. Reduces your ship's detectability to 2 km. Reduces the increased detectability time after firing Main Battery guns to 1 second."
+msgstr "Instantly moves your ship in the direction of view. Reduces your ship's detectability. Reduces the increased detectability time after firing Main Battery guns."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY515_2025WT_STEALTHHEAL"
-msgstr "Reduces ship detectability to 2 km and restores 2,500 hp per second. Ship detectability immediately after firing is reduced to the minimum."
+msgstr "<p>Reduces your ship's detectability. Reduces the increased detectability time after firing main battery guns. Disables secondary armament.</p><p class=\"p_spacing\"> </p><p>Partially restores your ship's HP, and when HP is full, restores its shield.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY516_2025WT_PARTICLEBARRIER"
-msgstr "Creates a shield around your ship that blocks and accumulates all damage received. After the duration ends, the shield explodes, dealing all accumulated damage to every enemy within the consumable's area of effect."
+msgstr "Creates a shield around your ship that reduces and accumulates all damage received. After the duration ends, the shield explodes, dealing all accumulated damage to every enemy within the consumable's area of effect."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY517_2025WT_HOUNDSVAMPIRISM"
 msgstr "Converts 25% of damage dealt into hp for your ship and 10% for each allied ship. Increases the rate of fire of all your ship's armament by 30%."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY518_2025WT_HOUNDSRESIST"
-msgstr "Reduces damage received by 70% for all ships on your team."
+msgstr "Reduces all damage received by allies."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY519_2025WT_HOUNDSBATTLEFORSAGE"
 msgstr "Significantly speeds up the ship for a short period."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY520_2025WT_HOUNDSMASSHEAL"
-msgstr "Instantly restores 7,500 hp to each ship on your team."
+msgstr "Instantly restores a portion of HP of each ship on your team."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY521_2025WT_HOUNDSSPEEDBOOSTER"
-msgstr "Increases the speed and maneuverability of all ships on your team by 40%."
+msgstr "<p>Increases the speed and maneuverability of all ships on your team.</p><p class=\"p_spacing\"> </p><p>Your ship receives an increased bonus to maneuverability.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY522_2025WT_HOUNDSROTARYAC"
-msgstr "Reduces reload time by 10% and enhances other Main Battery gun characteristics on your ship for every 10 hits on a single enemy ship. Progress resets upon hitting another target."
+msgstr "Enhances Main Battery gun characteristics on your ship for every few hits on a single enemy ship. Progress resets upon hitting another target."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY525_2025WT_HOUNDSINVULNERABLE"
-msgstr "Grants invulnerability to all damage types."
+msgstr "Protects the ship from taking damage."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY527_2025WT_WT3_TELEPORT"
 msgstr "Teleports the ship to a random Hound. All summoned automatons will be teleported with you."
@@ -24809,16 +24936,16 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY532_2025WT_QUANTUMLEAP"
 msgstr "<p>7 seconds after activation, teleports your ship to a random Hound ship within 10 km.</p><p class=\"p_spacing\"> </p><p>Consumable is inactive if there are no Hound ships within 10 km.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY533_2025WT_HOUNDSMEGAHEAL"
-msgstr "Restores 1,000 hp per second."
+msgstr "Partially restores the ship's HP."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY534_2025WT_HOUNDSSLOWDOWN"
 msgstr "Hitting an enemy ship with Main Battery shells reduces its speed and maneuverability by 50%. Effect lasts 20 seconds."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY535_2025WT_HOUNDSSUPERDESPERATE"
-msgstr "Grants a permanent 25% bonus to damage dealt and 25% to the reload speed of all armament. However, while the consumable is active, your ship continuously takes damage. Bonus is lost if your ship is destroyed."
+msgstr "<p>Grants permanent bonuses to damage dealt and rate of fire, which increase with each use.</p><p class=\"p_spacing\"> </p><p>Maximum bonus level: 3. If your ship is destroyed, the bonuses are lost.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY536_2025WT_HOUNDSLOSSCOUNTER"
-msgstr "Grants a permanent 5% bonus to rate of fire, durability, and ship maneuverability, and restores hp. The number of consumables increases with each lost ally. Bonuses and accumulated consumable charges are lost if your ship is destroyed."
+msgstr "<p>Grants a permanent bonus to rate of fire, which increases with each use.</p><p class=\"p_spacing\"> </p><p>Maximum bonus level: 5. When your ship is destroyed, the bonus is lost.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY537_2025WT_HOUNDSLASTCHANSE"
 msgstr "Grants invulnerability to all damage if the ship's durability reaches 1% while the consumable is active."
@@ -24852,6 +24979,21 @@ msgstr "Teleports your ship to one of the Key Areas captured by Ermelinda Jung."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY547_2025WT_WT3_TELEPORT2"
 msgstr "Teleports your ship to a Key Area that is captured by the Hounds and has no Hounds present. You cannot teleport to the Key Area you are currently on."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY548_2026WT_GORYNYCH_CHARGE"
+msgstr "Significantly speeds up the ship for a short period."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY549_2026WT_GORYNYCH_GREED"
+msgstr "Moves the ship to the point where the Firebird's feather is located."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY550_2026WT_GORYNYCH_GMSBUFF"
+msgstr "Increases armor penetration and reload speed of intermediate battery guns."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY551_2026WT_VODYANOI_TURN"
+msgstr "Turns the ship 180°."
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY552_2026WT_CRASH_CREW_AUTO"
+msgstr "Restores the shield's combat effectiveness while you are in Morok."
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY001_CRASHCREW"
 msgstr "Damage Control Party"
@@ -25196,7 +25338,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY308_HEALALL_PVP"
 msgstr "Heal Radiance"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY309_SNIPER_PVP"
-msgstr "Magnetic Guidance"
+msgstr "Keen Eye"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY310_HEALZONE_PVP"
 msgstr "Repair Zone"
@@ -25340,7 +25482,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY418_BUFFSSHIFT_DAMAGERESIST"
 msgstr "Damage Absorption"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY500_GODEEP"
-msgstr "Dive"
+msgstr "Lord of the Sea"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY501_BUFFSSHIFT_VAMPYRE"
 msgstr "Vampirism"
@@ -25376,34 +25518,34 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY513_2025WT_ADDBB"
 msgstr "Signal: Battleship I"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY514_2025WT_STEALTHTELEPORT"
-msgstr "Quantum Leap"
+msgstr "The Flying Ship"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY515_2025WT_STEALTHHEAL"
-msgstr "Stealth Module"
+msgstr "Invisibility Cap"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY516_2025WT_PARTICLEBARRIER"
-msgstr "Particle Barrier"
+msgstr "The Limit of Patience"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY517_2025WT_HOUNDSVAMPIRISM"
 msgstr "Armor Extraction"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY518_2025WT_HOUNDSRESIST"
-msgstr "Team Shield"
+msgstr "Druzhina's Barrier"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY519_2025WT_HOUNDSBATTLEFORSAGE"
-msgstr "Nitro Accelerator"
+msgstr "Seven-league Boots"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY520_2025WT_HOUNDSMASSHEAL"
-msgstr "Team Durability Charge"
+msgstr "Rejuvenating Apples"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY521_2025WT_HOUNDSSPEEDBOOSTER"
-msgstr "Team Engine Boost"
+msgstr "Heroic Agility"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY522_2025WT_HOUNDSROTARYAC"
-msgstr "Rotary Fire"
+msgstr "True Arrow"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY525_2025WT_HOUNDSINVULNERABLE"
-msgstr "Energy Shield"
+msgstr "Shield-amulet"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY527_2025WT_WT3_TELEPORT"
 msgstr "Quantum Pursuit"
@@ -25421,16 +25563,16 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY532_2025WT_QUANTUMLEAP"
 msgstr "Quantum Pursuit"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY533_2025WT_HOUNDSMEGAHEAL"
-msgstr "Mechanism Regeneration"
+msgstr "Living Water"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY534_2025WT_HOUNDSSLOWDOWN"
 msgstr "Slowing Shells"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY535_2025WT_HOUNDSSUPERDESPERATE"
-msgstr "Toxic Filler Shells"
+msgstr "Kladenets Sword"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY536_2025WT_HOUNDSLOSSCOUNTER"
-msgstr "Sunken Allies' Energy"
+msgstr "Gallant Daring"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY537_2025WT_HOUNDSLASTCHANSE"
 msgstr "Emergency Repair Module"
@@ -25464,6 +25606,21 @@ msgstr "Quantum Invasion"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY547_2025WT_WT3_TELEPORT2"
 msgstr "Quantum Offensive"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY548_2026WT_GORYNYCH_CHARGE"
+msgstr "Seven-league Boots"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY549_2026WT_GORYNYCH_GREED"
+msgstr "Dragon's Greed"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY550_2026WT_GORYNYCH_GMSBUFF"
+msgstr "Snake's Breath"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY551_2026WT_VODYANOI_TURN"
+msgstr "Little hut, little hut..."
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY552_2026WT_CRASH_CREW_AUTO"
+msgstr "Devourer of Morok"
 
 msgid "IDS_DOCK_CONSUME_TITLE_REGENERATIONHPSPEED_WORKTIME_YAMAMOTO"
 msgstr "Health Recovery"
@@ -25537,14 +25694,23 @@ msgstr "Immediate Main Battery Recalibration"
 msgid "IDS_DOCK_RAGE_MODE_TITLE_MANEUVERABILITY_ACCURACY"
 msgstr "Operational Evasive Maneuvers"
 
+msgid "IDS_DOCK_RAGE_MODE_TITLE_NW_GORYNYCH"
+msgstr "Morok Comes"
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_NW_VODYANOI"
+msgstr "Ice Blizzard"
+
 msgid "IDS_DOCK_RAGE_MODE_TITLE_POTENTIAL_DAMAGE"
 msgstr "Operational Squadron Preparation"
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_POTENTIAL_DAMAGE_SHINANO"
 msgstr "Operational Repair Activities"
 
+msgid "IDS_DOCK_RAGE_MODE_TITLE_SECONDARY_ARTILLERY_BUFF"
+msgstr "Immediate Intermediate Battery Recalibration"
+
 msgid "IDS_DOCK_RAGE_MODE_TITLE_SHIP_FRAG"
-msgstr "O.S.D. 'Zeus'"
+msgstr "Embraces of Nav"
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_SNIPER_MAIN_GUNS"
 msgstr "Operational Control Over Combat Crews"
@@ -28830,6 +28996,12 @@ msgstr "For outstanding skills and heroism demonstrated for 11 years."
 msgid "IDS_DOGTAG_PCNB481_NAME"
 msgstr "For Meritorious Service"
 
+msgid "IDS_DOGTAG_PCNB482_DESCRIPTION"
+msgstr "The Firebird — a wondrous creature with fiery plumage, whose light can dispel even the thickest darkness. Many fairy-tale heroes set off in search of the magic bird, unafraid of the dangers and difficult trials that lay in wait along the way."
+
+msgid "IDS_DOGTAG_PCNB482_NAME"
+msgstr "The Firebird's Feather"
+
 msgid "IDS_DOGTAG_PCNB999_DESCRIPTION"
 msgstr "The patch is a work in progress."
 
@@ -30394,6 +30566,12 @@ msgstr "Transformers Memorable Moments"
 
 msgid "IDS_EIGHTH_SOVIETBBARC_NAME"
 msgstr "Russian Shipbuilders II"
+
+msgid "IDS_ELEMENTALIST_NOMINATION"
+msgstr "SABOTEUR"
+
+msgid "IDS_ELEMENTALIST_NOMINATION_DESC"
+msgstr "Dealt a significant amount of damage to enemy ships using fires and flooding"
 
 msgid "IDS_ELIONOR_ANIME"
 msgstr "Elinor Sirendal"
@@ -32145,7 +32323,7 @@ msgid "IDS_EXCHANGE_FOR"
 msgstr "for"
 
 msgid "IDS_EXCHANGE_FOR_SHIP_COINS"
-msgstr "Obtain the warrant"
+msgstr "Obtain via the warrant"
 
 msgid "IDS_EXCHANGE_GOLD"
 msgstr "EXCHANGE SILVER"
@@ -32240,6 +32418,9 @@ msgstr "End date: %(_date)s"
 msgid "IDS_EXP_LEFT"
 msgstr "XP needed:"
 
+msgid "IDS_EXP_STAT"
+msgstr "Base XP"
+
 msgid "IDS_EXP_TO_NEXT_LOOTBOX"
 msgstr "To the next container:"
 
@@ -32292,6 +32473,24 @@ msgstr "FAILED"
 
 msgid "IDS_FAILURE"
 msgstr "Raid failed"
+
+msgid "IDS_FAKE_SLOT_PARAMETER_MEASURE_KILOMETERS"
+msgstr " km"
+
+msgid "IDS_FAKE_SLOT_PARAMETER_MEASURE_KNOTS_PER_SECOND"
+msgstr " knots/s"
+
+msgid "IDS_FAKE_SLOT_PARAMETER_MEASURE_METERS"
+msgstr " m"
+
+msgid "IDS_FAKE_SLOT_PARAMETER_MEASURE_PERCENTAGES"
+msgstr " %"
+
+msgid "IDS_FAKE_SLOT_PARAMETER_MEASURE_POINTS"
+msgstr " units"
+
+msgid "IDS_FAKE_SLOT_PARAMETER_MEASURE_SECONDS"
+msgstr " s"
 
 msgid "IDS_FAR"
 msgstr "Far"
@@ -33916,6 +34115,12 @@ msgstr "COMPLETE TRAINING"
 msgid "IDS_FINISH_RETRAINING_LOWER_CASE_BUTTON"
 msgstr "Complete training"
 
+msgid "IDS_FIREPOWER_NOMINATION"
+msgstr "EXTERMINATOR"
+
+msgid "IDS_FIREPOWER_NOMINATION_DESC"
+msgstr "Dealt a significant amount of damage to enemy ships"
+
 msgid "IDS_FIREPROOF_RANK"
 msgstr "You cannot lose this Rank."
 
@@ -34132,6 +34337,78 @@ msgstr "Lock target"
 msgid "IDS_FIXING_TARGET_POSITION_PREF_TOOLTIP_DESCRIPTION"
 msgstr "Target enemy ship positioned closest to the center of the screen. Target should be within firing range."
 
+msgid "IDS_FK_GORYNYCH_CONSUMABLE_COST"
+msgstr "Consumption of shield combat capability"
+
+msgid "IDS_FK_PARAMETER_ALL_WEAPON_RELOAD"
+msgstr "All armament reload time"
+
+msgid "IDS_FK_PARAMETER_ALL_WEAPON_RESIST"
+msgstr "Damage received of all types"
+
+msgid "IDS_FK_PARAMETER_ARMOR_PENETRATION"
+msgstr "Armor Penetration Capacity"
+
+msgid "IDS_FK_PARAMETER_CIRCLE_RANGE"
+msgstr "Action radius"
+
+msgid "IDS_FK_PARAMETER_DAMAGE"
+msgstr "Damage ability"
+
+msgid "IDS_FK_PARAMETER_GUN_RELOAD"
+msgstr "Main battery reload time"
+
+msgid "IDS_FK_PARAMETER_GUN_TA_RELOAD"
+msgstr "Main battery and torpedo tube reload time"
+
+msgid "IDS_FK_PARAMETER_HEAL_HS"
+msgstr "Your ship HP"
+
+msgid "IDS_FK_PARAMETER_HEAL_PER_SECOND"
+msgstr "HP per second"
+
+msgid "IDS_FK_PARAMETER_HEAL_TEAM"
+msgstr "Allied ships HP"
+
+msgid "IDS_FK_PARAMETER_HIT_COUNT"
+msgstr "Number of hits for bonus"
+
+msgid "IDS_FK_PARAMETER_ICE_DAMAGE"
+msgstr "Damage as a percentage of the target's maximum HP"
+
+msgid "IDS_FK_PARAMETER_RELOADTIME"
+msgstr "Intermediate battery reload time"
+
+msgid "IDS_FK_PARAMETER_RUDDER_POWER"
+msgstr "Rudder efficiency"
+
+msgid "IDS_FK_PARAMETER_RUDDER_TIME"
+msgstr "Rudder shift time"
+
+msgid "IDS_FK_PARAMETER_SHARE_OF_DAMAGE"
+msgstr "Damage as a percentage of the target's maximum HP"
+
+msgid "IDS_FK_PARAMETER_SPEED_UP"
+msgstr "Ship speed"
+
+msgid "IDS_FK_PARAMETER_TELEPORT_MAX_DISTANCE"
+msgstr "Maximum travel distance"
+
+msgid "IDS_FK_PARAMETER_TELEPORT_RADIUS"
+msgstr "Maximum travel distance"
+
+msgid "IDS_FK_PARAMETER_TIME_OF_VISIBILITY_AFTER_SHOT"
+msgstr "Duration of increased ship detectability after firing a shell"
+
+msgid "IDS_FK_PARAMETER_TIME_SPEED_UP"
+msgstr "Time taken to reach full engine power when accelerating"
+
+msgid "IDS_FK_PARAMETER_VISIBILITY_MIN_DISTANCE"
+msgstr "Detectability range by sea"
+
+msgid "IDS_FK_RAGE_MODE_GORYNYCH_RADIUS"
+msgstr "Reducing the radius of the safe zone"
+
 msgid "IDS_FLAGS_QUALITY"
 msgstr "Signal Flags"
 
@@ -34249,6 +34526,9 @@ msgstr "7×7"
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE033"
 msgstr "12×12"
 
+msgid "IDS_FORMAT_EVENTBATTLE_PCVE034"
+msgstr "6×1"
+
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE035"
 msgstr "1х8"
 
@@ -34362,6 +34642,9 @@ msgstr "Naval Uniforms from World War II"
 
 msgid "IDS_FOURTH_YAMSUBCOLLECTION_NAME"
 msgstr "Ships"
+
+msgid "IDS_FRAG_STAT"
+msgstr "Destroyed ships"
 
 msgid "IDS_FRANCE"
 msgstr "France"
@@ -37213,6 +37496,9 @@ msgstr "Torpedo tubes"
 msgid "IDS_HELP_TORPEDO_FOCUSING"
 msgstr "Torpedoes Are Being Aimed at You"
 
+msgid "IDS_HELP_VISIBILITY_AFTER_SHOOT_IN_SMOKE"
+msgstr "Detectability range after firing from smoke"
+
 msgid "IDS_HELP_VOLLEY_RANGE"
 msgstr "Volley Range"
 
@@ -38283,16 +38569,6 @@ msgstr "Hotkey reserved"
 msgid "IDS_HOT_ROD"
 msgstr "Hot Rod"
 
-msgid "IDS_HOUNDS_ALIVE_AT_THE_END_FOR_HOUND"
-msgstr ""
-"Hounds alive\n"
-"at battle end"
-
-msgid "IDS_HOUNDS_ALIVE_AT_THE_END_FOR_WAFFENTRAGER"
-msgstr ""
-"Hounds alive\n"
-"at battle end"
-
 msgid "IDS_HOUNDS_LEADER_1"
 msgstr "Hounds! The enemy has started charging the evacuation systems to escape! We must destroy the ship before charging completes!"
 
@@ -38346,9 +38622,6 @@ msgstr "Zeus weapon activating. Use consumables to reduce damage for you and you
 
 msgid "IDS_HOUNDS_LEADER_9"
 msgstr "Ermelinda's ship destroyed! Excellent work, Hounds!"
-
-msgid "IDS_HOUNDS_WON"
-msgstr "HOUNDS VICTORIOUS"
 
 msgid "IDS_HOUR"
 msgstr "h"
@@ -39593,15 +39866,11 @@ msgstr "Alexander Kharitonov"
 msgid "IDS_KILLED_BY_YOURSELF"
 msgstr "Destroyed by you"
 
-msgid "IDS_KILLED_HOUNDS_QTY_FOR_HOUND"
-msgstr ""
-"Hounds\n"
-"lost"
+msgid "IDS_KILLER_NOMINATION"
+msgstr "LIQUIDATOR"
 
-msgid "IDS_KILLED_HOUNDS_QTY_FOR_WAFFENTRAGER"
-msgstr ""
-"Hounds\n"
-"destroyed"
+msgid "IDS_KILLER_NOMINATION_DESC"
+msgstr "Destroyed a significant number of enemy ships"
 
 msgid "IDS_KILLSTREAK_OTHER"
 msgstr "<body>[st_x2] <span class=\"enemy\">%(playerName)s</span> is especially dangerous! Destroy now!</body>"
@@ -41716,9 +41985,7 @@ msgstr ""
 "Use Latin characters, numbers, and underscores."
 
 msgid "IDS_LOGIN_SCREEN_WRONG_SYMBOL_INPUT"
-msgstr ""
-"You have entered an invalid character.\n"
-"Use Latin characters, numbers, and underscores."
+msgstr "An invalid character has been entered. The password may contain Latin letters, digits, spaces, and special characters (~`!@#$%^&*()_-+={[}]|\\:;'\"<,>.?/)."
 
 msgid "IDS_LONGEST_MAIN_GUN_MAX_DIST"
 msgstr "Longest main battery firing range"
@@ -41830,6 +42097,72 @@ msgstr "Maximum Loyalty to the Team"
 
 msgid "IDS_LSHIFT"
 msgstr "SHIFT"
+
+msgid "IDS_LUC_EVIL_ALARM_1"
+msgstr "The ritual is about to be completed!"
+
+msgid "IDS_LUC_EVIL_ALARM_2"
+msgstr "Morok deals damage. Hurry back to the battlefield!"
+
+msgid "IDS_LUC_EVIL_HINT_1"
+msgstr "In the Morok, your shield regenerates, but you lose HP."
+
+msgid "IDS_LUC_EVIL_HINT_2"
+msgstr "The shield will restore itself if it takes no damage for a while."
+
+msgid "IDS_LUC_EVIL_HINT_3"
+msgstr "Pick up Firebird feathers to restore your shield."
+
+msgid "IDS_LUC_EVIL_HINT_4"
+msgstr "Pick up Firebird feathers to restore HP."
+
+msgid "IDS_LUC_EVIL_HINT_6"
+msgstr "You can restore your shield in the Morok."
+
+msgid "IDS_LUC_EVIL_HINT_7"
+msgstr "The shield is close to breaking!"
+
+msgid "IDS_LUC_GOOD_ALARM_1"
+msgstr "The ritual is about to be completed!"
+
+msgid "IDS_LUC_GOOD_ALARM_2"
+msgstr "The Morok is dealing damage. Hurry back to the battlefield!"
+
+msgid "IDS_LUC_GOOD_HINT_1"
+msgstr "Lightning will strike all warriors — activate your shield if you have one!"
+
+msgid "IDS_LUC_GOOD_HINT_2"
+msgstr "The Morok ring is shrinking — the safe area is getting smaller!"
+
+msgid "IDS_LUC_GOOD_HINT_3"
+msgstr "Try not to get caught in the ice storm — it slows ships and deals damage!"
+
+msgid "IDS_LUC_GOOD_HINT_CONSUMABLES"
+msgstr "You have a consumable that can strengthen the whole team"
+
+msgid "IDS_LUC_GOOD_HINT_RESPAWN"
+msgstr "Sunken warriors return to battle, but each time the end of the ritual draws closer!"
+
+msgid "IDS_LUKOMORYE_BALANCER_CHOSEN_FRACTION"
+msgstr "Team"
+
+msgid "IDS_LUKOMORYE_BALANCER_LONG_AWAIT_TITLE"
+msgstr "Battle search is taking longer than usual..."
+
+msgid "IDS_LUKOMORYE_BALANCER_PLAYERS_WAITING"
+msgstr "Players in queue"
+
+msgid "IDS_LUKOMORYE_BALANCER_WAITING_TIME"
+msgstr "Battle wait time"
+
+msgid "IDS_LUKOMORYE_CHANGE_FRACTION_FROM_HOUND"
+msgstr "Do you want to switch to the side of the evil spirits?"
+
+msgid "IDS_LUKOMORYE_CHANGE_FRACTION_FROM_WAFFENTRAGER"
+msgstr "Do you want to switch to the side of the warriors?"
+
+msgid "IDS_LUKOMORYE_CHANGE_FRACTION_TEXT"
+msgstr "You can change sides before the battle starts. You don't need to give away a Soul Crystal."
 
 msgid "IDS_LUTJENS"
 msgstr "Günther Lütjens"
@@ -42712,20 +43045,29 @@ msgstr "[CMD_FIXING_TARGET_POSITION] Scan target"
 msgid "IDS_META_EVENT_ABOUT_LINK_TEXT"
 msgstr "About the event"
 
+msgid "IDS_META_EVENT_CLAIM_BUTTON"
+msgstr "Claim"
+
+msgid "IDS_META_EVENT_CLAIM_BUTTON_TOOLTIP"
+msgstr "You have not reached the required level yet"
+
 msgid "IDS_META_EVENT_CURRENCY_TITLE"
 msgstr "Progress Points"
 
 msgid "IDS_META_EVENT_DESCRIPTION_ACTIVE"
-msgstr "<p>In the distant future, a breach between worlds was discovered on Earth's surface, threatening all of civilization. Special squads composed of the planet's finest commanders were formed to investigate and eliminate the anomaly.</p><p class=\"p_spacing\"> </p><p>Take part in an intergalactic mission and discover what the silence of the Universe conceals.</p>"
+msgstr "<p>Tired of worldly vanity, Koschei decided to plunge the whole world into pitch-black darkness. Together with his army of evil spirits, the villain stole the Firebird that guards the sun, so that with the help of a dark ritual he could deprive it of its power. Only the glorious bogatyrs can foil Koschei's plans and dispel the gloom that has descended on the earth.</p><p class=\"p_spacing\"> </p><p>Take part in the legendary battle. Join the valiant druzhina or go into battle on the side of the treacherous evil spirits.</p>"
 
 msgid "IDS_META_EVENT_DESCRIPTION_FINISHED"
-msgstr "<p>After hundreds of thousands of expeditions to the Limit, the commanders uncovered the truth: the Curator was not transporting them to other worlds, but to a possible future of Earth. The ships were not piloted by the people themselves, but only by their minds — this allowed the Curator to 'revive' the fighters again and again, to observe the course of battles, gathering valuable information on new types of weaponry and military tactics.</p><p class=\"p_spacing\"> </p><p>And as long as the Limit remains open, the Curator will carry out its mission. But at what cost will it come to the Earth of the future?</p>"
+msgstr "<p>The daring warriors fought the evil spirits — whether long or short, the battle drew to a close. However terrifying the enemy was, through their coordinated fighting the warriors prevailed: the Morok was dispelled, the Firebird was saved, Lukomorye was saved…</p><p class=\"p_spacing\"> </p><p>Koschei was banished, but one should not forget that he is immortal. No one knows where he has hidden himself and what he is doing now: licking his wounds, hatching new plots… And if one day Koschei returns, the feats of the daring warriors will inspire new heroes.</p>"
 
 msgid "IDS_META_EVENT_FINISHED"
 msgstr "The event has ended"
 
 msgid "IDS_META_EVENT_HINT_GO_TO_EVENT"
 msgstr "Go to the event screen"
+
+msgid "IDS_META_EVENT_POST_PROGRESS_TILL_NEXT_LEVEL"
+msgstr "Until you receive the Post-progress reward:"
 
 msgid "IDS_META_EVENT_POST_PROGRESS_TOOLTIP_TEXT"
 msgstr "By passing all progress levels, you will receive a commemorative achievement!"
@@ -42748,6 +43090,16 @@ msgstr "Tasks completed: %(_count)s"
 msgid "IDS_META_EVENT_PROGRESS_TILL_NEXT_LEVEL"
 msgstr "To next level:"
 
+msgid "IDS_META_EVENT_PURCHASE_BP_BONUSES"
+msgstr ""
+"If you purchase seasonal bonuses,\n"
+"you will have two options to choose from when replacing a task."
+
+msgid "IDS_META_EVENT_PURCHASE_GOLD"
+msgstr ""
+"You can replenish your gold reserves\n"
+"to replace a task."
+
 msgid "IDS_META_EVENT_REWARD_CHOICE_STATUS_COMMON"
 msgstr "If you do not make a choice, you will be awarded the first reward upon the end of the event."
 
@@ -42763,17 +43115,53 @@ msgstr "You will be able to choose of one of the rewards"
 msgid "IDS_META_EVENT_REWARD_CHOICE_TOOLTIP_TITLE"
 msgstr "Choose reward"
 
+msgid "IDS_META_EVENT_REWARD_COMPENSATION"
+msgstr "You already have this reward, so you will receive compensation instead."
+
+msgid "IDS_META_EVENT_REWARD_SELECTION"
+msgstr "Select a reward"
+
+msgid "IDS_META_EVENT_TASKS_SIDE_0"
+msgstr "For the Warriors"
+
+msgid "IDS_META_EVENT_TASKS_SIDE_1"
+msgstr "For the Evil Spirits"
+
+msgid "IDS_META_EVENT_TASKS_SIDE_TITLE_0"
+msgstr "For the Warriors: %(_count)s"
+
+msgid "IDS_META_EVENT_TASKS_SIDE_TITLE_1"
+msgstr "For the Evil Spirits: %(_count)s"
+
+msgid "IDS_META_EVENT_TASKS_SIDE_TOOLTIP_TITLE_0"
+msgstr "Warriors"
+
+msgid "IDS_META_EVENT_TASKS_SIDE_TOOLTIP_TITLE_1"
+msgstr "Evil spirits"
+
+msgid "IDS_META_EVENT_TASKS_SUMMARY"
+msgstr "Tasks completed"
+
 msgid "IDS_META_EVENT_TASKS_TITLE"
 msgstr "Event missions"
 
 msgid "IDS_META_EVENT_TASKS_TITLE_TOOLTIP_TEXT"
 msgstr "Every day you can complete an unlimited number of missions and earn progress points for them."
 
+msgid "IDS_META_EVENT_TASK_CURRENCY_LABEL"
+msgstr "Points for completion:"
+
+msgid "IDS_META_EVENT_TASK_REROLL_DESCRIPTION"
+msgstr "Select a new task:"
+
+msgid "IDS_META_EVENT_TASK_REROLL_TITLE"
+msgstr "Replace Task"
+
 msgid "IDS_META_EVENT_TIMER_REWARD_CHOICE_TIME_LEFT"
 msgstr "Reward selection is available for %(_timeLeft)s"
 
 msgid "IDS_META_EVENT_TITLE"
-msgstr "Space Front"
+msgstr "Defense of Lukomorye"
 
 msgid "IDS_METER"
 msgstr "m"
@@ -44242,6 +44630,39 @@ msgstr "You can enter battle with a Tier VIII or IX ship. All classes are allowe
 msgid "IDS_MODAL_WINDOW_PCVE033_RULES_PARAGRAPH_4_TEXT_2"
 msgstr "Team size: 12 vs 12. Maximum Division size: 3."
 
+msgid "IDS_MODAL_WINDOW_PCVE034_BATTLE_RULES_HEADER_0"
+msgstr "Warriors"
+
+msgid "IDS_MODAL_WINDOW_PCVE034_BATTLE_RULES_HEADER_1"
+msgstr "Evil spirits"
+
+msgid "IDS_MODAL_WINDOW_PCVE034_RULES_HEADER"
+msgstr "Defense of Lukomorye"
+
+msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_1_HEADER"
+msgstr "Battle Features"
+
+msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Koschei together with his army of evil spirits kidnapped the Firebird to use a dark ritual to strip her of her powers and plunge the world into eternal darkness. The band of brave warriors must defeat the villains and save Lukomorye. The battle will consist of two stages."
+
+msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_2_HEADER"
+msgstr "First Stage: Dark Ritual"
+
+msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "While her powers have not run out, the Firebird will help the warriors by returning them to battle and sending magical feathers that strengthen ships. The warriors must destroy the evil spirits and prevent the completion of the dark ritual."
+
+msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "But the evil force does not sleep. Koschei's minions seek to exterminate the warriors, be the first to seize the Firebird's feathers, and hasten the completion of the ritual."
+
+msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_3_HEADER"
+msgstr "Second Stage: Legendary Battle"
+
+msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "If the Warriors fail to defeat the evil spirits before the ritual is completed, then under the effect of the enchantment the Firebird will lose her abilities and will no longer be able to help the band. Previously received enhancements will continue to take effect."
+
+msgid "IDS_MODAL_WINDOW_PCVE034_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "Now each side of this battle has only one goal — to defeat the opponent and win."
+
 msgid "IDS_MODAL_WINDOW_PCVE035_BATTLE_RULES_HEADER"
 msgstr "Deathmatch"
 
@@ -44663,7 +45084,7 @@ msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_1_HEADER"
 msgstr "Rewards in holds"
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "Rewards are in the hold of each of your ships, from Tier III to super-ships."
+msgstr "There is a reward in the hold of each of your ships, from Tier V to superships."
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_1_TEXT_2"
 msgstr "To claim the reward from the hold, you need to earn 300 units of Base XP or win by taking your ship into battle."
@@ -44678,7 +45099,7 @@ msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_HEADER"
 msgstr "How to get keys"
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "Along with the reward, you will be credited with Keys to the Holds."
+msgstr "If you earn 300 Base XP in battle, you will receive Keys to the Holds."
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_TEXT_2"
 msgstr "By default, keys are awarded only for battles on ships with rewards, however you can purchase an upgrade to receive keys on any ships."
@@ -45238,6 +45659,18 @@ msgstr "Go to historical information about the ship"
 msgid "IDS_MOUSE_INSTRUCTION_GO_TO_SKILLS_TO_LEARN"
 msgstr "To master skills, navigate to the Commander Skills screen"
 
+msgid "IDS_MOUSE_INSTRUCTION_INFO_ACTIVE_SLOT_0"
+msgstr "Ship's bow"
+
+msgid "IDS_MOUSE_INSTRUCTION_INFO_ACTIVE_SLOT_1"
+msgstr "Ship's stern"
+
+msgid "IDS_MOUSE_INSTRUCTION_INFO_ACTIVE_SLOT_SUB_0"
+msgstr "Submarine hull"
+
+msgid "IDS_MOUSE_INSTRUCTION_INFO_ACTIVE_SLOT_SUB_1"
+msgstr "Submarine conning tower"
+
 msgid "IDS_MOUSE_INSTRUCTION_INSTALL_CAMOUFLAGE"
 msgstr "Mount camouflage"
 
@@ -45291,6 +45724,18 @@ msgstr "Show details"
 
 msgid "IDS_MOUSE_INSTRUCTION_SESSION_STATS_RESET"
 msgstr "Reset current values"
+
+msgid "IDS_MOUSE_INSTRUCTION_SET_ACTIVE_SLOT_0"
+msgstr "Move to the bow"
+
+msgid "IDS_MOUSE_INSTRUCTION_SET_ACTIVE_SLOT_1"
+msgstr "Move to the stern"
+
+msgid "IDS_MOUSE_INSTRUCTION_SET_ACTIVE_SLOT_SUB_0"
+msgstr "Move to the hull"
+
+msgid "IDS_MOUSE_INSTRUCTION_SET_ACTIVE_SLOT_SUB_1"
+msgstr "Move to the conning tower"
 
 msgid "IDS_MOUSE_INSTRUCTION_SHIP_FEATURES"
 msgstr "Go to ship features"
@@ -45515,6 +45960,12 @@ msgstr "Block all messages from this player in the current battle"
 
 msgid "IDS_MUTE_PLAYER_VOICE_CHAT"
 msgstr "Disable voice messages from this player"
+
+msgid "IDS_MVP_NOMINATION"
+msgstr "BEST OF THE WINNERS"
+
+msgid "IDS_MVP_NOMINATION_DESC"
+msgstr "Earned the most Base XP on your team."
 
 msgid "IDS_MW_OPENER_BATTLEUI_CROSSHAIR"
 msgstr "Shape"
@@ -46216,6 +46667,60 @@ msgstr "Art"
 
 msgid "IDS_NEED_SERVICE"
 msgstr "SERVICE REQUIRED"
+
+msgid "IDS_NEOWAFFENTRAGER"
+msgstr "Defense of Lukomorye"
+
+msgid "IDS_NEOWAF_TAGS_GORYNYCH_FIRE_ZONES"
+msgstr "Main battery shells create fire zones on the water."
+
+msgid "IDS_NEOWAF_TAGS_GORYNYCH_MAIN_GUNS"
+msgstr "High damage, but low main battery accuracy"
+
+msgid "IDS_NEOWAF_TAGS_GORYNYCH_MEDIUM_CALIBER"
+msgstr "High rate of fire and heavy damage from intermediate batteries"
+
+msgid "IDS_NEOWAF_TAGS_GORYNYCH_RAGE_MODE"
+msgstr "Combat instructions narrow the safe zone"
+
+msgid "IDS_NEOWAF_TAGS_GORYNYCH_SHIELD_REGEN"
+msgstr "Shield regenerates while the ship is in the Morok"
+
+msgid "IDS_NEOWAF_TAGS_GORYNYCH_VAMPIRE"
+msgstr "HP is restored when dealing damage with intermediate battery guns"
+
+msgid "IDS_NEOWAF_TAGS_KOSCHEI_CONSUMABLES"
+msgstr "Consumables that reduce detectability are available"
+
+msgid "IDS_NEOWAF_TAGS_KOSCHEI_MAIN_GUNS"
+msgstr "High Main Battery damage and accuracy"
+
+msgid "IDS_NEOWAF_TAGS_KOSCHEI_RAGE_MODE"
+msgstr "Combat instructions deal damage to all enemies"
+
+msgid "IDS_NEOWAF_TAGS_KOSCHEI_SHIELD_REGEN_ALWAYS"
+msgstr "Shield regenerates while the ship takes no damage"
+
+msgid "IDS_NEOWAF_TAGS_KOSCHEI_SHIELD_REGEN_SECOND_STAGE"
+msgstr "Shield partially regenerates when the ritual is completed"
+
+msgid "IDS_NEOWAF_TAGS_VODYANOI_CAN_SUBMERGE"
+msgstr "Ability to submerge underwater"
+
+msgid "IDS_NEOWAF_TAGS_VODYANOI_MAIN_GUNS_DMG_ACCURACY"
+msgstr "High Main Battery damage and accuracy"
+
+msgid "IDS_NEOWAF_TAGS_VODYANOI_MAIN_GUNS_RELOAD"
+msgstr "Low main battery rate of fire"
+
+msgid "IDS_NEOWAF_TAGS_VODYANOI_SECONDARIES"
+msgstr "High accuracy and damage, but short secondary battery firing range"
+
+msgid "IDS_NEOWAF_TAGS_VODYANOI_TORPEDOES"
+msgstr "High rate of fire, speed, and damage, but high torpedo detectability"
+
+msgid "IDS_NEOWAF_TAGS_VODYANOI_VAMPIRE"
+msgstr "Restores HP when dealing torpedo damage"
 
 msgid "IDS_NERET_ANIME"
 msgstr "Neret"
@@ -47521,6 +48026,9 @@ msgstr "Nikea Limneida"
 msgid "IDS_NO"
 msgstr "NO"
 
+msgid "IDS_NOMINATIONS_BATTLE_STAT_TITLE"
+msgstr "Battle Performance"
+
 msgid "IDS_NOTIFICATIONS"
 msgstr "Notifications"
 
@@ -47931,6 +48439,12 @@ msgstr "Bulkhead"
 
 msgid "IDS_OFF"
 msgstr "Off"
+
+msgid "IDS_OFFICER_NOMINATION"
+msgstr "STRATEGIST"
+
+msgid "IDS_OFFICER_NOMINATION_DESC"
+msgstr "Made a significant strategic and tactical contribution to the development of the battle"
 
 msgid "IDS_OK"
 msgstr "OK"
@@ -54017,7 +54531,7 @@ msgid "IDS_PARAMS_MODIFIER_ADDITIONALCONSUMABLES"
 msgstr "Number of ship consumables"
 
 msgid "IDS_PARAMS_MODIFIER_ADDITIONALSHIELDHEALTH"
-msgstr "Energy Shield"
+msgstr "Shield"
 
 msgid "IDS_PARAMS_MODIFIER_AFFECTEDCLASSES"
 msgstr "Affects ships"
@@ -54072,6 +54586,9 @@ msgstr "Squadron preparation time"
 
 msgid "IDS_PARAMS_MODIFIER_ALLCONSUMABLERELOADTIME"
 msgstr "Consumable preparation and reload time"
+
+msgid "IDS_PARAMS_MODIFIER_ALLCONSUMABLEWORKTIME"
+msgstr "Consumable action time"
 
 msgid "IDS_PARAMS_MODIFIER_ALLWEAPONSRELOADFACTOR"
 msgstr "All armament reload time"
@@ -54748,6 +55265,9 @@ msgstr "Intermediate battery maximum dispersion"
 msgid "IDS_PARAMS_MODIFIER_GMSMAXDIST"
 msgstr "Intermediate battery firing range"
 
+msgid "IDS_PARAMS_MODIFIER_GMSPENETRATIONCOEFFAP"
+msgstr "AP Shell Penetration Coefficient (Intermediate Battery)"
+
 msgid "IDS_PARAMS_MODIFIER_GMSPENETRATIONCOEFFCS"
 msgstr "AP Shell Penetration Coefficient (Intermediate Battery)"
 
@@ -55227,6 +55747,9 @@ msgstr "Progress per main battery shell hit"
 
 msgid "IDS_PARAMS_MODIFIER_PROGRESS_MAIN_GUN_HIT"
 msgstr "Progress per main battery shell hit"
+
+msgid "IDS_PARAMS_MODIFIER_PROGRESS_NW_VODYANOI"
+msgstr "Progress per torpedo hit"
 
 msgid "IDS_PARAMS_MODIFIER_PROGRESS_POTENTIAL_DAMAGE"
 msgstr "Progress for potential damage received"
@@ -56399,7 +56922,7 @@ msgid "IDS_PASB017"
 msgstr "Montana"
 
 msgid "IDS_PASB017_DESCR"
-msgstr "The Montana-class was planned as a successor to the Iowa-class battleships. The project envisaged twelve 406 mm guns in four triple turrets. Preliminary design work began even before the US entered World War II. The attack on Pearl Harbor delayed the construction of battleships, and the success of aircraft carriers at Coral Sea and Midway led the US Navy to abandon the Montana-class in favor of aircraft carriers, amphibious, and anti-submarine ships."
+msgstr "<p>Preliminary design work on the Montana-class ships began even before the United States entered World War II. The new battleships were expected to be improved versions of the Iowa-class ships, differing from their predecessors in increased size, reinforced armor, and armament, which was to consist of twelve 406-mm guns in four triple-gun turrets.</p><p class=\"p_spacing\"> </p><p>Five battleships of this type were ordered in 1940, but after the attack on Pearl Harbor their construction was postponed. The success of aircraft carriers in the Coral Sea and the Battle of Midway finally convinced the U.S. Navy to abandon battleship construction in favor of aircraft-carrying, amphibious, and anti-submarine ships. In July 1943, construction of the Montana class was finally canceled.</p>"
 
 msgid "IDS_PASB017_FULL"
 msgstr "Montana"
@@ -56414,7 +56937,7 @@ msgid "IDS_PASB018"
 msgstr "Iowa"
 
 msgid "IDS_PASB018_DESCR"
-msgstr "In the late 1930s, the US Navy returned to the idea of a battleship to support fast aircraft carriers and protect them from heavy and battlecruisers. The lifting of international restrictions allowed the creation of a ship with good protection and powerful armament. USS Iowa played an active role in the Pacific theater of operations. In 2012, the ship took its place in permanent mooring in San Pedro, California, as a museum ship."
+msgstr "<p>In 1938, the United States began designing new battleships to support fast carrier forces. The lifting of the London restrictions made it possible to create a ship with decent protection and powerful armament in the form of new 406-mm guns.</p><p class=\"p_spacing\"> </p><p>USS Iowa was built in Brooklyn. During World War II, the ship conducted patrol missions in the Atlantic, participated in the campaigns in the Marshall, Caroline, and Mariana Islands and Palau, and in the battles of the Philippine Sea and Leyte Gulf. In 1945, it took part in the Japanese surrender alongside Missouri. In the 1950s, it supported ground troops during the Korean War. Over its years of service, the battleship received 11 battle stars.</p><p class=\"p_spacing\"> </p><p>In 1982, missile armament was installed on the battleship, but already by the 1990s the ship was withdrawn from the fleet and converted into a museum.</p>"
 
 msgid "IDS_PASB018_FULL"
 msgstr "Iowa"
@@ -56996,7 +57519,7 @@ msgid "IDS_PASB810"
 msgstr "Montana P"
 
 msgid "IDS_PASB810_DESCR"
-msgstr "The Montana class was intended as a successor to the Iowa-class battleships: They were larger, better armored, and more heavily armed. Their armament was supposed to consist of twelve 406 mm guns housed in four triple-gun turrets. Preliminary design work began before the U.S. entered World War II. The attack on Pearl Harbor delayed the construction of battleships, and the success of aircraft carriers in the Battle of the Coral Sea and Battle of Midway led the U.S. Navy to abandon the Montana class in favor of aircraft carriers, assault ships, and anti-submarine ships."
+msgstr "<p>Preliminary design work on the Montana-class ships began even before the United States entered World War II. The new battleships were expected to be improved versions of the Iowa-class ships, differing from their predecessors in increased size, reinforced armor, and armament, which was to consist of twelve 406-mm guns in four triple-gun turrets.</p><p class=\"p_spacing\"> </p><p>Five battleships of this type were ordered in 1940, but after the attack on Pearl Harbor their construction was postponed. The success of aircraft carriers in the Coral Sea and the Battle of Midway finally convinced the U.S. Navy to abandon battleship construction in favor of aircraft-carrying, amphibious, and anti-submarine ships. In July 1943, construction of the Montana class was finally canceled.</p>"
 
 msgid "IDS_PASB810_FULL"
 msgstr "Montana P"
@@ -61958,7 +62481,7 @@ msgid "IDS_PA_ECRASEUR"
 msgstr "Dr. Ecraseur"
 
 msgid "IDS_PA_GROZNY"
-msgstr "Ivan the Terrible"
+msgstr "Ivan Grozny"
 
 msgid "IDS_PA_RATTENKONIG"
 msgstr "Rattenkönig"
@@ -67957,6 +68480,18 @@ msgstr "Automaton — White"
 msgid "IDS_PCEC158_CAMO_WAFFLEHOUNDS"
 msgstr "Alliance Soldier"
 
+msgid "IDS_PCEC159_CAMO_LUKOMORIE_1"
+msgstr "Serpentine Wisdom"
+
+msgid "IDS_PCEC160_CAMO_LUKOMORIE_2"
+msgstr "Celestial Forge"
+
+msgid "IDS_PCEC161_CAMO_LUKOMORIE_3"
+msgstr "Wrath of the Thunderer"
+
+msgid "IDS_PCEC162_MAT_GONCHIE_LUK"
+msgstr "Evil spirits"
+
 msgid "IDS_PCEC990_TRIALS_BUDENY"
 msgstr "Target"
 
@@ -72328,7 +72863,7 @@ msgid "IDS_PCEE715_ARCHERFISH_FLAG_DESCRIPTION"
 msgstr "The emblem of the World War II-era American submarine USS Archerfish features a fish shooting a torpedo from a bow. The fish carries a quiver of torpedoes instead of arrows on its back, and wears a hat like that of the legendary Robin Hood."
 
 msgid "IDS_PCEE716_BLYSKAWICA_1963_FLAG"
-msgstr "Błyskawica '63"
+msgstr "ORP Błyskawica '63"
 
 msgid "IDS_PCEE716_BLYSKAWICA_1963_FLAG_DESCRIPTION"
 msgstr "The Grunwald Cross is a Polish military order awarded for valor in armed struggle against the occupiers for the freedom and independence of Poland. The idea of the order originated in the headquarters of the People’s Guard, a military organization of the Polish Workers' Party that operated in German-occupied territories during World War II."
@@ -73092,6 +73627,15 @@ msgstr "Hakusan"
 msgid "IDS_PCEE834_HAKUSAN_FLAG_DESCRIPTION"
 msgstr "Hakusan is a volcano on the island of Honshu, one of the three sacred mountains of Japan along with Fujiyama and Tateyama. Its height is 2700 m, and the summit is covered with snow year-round. Hence the name: in Japanese, Hakusan means \"White Mountain\"."
 
+msgid "IDS_PCEE835_KOSCHEY_FLAG"
+msgstr "Koschei the Deathless"
+
+msgid "IDS_PCEE835_KOSCHEY_FLAG_DESCRIPTION"
+msgstr "The image of Koschei the Deathless traces back to ancient beliefs about the otherworld. In some myths, he served as lord of the underworld, while in later fairy tales he became a villainous sorcerer whose death lies at the point of a needle hidden away on the island of Buyan."
+
+msgid "IDS_PCEE835_KOSCHEY_FLAG_EXTRA_DESCRIPTION"
+msgstr "In honor of the “Defense of Lukomorye” event."
+
 msgid "IDS_PCEE842_ISONZO_FLAG"
 msgstr "RN Isonzo"
 
@@ -73148,6 +73692,21 @@ msgstr "USS North Dakota"
 
 msgid "IDS_PCEE851_NORTH_DAKOTA_FLAG_DESCRIPTION"
 msgstr "In the history of the Wild West, the prairies of North Dakota hold a special place. In the 19th century, clashes took place here between settlers, the U.S. Army, and indigenous peoples; forts were built, railroads were laid, and coal was mined. In 1889, the territory became the 39th state of the United States."
+
+msgid "IDS_PCEE852_KNYAGINYA_OLGA_FLAG"
+msgstr "Knyaginya Olga"
+
+msgid "IDS_PCEE852_KNYAGINYA_OLGA_FLAG_DESCRIPTION"
+msgstr "After the death of Prince Igor in 945, the Kievan throne was taken by his widow Olga, who became regent for her young son Svyatoslav. During her reign, she subjugated the Drevlians, established new tribute collection procedures, and became the first ruler of Rus' to adopt Christianity."
+
+msgid "IDS_PCEE852_KNYAGINYA_OLGA_FLAG_EXTRA_DESCRIPTION"
+msgstr "In honor of the “Defense of Lukomorye” event."
+
+msgid "IDS_PCEE856_SONGUN_FLAG"
+msgstr "Songun"
+
+msgid "IDS_PCEE856_SONGUN_FLAG_DESCRIPTION"
+msgstr "Songun is the state policy of the DPRK that took shape in the 1990s. Its main principle, “Military First,” proclaims the leading role of the armed forces in the state and public life of the country."
 
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "Santas Wanted 2016"
@@ -73970,12 +74529,6 @@ msgstr "Capture points to weaken Ermelinda's defense and slow the evacuation sys
 msgid "IDS_PCVE030_MATCHMAKER_DESCRIPTION"
 msgstr "Grimsby Islands"
 
-msgid "IDS_PCVE030_START_TASK_HOUND"
-msgstr "Destroy Ermelinda's ship before the evacuation system launches"
-
-msgid "IDS_PCVE030_START_TASK_WAFFENTRAGER"
-msgstr "Charge the evacuation system without letting the Hounds destroy you"
-
 msgid "IDS_PCVE030_SUBHEADER"
 msgstr " "
 
@@ -74047,6 +74600,54 @@ msgstr "Battle between two teams of players. Two modes are available with unusua
 
 msgid "IDS_PCVE033_SUBHEADER"
 msgstr "Battle for Key Areas in two modes"
+
+msgid "IDS_PCVE034"
+msgstr "Defense of Lukomorye"
+
+msgid "IDS_PCVE034_DESCRIPTION"
+msgstr "A legendary battle between a druzhina of valiant knights and the mighty Koschei."
+
+msgid "IDS_PCVE034_HOUND_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "FIREBIRD FEATHERS"
+
+msgid "IDS_PCVE034_HOUND_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Firebird feathers will periodically appear in different parts of the map, granting magical power to every knight who catches one."
+
+msgid "IDS_PCVE034_HOUND_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "DARK RITUAL"
+
+msgid "IDS_PCVE034_HOUND_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "When the hour comes, the Firebird will no longer be able to help the knights or return them to battle after death. All acquired upgrades will remain active."
+
+msgid "IDS_PCVE034_HOUND_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "MOROK"
+
+msgid "IDS_PCVE034_HOUND_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "The battlefield is encircled by a ring of Morok that constantly shrinks. Ships that find themselves inside it lose HP."
+
+msgid "IDS_PCVE034_PHACE_NAME"
+msgstr "DARK RITUAL"
+
+msgid "IDS_PCVE034_SUBHEADER"
+msgstr "Fight for the warriors or the evil spirits."
+
+msgid "IDS_PCVE034_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "Firebird Feathers"
+
+msgid "IDS_PCVE034_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Firebird feathers appear in random areas of the map. Be the first to reach them to speed up the ritual and prevent the knights from gaining upgrades!"
+
+msgid "IDS_PCVE034_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "DARK RITUAL"
+
+msgid "IDS_PCVE034_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "After the ritual is completed, warriors can no longer return to battle. Use this to destroy your enemies!"
+
+msgid "IDS_PCVE034_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "MOROK"
+
+msgid "IDS_PCVE034_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "The battlefield is surrounded by a ring of Morok that constantly shrinks. Ships caught inside it lose HP."
 
 msgid "IDS_PCVE035"
 msgstr "Deathmatch"
@@ -80652,6 +81253,9 @@ msgstr "French Navy"
 msgid "IDS_PFES401_CONDE_COLORFUL"
 msgstr "Malachite Arrow"
 
+msgid "IDS_PFES402_BREST_BOGATUR"
+msgstr "Svarog's Forge"
+
 msgid "IDS_PFES408_CHARLES_MARTEL_H2017"
 msgstr "Scarab"
 
@@ -82383,6 +82987,21 @@ msgstr "6"
 msgid "IDS_PFSC896_YEAR"
 msgstr "1936"
 
+msgid "IDS_PFSC989"
+msgstr "Svarog"
+
+msgid "IDS_PFSC989_DESCR"
+msgstr "Svarog is the embodiment of the celestial blacksmith, a stronghold and the fiery heart of the fleet. This ship combines crushing power with the sacred art of creation. It supports allies not only with the fierce fire of its guns, but also with magical tempering, restoring damaged ships and strengthening their defenses."
+
+msgid "IDS_PFSC989_FULL"
+msgstr "Svarog"
+
+msgid "IDS_PFSC989_NUMBER"
+msgstr "0"
+
+msgid "IDS_PFSC989_YEAR"
+msgstr "1944"
+
 msgid "IDS_PFSC990"
 msgstr "Marseille (EM)"
 
@@ -82974,6 +83593,9 @@ msgstr "127 mm/54 Mle 1948 on an Mle 1948 mount"
 msgid "IDS_PFUA812_ART_ARTOIS"
 msgstr "340 mm/45 Mle 1912 in a turret"
 
+msgid "IDS_PFUA813_ART_CRUISER_LUKODRAGER"
+msgstr "330 mm/50 Mle 1931 on a St. Chamond Mle 1932 mount"
+
 msgid "IDS_PFUA900_C10_ART_STOCK"
 msgstr "330 mm/50 Mle 1931 in a turret"
 
@@ -83231,6 +83853,9 @@ msgstr "Propulsion: 120,000 hp"
 
 msgid "IDS_PFUE813_ENG_ARTOIS"
 msgstr "Propulsion: 150,000 hp"
+
+msgid "IDS_PFUE814_ENG_CRUISER_LUKODRAGER"
+msgstr "Propulsion: 100,000 hp"
 
 msgid "IDS_PFUE900_C10_ENG_STOCK"
 msgstr "Propulsion: 240,000 hp"
@@ -83544,6 +84169,9 @@ msgstr "De Grasse '56"
 msgid "IDS_PFUH816_ARTOIS"
 msgstr "Artois"
 
+msgid "IDS_PFUH817_HULL_CRUISER_LUKODRAGER"
+msgstr "Svarog"
+
 msgid "IDS_PFUH900_C10_HULL_STOCK"
 msgstr "Marseille"
 
@@ -83848,6 +84476,9 @@ msgid "IDS_PFUS815_SUO_DE_GRASSE_56"
 msgstr "PCA n°9"
 
 msgid "IDS_PFUS816_SUO_ARTOIS"
+msgstr "PCA n°9"
+
+msgid "IDS_PFUS817_SUO_CRUISER_LUKODRAGER"
 msgstr "PCA n°9"
 
 msgid "IDS_PFUS900_C10_SUO_STOCK"
@@ -84413,6 +85044,9 @@ msgstr "Iron Cross"
 
 msgid "IDS_PGES301_SEYDLITZ_SPACE"
 msgstr "Event horizon"
+
+msgid "IDS_PGES302_FDG_BOGATUR"
+msgstr "Perun's Wrath"
 
 msgid "IDS_PGES303_MR_HYDE"
 msgstr "Jackal"
@@ -86952,6 +87586,21 @@ msgstr "0"
 msgid "IDS_PGSB910_YEAR"
 msgstr "1941"
 
+msgid "IDS_PGSB989"
+msgstr "Perun"
+
+msgid "IDS_PGSB989_DESCR"
+msgstr "Perun is the fury of the heavens, thunder descended upon the sea. His salvos are like strikes of sacred lightning, and he himself bears the indisputable will of the gods, embodied in steel. As the main crushing force of the fleet, Perun is called to fight the heaviest and most dangerous battles. Where others retreat before the enemy's might, he unleashes all the heavenly wrath upon them."
+
+msgid "IDS_PGSB989_FULL"
+msgstr "Perun"
+
+msgid "IDS_PGSB989_NUMBER"
+msgstr "0"
+
+msgid "IDS_PGSB989_YEAR"
+msgstr "1939"
+
 msgid "IDS_PGSB990"
 msgstr "Preussen (AGB)"
 
@@ -88340,6 +88989,9 @@ msgstr "150 mm/61 Gerät 60 on an LDrh LC/44 mount"
 msgid "IDS_PGUA816_ART_NIBELUNG"
 msgstr "203 mm/50 3rd Year Type No.2 in a Model E turret"
 
+msgid "IDS_PGUA817_ART_BATTLESHIP_LUKODRAGER"
+msgstr "420 mm/48 SK C/40 on a Drh LC/34 mount"
+
 msgid "IDS_PGUA821_B9_ART_STOCK"
 msgstr "406 mm/52 SK C/34 on a Drh LC/34 mount"
 
@@ -88840,6 +89492,9 @@ msgstr "Propulsion: 192,000 hp"
 
 msgid "IDS_PGUE817_ENG_NIBELUNG"
 msgstr "Propulsion: 134,240 hp"
+
+msgid "IDS_PGUE818_ENG_BATTLESHIP_LUKODRAGER"
+msgstr "Propulsion: 165,000 hp"
 
 msgid "IDS_PGUE900_S10_ENG_STOCK"
 msgstr "Propulsion: 5,000 hp"
@@ -89379,6 +90034,9 @@ msgstr "Danzig"
 
 msgid "IDS_PGUH821_HULL_NIBELUNG"
 msgstr "Nibelung"
+
+msgid "IDS_PGUH822_HULL_BATTLESHIP_LUKODRAGER"
+msgstr "Perun"
 
 msgid "IDS_PGUH900_S10_HULL_STOCK"
 msgstr "U-2501"
@@ -89921,6 +90579,9 @@ msgid "IDS_PGUS820_SUO_DANZIG"
 msgstr "FKS Typ 9"
 
 msgid "IDS_PGUS821_SUO_NIBELUNG"
+msgstr "FKS Typ 9"
+
+msgid "IDS_PGUS822_SUO_BATTLESHIP_LUKODRAGER"
 msgstr "FKS Typ 9"
 
 msgid "IDS_PGUS900_D11_SUO_STOCK"
@@ -102871,6 +103532,9 @@ msgstr "Aircraft Destroyed"
 msgid "IDS_PLANES_DESTROYED_HINT"
 msgstr "Number of aircraft you destroyed in this battle"
 
+msgid "IDS_PLANES_KILLED_STAT"
+msgstr "Aircraft shot down"
+
 msgid "IDS_PLANE_ADDITIONAL_CONSUMABLES_CHANGED"
 msgstr "Number of squadron consumables is increased"
 
@@ -104298,6 +104962,9 @@ msgstr "Catch the Eggs"
 msgid "IDS_PRES335_PYOTR_VELIKIY_ANIME_EVENT"
 msgstr "Equilibrium Guardian"
 
+msgid "IDS_PRES336_DDR_WHITE"
+msgstr "White Elster"
+
 msgid "IDS_PRES338_23FEBRUARY_SVERDLOVSK"
 msgstr "Defender of the Fatherland"
 
@@ -104354,6 +105021,15 @@ msgstr "RADIO TAPOK"
 
 msgid "IDS_PRES420_STALINGRAD_CLAN"
 msgstr "War Paint"
+
+msgid "IDS_PRES421_GROZNYI_KOSCHEI"
+msgstr "Harbinger of Doom"
+
+msgid "IDS_PRES422_GROZNYI_GORYNYCH"
+msgstr "Dragon Scales"
+
+msgid "IDS_PRES423_GROZNYI_VODYANOI"
+msgstr "Still Waters"
 
 msgid "IDS_PRES428_STALCRAFT_LATANU"
 msgstr "Covenant"
@@ -104429,6 +105105,9 @@ msgstr "Defender of the Fatherland"
 
 msgid "IDS_PRES520_MAD_GROZOVOI"
 msgstr "Master of the Water World"
+
+msgid "IDS_PRES521_SPOKOYNYI_BOGATUR"
+msgstr "Wisdom of Veles"
 
 msgid "IDS_PRES527_TASHKENT_BLUE"
 msgstr "Blue Cruiser"
@@ -105338,6 +106017,9 @@ msgstr "Starts in %(_timeLeft)s"
 
 msgid "IDS_PRIME_TIME_WARNINGS"
 msgstr "Warning"
+
+msgid "IDS_PRINCESS_OLGA"
+msgstr "Olga the Wise"
 
 msgid "IDS_PRIVATEER"
 msgstr "William Lymington"
@@ -107468,7 +108150,7 @@ msgid "IDS_PRSB550"
 msgstr "GDR"
 
 msgid "IDS_PRSB550_DESCR"
-msgstr "A ship for testing."
+msgstr "White, like the winter sky over East Berlin. Golden lines cut across its hull like sunbeams through frosty haze. Calm in appearance, yet hiding a strength forged from steel and discipline. Beauty in which nothing is accidental."
 
 msgid "IDS_PRSB550_FULL"
 msgstr "GDR"
@@ -109178,6 +109860,21 @@ msgstr "1"
 msgid "IDS_PRSD916_YEAR"
 msgstr "1937"
 
+msgid "IDS_PRSD989"
+msgstr "Veles"
+
+msgid "IDS_PRSD989_DESCR"
+msgstr "This ship is the eyes and ears of the glorious host. Embodying the omniscience of the god Veles, she is the first to detect the enemy's approach. Through magic and ancient knowledge, she finds gaps in the enemy's defenses and delivers devastating blows that pave the way for the rest of the warband."
+
+msgid "IDS_PRSD989_FULL"
+msgstr "Veles"
+
+msgid "IDS_PRSD989_NUMBER"
+msgstr "27"
+
+msgid "IDS_PRSD989_YEAR"
+msgstr "1956"
+
 msgid "IDS_PRSD990"
 msgstr "Kiev (DM)"
 
@@ -109656,7 +110353,7 @@ msgid "IDS_PRUA819_ART_SVERDLOVSK"
 msgstr "240 mm/60 in MK-3-240 mount"
 
 msgid "IDS_PRUA820_D9_ART_STOCK"
-msgstr "130 mm/58 Pattern 1957 in SM-2-1 Mount"
+msgstr "130 mm/58 Model 1957 on an SM-2-1 mount"
 
 msgid "IDS_PRUA821_C9_ART_STOCK"
 msgstr "180 mm/57 Model 1932 on an MK-3-180M mount"
@@ -109687,6 +110384,9 @@ msgstr "220 mm/60 on an SM-7 mount"
 
 msgid "IDS_PRUA830_BB8_ART_BORODINO"
 msgstr "406 mm/50 B-37 on an MK-1 mount"
+
+msgid "IDS_PRUA831_ART_DESTROYER_LUKODRAGER"
+msgstr "130 mm/58 Model 1957 on an SM-2-1 mount"
 
 msgid "IDS_PRUA900_CRUISER_DEATHMATCH"
 msgstr "180 mm/57 Model 1932 on an MK-3-180 mount"
@@ -110215,6 +110915,9 @@ msgstr "Propulsion: 124,000 hp"
 
 msgid "IDS_PRUE826_ENG_COLORFUL_RIGA"
 msgstr "Propulsion: 165,000 hp"
+
+msgid "IDS_PRUE827_ENG_DESTROYER_LUKODRAGER"
+msgstr "Propulsion: 72,000 hp"
 
 msgid "IDS_PRUE830_BB8_ENG_BORODINO"
 msgstr "Propulsion: 210,000 hp"
@@ -110879,6 +111582,9 @@ msgstr "Kometa"
 msgid "IDS_PRUH835_HULL_COLORFUL_RIGA"
 msgstr "Riga CLR"
 
+msgid "IDS_PRUH836_HULL_DESTROYER_LUKODRAGER"
+msgstr "Veles"
+
 msgid "IDS_PRUH900_CRUISER_DEATHMATCH"
 msgstr "Tallinn (DM)"
 
@@ -111530,6 +112236,9 @@ msgstr "SUO IX"
 msgid "IDS_PRUS834_SUO_COLORFUL_RIGA"
 msgstr "SUO IX"
 
+msgid "IDS_PRUS835_SUO_DESTROYER_LUKODRAGER"
+msgstr "SUO IX"
+
 msgid "IDS_PRUS900_CRUISER_DEATHMATCH"
 msgstr "SUO X"
 
@@ -111913,6 +112622,9 @@ msgstr "53-30"
 
 msgid "IDS_PRUT817_TORP_KOMETA"
 msgstr "53-38"
+
+msgid "IDS_PRUT818_TORP_DESTROYER_LUKODRAGER"
+msgstr "53-51"
 
 msgid "IDS_PRUT900_TORP_VLADIMIR_MONOMAKH"
 msgstr "53-51"
@@ -115042,6 +115754,15 @@ msgstr "533 mm TR Mk IV"
 msgid "IDS_PVUT903_TORP_CRUISER_TEST"
 msgstr "533 mm Mk14"
 
+msgid "IDS_PWAD905_ASW_T5"
+msgstr "Saab B 17B"
+
+msgid "IDS_PWAD908_ASW_T8"
+msgstr "Saab B 18B"
+
+msgid "IDS_PWAD910_ASW_T10"
+msgstr "Saab B 18B"
+
 msgid "IDS_PWAS001_ARADO_AR196_BUDAPEST"
 msgstr "Arado Ar.196"
 
@@ -115240,6 +115961,9 @@ msgstr "50 mm/80 Škoda R10 on a twin mount"
 msgid "IDS_PWGA125_3CM_78_BRNO_Z453"
 msgstr "30 mm ZK-453 Mount"
 
+msgid "IDS_PWGA129_40MM_BOFORS_M36_SW"
+msgstr "40 mm/56 Bofors L/60 Model 1936"
+
 msgid "IDS_PWGM003_120MM_BOFORS_WZ34_36_TWIN"
 msgstr "120 mm/50 wz.36 Bofors on a shielded mount"
 
@@ -115285,6 +116009,9 @@ msgstr "120 mm/45 Bofors Model 1924 on a shielded mount"
 msgid "IDS_PWGM052_152MM53_BOFORS_TWIN_SW"
 msgstr "152 mm/53 Model 1942 in a turret"
 
+msgid "IDS_PWGM054_BOFORS_152MM53_MODEL_1942_BARREL3_SW"
+msgstr "152 mm/53 Model 1942 in a turret"
+
 msgid "IDS_PWGM058_5IN38_MK30_MOD0"
 msgstr "127 mm/38 Mk.12 on a Mk.30 mod.0 mount"
 
@@ -115327,6 +116054,9 @@ msgstr "120 mm/45 Mk.IX in CPXIX turret mount"
 msgid "IDS_PWGM110_100MM_B_34_MK_XIX"
 msgstr "100 mm/56 Model 1940 in Mk.XIX Mount"
 
+msgid "IDS_PWGM115_254MM_45_BOFORS_TWIN_TURRET"
+msgstr "254 mm/45 Bofors on a twin mount"
+
 msgid "IDS_PWGM116_203MM55_BARRELS_3"
 msgstr "203 mm/55 Model 1934 in a turret"
 
@@ -115340,7 +116070,16 @@ msgid "IDS_PWGM126_105MM_45_LC16"
 msgstr "105 mm/45 Tbts C/16 on a Tbts LC/16 mount"
 
 msgid "IDS_PWGM127_254MM_45_TWIN"
-msgstr "254-мм/45 Bofors in a turret"
+msgstr "254-мм/50 Bofors in a turret"
+
+msgid "IDS_PWGM128_254MM_45_BOFORS_TWIN_TURRET"
+msgstr "254 mm/45 Bofors on a twin mount"
+
+msgid "IDS_PWGM130_152MM53_BOFORS_M1942"
+msgstr "152 mm/53 Model 1942 in a turret"
+
+msgid "IDS_PWGM133_152MM53_BOFORS_M1948"
+msgstr "152 mm/53 Model 1942 in a turret"
 
 msgid "IDS_PWGS007_150_50_K10_SKODA"
 msgstr "150 mm/50 Škoda K10 on a casemate mount"
@@ -115424,6 +116163,9 @@ msgid "IDS_PWGT106_21IN_5TUBE_TORPEDO_TUBE"
 msgstr "533 mm 5 tubes"
 
 msgid "IDS_PWGT112_533MM_1N_3TUBES"
+msgstr "533 mm Triple"
+
+msgid "IDS_PWGT131_533MM_3TUBE"
 msgstr "533 mm Triple"
 
 msgid "IDS_PWGT135_533MM_3TUBE"
@@ -115610,9 +116352,27 @@ msgid "IDS_PWPA060_100MM_HE_R11"
 msgstr "100 mm HE"
 
 msgid "IDS_PWPA061_254MM_HE_T11"
-msgstr "254 mm HE 1929"
+msgstr "254 mm HE 1939"
 
 msgid "IDS_PWPA062_254MM_AP_T11"
+msgstr "254 mm AP 1939"
+
+msgid "IDS_PWPA063_254MM_50_HE"
+msgstr "254 mm HE 1939"
+
+msgid "IDS_PWPA064_254MM_50_AP"
+msgstr "254 mm AP 1939"
+
+msgid "IDS_PWPA065_152MM_53_HE_BOFORS1942"
+msgstr "152 mm HE Brisantgranaat"
+
+msgid "IDS_PWPA066_152MM_53_AP_BOFORS1942"
+msgstr "152 mm AP Pantsergranaat"
+
+msgid "IDS_PWPA067_254MM_45_HE_T8_9"
+msgstr "254 mm HE 1929"
+
+msgid "IDS_PWPA068_254MM_45_AP_T8_9"
 msgstr "254 mm AP 1929"
 
 msgid "IDS_PWPA8001_120_HE_1916"
@@ -115711,6 +116471,15 @@ msgstr "533 mm L6.3"
 msgid "IDS_PWPT031_TROLL"
 msgstr "Torped M1947 mod 2"
 
+msgid "IDS_PWPT032_533MM_T5_T6"
+msgstr "533 mm Mk VI"
+
+msgid "IDS_PWPT033_533MM_T7_T9"
+msgstr "533 mm Mk IX"
+
+msgid "IDS_PWPT034_533MM_T10"
+msgstr "533 mm Mk X"
+
 msgid "IDS_PWPT8001_550_MARK_100_1915"
 msgstr "Mark 100 Model 1915"
 
@@ -115776,6 +116545,96 @@ msgstr "1"
 
 msgid "IDS_PWSC101_YEAR"
 msgstr "1938"
+
+msgid "IDS_PWSC105"
+msgstr "Riddare"
+
+msgid "IDS_PWSC105_DESCR"
+msgstr "<p>According to the Swedish fleet development plans, the main tactical unit was to be a squadron of several destroyers led by a flotilla leader. The Tre Kronor-class cruisers were to act as squadron leaders, but in the mid-to-late 1940s an alternative was considered: building a dedicated ship for this role.</p><p class=\"p_spacing\"> </p><p>In 1944, Admiral Knut Gunnar Bjurner proposed a project for a torpedo cruiser or armored destroyer with a displacement of 4000 tons. The ship was to be armed with six 152 mm guns in three turrets.</p>"
+
+msgid "IDS_PWSC105_FULL"
+msgstr "Riddare"
+
+msgid "IDS_PWSC105_NUMBER"
+msgstr "1"
+
+msgid "IDS_PWSC105_YEAR"
+msgstr "1944"
+
+msgid "IDS_PWSC106"
+msgstr "Tre Kronor"
+
+msgid "IDS_PWSC106_DESCR"
+msgstr "<p>In the mid-1930s, as tensions increased in Europe and around the world, the Swedish leadership intended to expand the fleet. The capacity for building large ships in Sweden was very limited, so it was planned to purchase heavy cruisers from the USA or Italy. With the outbreak of World War II, buying ships became impossible, and it was decided to build light cruisers at Swedish shipyards.</p><p class=\"p_spacing\"> </p><p>The ships were fitted with 152 mm guns that had been manufactured by Bofors for the Dutch Eendracht-class cruisers: because of the German invasion, the Netherlands cancelled the purchase of these guns. Construction began only in 1943, and the cruisers entered service after the war.</p><p class=\"p_spacing\"> </p><p>The cruiser Tre Kronor was built at the Götaverken shipyard in Gothenburg. Upon entering service, the ship became the flagship of the 1st Destroyer Flotilla. During 1948–49 and 1951–53, the cruiser underwent various modifications and modernizations. Tre Kronor served in the Swedish Navy until 1958.</p>"
+
+msgid "IDS_PWSC106_FULL"
+msgstr "Tre Kronor"
+
+msgid "IDS_PWSC106_NUMBER"
+msgstr "2"
+
+msgid "IDS_PWSC106_YEAR"
+msgstr "1947"
+
+msgid "IDS_PWSC107"
+msgstr "Bärsärk"
+
+msgid "IDS_PWSC107_DESCR"
+msgstr "<p>In the Swedish fleet development concept, a squadron of several destroyers and a flotilla leader played an important role. In the mid-to-late 1940s, there were plans to create a special ship that would serve as a flotilla leader.</p><p class=\"p_spacing\"> </p><p>One of the designs for such a ship, dated March 21, 1947, was prepared by a special research group. The cruiser was to be armed with nine 152 mm guns in three triple turrets.</p>"
+
+msgid "IDS_PWSC107_FULL"
+msgstr "Bärsärk"
+
+msgid "IDS_PWSC107_NUMBER"
+msgstr "1"
+
+msgid "IDS_PWSC107_YEAR"
+msgstr "1947"
+
+msgid "IDS_PWSC108"
+msgstr "Jarl"
+
+msgid "IDS_PWSC108_DESCR"
+msgstr "<p>In the early-to-mid 1930s, a number of studies were conducted in Sweden to determine the future shape of the fleet. The commission was headed by Vice Admiral Charles Léon Deschamps, acting commander of the fleet. He concluded that the fleet should be based on armored ships with a displacement of at least 14000 tons, but their construction cost would have been too high for the Swedish budget.</p><p class=\"p_spacing\"> </p><p>Further research on the subject led to the appearance in 1941 of several designs for an artillery ship armed with 210 mm or 280 mm guns. However, such guns existed only on paper—a more realistic option would have been to arm the ship with 254 mm guns already produced by Bofors for Finnish coastal defense battleships.</p>"
+
+msgid "IDS_PWSC108_FULL"
+msgstr "Jarl"
+
+msgid "IDS_PWSC108_NUMBER"
+msgstr "1"
+
+msgid "IDS_PWSC108_YEAR"
+msgstr "1941"
+
+msgid "IDS_PWSC109"
+msgstr "Vestfold"
+
+msgid "IDS_PWSC109_DESCR"
+msgstr "In 1940–1941, the Swedish Navy was working on artillery ships armed with six main battery guns in three turrets. Further development of the 1941 project would have focused on increasing armor protection and strengthening the anti-aircraft armament, which would have led to an increase in the ship's dimensions and, consequently, a rearrangement of its propulsion plant."
+
+msgid "IDS_PWSC109_FULL"
+msgstr "Vestfold"
+
+msgid "IDS_PWSC109_NUMBER"
+msgstr "1"
+
+msgid "IDS_PWSC109_YEAR"
+msgstr "1941"
+
+msgid "IDS_PWSC110"
+msgstr "Konung"
+
+msgid "IDS_PWSC110_DESCR"
+msgstr "In the 1930s, a special commission concluded that the backbone of the Swedish Navy should consist of large-displacement armored ships. In 1941, several designs for an artillery ship with large-caliber guns were presented. Had these projects been developed further, they would have resulted in increased armor protection, strengthened anti-aircraft armament, and the installation of new electronic equipment."
+
+msgid "IDS_PWSC110_FULL"
+msgstr "Konung"
+
+msgid "IDS_PWSC110_NUMBER"
+msgstr "1"
+
+msgid "IDS_PWSC110_YEAR"
+msgstr "1941"
 
 msgid "IDS_PWSC111"
 msgstr "Troll"
@@ -116313,6 +117172,9 @@ msgstr "120 mm/45 Bofors Model 1924C on a shielded mount"
 msgid "IDS_PWUA403_D5_ART_STOCK"
 msgstr "120 mm/45 QF Mk.IX on a CPXVIII mount"
 
+msgid "IDS_PWUA404_C5_ART_STOCK"
+msgstr "152 mm/53 Model 1942 in a turret"
+
 msgid "IDS_PWUA501_DD6_ART_STOCK"
 msgstr "120 mm/45 Bofors Model 1924C on a shielded mount"
 
@@ -116321,6 +117183,9 @@ msgstr "120 mm/45 QF Mk.IX on a CPXXII mount"
 
 msgid "IDS_PWUA503_ART_ELLI"
 msgstr "152 mm/53 OTO Model 1929 on a Model 1929 mount"
+
+msgid "IDS_PWUA506_C6_ART_STOCK"
+msgstr "152 mm/53 Model 1942 in a turret"
 
 msgid "IDS_PWUA601_120_50_WZ_34_36"
 msgstr "120 mm/50 wz.36 Bofors on a shielded mount"
@@ -116337,6 +117202,9 @@ msgstr "120 mm/45 Mk.IX in CPXIX turret mount"
 msgid "IDS_PWUA605_ART_BLACK_BLYSKAWICA"
 msgstr "120 mm/50 wz.36 Bofors in shielded mount"
 
+msgid "IDS_PWUA608_C7_ART_STOCK"
+msgstr "152 mm/53 Model 1942 in a turret"
+
 msgid "IDS_PWUA701_DD8_ART_STOCK"
 msgstr "120 mm/50 Model 1942 in a turret"
 
@@ -116351,6 +117219,9 @@ msgstr "100 mm/56 Model 1940 in Mk.XIX Mount"
 
 msgid "IDS_PWUA705_ART_SALDIRAY"
 msgstr "105 mm/45 Tbts C/16 on a Tbts LC/16 mount"
+
+msgid "IDS_PWUA706_C8_ART_STOCK"
+msgstr "254 mm/45 Bofors on a twin mount"
 
 msgid "IDS_PWUA801_DD9_ART_STOCK"
 msgstr "120 mm/50 Model 1942 in a turret"
@@ -116372,6 +117243,9 @@ msgstr "150 mm/50 K10 Škoda on a single mount"
 
 msgid "IDS_PWUA807_ART_BUDAPEST"
 msgstr "350 mm/45 G. L/45 K14 Škoda in a twin/triple turret"
+
+msgid "IDS_PWUA808_C9_ART_STOCK"
+msgstr "254 mm/45 Bofors in a turret"
 
 msgid "IDS_PWUA900_D10_ART_STOCK"
 msgstr "120 mm/50 Model 1950 in a turret"
@@ -116401,7 +117275,10 @@ msgid "IDS_PWUA908_ART_TORDENSKJOLD"
 msgstr "203 mm/55 Model 1934 in a turret"
 
 msgid "IDS_PWUA909_C11_ART_STOCK"
-msgstr "254-мм/45 Bofors in a turret"
+msgstr "254 mm/45 Bofors in a turret"
+
+msgid "IDS_PWUA910_C10_ART_STOCK"
+msgstr "254 mm/45 Bofors in a turret"
 
 msgid "IDS_PWUA941_DD11_ART_STOCK"
 msgstr "120 mm/50 Model 1950 in a turret"
@@ -116427,6 +117304,9 @@ msgstr "Propulsion: 36,000 hp"
 msgid "IDS_PWUE402_D5_ENG_STOCK"
 msgstr "Propulsion: 34,000 hp"
 
+msgid "IDS_PWUE403_C5_ENG_STOCK"
+msgstr "Propulsion: 70,000 hp"
+
 msgid "IDS_PWUE501_DD6_ENG_STOCK"
 msgstr "Propulsion: 41,000 hp"
 
@@ -116435,6 +117315,9 @@ msgstr "Propulsion: 40,000 hp"
 
 msgid "IDS_PWUE503_ENG_ELLI"
 msgstr "Propulsion: 128,000 hp"
+
+msgid "IDS_PWUE506_C6_ENG_STOCK"
+msgstr "Propulsion: 90,000 hp"
 
 msgid "IDS_PWUE601_ENGINE_54000"
 msgstr "Propulsion: 54,000 hp"
@@ -116451,6 +117334,9 @@ msgstr "Propulsion: 44,000 hp"
 msgid "IDS_PWUE605_ENG_BLACK_BLYSKAWICA"
 msgstr "Propulsion: 54,000 hp"
 
+msgid "IDS_PWUE608_C7_ENG_STOCK"
+msgstr "Propulsion: 75,000 hp"
+
 msgid "IDS_PWUE701_DD8_ENG_STOCK"
 msgstr "Propulsion: 44,000 hp"
 
@@ -116465,6 +117351,9 @@ msgstr "Propulsion: 54,000 hp"
 
 msgid "IDS_PWUE705_ENG_SALDIRAY"
 msgstr "Propulsion: 3,500 hp"
+
+msgid "IDS_PWUE706_C8_ENG_STOCK"
+msgstr "Propulsion: 141,000 hp"
 
 msgid "IDS_PWUE801_DD9_ENG_STOCK"
 msgstr "Propulsion: 44,000 hp"
@@ -116486,6 +117375,9 @@ msgstr "Propulsion: 43,000 hp"
 
 msgid "IDS_PWUE807_ENG_BUDAPEST"
 msgstr "Propulsion: 154,000 hp"
+
+msgid "IDS_PWUE808_C9_ENG_STOCK"
+msgstr "Propulsion: 100,000 hp"
 
 msgid "IDS_PWUE900_D10_ENG_STOCK"
 msgstr "Propulsion: 58,000 hp"
@@ -116515,6 +117407,9 @@ msgid "IDS_PWUE908_ENG_TORDENSKJOLD"
 msgstr "Propulsion: 240,000 hp"
 
 msgid "IDS_PWUE909_C11_ENG_STOCK"
+msgstr "Propulsion: 101,500 hp"
+
+msgid "IDS_PWUE910_C10_ENG_STOCK"
 msgstr "Propulsion: 101,500 hp"
 
 msgid "IDS_PWUE941_DD11_ENG_STOCK"
@@ -116556,6 +117451,9 @@ msgstr "Muavenet (A)"
 msgid "IDS_PWUH404_D5_HULL_TOP"
 msgstr "Muavenet (B)"
 
+msgid "IDS_PWUH405_C5_HULL_STOCK"
+msgstr "Riddare"
+
 msgid "IDS_PWUH501_DD6_HULL_STOCK"
 msgstr "Västerås (A)"
 
@@ -116570,6 +117468,9 @@ msgstr "Stord (B)"
 
 msgid "IDS_PWUH505_HULL_ELLI"
 msgstr "Elli"
+
+msgid "IDS_PWUH506_C6_HULL_STOCK"
+msgstr "Tre Kronor"
 
 msgid "IDS_PWUH601_BLYSKAWICA"
 msgstr "Błyskawica"
@@ -116592,6 +117493,9 @@ msgstr "Piorun"
 msgid "IDS_PWUH607_HULL_BLACK_BLYSKAWICA"
 msgstr "Błyskawica B"
 
+msgid "IDS_PWUH608_C7_HULL_STOCK"
+msgstr "Bärsärk"
+
 msgid "IDS_PWUH701_DD8_HULL_STOCK"
 msgstr "Öland (A)"
 
@@ -116612,6 +117516,9 @@ msgstr "Błyskawica '63"
 
 msgid "IDS_PWUH707_HULL_SALDIRAY"
 msgstr "Saldıray"
+
+msgid "IDS_PWUH708_C8_HULL_STOCK"
+msgstr "Jarl"
 
 msgid "IDS_PWUH801_DD9_HULL_STOCK"
 msgstr "Östergötland (A)"
@@ -116639,6 +117546,9 @@ msgstr "Jäger B."
 
 msgid "IDS_PWUH809_HULL_BUDAPEST"
 msgstr "Budapest"
+
+msgid "IDS_PWUH810_C9_HULL_STOCK"
+msgstr "Vestfold"
 
 msgid "IDS_PWUH900_D10_HULL_STOCK"
 msgstr "Halland Test"
@@ -116669,6 +117579,9 @@ msgstr "Tordenskjold"
 
 msgid "IDS_PWUH909_C11_HULL_STOCK"
 msgstr "Troll"
+
+msgid "IDS_PWUH910_C10_HULL_STOCK"
+msgstr "Konung"
 
 msgid "IDS_PWUH941_DD11_HULL_STOCK"
 msgstr "Dalarna"
@@ -116709,6 +117622,9 @@ msgstr "SUO Mk 5 Mod. 1"
 msgid "IDS_PWUS404_D5_SUO_TOP"
 msgstr "SUO Mk 5 Mod. 2"
 
+msgid "IDS_PWUS405_C5_SUO_STOCK"
+msgstr "SUO Mk 5"
+
 msgid "IDS_PWUS501_DD6_SUO_STOCK"
 msgstr "SUO Mk 6 Mod. 1"
 
@@ -116722,6 +117638,9 @@ msgid "IDS_PWUS504_D6_SUO_TOP"
 msgstr "SUO Mk 6 Mod. 2"
 
 msgid "IDS_PWUS505_SUO_ELLI"
+msgstr "SUO Mk 6 Mod. 1"
+
+msgid "IDS_PWUS506_C6_SUO_STOCK"
 msgstr "SUO Mk 6 Mod. 1"
 
 msgid "IDS_PWUS601_SUO"
@@ -116745,6 +117664,9 @@ msgstr "SUO Mk 7 Mod. 1"
 msgid "IDS_PWUS607_SUO_BLACK_BLYSKAWICA"
 msgstr "SKO Mod. 7"
 
+msgid "IDS_PWUS608_C7_SUO_STOCK"
+msgstr "SUO Mk 7 Mod. 1"
+
 msgid "IDS_PWUS701_DD8_SUO_STOCK"
 msgstr "SUO Mk 8 Mod. 1"
 
@@ -116762,6 +117684,9 @@ msgstr "SUO Mk 8 Mod. 2"
 
 msgid "IDS_PWUS706_SUO_BLYSKAWICA_63"
 msgstr "SUO Mk 8"
+
+msgid "IDS_PWUS707_C8_SUO_STOCK"
+msgstr "SUO Mk 8"
 
 msgid "IDS_PWUS801_DD9_SUO_STOCK"
 msgstr "SUO Mk 9 Mod. 1"
@@ -116788,6 +117713,9 @@ msgid "IDS_PWUS808_SUO_BLACK_JAGER"
 msgstr "SUO Mk 9"
 
 msgid "IDS_PWUS809_SUO_BUDAPEST"
+msgstr "SUO Mk 9"
+
+msgid "IDS_PWUS810_C9_SUO_STOCK"
 msgstr "SUO Mk 9"
 
 msgid "IDS_PWUS900_D10_SUO_TOP"
@@ -116820,6 +117748,9 @@ msgstr "SUO Mk 10"
 msgid "IDS_PWUS910_C11_SUO_STOCK"
 msgstr "SUO Mk 11"
 
+msgid "IDS_PWUS911_C10_SUO_STOCK"
+msgstr "SUO Mk 10"
+
 msgid "IDS_PWUS941_DD11_SUO_STOCK"
 msgstr "SUO Mk 11 Mod. 1"
 
@@ -116841,6 +117772,9 @@ msgstr "Torped M1929"
 msgid "IDS_PWUT403_D5_TORP_STOCK"
 msgstr "533 mm Mk VII"
 
+msgid "IDS_PWUT404_C5_TORP_STOCK"
+msgstr "Torped M1913 mod 1"
+
 msgid "IDS_PWUT501_DD6_TORP_STOCK"
 msgstr "Torped M1929"
 
@@ -116852,6 +117786,9 @@ msgstr "533 mm Mk VII"
 
 msgid "IDS_PWUT504_TORP_ELLI"
 msgstr "533 mm Si 270"
+
+msgid "IDS_PWUT506_C6_TORP_STOCK"
+msgstr "Torped M1943"
 
 msgid "IDS_PWUT601_533_MARK_X"
 msgstr "Mark 10"
@@ -116870,6 +117807,9 @@ msgstr "Mark 7"
 
 msgid "IDS_PWUT606_TORP_BLACK_BLYSKAWICA"
 msgstr "Mark 10"
+
+msgid "IDS_PWUT608_C7_TORP_STOCK"
+msgstr "Torped M1943"
 
 msgid "IDS_PWUT701_DD8_TORP_STOCK"
 msgstr "Torped M1943"
@@ -116913,6 +117853,9 @@ msgstr "Torped M1947"
 msgid "IDS_PWUT808_TORP_BUDAPEST"
 msgstr "Torped M1932"
 
+msgid "IDS_PWUT809_C9_TORP_STOCK"
+msgstr "Mark 10"
+
 msgid "IDS_PWUT900_D10_TORP_STOCK"
 msgstr "Torped M1947 mod 1"
 
@@ -116936,6 +117879,9 @@ msgstr "533 mm Si 270 N"
 
 msgid "IDS_PWUT907_C11_TORP_STOCK"
 msgstr "533 mm"
+
+msgid "IDS_PWUT908_C10_TORP_STOCK"
+msgstr "Torped M1947"
 
 msgid "IDS_PWUT941_DD11_TORP_STOCK"
 msgstr "Torped M1947 mod 1"
@@ -117038,6 +117984,15 @@ msgstr "Von Krieger's Legacy"
 
 msgid "IDS_PXES408_CHARLES_MARTEL_H2017"
 msgstr "Scarab"
+
+msgid "IDS_PXES420_KOSCHEI_RED"
+msgstr "Harbinger of Doom"
+
+msgid "IDS_PXES421_GORYNYCH_GREEN"
+msgstr "Dragon Scales"
+
+msgid "IDS_PXES422_VODYANOI_PURPLE"
+msgstr "Still Waters"
 
 msgid "IDS_PXES430_HENRI_HW19"
 msgstr "Fossil"
@@ -117654,6 +118609,9 @@ msgstr "incapacitating"
 msgid "IDS_PXGT022_533MM_2"
 msgstr "Type 6"
 
+msgid "IDS_PXGT023_VODYANOI_5_TUBES"
+msgstr "533 mm"
+
 msgid "IDS_PXGT030_AKIZUKI_1"
 msgstr "plasma"
 
@@ -117954,7 +118912,7 @@ msgstr "SCR-HW19"
 msgid "IDS_PXPA091_YAMATO_H2019_AP"
 msgstr "SCR-II"
 
-msgid "IDS_PXPA092_130MM_HE_SG_DICTATOR"
+msgid "IDS_PXPA092_130MM_AP_SC_GORYNYCH"
 msgstr "OF-42"
 
 msgid "IDS_PXPA093_127MM_HE_SHIMAKAZE"
@@ -118034,6 +118992,24 @@ msgstr "ultrashort-range emitter"
 
 msgid "IDS_PXPA122_ATBA_PLAZMA_AKIZUKI_H2020"
 msgstr "plasma cannon"
+
+msgid "IDS_PXPA123_130MM_CS_VODYANOI"
+msgstr "Vodyanoi's Ammunition"
+
+msgid "IDS_PXPA124_305MM_CS_VODYNAOI"
+msgstr "Vodyanoi's Ammunition"
+
+msgid "IDS_PXPA125_305MM_HE_GORYNYCH"
+msgstr "Gorynych's Ammunition"
+
+msgid "IDS_PXPA126_130MM_AP_SC_GORYNYCH"
+msgstr "Gorynych's Ammunition"
+
+msgid "IDS_PXPA127_305MM_AP_KOSCHEI"
+msgstr "Likho’s Ammunition"
+
+msgid "IDS_PXPA128_130MM_HE_SG_KOSCHEI"
+msgstr "Likho’s Ammunition"
 
 msgid "IDS_PXPA201_ATBA_LONGLASER_OLAND_H2020"
 msgstr "short-range emitter"
@@ -118169,6 +119145,9 @@ msgstr "Fizzy Torpedoes"
 
 msgid "IDS_PXPT034_533MM_T11"
 msgstr "G7 Schildbutt"
+
+msgid "IDS_PXPT035_VODYANOI"
+msgstr "Ice Torpedo"
 
 msgid "IDS_PXPT101_G7A_T1"
 msgstr "BWLF-107"
@@ -118841,6 +119820,51 @@ msgstr "1"
 
 msgid "IDS_PXSC019_YEAR"
 msgstr "1959"
+
+msgid "IDS_PXSC020"
+msgstr "Likho"
+
+msgid "IDS_PXSC020_DESCR"
+msgstr "The first rumors of an undead ship began to appear after an entire warband vanished without a trace in the northern seas. As a true spawn of the Morok, “Likho” always appears unseen, denying the enemy even a chance of escape. Sailors believe the ship comes only to those who are already fated never to return to their home harbor."
+
+msgid "IDS_PXSC020_FULL"
+msgstr "Likho"
+
+msgid "IDS_PXSC020_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSC020_YEAR"
+msgstr "587"
+
+msgid "IDS_PXSC021"
+msgstr "Gorynych"
+
+msgid "IDS_PXSC021_DESCR"
+msgstr "Ancient chronicles spoke of a colossal ship whose salvos were like the fiery breath of a three-headed dragon. It reduced entire fleets to ash, leaving a blazing glow where the water had been. It was believed that no ship could withstand an attack by “Gorynych”, and its appearance on the horizon promised great ruin."
+
+msgid "IDS_PXSC021_FULL"
+msgstr "Gorynych"
+
+msgid "IDS_PXSC021_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSC021_YEAR"
+msgstr "587"
+
+msgid "IDS_PXSC022"
+msgstr "Vodyanoi"
+
+msgid "IDS_PXSC022_DESCR"
+msgstr "Legend has it that the “Vodyanoi” was raised from the bottom by the lord of rivers and lakes himself. Named after its master, this giant glides silently across the water, luring unwary enemies into whirlpools and treacherous currents. Only a few records in ancient chronicles confirm the ship’s existence—after all, an encounter with it usually left no witnesses behind."
+
+msgid "IDS_PXSC022_FULL"
+msgstr "Vodyanoi"
+
+msgid "IDS_PXSC022_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSC022_YEAR"
+msgstr "587"
 
 msgid "IDS_PXSC101"
 msgstr "Valkyrie"
@@ -119825,6 +120849,12 @@ msgstr "406 mm/52 Drh C/34 on a Drh LC/34 mount"
 msgid "IDS_PXUA925_GALAXY_ART"
 msgstr "203 MW/55 UlteX 375"
 
+msgid "IDS_PXUA926_ART_GORYNYCH"
+msgstr "305 mm/61 SM-33 on an SM-31 mount"
+
+msgid "IDS_PXUA927_ART_VODYANOI"
+msgstr "305 mm/61 SM-33 on an SM-31 mount"
+
 msgid "IDS_PXUA931_PARIS_ART"
 msgstr "431 MW/50 Titan XXVI"
 
@@ -120049,6 +121079,12 @@ msgstr "Propulsion: 167,600 hp"
 
 msgid "IDS_PXUE935_ASTER_ENG"
 msgstr "PowerCube"
+
+msgid "IDS_PXUE936_ENG_GORYNYCH"
+msgstr "Propulsion: 280,000 hp"
+
+msgid "IDS_PXUE937_ENG_VODYANOI"
+msgstr "Propulsion: 280,000 hp"
 
 msgid "IDS_PXUE941_FLYFIRE_ENG"
 msgstr "PowerCube"
@@ -120410,7 +121446,7 @@ msgid "IDS_PXUH925_NORMA"
 msgstr "NORMA"
 
 msgid "IDS_PXUH926_HULL_PREDATOR"
-msgstr "Geisterjäger"
+msgstr "Likho"
 
 msgid "IDS_PXUH927_HULL_BOTOMANCER"
 msgstr "Signalträger"
@@ -120438,6 +121474,12 @@ msgstr "Weltraum"
 
 msgid "IDS_PXUH935_ASTER"
 msgstr "ASTER"
+
+msgid "IDS_PXUH936_HULL_GORYNYCH"
+msgstr "Gorynych"
+
+msgid "IDS_PXUH937_HULL_VODYANOI"
+msgstr "Vodyanoi"
 
 msgid "IDS_PXUH941_FLYFIRE"
 msgstr "FLYFIRE"
@@ -121239,8 +122281,14 @@ msgstr "SUO X"
 msgid "IDS_PXUS929_SUO_BOTOMANCER"
 msgstr "SUO X"
 
+msgid "IDS_PXUS930_SUO_GORYNYCH"
+msgstr "SUO X"
+
 msgid "IDS_PXUS931_PARIS_SUO"
 msgstr "Atlas I"
+
+msgid "IDS_PXUS932_SUO_VODYANOI"
+msgstr "SUO X"
 
 msgid "IDS_PXUS933_B10_SUO_STOCK"
 msgstr "SUO X"
@@ -121395,6 +122443,9 @@ msgstr "550 mm 23DT"
 msgid "IDS_PXUT919_KHABAROVSK_H19_TORP"
 msgstr "Tube 18-105"
 
+msgid "IDS_PXUT920_TORP_VODYANOI"
+msgstr "Ice Torpedo"
+
 msgid "IDS_PXUT921_FLYFIRE_TORP"
 msgstr "Chrysalis TM"
 
@@ -121440,6 +122491,9 @@ msgstr "Kawanishi H6K"
 msgid "IDS_PZAF001_VG_39_BIS_FLOAT"
 msgstr "Arsenal VG 39"
 
+msgid "IDS_PZAF002_BF109G_SONGUN"
+msgstr "Messerschmitt Bf.109 G"
+
 msgid "IDS_PZAF005_BLOCH157"
 msgstr "Bloch MB.157"
 
@@ -121448,6 +122502,9 @@ msgstr "F8F Bearcat"
 
 msgid "IDS_PZAF701_SANZANG_STOCK"
 msgstr "F8F Bearcat"
+
+msgid "IDS_PZAS002_AR196_SONGUN"
+msgstr "Arado Ar.196"
 
 msgid "IDS_PZAS005_BREGUET_BR790"
 msgstr "Breguet Br.790"
@@ -121731,6 +122788,18 @@ msgstr "40 mm Bofors on a Mk.1 mount"
 msgid "IDS_PZGA3008_BOFORS_40MM56_MARK1_MK2_QUAD_US"
 msgstr "40 mm Bofors on a Mk.2 mount"
 
+msgid "IDS_PZGA3024_37MM_SKC_30_TWIN_GE"
+msgstr "37 mm/83 SK C/30 on a Dopp LC/30 mount"
+
+msgid "IDS_PZGA3025_20MM_FLAK_38_GE"
+msgstr "20 mm/65 C/38 on an L/30 single mount"
+
+msgid "IDS_PZGA3026_20MM_FLAK_38_QUAD_GE"
+msgstr "20 mm/65 C/38 on a Flak 35 Vierling L/38 mount"
+
+msgid "IDS_PZGA3027_20MM_FLAK_38_QUAD_SHIELD_GE"
+msgstr "20 mm/65 C/38 on a Flak 35 Vierling L/38 mount"
+
 msgid "IDS_PZGA523_25MM_TYPE96_SINGLE"
 msgstr "25 mm/60 Type 96 on a single mount"
 
@@ -121863,6 +122932,18 @@ msgstr "305 mm/61 SM-33 on an SM-31 mount"
 msgid "IDS_PZGM3011_5IN38_MK38_MOD0_US"
 msgstr "127 mm/38 Mk.12 on a Mk.38 mount"
 
+msgid "IDS_PZGM3018_380MM_SKC_34_GE"
+msgstr "380 mm/52 SK C/34 on a Drh LC/34 mount"
+
+msgid "IDS_PZGM3019_380MM_SKC_34_RF_GE"
+msgstr "380 mm/52 SK C/34 on a Drh LC/34 mount"
+
+msgid "IDS_PZGM3020_150MM_SKC_28_GE"
+msgstr "150 mm/55 SK C/28 on a Dop. L. C/34 mount"
+
+msgid "IDS_PZGM3021_150MM_SKC_28_RF_GE"
+msgstr "150 mm/55 SK C/28 on a Dop. L. C/34 mount"
+
 msgid "IDS_PZGM526_410MM50_RF"
 msgstr "410 mm/50 10th Year Type in a triple turret"
 
@@ -121919,6 +123000,9 @@ msgstr "150mm/55 SK C/28 in the Dop. MPL C/36 mounting"
 
 msgid "IDS_PZGS183_130MM_57_BL_132_B"
 msgstr "130 mm/58 on a BL-132B mount"
+
+msgid "IDS_PZGS3023_105MM_SKC_37_GE"
+msgstr "105 mm/65 SK C/33 on a Dop. L. C/37 mount"
 
 msgid "IDS_PZGS524_155MM_60_TYPE3"
 msgstr "155 mm/60 3rd Year Type in a triple turret"
@@ -122008,6 +123092,9 @@ msgid "IDS_PZGT3012_21IN_MK14_TORPEDO_TUBES_US"
 msgstr "533 mm Mk15"
 
 msgid "IDS_PZGT3013_21IN_MK15_TORPEDO_TUBES_US"
+msgstr "533 mm Mk15"
+
+msgid "IDS_PZGT3022_533MM_TORPEDO_TUBES_QUAD_GE"
 msgstr "533 mm Mk15"
 
 msgid "IDS_PZPA001_130_HE_ANSHAN"
@@ -122304,6 +123391,15 @@ msgstr "127 mm HE Mk32"
 msgid "IDS_PZPA098_127MM_AP_HUANG_LONG_CHUAN"
 msgstr "127 mm AP/SC Mk38"
 
+msgid "IDS_PZPA099_380MM_AP_SONGUN"
+msgstr "380 mm P.Spr.Gr. L/4.4"
+
+msgid "IDS_PZPA100_105MM_HE_33LBS"
+msgstr "105 mm Spr.Gr. Kz."
+
+msgid "IDS_PZPA101_150MM_HE_SC_SONGUN"
+msgstr "150 mm Spr.Gr. L/4.4 Kz. Ausf.B"
+
 msgid "IDS_PZPA312_152MM_DUCK_AP_BIG"
 msgstr "Armor-Piercing Bubbles"
 
@@ -122468,6 +123564,9 @@ msgstr "533 mm Mk IXM"
 
 msgid "IDS_PZPT059_HUANG_LONG_CHUAN"
 msgstr "Mark 17"
+
+msgid "IDS_PZPT060_SONGUN"
+msgstr "G7a T1"
 
 msgid "IDS_PZPT518_XIAN_DENG_STOCK"
 msgstr "LT F5b"
@@ -122651,6 +123750,21 @@ msgstr "1"
 
 msgid "IDS_PZSB549_YEAR"
 msgstr "1954"
+
+msgid "IDS_PZSB559"
+msgstr "Songun"
+
+msgid "IDS_PZSB559_DESCR"
+msgstr "A ship for testing."
+
+msgid "IDS_PZSB559_FULL"
+msgstr "Songun"
+
+msgid "IDS_PZSB559_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB559_YEAR"
+msgstr "1944"
 
 msgid "IDS_PZSB610"
 msgstr "Changzheng"
@@ -123375,6 +124489,9 @@ msgstr "305 mm/61 SM-33 on an SM-31 mount"
 msgid "IDS_PZUA812_ART_CHIDI"
 msgstr "152 mm/47 Mk.16 in a turret"
 
+msgid "IDS_PZUA813_ART_SONGUN"
+msgstr "380 mm/52 SK C/34 on a Drh LC/34 mount"
+
 msgid "IDS_PZUA900_D11_ART_STOCK"
 msgstr "127 mm/38 Mk.12 on a Mk.38 mount"
 
@@ -123542,6 +124659,9 @@ msgstr "Propulsion: 201,000 hp"
 
 msgid "IDS_PZUE812_ENG_CHIDI"
 msgstr "Propulsion: 120,000 hp"
+
+msgid "IDS_PZUE813_ENG_SONGUN"
+msgstr "Propulsion: 163,026 hp"
 
 msgid "IDS_PZUE900_D11_ENG_STOCK"
 msgstr "Propulsion: 70,000 hp"
@@ -123744,6 +124864,9 @@ msgstr "Julang"
 msgid "IDS_PZUH814_HULL_CHIDI"
 msgstr "Chìdì"
 
+msgid "IDS_PZUH815_HULL_SONGUN"
+msgstr "Songun"
+
 msgid "IDS_PZUH900_D11_HULL_STOCK"
 msgstr "Kunming"
 
@@ -123939,6 +125062,9 @@ msgstr "SUO IX"
 msgid "IDS_PZUS814_SUO_CHIDI"
 msgstr "Mk9"
 
+msgid "IDS_PZUS815_SUO_SONGUN"
+msgstr "Mk9"
+
 msgid "IDS_PZUS900_D11_SUO_STOCK"
 msgstr "Mk11 mod. 1"
 
@@ -124091,6 +125217,9 @@ msgstr "533 mm Mk XV"
 
 msgid "IDS_PZUT807_TORP_CHIDI"
 msgstr "533 mm Mk XV"
+
+msgid "IDS_PZUT808_TORP_SONGUN"
+msgstr "G7a T1"
 
 msgid "IDS_PZUT900_D11_TORP_STOCK"
 msgstr "Mk16 mod. 1"
@@ -124329,6 +125458,15 @@ msgstr "For each Hound ship destroyed, you receive one charge of 'Signal' type c
 msgid "IDS_RAGE_MODE_DESCRIPTION_CITADEL_HITS"
 msgstr "<p>Hit enemy ships' citadels to increase your completion progress with each hit.</p><p class=\"p_spacing\"> </p><p>If you stop hitting citadels, you will start losing your progress. When your progress reaches 100%, it cannot be lost.</p><p class=\"p_spacing\"> </p><p>To activate Combat Instructions, press [CMD_ACTIVATE_RAGE_MODE].</p>"
 
+msgid "IDS_RAGE_MODE_DESCRIPTION_CITADEL_HITS_OVERRIDE_FOR_WEB"
+msgstr "<p>Hit enemy ships' citadels to increase your completion progress with each hit.</p><p class=\"p_spacing\"> </p><p>If you stop hitting citadels, you will start losing your progress. When your progress reaches 100%, it cannot be lost.</p>"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_GORYNYCH"
+msgstr "<p>Destroy enemies to prepare for activation of combat instructions.</p><p class=\"p_spacing\"> </p><p>To activate combat instructions, press [CMD_ACTIVATE_RAGE_MODE]. They can be activated no more than 6 times per battle.</p>"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_GORYNYCH_AUTO"
+msgstr "<p>Destroy enemies to prepare for activation of combat instructions.</p><p class=\"p_spacing\"> </p><p>Combat instructions will be activated automatically when progress reaches 100%. They can be activated no more than 6 times per battle.</p>"
+
 msgid "IDS_RAGE_MODE_DESCRIPTION_HEADER"
 msgstr "Preparing for activation"
 
@@ -124378,7 +125516,10 @@ msgid "IDS_RAGE_MODE_DESCRIPTION_POTENTIAL_DAMAGE_OVERRIDE_FOR_WEB"
 msgstr "<p>Progress accumulates as you receive potential damage.</p><p class=\"p_spacing\"> </p><p>If you stop taking damage, you will start losing progress. Once your progress reaches 100%, it cannot be lost.</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_PREDATOR"
-msgstr "<p>Charges during the action of battle instructions, after which it deals damage to every enemy equal to 70% of their base HP.</p><p class=\"p_spacing\"> </p><p>Destroy enemy ships to gain access to activation.</p><p class=\"p_spacing\"> </p><p>Press [CMD_ACTIVATE_RAGE_MODE] to activate battle instructions.</p>"
+msgstr "<p>After its duration expires, it deals damage to each enemy.</p><p class=\"p_spacing\"> </p><p>Destroy enemies to prepare for the activation of combat instructions.</p><p class=\"p_spacing\"> </p><p>To activate combat instructions, press [CMD_ACTIVATE_RAGE_MODE].</p>"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_PREDATOR_AUTO"
+msgstr "<p>When its duration expires, it deals damage to each enemy.</p><p class=\"p_spacing\"> </p><p>Destroy enemies to prepare for activation of combat instructions.</p><p class=\"p_spacing\"> </p><p>Combat instructions will be activated automatically when progress reaches 100%.</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_SHIP_FRAG"
 msgstr "<p>Destroy enemy ships to prepare for the activation of combat instructions.</p><p class=\"p_spacing\"> </p><p>Preparation progress cannot be lost. Combat instructions will be activated automatically when the progress reaches 100%.</p>"
@@ -124394,6 +125535,12 @@ msgstr "Activates automatically each time you help your team: providing smoke co
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_TANKING_AUTO"
 msgstr "Activates automatically each time you receive potential damage from 3 enemy ships within 15 seconds."
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_VODYANOI"
+msgstr "<p>Creates ice traps on the battlefield; enemy ships that enter them take damage and flooding. If the “Repair Party” consumable is not active on a ship caught in an “Ice Storm”, it receives a temporary speed reduction.</p><p class=\"p_spacing\"> </p><p>Speeds up main battery gun reload.</p><p class=\"p_spacing\"> </p><p>Hit enemies with torpedoes to prepare for activation of combat instructions.</p><p class=\"p_spacing\"> </p><p>To activate combat instructions, press [CMD_ACTIVATE_RAGE_MODE].</p>"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_VODYANOI_AUTO"
+msgstr "<p>Creates ice traps on the battlefield; enemy ships that enter them take damage and flooding. If the “Repair Party” consumable is not active on a ship caught in an “Ice Storm”, it receives a temporary speed reduction.</p><p class=\"p_spacing\"> </p><p>Speeds up main battery gun reload.</p><p class=\"p_spacing\"> </p><p>Hit enemies with torpedoes to prepare for activation of combat instructions.</p><p class=\"p_spacing\"> </p><p>Combat instructions will be activated automatically when progress reaches 100%.</p>"
 
 msgid "IDS_RAGE_MODE_LEVELS_INFOTIP_HEADER"
 msgstr "Effects of Combat Instruction Stages"
@@ -126231,7 +127378,7 @@ msgid "IDS_REWARD_CLAN_RESOURCE_TITLE"
 msgstr "Oil"
 
 msgid "IDS_REWARD_CLIENTUM_1_TITLE"
-msgstr "Battle Tokens"
+msgstr "Soul Crystals"
 
 msgid "IDS_REWARD_CLIENTUM_2_TITLE"
 msgstr "Progress Tokens"
@@ -126288,13 +127435,13 @@ msgid "IDS_REWARD_EVENTUM_3_TITLE"
 msgstr "American Tokens"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
-msgstr "Equilibrium Tokens"
+msgstr "Old Russian Tokens"
 
 msgid "IDS_REWARD_EVENTUM_5_TITLE"
 msgstr "Map Fragments"
 
 msgid "IDS_REWARD_EVENTUM_6_TITLE"
-msgstr "Summer Tokens"
+msgstr "Koschei's Gold Coins"
 
 msgid "IDS_REWARD_EVENTUM_7_TITLE"
 msgstr "German tokens"
@@ -130250,6 +131397,12 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_SLOT_0_TITLE_FULL"
 msgstr " "
 
+msgid "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Container"
+
 msgid "IDS_REWARD_LOOTBOX_PCL177_FOLKCAMP_BOX_TITLE"
 msgstr "Chest"
 
@@ -130261,6 +131414,12 @@ msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_SLOT_0_TITLE_FULL"
 msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Container"
 
 msgid "IDS_REWARD_LOOTBOX_PCL178_FOLKCAMP_BUNNY_TITLE"
 msgstr "Bunny"
@@ -130274,6 +131433,12 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_SLOT_0_TITLE_FULL"
 msgstr " "
 
+msgid "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Container"
+
 msgid "IDS_REWARD_LOOTBOX_PCL179_FOLKCAMP_DUCK_TITLE"
 msgstr "Duck"
 
@@ -130285,6 +131450,24 @@ msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_SLOT_0_TITLE_FULL"
 msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Premium container"
+
+msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Container"
 
 msgid "IDS_REWARD_LOOTBOX_PCL180_FOLKCAMP_EGG_TITLE"
 msgstr "Egg"
@@ -131804,6 +132987,36 @@ msgstr "Heart of the Artifact"
 msgid "IDS_REWARD_LOOTBOX_PCL246_BIRTHDAY2026_4_TITLE_QUOTES"
 msgstr "\"Heart of the Artifact\""
 
+msgid "IDS_REWARD_LOOTBOX_PCL247_DDR_WHITE_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL247_DDR_WHITE_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL247_DDR_WHITE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Special Tier X ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL247_DDR_WHITE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier X"
+
+msgid "IDS_REWARD_LOOTBOX_PCL247_DDR_WHITE_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL247_DDR_WHITE_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL247_DDR_WHITE_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL247_DDR_WHITE_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL247_DDR_WHITE_TITLE"
+msgstr "GDR"
+
+msgid "IDS_REWARD_LOOTBOX_PCL247_DDR_WHITE_TITLE_QUOTES"
+msgstr "\"GDR\""
+
 msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
@@ -132287,6 +133500,9 @@ msgstr "Cause flooding on an enemy ship."
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_FRAG"
 msgstr "Destroy an enemy ship."
 
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_GORYNYCH_FIRE"
+msgstr "Deal damage with fire shells while commanding the ship \"Gorynych\"."
+
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_HELP_TEAM"
 msgstr "Contribute tactically to the battle against the enemy."
 
@@ -132315,7 +133531,13 @@ msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SECONDARY_CALIBER"
 msgstr "Hit an enemy ship with secondary battery guns."
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SHIELD"
-msgstr "Hit the enemy ship's energy shield."
+msgstr "Hit the shield on an enemy ship."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SPEED_DOWN_RITUAL"
+msgstr "Destroy evil spirits or catch a Firebird’s feather."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SPEED_UP_RITUAL"
+msgstr "Destroy a warrior or catch a Firebird’s feather."
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_SPLANE"
 msgstr "Destroy an enemy aircraft using a fighter."
@@ -132331,6 +133553,15 @@ msgstr "Suppress an enemy onshore installation."
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_TORPEDO"
 msgstr "Hit an enemy ship with torpedo."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ULTIMATE_GORYNYCH"
+msgstr "Deal damage using combat instructions while commanding the ship \"Gorynych\"."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ULTIMATE_KOSHEY"
+msgstr "Activate the \"Nav’s Embrace\" combat instructions."
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_ULTIMATE_VODYANOI"
+msgstr "Deal damage using combat instructions while commanding the ship \"Vodyanoi\"."
 
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_VICTORY_ACTION"
 msgstr "Contribute strategically to the battle against the enemy."
@@ -132462,10 +133693,10 @@ msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ROCKET_RICOCHET"
 msgstr "Your rocket ricocheted off an enemy ship's armor."
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_SHIELD_DAMAGED"
-msgstr "Deal damage to the enemy ship's energy shield."
+msgstr "Deal damage to the shield on an enemy ship."
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_SHIELD_NO_DAMAGED"
-msgstr "Hit the enemy ship's energy shield but did not deal any damage."
+msgstr "Hit the shield on an enemy ship without dealing damage."
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_TANKING"
 msgstr "Within 15 seconds, absorb potential damage from 3 or more enemy ships."
@@ -132521,6 +133752,9 @@ msgstr "Caused flooding"
 msgid "IDS_RIBBON_RIBBON_FRAG"
 msgstr "Destroyed"
 
+msgid "IDS_RIBBON_RIBBON_GORYNYCH_FIRE"
+msgstr "Drowned in Fire"
+
 msgid "IDS_RIBBON_RIBBON_HELP_TEAM"
 msgstr "Tactical contribution"
 
@@ -132549,7 +133783,13 @@ msgid "IDS_RIBBON_RIBBON_SECONDARY_CALIBER"
 msgstr "Target hits"
 
 msgid "IDS_RIBBON_RIBBON_SHIELD"
-msgstr "Hit energy shield"
+msgstr "Hit shield"
+
+msgid "IDS_RIBBON_RIBBON_SPEED_DOWN_RITUAL"
+msgstr "Slowed Down the Ritual"
+
+msgid "IDS_RIBBON_RIBBON_SPEED_UP_RITUAL"
+msgstr "Sped Up the Ritual"
 
 msgid "IDS_RIBBON_RIBBON_SPLANE"
 msgstr "Shot down by fighter"
@@ -132565,6 +133805,15 @@ msgstr "Suppressed"
 
 msgid "IDS_RIBBON_RIBBON_TORPEDO"
 msgstr "Target hits"
+
+msgid "IDS_RIBBON_RIBBON_ULTIMATE_GORYNYCH"
+msgstr "Cast Morok"
+
+msgid "IDS_RIBBON_RIBBON_ULTIMATE_KOSHEY"
+msgstr "Plunged into Nav"
+
+msgid "IDS_RIBBON_RIBBON_ULTIMATE_VODYANOI"
+msgstr "Bound in ice"
 
 msgid "IDS_RIBBON_RIBBON_VICTORY_ACTION"
 msgstr "Strategic contribution"
@@ -132636,7 +133885,7 @@ msgid "IDS_RIBBON_SSE_RIBBON_SECONDARY_CALIBER"
 msgstr "Hit with secondary battery"
 
 msgid "IDS_RIBBON_SSE_RIBBON_SHIELD"
-msgstr "Hit energy shield"
+msgstr "Hit shield"
 
 msgid "IDS_RIBBON_SSE_RIBBON_SPLANE"
 msgstr "Shot down with fighter"
@@ -132786,10 +134035,10 @@ msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_RICOCHET"
 msgstr "Rocket ricochet"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_SHIELD_DAMAGED"
-msgstr "Energy shield damaged"
+msgstr "Shield damaged"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_SHIELD_NO_DAMAGED"
-msgstr "Energy shield not damaged"
+msgstr "Shield not penetrated"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_TORPEDO_DESTROY"
 msgstr "Torpedo detonated"
@@ -132927,10 +134176,10 @@ msgid "IDS_RIBBON_SUBRIBBON_ROCKET_RICOCHET"
 msgstr "Ricochet"
 
 msgid "IDS_RIBBON_SUBRIBBON_SHIELD_DAMAGED"
-msgstr "Energy shield damaged"
+msgstr "Shield damaged"
 
 msgid "IDS_RIBBON_SUBRIBBON_SHIELD_NO_DAMAGED"
-msgstr "Energy shield not damaged"
+msgstr "Shield not penetrated"
 
 msgid "IDS_RIBBON_SUBRIBBON_TANKING"
 msgstr "Took the hit"
@@ -133670,6 +134919,9 @@ msgstr "Catch the Eggs"
 msgid "IDS_SCENARIO_NATIONAL_BATTLES"
 msgstr "Axis vs. Allies. Domination"
 
+msgid "IDS_SCENARIO_NEOWAFFENTRAGER"
+msgstr "Defense of Lukomorye"
+
 msgid "IDS_SCENARIO_OR_MAP_NAME"
 msgstr "%(scenarioOrMapName)s, %(date)s"
 
@@ -133894,6 +135146,9 @@ msgstr "Points per battle"
 
 msgid "IDS_SCORE_FOR_BATTLE_INFO"
 msgstr "The number of points depends on the ship tier and combat activity."
+
+msgid "IDS_SCOUTING_DAMAGE_STAT"
+msgstr "Damage upon your spotting"
 
 msgid "IDS_SCREENSPACE_REFLECTIONS"
 msgstr "Additional reflections (SSR)"
@@ -135121,8 +136376,17 @@ msgstr "In the Repair Dock"
 msgid "IDS_SHIP_CREW_HINT"
 msgstr "Ship Commander"
 
+msgid "IDS_SHIP_DECAL_EXTERIOR_HEADER"
+msgstr "Decorative"
+
+msgid "IDS_SHIP_DECAL_GROUP_ACCOUNT"
+msgstr "Counters"
+
 msgid "IDS_SHIP_DECAL_GROUP_EYES"
 msgstr "Eyes"
+
+msgid "IDS_SHIP_DECAL_GROUP_SHIP"
+msgstr "Reward"
 
 msgid "IDS_SHIP_DECAL_GROUP_SYMBOLS"
 msgstr "Symbols"
@@ -135130,8 +136394,14 @@ msgstr "Symbols"
 msgid "IDS_SHIP_DECAL_GROUP_UNIQUE"
 msgstr "Unique"
 
+msgid "IDS_SHIP_DECAL_SLOT_INFO"
+msgstr "Decal slot"
+
 msgid "IDS_SHIP_DECAL_UNIQUE_INFO"
 msgstr "Unique decals are not available for purchase"
+
+msgid "IDS_SHIP_DECAL_VANITY_HEADER"
+msgstr "Battle"
 
 msgid "IDS_SHIP_DUR_SPECIAL_REPAIR"
 msgstr "Fast Damage Control Team consumable instead of Damage Control Party"
@@ -136052,8 +137322,14 @@ msgstr "Maximum number of buffs of this type picked up"
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_AAA_MAX_DISTANCE"
 msgstr "In the selected combat type, this parameter has a fixed value that cannot be changed by modules, upgrades, signals and commander skills."
 
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_GORYNYCH"
+msgstr "Restores shield HP while you are in the Morok."
+
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_INTANIA_MAGIC"
 msgstr "Ship combat characteristics are altered. The changes depend on the ship class."
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_LIHO"
+msgstr "Partially restores shield HP when the ritual ends. The more enemies you have destroyed by the time it ends, the more HP your shield restores."
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM300_TRIGGERHYDROPHONEZONEBUFF"
 msgstr "Ships receive bonuses while within the hydrophone radius of an allied submarine at periscope depth or operating depth."
@@ -136150,6 +137426,9 @@ msgstr "Slower Reload Time"
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_DECREASED_WEAPON_DAMAGE"
 msgstr "Reduced Weapon Damage"
 
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_GORYNYCH"
+msgstr "Morok Devourer"
+
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_HEALTH_REGENERATION"
 msgstr "Health Regeneration"
 
@@ -136167,6 +137446,9 @@ msgstr "Increased Weapon Efficiency"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_INTANIA_MAGIC"
 msgstr "Intania's Magic"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_LIHO"
+msgstr "Trophy Chainmail"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM001_VISIBILITY"
 msgstr "Detectability"
@@ -136487,19 +137769,37 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM190_REGENERATION_DE2025_APPLIED"
 msgstr " "
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM196_ENGINE_WT"
-msgstr "Team Engine Boost"
+msgstr "Heroic Agility"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM217_HOUNDSRESIST_WT"
-msgstr "Team Shield"
+msgstr "Druzhina's Barrier"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM218_HOUNDSVAMPIRISM_WT"
 msgstr "Armor Extraction"
 
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM221_WT_ROTARYMG_BUFF"
+msgstr "True Arrow"
+
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM233_SLOWDOWN_WT"
 msgstr "Slowing Shells"
 
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM235_SUPERDESPERATE_WT"
+msgstr "Kladinets Sword"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM236_HOUNDSLOSSCOUNTER_WT"
+msgstr "Daring Prowess"
+
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM251_HOUNDS_REGENERATION_WT"
-msgstr "Mechanism Regeneration"
+msgstr "Living Water"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM271_HOUNDSHULLHEALTHBATTLESHIP_WT"
+msgstr "Increased Survivability"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM272_HOUNDSHULLHEALTHDESTROYER_WT"
+msgstr "Increased Survivability"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM273_HOUNDSHULLHEALTHCRUISER_WT"
+msgstr "Increased Survivability"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM284_SUPERDAMAGE"
 msgstr "Super-damage"
@@ -136519,8 +137819,11 @@ msgstr "Maneuverability"
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM302_SUBEVENT26_GTBUFFS"
 msgstr "Torpedo tubes traverse speed"
 
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM403_2026WT_VODYANOI_SPEEDDEBUFF"
+msgstr "Bitter Cold"
+
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_RUSY_VS_LIZARDS"
-msgstr "Daring Valor"
+msgstr "Radiant Realm"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_SECRET_EFFECT"
 msgstr "Experimental Systems"
@@ -136553,7 +137856,7 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE_AND_SHIP"
 msgstr "Visibility from Aircraft and Ships"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_WEAPON_DAMAGE_H2023"
-msgstr "Energy from sunk allies"
+msgstr "Daring Prowess"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_LEVEL"
 msgstr "%(level)s / %(maxLevel)s"
@@ -136886,10 +138189,10 @@ msgid "IDS_SHIP_MODIFIER_PXOM190_REGENERATION_DE2025_APPLIED"
 msgstr "Health restoration"
 
 msgid "IDS_SHIP_MODIFIER_PXOM196_ENGINE_WT_APPLIED"
-msgstr "Team Engine Boost applied"
+msgstr "Heroic Agility applied"
 
 msgid "IDS_SHIP_MODIFIER_PXOM217_HOUNDSRESIST_WT_APPLIED"
-msgstr "Team Shield applied"
+msgstr "Druzhina's Barrier applied"
 
 msgid "IDS_SHIP_MODIFIER_PXOM218_HOUNDSVAMPIRISM_WT_APPLIED"
 msgstr "Armor Extraction applied"
@@ -136931,7 +138234,7 @@ msgid "IDS_SHIP_MODIFIER_PXOM244_2025WT_BM_BOTS_REGEN_APPLIED"
 msgstr "Signal 6: Restoration"
 
 msgid "IDS_SHIP_MODIFIER_PXOM251_HOUNDS_REGENERATION_WT_APPLIED"
-msgstr "Mechanism Regeneration applied"
+msgstr "Living Water applied"
 
 msgid "IDS_SHIP_MODIFIER_PXOM300_SUBEVENT26_GMROTATIONSTARTBUFF_APPLIED"
 msgstr "Main battery traverse speed"
@@ -137154,6 +138457,9 @@ msgstr "Depth Level"
 msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_TYPE_FIRE_MODE"
 msgstr "Alternative fire mode"
 
+msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_TYPE_INSIDE_FIREWATER"
+msgstr "Active area"
+
 msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_TYPE_INTERACTIVE_ZONE"
 msgstr "Active Area"
 
@@ -137251,7 +138557,10 @@ msgid "IDS_SHIP_PARAM_ACTIVE_STATE_WAVED"
 msgstr "Sonar Ping"
 
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_WILD_FIRE"
-msgstr "Filth"
+msgstr "Morok"
+
+msgid "IDS_SHIP_PARAM_ACTIVE_STATE_WILD_FIRE_DESCRIPTION"
+msgstr "A ring of toxic fog that envelops the battlefield and constantly shrinks."
 
 msgid "IDS_SHIP_PARAM_AIMING_TIME"
 msgstr "Aiming Time"
@@ -137703,6 +139012,9 @@ msgstr "Dive Capacity Recharging"
 msgid "IDS_SHIP_PARAM_HEADER_BATTERY_STATE_SPENDING_NORMAL"
 msgstr "Dive Capacity Depletion"
 
+msgid "IDS_SHIP_PARAM_HEADER_INSIDE_FIREWATER"
+msgstr "Gorynych's Flame"
+
 msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_BLUE_LINE"
 msgstr "Map Border"
 
@@ -137771,6 +139083,9 @@ msgstr "Hydrophone range"
 
 msgid "IDS_SHIP_PARAM_IMPULSE_LASERS_MAX_DIST"
 msgstr "Laser Action Range"
+
+msgid "IDS_SHIP_PARAM_INSIDE_FIREWATER"
+msgstr "Flame from exploded Gorynych shells deals damage and causes fires."
 
 msgid "IDS_SHIP_PARAM_INTERACTIVE_ZONE_DESCRIPTION_BLUE_LINE"
 msgstr "Map border crossed. Ship speed significantly reduced."
@@ -138073,7 +139388,7 @@ msgid "IDS_SHIP_PARAM_SEC_MAIN_GUN"
 msgstr "Intermediate Battery"
 
 msgid "IDS_SHIP_PARAM_SHIELDHEALTH"
-msgstr "Energy Shield"
+msgstr "Shield"
 
 msgid "IDS_SHIP_PARAM_SHIP_STATE_AND_EQUIPMENT"
 msgstr "Status of ship and consumables"
@@ -140652,6 +141967,9 @@ msgstr "Uef and Bi"
 msgid "IDS_SOUND_MOD_KINDZADZA_VOVA_SKRIPACH"
 msgstr "Uncle Vova and the Violinist"
 
+msgid "IDS_SOUND_MOD_KOSHEJ"
+msgstr "Koschei the Deathless"
+
 msgid "IDS_SOUND_MOD_LENFILM_2026_MORIARTY"
 msgstr "Professor Moriarty"
 
@@ -140759,6 +142077,9 @@ msgstr "Pyotr Velikiy"
 
 msgid "IDS_SOUND_MOD_PIRATE"
 msgstr "Pirate"
+
+msgid "IDS_SOUND_MOD_PRINCESS_OLGA"
+msgstr "Olga the Wise"
 
 msgid "IDS_SOUND_MOD_PUSHKIN"
 msgstr "Alexander Pushkin"
@@ -140885,6 +142206,9 @@ msgstr "Augustin Riegerwald"
 
 msgid "IDS_SOUND_MOD_WARHAMMER_WARHAMMER_ORK"
 msgstr "Grotmaz Smart"
+
+msgid "IDS_SOUND_MOD_WILLIS_LEE"
+msgstr "Willis Lee"
 
 msgid "IDS_SOUND_MOD_WOWONIANG_SINGLE"
 msgstr "Wo Wo Niang"
@@ -141354,6 +142678,12 @@ msgstr "Grimsby Islands"
 
 msgid "IDS_SPACES/E15_2025_WAFFENTRAGER_DESCR"
 msgstr "Grimsby Islands"
+
+msgid "IDS_SPACES/E17_2026_LUKOMORYE"
+msgstr "Buyan Island"
+
+msgid "IDS_SPACES/E17_2026_LUKOMORYE_DESCR"
+msgstr "Buyan Island"
 
 msgid "IDS_SPACES/I01_TUTORIAL"
 msgstr "First Encounter"
@@ -143337,18 +144667,6 @@ msgstr "Until promotion ends: %(_timeLeft)s"
 msgid "IDS_SUBS_IMPROVE_EVENT"
 msgstr "Underwater Frontiers"
 
-msgid "IDS_SUBTITLE_PLAYER_WAS_HOUND_AND_LOSE"
-msgstr "The enemy managed to escape"
-
-msgid "IDS_SUBTITLE_PLAYER_WAS_HOUND_AND_WON"
-msgstr "Long live the Alliance!"
-
-msgid "IDS_SUBTITLE_PLAYER_WAS_WAFFENTRAGER_AND_LOSE"
-msgstr "Von Krieger's legacy will be forgotten"
-
-msgid "IDS_SUBTITLE_PLAYER_WAS_WAFFENTRAGER_AND_WON"
-msgstr "Von Krieger's legacy is immortal!"
-
 msgid "IDS_SUB_ALBUM_COLLECTED_WINDOW_TITLE"
 msgstr "PAGE COMPLETE"
 
@@ -143460,9 +144778,6 @@ msgstr "Several short questions"
 msgid "IDS_SURVIVABILITY"
 msgstr "Survivability"
 
-msgid "IDS_SURVIVABILITY_DESCRIPTION"
-msgstr "<p class=\"header\">Shelling</p><p class=\"p_spacing\"> </p><p>The probable result of main caliber shells hitting a ship. Shelling is carried out at the angle from which you view the ship.</p><p class=\"p_spacing\"> </p><p class=\"header\">Armor</p><p class=\"p_spacing\"> </p><p>This tab shows the armor thickness in different parts of the ship.</p>"
-
 msgid "IDS_SURVIVAL"
 msgstr "Battles survived"
 
@@ -143480,6 +144795,12 @@ msgstr "survive one battle"
 
 msgid "IDS_SUSPENDED_PLAYER_NAME"
 msgstr "Deleted account"
+
+msgid "IDS_SVP_NOMINATION"
+msgstr "BEST OF THE DEFEATED"
+
+msgid "IDS_SVP_NOMINATION_DESC"
+msgstr "Earned the most Base XP on your team."
 
 msgid "IDS_SWAP_SPAWN"
 msgstr "SWAP SIDES"
@@ -143721,7 +145042,7 @@ msgid "IDS_SYS_MSG_BOUGHT_CARD"
 msgstr "Collection item purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_CLIENTUM_1"
-msgstr "Battle Tokens purchased"
+msgstr "Soul Crystals purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_CLIENTUM_2"
 msgstr "Progress Tokens purchased"
@@ -143766,13 +145087,13 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
 msgstr "American Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
-msgstr "Equilibrium Tokens purchased"
+msgstr "Old Russian Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_5"
 msgstr "Map Fragments purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_6"
-msgstr "Summer Tokens purchased"
+msgstr "Koschei's Gold Coins purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
 msgstr "German tokens purchased"
@@ -144183,10 +145504,10 @@ msgid "IDS_SYS_MSG_META_EVENT_TASK_REROLLED"
 msgstr "Combat mission replaced"
 
 msgid "IDS_SYS_MSG_META_EVENT_THRESHOLD_PASSED"
-msgstr "Level passed in the \"Space Front\" event"
+msgstr "Level passed in the \"Defense of Lukomorye\" event"
 
 msgid "IDS_SYS_MSG_META_EVENT_THRESHOLD_REWARD"
-msgstr "Event Rewards for \"Space Front\""
+msgstr "Event Rewards for \"Defense of Lukomorye\""
 
 msgid "IDS_SYS_MSG_NEWBIE_PROGRESSION_REWARDED"
 msgstr "Naval Course level passed"
@@ -144285,7 +145606,7 @@ msgid "IDS_SYS_MSG_RECEIVED_CLANRESOURCE"
 msgstr "Oil received"
 
 msgid "IDS_SYS_MSG_RECEIVED_CLIENTUM_1"
-msgstr "Battle Tokens received"
+msgstr "Soul Crystals received"
 
 msgid "IDS_SYS_MSG_RECEIVED_CLIENTUM_2"
 msgstr "Progress Tokens received"
@@ -144330,13 +145651,13 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
 msgstr "American tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
-msgstr "Equilibrium Tokens received"
+msgstr "Old Russian Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_5"
 msgstr "Map Fragments received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_6"
-msgstr "Summer Tokens received"
+msgstr "Koschei's Gold Coins received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
 msgstr "German tokens received"
@@ -144375,7 +145696,7 @@ msgid "IDS_SYS_MSG_RECEIVED_LOOTBOX"
 msgstr "Containers received"
 
 msgid "IDS_SYS_MSG_RECEIVED_META_EVENT_PROGRESS_POINTS"
-msgstr "Reward received from \"Space Front\""
+msgstr "Reward received from \"Defense of Lukomorye\""
 
 msgid "IDS_SYS_MSG_RECEIVED_MODERNIZATION"
 msgstr "Upgrades received"
@@ -144773,7 +146094,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_CARD"
 msgstr "Collection item removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_CLIENTUM_1"
-msgstr "Battle Tokens removed"
+msgstr "Soul Crystals removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_CLIENTUM_2"
 msgstr "Progress Tokens written off"
@@ -144821,13 +146142,13 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
 msgstr "American tokens removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
-msgstr "Equilibrium Tokens deducted"
+msgstr "Old Russian Tokens removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_5"
 msgstr "Map Fragments written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
-msgstr "Summer Tokens written off"
+msgstr "Koschei's Gold Coins removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
 msgstr "German tokens removed"
@@ -145207,6 +146528,18 @@ msgstr "\"Gun Traverse Master\" talent activated."
 msgid "IDS_TALENT_CAT_NAME_DEFAULT"
 msgstr "National Talent"
 
+msgid "IDS_TALENT_PAW100_ACHIEVEMENT_24"
+msgstr "Combat Supplies"
+
+msgid "IDS_TALENT_PAW100_ACHIEVEMENT_24_DESCRIPTION"
+msgstr "Triggers once per battle upon earning any achievement."
+
+msgid "IDS_TALENT_PAW100_ACHIEVEMENT_25"
+msgstr "Heroic Loader"
+
+msgid "IDS_TALENT_PAW100_ACHIEVEMENT_25_DESCRIPTION"
+msgstr "Triggers once per battle upon earning any heroic achievement."
+
 msgid "IDS_TALENT_PAW102_ACHIEVEMENT_2"
 msgstr "Implacable"
 
@@ -145419,6 +146752,12 @@ msgstr "Activates once per battle upon hitting enemy ships with torpedoes six ti
 
 msgid "IDS_TALIYA"
 msgstr "Taliya"
+
+msgid "IDS_TANK_NOMINATION"
+msgstr "FRONTLINE FIGHTER"
+
+msgid "IDS_TANK_NOMINATION_DESC"
+msgstr "Received a significant amount of potential damage in a battle."
 
 msgid "IDS_TAO_JI"
 msgstr "Tāo Ji"
@@ -147730,7 +149069,7 @@ msgid "IDS_TOOLTIP_SERVER_NAME"
 msgstr "Game server"
 
 msgid "IDS_TOOLTIP_SHIELDHEALTH"
-msgstr "Energy module that protects against any damages. If the energy shield's durability runs out, the ship becomes vulnerable to damage."
+msgstr "Protects the ship from all threats. If the shield runs out of hit points, the ship becomes vulnerable to damage."
 
 msgid "IDS_TOOLTIP_SHIP_IN_GROUP"
 msgstr "Added to group"
@@ -150031,6 +151370,21 @@ msgstr "INCOMING"
 msgid "IDS_VOVA_SKRIPACH"
 msgstr "Uncle Vova and the Violinist"
 
+msgid "IDS_VULNERABILITY_DESCRIPTION"
+msgstr "The probable result of main battery shells hitting the ship. Fire is delivered at the angle from which you are viewing the ship."
+
+msgid "IDS_VULNERABILITY_HEADER_DESCRIPTION"
+msgstr "Shelling"
+
+msgid "IDS_VULNERABILITY_PICKER_TOOLTIP_STATUS_COLOR_DAMAGE_CRITICAL"
+msgstr "In battle, such damage is displayed with red numbers next to the damaged ship."
+
+msgid "IDS_VULNERABILITY_PICKER_TOOLTIP_STATUS_COLOR_DAMAGE_HIGH"
+msgstr "In battle, such damage is displayed with orange numbers next to the damaged ship."
+
+msgid "IDS_VULNERABILITY_PICKER_TOOLTIP_STATUS_COLOR_DAMAGE_MEDIUM"
+msgstr "<p>In battle, such damage is displayed with yellow numbers next to the damaged ship.</p><p class=\"p_spacing\"> </p><p>In addition to over-penetrations, 10% of the maximum damage is dealt when penetrating a ship's armament, as well as when hitting destroyers or submarines with AP and SAP shells of 280 mm caliber or larger.</p>"
+
 msgid "IDS_VULNERABILITY_RESET_CUSTOM_THREAT_BUTTON_NAME"
 msgstr "RESET"
 
@@ -150042,6 +151396,45 @@ msgstr "SELECT ANOTHER SHIP"
 
 msgid "IDS_VULNERABILITY_TOOLTIP_HEADER"
 msgstr "%(damage)s of maximum projectile damage"
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HEADER_LARGE_CALIBER_LIMITED_DAMAGE"
+msgstr "Large-Caliber Hit"
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HEADER_MAIN_ARTILLERY_HIT"
+msgstr "Armament Hit"
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HEADER_WATER_HIT"
+msgstr "Water Hit"
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HINT_AP_WATER_DAMAGE"
+msgstr "The shell armed in the water and then hit the ship."
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HINT_AP_WATER_HIT"
+msgstr "The AP shell exploded in the water before reaching the ship."
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HINT_AP_WATER_NO_HIT"
+msgstr "The AP shell exploded in the water before reaching the ship."
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HINT_ARMOR_OVERMATCH"
+msgstr "Ricochet from the outer armor layer is impossible because the selected shell's caliber is significantly greater than the armor thickness."
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HINT_HE_CS_WATER_HIT"
+msgstr "When hitting the water, HE and SAP shells explode and deal no damage."
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HINT_LARGE_CALIBER_LIMITED_DAMAGE_DESTROYER"
+msgstr "AP and SAP shells of 280 mm caliber or larger deal no more than 10% of their maximum damage to destroyers."
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HINT_LARGE_CALIBER_LIMITED_DAMAGE_SUBMARINE"
+msgstr "AP and SAP shells with a caliber of 280 mm or higher deal no more than 10% of their maximum damage to submarines"
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HINT_MAIN_ARTILLERY_HIT"
+msgstr "A penetration of the armament deals 10% of the shell's maximum damage"
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HINT_RICOCHETED"
+msgstr "The shell ricocheted off the ship's surface or internal armor along its path"
+
+msgid "IDS_VULNERABILITY_TOOLTIP_HINT_UNDERWATER_DAMAGE"
+msgstr "Damage from a possible shell explosion near the submarine is not taken into account"
 
 msgid "IDS_VULNERABILITY_TOOLTIP_PARAMS_DAMAGE"
 msgstr "Damage"
@@ -150057,6 +151450,9 @@ msgstr "In battle, such damage is displayed in orange numbers next to the affect
 
 msgid "IDS_VULNERABILITY_TOOLTIP_STATUS_COLOR_DAMAGE_MEDIUM"
 msgstr "In battle, such damage is displayed in yellow numbers next to the affected ship."
+
+msgid "IDS_VULNERABILITY_TOOLTIP_SUBHEADER"
+msgstr "%(damage)s of the shell's maximum damage"
 
 msgid "IDS_V_GREMITSKIY"
 msgstr "Vladimir Gremitskiy"
@@ -150091,31 +151487,38 @@ msgstr "Cecil Bean"
 msgid "IDS_WAFFENTRAGERACTIVATIONKEYS_COLUMN"
 msgstr "Activation Keys:"
 
+msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_LUKOMORYE_NOT_ENOUGH_FUNDS"
+msgstr "To enter battle on the side of the evil spirits, you must pay one Soul Crystal."
+
 msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_NOT_ENOUGH_ACTIVATION_KEYS"
 msgstr "You don't have Activation Keys for sorties. You can earn them by completing Hound combat missions."
 
 msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_WAFFENTRAGER_IN_DIVISION"
-msgstr "Division cannot contain Ermelinda Jung's ships"
+msgstr "Division cannot contain Koschei's ships"
 
 msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_WRONG_SHIP"
 msgstr "The selected ship is not allowed in 'Waffenträger: Isolation'"
 
-msgid "IDS_WAFFENTRAGER_BATTLE_DURATION"
-msgstr ""
-"Battle\n"
-"duration"
-
 msgid "IDS_WAFFENTRAGER_BATTLE_EVENT_INFO_MODAL_WINDOW"
 msgstr "Waffenträger: Isolation"
 
-msgid "IDS_WAFFENTRAGER_BATTLE_RESULTS_NEXT_BUTTON"
-msgstr "Next"
+msgid "IDS_WAFFENTRAGER_BATTLE_STATS_DEFEAT_0_EXTERMINATION"
+msgstr "Koschei is called the Deathless for good reason"
 
-msgid "IDS_WAFFENTRAGER_BATTLE_STATS_GENERAL_HEADER_0"
-msgstr "ERMELINDA JUNG"
+msgid "IDS_WAFFENTRAGER_BATTLE_STATS_DEFEAT_1_EXTERMINATION"
+msgstr "The Warriors have banished you from Lukomorye"
 
-msgid "IDS_WAFFENTRAGER_BATTLE_STATS_GENERAL_HEADER_1"
-msgstr "EVACUATION SYSTEM"
+msgid "IDS_WAFFENTRAGER_BATTLE_STATS_DEFEAT_TIMEOUT"
+msgstr "The Warriors have worn you down"
+
+msgid "IDS_WAFFENTRAGER_BATTLE_STATS_VICTORY_0_EXTERMINATION"
+msgstr "Lukomorye has been saved"
+
+msgid "IDS_WAFFENTRAGER_BATTLE_STATS_VICTORY_1_EXTERMINATION"
+msgstr "Lukomorye is in your power"
+
+msgid "IDS_WAFFENTRAGER_BATTLE_STATS_VICTORY_TIMEOUT"
+msgstr "You outlasted Koschei"
 
 msgid "IDS_WAFFENTRAGER_BOOSTER_POST_BATTLE"
 msgstr "Bureau of Experimental Technology"
@@ -150126,6 +151529,12 @@ msgstr "Amount of additional credits from the Bureau of Experimental Technology 
 msgid "IDS_WAFFENTRAGER_CREWXP_BOOSTER_HINT"
 msgstr "Amount of additional Commander XP from the Bureau of Experimental Technology bonus"
 
+msgid "IDS_WAFFENTRAGER_CURRENCY_HINT"
+msgstr "Needed to advance through progress levels in the \"Defense of Lukomorye\" event. Earn points by picking up upgrades on the map."
+
+msgid "IDS_WAFFENTRAGER_CURRENCY_HINT_HEADER"
+msgstr "Progress Points"
+
 msgid "IDS_WAFFENTRAGER_DAMAGE_DISPERSION_0"
 msgstr "Enemy damage protection"
 
@@ -150133,10 +151542,13 @@ msgid "IDS_WAFFENTRAGER_DAMAGE_DISPERSION_1"
 msgstr "Damage protection"
 
 msgid "IDS_WAFFENTRAGER_DESCRIPTION_0"
-msgstr "Destroy Ermelinda's ship before the evacuation system launches."
+msgstr "Defeat the evil spirits and save the Firebird."
 
 msgid "IDS_WAFFENTRAGER_DESCRIPTION_1"
-msgstr "Charge the evacuation system without letting the Hounds destroy you."
+msgstr "Help Koschei complete the ritual and plunge the world into darkness."
+
+msgid "IDS_WAFFENTRAGER_HOUND_TASK_PROGRESS"
+msgstr "%(_currentValue)s / %(_maxValue)s"
 
 msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_HEADER"
 msgstr "Briefing"
@@ -150144,35 +151556,38 @@ msgstr "Briefing"
 msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_TEXT"
 msgstr "Six Hounds set out to hunt Ermelinda Jung — commander of powerful ships. Each side has its own tactics, goals, and truth."
 
-msgid "IDS_WAFFENTRAGER_NULL_FIELD_BATTLESHIP_FRAG_BOOST"
-msgstr "Battleship destruction"
+msgid "IDS_WAFFENTRAGER_RULES_BULLET_1"
+msgstr "Weary of worldly vanity, Koschei plotted to plunge the world into eternal darkness. Together with his army of evil spirits, he kidnapped the Firebird that guarded the sun, intending to drain her strength through a dark ritual and finally find long-awaited peace."
 
-msgid "IDS_WAFFENTRAGER_NULL_FIELD_CHARGE_SPEED"
-msgstr "Point holding"
+msgid "IDS_WAFFENTRAGER_RULES_BULLET_2"
+msgstr "A warband of glorious warriors set out to rescue the captive bird. They must do battle, defeat the evil spirits, and foil Koschei’s plans. But the villains have no intention of surrendering..."
 
-msgid "IDS_WAFFENTRAGER_NULL_FIELD_CHARGE_SPEED_VALUE"
-msgstr "+ 2 / 3 s"
+msgid "IDS_WAFFENTRAGER_RULES_HEADER"
+msgstr "Briefing"
 
-msgid "IDS_WAFFENTRAGER_NULL_FIELD_CRUISER_FRAG_BOOST"
-msgstr "Cruiser destruction"
+msgid "IDS_WAFFENTRAGER_SECOND_PHASE_NOTIFICATION_DESCRIPTION_0"
+msgstr "The Firebird can no longer return warriors to battle. Defeat the evil spirits!"
 
-msgid "IDS_WAFFENTRAGER_NULL_FIELD_DESTROYER_FRAG_BOOST"
-msgstr "Destroyer destruction"
+msgid "IDS_WAFFENTRAGER_SECOND_PHASE_NOTIFICATION_DESCRIPTION_1"
+msgstr "The warriors can no longer return to battle. Send them to the realm of the dead!"
+
+msgid "IDS_WAFFENTRAGER_SECOND_PHASE_NOTIFICATION_HEADER"
+msgstr "RITUAL COMPLETE"
 
 msgid "IDS_WAFFENTRAGER_SHIELD_MODULE"
 msgstr "Shield Module"
 
-msgid "IDS_WAFFENTRAGER_TASK_DESCRIPTION_0"
-msgstr "Destroy Ermelinda's ship before the evacuation system launches"
+msgid "IDS_WAFFENTRAGER_START_TASK_HOUND"
+msgstr "Defeat evil spirits and collect Firebird feathers to save Lukomorye!"
 
-msgid "IDS_WAFFENTRAGER_TASK_DESCRIPTION_1"
-msgstr "Charge the evacuation system without letting the Hounds destroy you"
+msgid "IDS_WAFFENTRAGER_START_TASK_WAFFENTRAGER"
+msgstr "Destroy warriors and collect Firebird feathers to complete the ritual!"
+
+msgid "IDS_WAFFENTRAGER_TASK_TITLE"
+msgstr "DARK RITUAL"
 
 msgid "IDS_WAFFENTRAGER_TITLE"
 msgstr "Waffenträger: Isolation"
-
-msgid "IDS_WAFFENTRAGER_WON"
-msgstr "ERMELINDA JUNG VICTORIOUS"
 
 msgid "IDS_WAITING_FOR_PLAYERS"
 msgstr "Awaiting players..."
@@ -150373,6 +151788,12 @@ msgstr "William Meyer Jr."
 
 msgid "IDS_WILLIE_NEUMANN"
 msgstr "Willie Neumann"
+
+msgid "IDS_WILLIS_LEE"
+msgstr "Willis Lee"
+
+msgid "IDS_WILLIS_LEE_DESC"
+msgstr "<p>Willis Lee (1888–1945) — Vice Admiral of the U.S. Navy and commander of the battleship formations of the Pacific Fleet.</p><p class=\"p_spacing\"> </p><p>From 1942, as a rear admiral, he commanded Battleship Division 6 in the Pacific. On the night of November 14–15, during the Battle of Guadalcanal, his flagship Washington destroyed the Japanese battleship Kirishima in a gunnery action. For this victory, Willis Lee was awarded the Navy Cross — the highest decoration of the U.S. Navy, promoted to vice admiral, and appointed commander of all battleships in the Pacific.</p><p class=\"p_spacing\"> </p><p>From December 1944, Lee commanded the 2nd Squadron of the Pacific Fleet, composed of the newest fast battleships, and took part in the Battle of Leyte Gulf and the Battle of Okinawa. In May 1945, the vice admiral took command of the Atlantic Fleet's Composite Task Force, which developed tactics to combat kamikaze attacks. On August 25, 1945, ten days after Japan's surrender, Willis Lee died of a heart attack.</p>"
 
 msgid "IDS_WILL_BE_ALSO_RESEARCHED"
 msgstr "You will also research:"
@@ -150719,6 +152140,27 @@ msgstr "Retter"
 msgid "IDS_WT_BB3_NAME_10"
 msgstr "Retter"
 
+msgid "IDS_WT_BOT_1"
+msgstr "Evil spirits"
+
+msgid "IDS_WT_BOT_2"
+msgstr "Evil spirits"
+
+msgid "IDS_WT_BOT_3"
+msgstr "Evil spirits"
+
+msgid "IDS_WT_BOT_4"
+msgstr "Evil spirits"
+
+msgid "IDS_WT_BOT_5"
+msgstr "Evil spirits"
+
+msgid "IDS_WT_BOT_6"
+msgstr "Evil spirits"
+
+msgid "IDS_WT_BOT_7"
+msgstr "Evil spirits"
+
 msgid "IDS_WT_BUREAU_ACTIVE_TECH_TEXT"
 msgstr "<p>Active Bureau bonuses stack with installed economic bonuses on ships but only work in the 'Waffenträger: Isolation' battle type. All Bureau bonuses are not consumed in battle.</p><p class=\"p_spacing\"> </p><p>Some bonuses have modifiers that lower the earnings of certain resources. The final value cannot drop below zero.</p>"
 
@@ -151019,7 +152461,7 @@ msgid "IDS_WT_DD3_NAME_10"
 msgstr "Büchsenmacher"
 
 msgid "IDS_WT_FRACTION_HOUND"
-msgstr "Hounds"
+msgstr "Warriors"
 
 msgid "IDS_WT_FRACTION_TASKS_HOUND"
 msgstr "Hound Combat Missions"
@@ -151028,7 +152470,7 @@ msgid "IDS_WT_FRACTION_TASKS_WAFFENTRAGER"
 msgstr "Ermelinda's Combat Missions"
 
 msgid "IDS_WT_FRACTION_WAFFENTRAGER"
-msgstr "Ermelinda"
+msgstr "Evil spirits"
 
 msgid "IDS_WT_MAINSCENARIO"
 msgstr "Waffenträger: Isolation"
