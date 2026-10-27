@@ -2557,6 +2557,9 @@ msgstr "Complete the Shipbuilding collection."
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_PA_SAZHENBING_COMPLETED"
 msgstr "Complete \"The Age of Sa Zhenbing\" collection."
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_RARE_BEAST_2026"
+msgstr "Catch all members of the criminal syndicate."
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
 msgstr "Complete the 'Echoes of the Future' collection."
 
@@ -2986,6 +2989,15 @@ msgstr "Win the Operation Hydra Den."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RAM_PA"
 msgstr "Destroy two enemy ships by ramming in a single battle."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RARE_BEAST_KILL_EPIC_BOT"
+msgstr "Catch the crime boss of a criminal group."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RARE_BEAST_KILL_LEGENDARY_BOT"
+msgstr "Catch the leader of a criminal group."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RARE_BEAST_KILL_RARE_BOT"
+msgstr "Catch a member of a criminal group."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RASPUTIN"
 msgstr "Granted for gaining a victory in Twilight Battle with battleship Rasputin."
@@ -3680,6 +3692,9 @@ msgstr "Shipbuilding"
 msgid "IDS_ACHIEVEMENT_FILLALBUM_PA_SAZHENBING_COMPLETED"
 msgstr "The Age of Sa Zhenbing"
 
+msgid "IDS_ACHIEVEMENT_FILLALBUM_RARE_BEAST_2026"
+msgstr "Case closed"
+
 msgid "IDS_ACHIEVEMENT_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
 msgstr "Echoes of the Future"
 
@@ -4127,6 +4142,15 @@ msgstr "Hydra Den"
 msgid "IDS_ACHIEVEMENT_RAM_PA"
 msgstr "Troublemaker"
 
+msgid "IDS_ACHIEVEMENT_RARE_BEAST_KILL_EPIC_BOT"
+msgstr "Private detective"
+
+msgid "IDS_ACHIEVEMENT_RARE_BEAST_KILL_LEGENDARY_BOT"
+msgstr "Undercover agent"
+
+msgid "IDS_ACHIEVEMENT_RARE_BEAST_KILL_RARE_BOT"
+msgstr "Pathfinder"
+
 msgid "IDS_ACHIEVEMENT_RARITY_ELITE"
 msgstr "Commemorative achievement"
 
@@ -4261,6 +4285,9 @@ msgstr "Can be completed in Random Battles within a Division that you've created
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_RANKED_ONEPERSEASON"
 msgstr "Can be completed in Ranked Battles. Granted once per season."
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_RARE_BEAST"
+msgstr "Completed during the \"Serious Investigation\" event."
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE"
 msgstr "Can be completed in Space Battles."
@@ -5150,6 +5177,12 @@ msgstr "Add Player"
 msgid "IDS_ADD_PLAYER_TO_CONTACT_LIST"
 msgstr "Add to Contacts"
 
+msgid "IDS_ADD_SHIP_TO_COMPARISON"
+msgstr "Add ship"
+
+msgid "IDS_ADD_TO_COMPARISON"
+msgstr "Add to comparison"
+
 msgid "IDS_ADD_TO_CONTACTS"
 msgstr "Add to Contacts"
 
@@ -5637,6 +5670,66 @@ msgstr "Level of bot artificial intelligence"
 
 msgid "IDS_AKENO_MASHIRO"
 msgstr "Akeno Misaki"
+
+msgid "IDS_ALBUM_EVENT_ABOUT_LINK_TEXT"
+msgstr "About the event"
+
+msgid "IDS_ALBUM_EVENT_CLUES"
+msgstr "Evidence collected"
+
+msgid "IDS_ALBUM_EVENT_COUNTER"
+msgstr "Criminals caught:"
+
+msgid "IDS_ALBUM_EVENT_CTA_MARKER"
+msgstr "Catch the criminals"
+
+msgid "IDS_ALBUM_EVENT_DESCRIPTION"
+msgstr "<p>They are not who they pretend to be. The city's most dangerous criminals hide behind the faces of your friends. They speak in their voices, but behind a familiar smile lies only cold calculation.</p><p class=\"p_spacing\"></p><p>Face members of four gangs in battle and cleanse the harbor of Spade City. Catch them all before it is too late...</p>"
+
+msgid "IDS_ALBUM_EVENT_DESCRIPTION_COMPLETED"
+msgstr "<p>The cold light of the streetlamp picked out only their frightened faces from the darkness. The criminals are caught, the case is closed. For a moment, my chest felt lighter, but that feeling quickly dissolved in the damp air.</p><p class=\"p_spacing\"></p><p>All that remained was the bitterness of cheap coffee and the realization: in Spade City, it is never calm. If the streets have fallen silent, then somewhere a new storm is already beginning...</p>"
+
+msgid "IDS_ALBUM_EVENT_EARNED_ITEMS"
+msgstr "Dossier opened"
+
+msgid "IDS_ALBUM_EVENT_ENOUGH_CLUES_STATUS_LINE"
+msgstr "You have enough evidence to catch another criminal"
+
+msgid "IDS_ALBUM_EVENT_EVENT_PROGRESS"
+msgstr "Until the syndicate is liquidated"
+
+msgid "IDS_ALBUM_EVENT_MAIN_TASK_COMPLETION_TOOLTIP_HEADER"
+msgstr "Reward for eliminating the syndicate"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_CAUGHT_STATUS_LINE"
+msgstr "Eliminated or helped eliminate a criminal"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_CAUGHT_TITLE"
+msgstr "Caught red-handed"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_DUPLICATE_STAMP"
+msgstr "CLUE"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_MAIN_QUEST_DESCRIPTION"
+msgstr "Earn 2,500 Base XP to pick up the trail of a highly dangerous criminal."
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_MAIN_QUEST_TITLE"
+msgstr "Hot on the Trail"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_RANDOM_CARD_DESCRIPTION"
+msgstr "Identity not established"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_RANDOM_CARD_TITLE"
+msgstr "The Face Behind the Mask"
+
+msgid "IDS_ALBUM_EVENT_STATUS_COMPLETED"
+msgstr "Case closed"
+
+msgid "IDS_ALBUM_EVENT_SUBALBUM_COMPLETION_TOOLTIP_HEADER"
+msgstr "Reward for eliminating the group"
+
+msgid "IDS_ALBUM_EVENT_TITLE"
+msgstr "Serious Investigation"
 
 msgid "IDS_ALCHEMY_DENY_NOT_ENOUGH"
 msgstr "Not enough to exchange: %(_deficit)d"
@@ -8536,6 +8629,15 @@ msgstr "Watch out! The enemy is deploying depth charges as an anti-submarine mea
 msgid "IDS_BATTLE_LOADING_SUBMARINE_INFO_HEADER"
 msgstr "Submarine"
 
+msgid "IDS_BATTLE_MAX_REGEN_CREW_DESCRIPTION"
+msgstr "Not all lost HP can be restored with consumables. By default, the health bar shows the amount you can restore now. Press [KEY_LALT] to see the maximum possible value."
+
+msgid "IDS_BATTLE_MAX_REGEN_CREW_SUBTITLE"
+msgstr "Current effect"
+
+msgid "IDS_BATTLE_MAX_REGEN_CREW_VALUE"
+msgstr "HP Regeneration"
+
 msgid "IDS_BATTLE_MISSION"
 msgstr "COMBAT MISSIONS"
 
@@ -10326,6 +10428,9 @@ msgstr "Ship purchase is available"
 msgid "IDS_BUY_AND_SAVE_DOGTAG"
 msgstr "Purchase and Save"
 
+msgid "IDS_BUY_COLLECTION_ALBUM_EVENT_FOR_DUPLICATE"
+msgstr "Catch the criminal"
+
 msgid "IDS_BUY_COLLECTION_FOR_DUPLICATE"
 msgstr "Exchange duplicates"
 
@@ -10739,6 +10844,9 @@ msgstr "Filter ships suitable for the \"Defense of Lukomorye\" event"
 
 msgid "IDS_CAROUSEL_PCVE035_FILTER"
 msgstr "Filter ships suitable for the \"Deathmatch\" event"
+
+msgid "IDS_CAROUSEL_PCVE036_FILTER"
+msgstr "Filter ships suitable for the \"Serious Investigation\" event"
 
 msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
 msgstr "Filter ships suitable for Operations"
@@ -11518,6 +11626,9 @@ msgstr "Select \"Aggression\""
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE034"
 msgstr "Select Defense of Lukomorye"
 
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE036"
+msgstr "Select \"Serious Investigation\""
+
 msgid "IDS_CHOOSE_MK_NAME"
 msgstr ""
 "Choose a name.\n"
@@ -11603,6 +11714,12 @@ msgstr "Select Training Battle"
 
 msgid "IDS_CHOOSE_TRIALBATTLE"
 msgstr "Go to trial selection"
+
+msgid "IDS_CHOOSING_RESPAWN_POINT"
+msgstr "Choose your respawn point"
+
+msgid "IDS_CHOOSING_SHIP"
+msgstr "Select a ship"
 
 msgid "IDS_CHOOSING_SHIP_AND_RESPAWN_POINT"
 msgstr ""
@@ -13607,6 +13724,18 @@ msgstr "Collecting"
 msgid "IDS_COLLECTIONS"
 msgstr "Collections"
 
+msgid "IDS_COLLECTION_ALBUM_EVENT_COMPLEXITY_LEVEL"
+msgstr "Danger level"
+
+msgid "IDS_COLLECTION_ALBUM_EVENT_DUPLICATE_PRICE_COLON"
+msgstr "Clues required: %(amount)s"
+
+msgid "IDS_COLLECTION_ALBUM_EVENT_ITEM_TOOLTIP_ACHIEVED"
+msgstr "Caught"
+
+msgid "IDS_COLLECTION_ALBUM_EVENT_ITEM_TOOLTIP_NOT_ACHIEVED"
+msgstr "Not caught"
+
 msgid "IDS_COLLECTION_ALBUM_RECIEVED"
 msgstr "Collection"
 
@@ -13660,6 +13789,9 @@ msgstr "%(_collectionName)s Collection"
 
 msgid "IDS_COLLECTION_NOT_COLLECTING_TOOLTIP_DESCRIPTION"
 msgstr "Daily containers do not currently hold elements from this collection."
+
+msgid "IDS_COLLECTION_OBJECT_ALBUM_EVENT_DUPLICATES_EXCHANGE_TITLE"
+msgstr "Catching the Criminal"
 
 msgid "IDS_COLLECTION_PLAYER_POINTS_COUNTER"
 msgstr "Items received"
@@ -13890,6 +14022,23 @@ msgstr "Cost of converting XP from all ships:"
 
 msgid "IDS_COMMON_TEAM_VICTORY_DAYS_TOOLTIP"
 msgstr "Number of your team's victories during the entire competition"
+
+msgid "IDS_COMPARE"
+msgstr "Comparison"
+
+msgid "IDS_COMPARISON_NO_SHIPS"
+msgstr ""
+"You haven't added any ships for comparison yet.\n"
+"Click on an empty cell and add the first ship."
+
+msgid "IDS_COMPARISON_RESET"
+msgstr "Reset settings"
+
+msgid "IDS_COMPARISON_TAB_CREW_SKILLS"
+msgstr "COMMANDER SKILLS"
+
+msgid "IDS_COMPARISON_TAB_SHIP_CONFIGURATION"
+msgstr "Ship equipment"
 
 msgid "IDS_COMPENDIUM_COPY_VALUES"
 msgstr "Copy to clipboard"
@@ -14333,6 +14482,9 @@ msgstr "To use the laser, press and hold [KEY_LEFTMOUSE]."
 
 msgid "IDS_CONTEXT_TUTORIAL_MANUAL_AIR_DEFENSE_ACTIVATION"
 msgstr "Activate anti-aircraft barrage"
+
+msgid "IDS_CONTEXT_TUTORIAL_MASS_HEAL"
+msgstr "[KEY_LALT] Hold to see allies' HP on the minimap"
 
 msgid "IDS_CONTEXT_TUTORIAL_PREEMPTION"
 msgstr "The enemy is moving — aim ahead when firing"
@@ -21503,6 +21655,9 @@ msgstr ""
 "You have changed the crosshair settings.\n"
 "Apply changes?"
 
+msgid "IDS_CROWS"
+msgstr "Flock of crows"
+
 msgid "IDS_CRUISECONTROLS"
 msgstr "Cruise Control"
 
@@ -21556,6 +21711,12 @@ msgstr "After transaction"
 
 msgid "IDS_CURRENCIES_OPERATION_BEFORE"
 msgstr "Before transaction"
+
+msgid "IDS_CURRENCY_ALBUM_EVENT_DUPLICATES"
+msgstr "Evidence"
+
+msgid "IDS_CURRENCY_ALBUM_EVENT_DUPLICATES_DESCRIPTION"
+msgstr "To catch the criminal outside of battle, you need to collect 4 pieces of evidence. Earn evidence for each repeated destruction of an opponent in the same mask in battle."
 
 msgid "IDS_CURRENCY_BPPOINTS"
 msgstr "Battle Pass Points"
@@ -21653,7 +21814,7 @@ msgstr "You can earn them by completing combat missions or purchase them."
 msgid "IDS_CURRENCY_DOCKYARDUM_2_SPEND_DESCRIPTION"
 msgstr "On ship construction at the Dockyard."
 
-msgid "IDS_CURRENCY_DUBLICATES"
+msgid "IDS_CURRENCY_DUPLICATES"
 msgstr "Duplicates"
 
 msgid "IDS_CURRENCY_ELITEXP"
@@ -21708,16 +21869,16 @@ msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
 msgstr "Temporary resource of the \"11 Years: Once Upon a Time in the Wild Lands\" event. With the release of Update 26.11, it will be removed without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "American tokens"
+msgstr "Cyber Tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "For completing combat missions until the end of Update 26.7, as well as from Armory bundles until the end of Update 26.8."
+msgstr "From Armory bundles for a limited time until the end of Update 26.11."
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "For sequential bundles with the early access Tier X battleship New Jersey, premium \"Early Access\" containers, permanent camouflages \"Wave Glimmer\" and \"Moonlight\" for New Jersey and the super battleship Virginia, and economic bundles for early access ships of tiers VIII–X and the super ship, as well as for other property until the end of update 26.8."
+msgstr "For sequential bundles with Premium containers \"Cyber Chest\" and Tier X battleship \"Cyberslava\" with permanent camouflage \"City of Kitezh\", for commanders Cyberslav and Miloslava, as well as for other items for a limited time in Update 26.11."
 
 msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "Temporary resource for the \"American Battleships\" event. With the release of Update 26.9, the tokens will be removed without compensation."
+msgstr "Temporary resource of the \"Cyberslav\" event. With the release of update 26.12, it will be written off without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_4"
 msgstr "Old Russian Tokens"
@@ -21756,16 +21917,16 @@ msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
 msgstr "Temporary resource of the event \"Defense of Lukomorye\". With the release of update 26.12, tokens will be written off without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_7"
-msgstr "German tokens"
+msgstr "Black Friday Tokens"
 
 msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
-msgstr "For completing combat missions within a limited time in update 26.7, as well as from bundles in the Armory until the end of update 26.7."
+msgstr "For completing combat missions and from bundles in the Armory for a limited time in update 26.11."
 
 msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
-msgstr "On consecutive sets with X-tier cruiser Wotan and \"German Squadron\" premium containers, on permanent camouflages \"Research\" for ships of tiers VIII–X and super ships, as well as other items until the end of update 26.7."
+msgstr "On the bundle with Tier IX destroyer Benham B, on the \"White Motor\" and \"Fleet Treasury\" premium containers, on the \"Black Motor\" containers, as well as other items for a limited time in Update 26.11."
 
 msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
-msgstr "Temporary resource. With the release of Update 26.8, it will be removed without compensation."
+msgstr "Temporary resource of the event \"Black Friday. Ready or Not?\". With the release of update 26.12, tokens will be written off without compensation."
 
 msgid "IDS_CURRENCY_EVENTUM_8"
 msgstr "Scarlet Gems"
@@ -22600,14 +22761,23 @@ msgstr "Hot summer"
 msgid "IDS_DECAL_PCED053_NAME"
 msgstr "Red panda"
 
+msgid "IDS_DECAL_PCED054_NAME"
+msgstr "Minin and Pozharsky"
+
+msgid "IDS_DECAL_PCED058_NAME"
+msgstr "Crime scene"
+
+msgid "IDS_DECAL_PCED059_NAME"
+msgstr "Hand of Justice"
+
 msgid "IDS_DECAL_PCED501_DESCRIPTION"
-msgstr "Results on this ship in Co-op, Random, Ranked, and Rating Battles, as well as in Brawls and Operations, are counted. Maximum value: 9,999."
+msgstr "<p>Results on this ship in Co-op, Random, Ranked, and Rating Battles, as well as in Brawls and Operations, are counted.</p><p class=\"p_spacing\"> </p><p>Maximum value: 9,999.</p>"
 
 msgid "IDS_DECAL_PCED501_NAME"
 msgstr "Destruction"
 
 msgid "IDS_DECAL_PCED502_DESCRIPTION"
-msgstr "Results on this ship in Co-op, Random, Ranked, and Rating Battles, as well as in Brawls and Operations, are counted. Maximum value: 9,999."
+msgstr "<p>Results on this ship in Co-op, Random, Ranked, and Rating Battles, as well as in Brawls and Operations, are counted.</p><p class=\"p_spacing\"> </p><p>Maximum value: 9,999.</p>"
 
 msgid "IDS_DECAL_PCED502_NAME"
 msgstr "Victories"
@@ -22622,19 +22792,19 @@ msgid "IDS_DECAL_PCED503_SUBST_DESCRIPTION"
 msgstr "To receive the decal, reach mastery level %(_value)s on the selected ship."
 
 msgid "IDS_DECAL_PCED504_DESCRIPTION"
-msgstr "To receive the decal, reach Rank 1 of the Bronze League or higher by earning 20 stars for wins in Ranked Battles."
+msgstr "<p>Your rank in the current season is displayed. When Ranked Battles are not running, your rank at the end of the last season is displayed.</p><p class=\"p_spacing\"> </p><p>To receive the decal, reach Rank 1 of the Bronze League or higher by earning 20 stars for wins in Ranked Battles.</p>"
 
 msgid "IDS_DECAL_PCED504_NAME"
 msgstr "Rank"
 
 msgid "IDS_DECAL_PCED505_DESCRIPTION"
-msgstr "To get the decal, reach Silver League or higher in Rating Battles."
+msgstr "<p>Your rating in the current season is displayed. When Rating Battles are not held, your rating as of the end of the last season is displayed.</p><p class=\"p_spacing\"> </p><p>To get the decal, reach Silver League or higher in Rating Battles.</p>"
 
 msgid "IDS_DECAL_PCED505_NAME"
 msgstr "Rating"
 
 msgid "IDS_DECAL_PCED506_DESCRIPTION"
-msgstr "All battles on this ship in which you received the \"Best of the Winners\" status are counted. Maximum value: 9,999."
+msgstr "<p>All battles on this ship in which you received the \"Best of the Winners\" status are counted.</p><p class=\"p_spacing\"> </p><p>Maximum value: 9,999.</p>"
 
 msgid "IDS_DECAL_PCED506_NAME"
 msgstr "Best of the Winners"
@@ -22843,6 +23013,9 @@ msgstr "<p>The sky has always intrigued humanity—scientists trying to unravel 
 
 msgid "IDS_DESCRIPTION_PCZA041_BD25_PUZZLE"
 msgstr "<p>Close your eyes and count to ten. What do you see? Perhaps visions of past battles flash before your eyes: the roar of artillery, the silhouettes of steel giants, the spray of stormy waves, the faces of loyal comrades... Or maybe you are looking strictly ahead—into the unknown?</p><p class=\"p_spacing\"> </p><p>Make a wish. Whatever awaits you beyond the horizon, the ten years of battles behind you are forever in your heart, and that is why you steer your ship so confidently on the only true course.</p>"
+
+msgid "IDS_DESCRIPTION_PCZA042_RARE_BEAST_BF26"
+msgstr "<p>This city has a bad habit of keeping other people's secrets. When night falls over the rooftops, those who have something to hide emerge from their hiding places. They hide their faces behind masks, change their names, and speak in other people's voices. It seems they could dissolve into the shadows forever, but sometimes even skeletons in the closet start talking...</p><p class=\"p_spacing\"> </p><p>One insignificant detail, a word said out of turn, and a brief glance cast at the wrong moment will force the truth out into the open. The detective's keen eye will not miss a single clue, and those who once held a whole city in fear will become mere names in the police station's files.</p>"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
 msgstr "You cannot use secondary battery guns."
@@ -23659,6 +23832,9 @@ msgstr "Detection of destroyers"
 
 msgid "IDS_DIVEBOMBER"
 msgstr "Bombers"
+
+msgid "IDS_DIVEBOMBER_ALT"
+msgstr "Tactical Bombers"
 
 msgid "IDS_DIVEBOMBER_AP"
 msgstr "(AP) Bombers"
@@ -24558,7 +24734,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY053_SUPPORTBUOY_US"
 msgstr "<p>Creates an area that temporarily enhances the survivability and maneuverability of allied ships that enter it.</p><p class=\"p_spacing\"> </p><p>The area appears at the location where the consumable is activated.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY054_MASSHEAL"
-msgstr "<p>Creates an area around the ship in which HP is partially restored for you and your allies.</p><p class=\"p_spacing\"> </p><p>Repair consumable.</p>"
+msgstr "<p>Creates an area around the ship in which HP is partially restored for you and your allies.</p><p class=\"p_spacing\"> </p><p>To see your allies' HP on the minimap, hold [KEY_LALT].</p><p class=\"p_spacing\"> </p><p>Repair consumable.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY055_ABILITYCLONES"
 msgstr " "
@@ -29002,6 +29178,12 @@ msgstr "The Firebird — a wondrous creature with fiery plumage, whose light can
 msgid "IDS_DOGTAG_PCNB482_NAME"
 msgstr "The Firebird's Feather"
 
+msgid "IDS_DOGTAG_PCNB483_DESCRIPTION"
+msgstr "In the winter of 1704, during the Great Northern War, a fort on a timber crib foundation was built south of Kronstadt. The fortification that blocked the path of the Swedish fleet was named Kronshlot (from German Kronschlot — \"Crown Castle\")."
+
+msgid "IDS_DOGTAG_PCNB483_NAME"
+msgstr "Spirit of Kronshlot"
+
 msgid "IDS_DOGTAG_PCNB999_DESCRIPTION"
 msgstr "The patch is a work in progress."
 
@@ -31989,6 +32171,9 @@ msgstr "The Portal is open. You already have a key!"
 msgid "IDS_EV2020_RULES_PORTAL_WITHOUT_KEY"
 msgstr "To exit via the Portal, you need a key."
 
+msgid "IDS_EV2611_E"
+msgstr "Accomplice"
+
 msgid "IDS_EVAVALENTINE"
 msgstr "Eva Valentine"
 
@@ -34031,6 +34216,9 @@ msgstr "Attack Aircraft"
 msgid "IDS_FIGHTER_AIRSUP"
 msgstr "Airstrikes: Fighters"
 
+msgid "IDS_FIGHTER_ALT"
+msgstr "Tactical Attack Aircraft"
+
 msgid "IDS_FIGHTER_AP"
 msgstr "(AP) Attack Aircraft"
 
@@ -34194,7 +34382,7 @@ msgid "IDS_FIRST_BATTLE_CARD_SHOOTING_1"
 msgstr "Secondary battery and air defense guns open fire automatically"
 
 msgid "IDS_FIRST_BATTLE_DESCRIPTION"
-msgstr "The first battle"
+msgstr "Destroy all enemy ships"
 
 msgid "IDS_FIRST_BATTLE_GOAL"
 msgstr "Destroy all enemy ships"
@@ -34291,6 +34479,9 @@ msgstr "Admiral's Path"
 
 msgid "IDS_FIRST_PCZA027_TFTM_108_NAME"
 msgstr "Autobot Commanders"
+
+msgid "IDS_FIRST_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "Black Sails"
 
 msgid "IDS_FIRST_SCARLET_BIRTHDAY_2_NAME"
 msgstr "Peaks of Innovation"
@@ -34532,6 +34723,9 @@ msgstr "6×1"
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE035"
 msgstr "1х8"
 
+msgid "IDS_FORMAT_EVENTBATTLE_PCVE036"
+msgstr "5х7"
+
 msgid "IDS_FORM_DIVISION"
 msgstr "Form a division"
 
@@ -34618,6 +34812,9 @@ msgstr "Fleet of the Future"
 
 msgid "IDS_FOURTH_PCZA027_TFTM_108_NAME"
 msgstr "Decepticons: History in the Game"
+
+msgid "IDS_FOURTH_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "Shadows of the Harbor"
 
 msgid "IDS_FOURTH_SCARLET_BIRTHDAY_2_NAME"
 msgstr "Triumph of Technology"
@@ -34903,6 +35100,9 @@ msgstr "Shirakami Fubuki"
 
 msgid "IDS_FULLSCREEN"
 msgstr "Full-screen"
+
+msgid "IDS_FUNNEL"
+msgstr "Funnel Armor"
 
 msgid "IDS_GAMELOGIC_PRESET"
 msgstr "Animate small objects"
@@ -35374,6 +35574,9 @@ msgstr "RULES"
 msgid "IDS_GO_TO_ACCESS_LEVEL_MOUSE_INSTRUCTION"
 msgstr "Go to the Access Levels screen"
 
+msgid "IDS_GO_TO_ALBUM_EVENT"
+msgstr "Go to the \"Serious Investigation\" screen"
+
 msgid "IDS_GO_TO_ALMANAC_MOUSE_INSTRUCTION"
 msgstr "Go to the Daily Rewards screen"
 
@@ -35418,6 +35621,9 @@ msgstr "Go to the News screen"
 
 msgid "IDS_GO_TO_OBJECT_SCREEN"
 msgstr "Go to item view screen"
+
+msgid "IDS_GO_TO_OBJECT_SCREEN_ALBUM_EVENT"
+msgstr "Open dossier"
 
 msgid "IDS_GO_TO_PLAYBACK_UPPERCASE"
 msgstr "PLAY"
@@ -36567,6 +36773,26 @@ msgstr "The total number of rewards you can obtain from your ships. The list wil
 
 msgid "IDS_GUIDING_TIP_380_HEADER"
 msgstr "Rewards"
+
+msgid "IDS_GUIDING_TIP_381_DESC"
+msgstr "Customize ships and compare their stats. You can add a ship directly from the carousel by right-clicking it, or from the comparison screen."
+
+msgid "IDS_GUIDING_TIP_381_HEADER"
+msgstr "Ship Comparison"
+
+msgid "IDS_GUIDING_TIP_382_DESC"
+msgstr "The difference in stats is shown relative to the first ship in the table. You can change the ship against which the others are compared at any time."
+
+msgid "IDS_GUIDING_TIP_382_HEADER"
+msgstr ""
+"Compare one ship\n"
+"with others"
+
+msgid "IDS_GUIDING_TIP_383_DESC"
+msgstr "You have enough evidence to catch another criminal. Choose the dossier of the one you want to expose."
+
+msgid "IDS_GUIDING_TIP_383_HEADER"
+msgstr "Evidence collected"
 
 msgid "IDS_GUIDING_TIP_38_DESC"
 msgstr "To level up your commander and learn skills, earn commander experience in battle."
@@ -38389,6 +38615,9 @@ msgstr "Reset all filters"
 msgid "IDS_HINT_RESET_FILTER"
 msgstr "Reset this filter"
 
+msgid "IDS_HINT_RESPAWN_BUFF"
+msgstr "Ships available for respawn points have improved characteristics that apply only in this battle type. When you return to battle in such a ship, you will receive an additional bonus. The effect increases each time it is received."
+
 msgid "IDS_HINT_RESTRICTION_AUTO_DAMAGE"
 msgstr "This consumable is automatically activated in battle when necessary."
 
@@ -38829,6 +39058,15 @@ msgstr "Remaining: %(_timeLeft)s"
 
 msgid "IDS_INFOTIP_ALMANAC"
 msgstr "DAILY REWARDS"
+
+msgid "IDS_INFOTIP_COMPARISON_HEADER"
+msgstr "Ships for comparison"
+
+msgid "IDS_INFOTIP_GO_TO_COMPARISON"
+msgstr "Go to comparison"
+
+msgid "IDS_INFOTIP_REMOVE_ALL_COMPARISON_LIST"
+msgstr "Clear list"
 
 msgid "IDS_INFO_AIRPLANE"
 msgstr "LMB: Select squadron."
@@ -43226,6 +43464,9 @@ msgstr "Mina Hurray"
 msgid "IDS_MINEBOMBER"
 msgstr "Mine bombers"
 
+msgid "IDS_MINEBOMBER_ALT"
+msgstr "Tactical Mine Bombers"
+
 msgid "IDS_MINES"
 msgstr "Mines"
 
@@ -43570,6 +43811,21 @@ msgstr "Maxim Metky"
 
 msgid "IDS_MK_PREMIUM_ACCOUNT_ENDS_TIME"
 msgstr "Korabley Premium Account expires in: %(timeLeft)s"
+
+msgid "IDS_MODAL_COMPARISON_CLEAR_HEADER_TEXT"
+msgstr "Clear the list of ships for comparison?"
+
+msgid "IDS_MODAL_COMPARISON_CLEAR_SUBHEADER_TEXT"
+msgstr "The applied ship settings will also be reset."
+
+msgid "IDS_MODAL_COMPARISON_INCOMPARABLE_CONFIRMATION_TEXT"
+msgstr "Are you sure you want to compare this \"incomparable\" ship with others?"
+
+msgid "IDS_MODAL_COMPARISON_RESET_CONFIG_HEADER_TEXT"
+msgstr "Reset all settings?"
+
+msgid "IDS_MODAL_COMPARISON_RESET_CONFIG_SUBHEADER_TEXT"
+msgstr "After confirmation, all settings including configurations and skills will be reset"
 
 msgid "IDS_MODAL_ENTER_BATTLE_WITHOUT_CREW_DESCRIPTION_PARAGRAPH_1"
 msgstr "A ship without a Commander is less efficient in battle."
@@ -44735,6 +44991,60 @@ msgstr "Participation Rules"
 msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_5_TEXT_1"
 msgstr "Suitable ships:"
 
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_HEADER"
+msgstr "Investigation"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "SECOND CHANCE"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Even those who have sunk to the very bottom deserve a second chance. You can return to battle after death by choosing a respawn point and a ship. Some ships are available only for respawn points earned in battle."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "SHIP ENHANCEMENT"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Before entering battle, your ship's characteristics will be improved. Additional enhancement can be obtained for destroying dangerous criminals and returning to battle in ships for respawn points."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "FOUR ATTACKS"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "The city's criminal syndicate consists of four factions. One after another, they will emerge from the darkness and attack your ships. Destroy all enemies to clear the harbor of Spade City."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_HEADER"
+msgstr "Serious Investigation"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_1_HEADER"
+msgstr "Battle Features"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Four criminal groups are attacking the harbor of Spade City. Among the attackers are especially dangerous figures hiding behind the masks of famous commanders. Eliminate them, expose the criminal syndicate, and protect the city before it is too late."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "For destroying enemies marked with the [scenario_tag_buff] sign, your team's ships will receive buffs that will help them survive this night."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_2_HEADER"
+msgstr "Return to battle"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "If you are destroyed, you will return to battle by selecting a respawn point and ship. Some ships are only available for respawn points earned in battle."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "For a few seconds after returning, damage taken will be reduced."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_3_HEADER"
+msgstr "Survive Until Dawn"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "Eliminate the criminals before the raid time expires. If your team fails to destroy the enemies or all your ships are disabled at the same time — the criminal underworld will win and Spade City will never be the same."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_4_HEADER"
+msgstr "Participation Conditions"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "Suitable ships:"
+
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_HEADER"
 msgstr "Hydra Den"
 
@@ -45215,6 +45525,9 @@ msgstr "Gamma"
 msgid "IDS_MODAL_WINDOW_TITLE_PREMIUM_ACCOUNT_PURCHASE"
 msgstr "Purchase Premium Account"
 
+msgid "IDS_MODAL_WINDOW_TITLE_SHIP_COMPARISON"
+msgstr "Ship Comparison"
+
 msgid "IDS_MODAL_WINDOW_TITLE_SIGNAL_PURCHASE"
 msgstr "Purchase Signal"
 
@@ -45229,6 +45542,9 @@ msgstr "Talent Denial"
 
 msgid "IDS_MODAL_WINDOW_TITLE_TALENT_UNLOCK"
 msgstr "Talent Unlock"
+
+msgid "IDS_MODAL_WINDOW_TITLE_UPGRADE_SHIP_COMPARISON"
+msgstr "Ship configuration"
 
 msgid "IDS_MODAL_WINDOW_TRIALBATTLE_RULES_HEADER"
 msgstr "Training Trials"
@@ -45888,6 +46204,9 @@ msgstr "Basic musical accompaniment"
 
 msgid "IDS_MUSIC_MOD_BASE_DESCRIPTION"
 msgstr "When entering battle with a commander that has unique musical accompaniment, music from the \"Standard\" category will play."
+
+msgid "IDS_MUSIC_MOD_BLACK_FRIDAY"
+msgstr "Serious Investigation"
 
 msgid "IDS_MUSIC_MOD_DESCRIPTION"
 msgstr "Type of musical accompaniment in battle."
@@ -52498,6 +52817,9 @@ msgstr "FlyFire"
 msgid "IDS_PAES527_BLACKBLACK"
 msgstr "Special"
 
+msgid "IDS_PAES529_BLACK_BENHAM"
+msgstr "Special"
+
 msgid "IDS_PAES530_MAD_GEARING"
 msgstr "Master of the Water World"
 
@@ -56072,11 +56394,6 @@ msgstr "Rudder jammed."
 msgid "IDS_PARAMS_MODIFIER_SUBMARINELOWDAMAGE"
 msgstr "Submarine takes reduced damage"
 
-msgid "IDS_PARAMS_MODIFIER_TARGETBUOYANCYDISTANCES"
-msgstr ""
-"Shows positions of submarines\n"
-"at periscope and operating depths"
-
 msgid "IDS_PARAMS_MODIFIER_TORPEDOBOMBERACCURACYINCRATECOEFF"
 msgstr "Torpedo bomber aiming speed"
 
@@ -58655,7 +58972,7 @@ msgid "IDS_PASD509"
 msgstr "Benham"
 
 msgid "IDS_PASD509_DESCR"
-msgstr "Benham-class ships repeated the design of their predecessors while featuring more powerful machinery to achieve higher speed. The ships were armed with four torpedo launchers mounted along their sides, and the number of their guns was reduced from five to four. During the attack on Pearl Harbor, USS Benham was escorting aircraft carrier Enterprise to Midway. The destroyer participated in the Doolittle Raid, the Battle of Midway, and the second Battle of the Solomon Islands. On November 15, 1942, during the Battle of Guadalcanal, Benham took a torpedo hit, was abandoned by her crew, and eventually sank."
+msgstr "<p>The Benham-class destroyers were a development of two classes of ships — Gridley and Bagley. They were also armed with four side-mounted torpedo tube mounts, but differed from their predecessors in having more powerful machinery.</p><p class=\"p_spacing\"> </p><p>USS Benham, the lead ship of the class, was built in Kearny (New Jersey). The destroyer was not damaged during the Japanese attack on Pearl Harbor, as it was escorting the aircraft carrier Enterprise to Midway at the time. During the war, the ship took part in the Doolittle Raid, the Battle of Midway, and the Second Battle of the Solomon Islands. On 15 November 1942, in the battle for Guadalcanal, Benham took a torpedo hit, was abandoned by her crew, and was sunk by the destroyer USS Gwin.</p>"
 
 msgid "IDS_PASD509_FULL"
 msgstr "Benham"
@@ -58755,6 +59072,21 @@ msgstr "175"
 
 msgid "IDS_PASD529_YEAR"
 msgstr "1943"
+
+msgid "IDS_PASD539"
+msgstr "Benham B"
+
+msgid "IDS_PASD539_DESCR"
+msgstr "<p>The Benham-class destroyers were a development of two classes of ships — Gridley and Bagley. They were also armed with four side-mounted torpedo tube mounts, but differed from their predecessors in having more powerful machinery.</p><p class=\"p_spacing\"> </p><p>USS Benham, the lead ship of the class, was built in Kearny (New Jersey). The destroyer was not damaged during the Japanese attack on Pearl Harbor, as it was escorting the aircraft carrier Enterprise to Midway at the time. During the war, the ship took part in the Doolittle Raid, the Battle of Midway, and the Second Battle of the Solomon Islands. On 15 November 1942, in the battle for Guadalcanal, Benham took a torpedo hit, was abandoned by her crew, and was sunk by the destroyer USS Gwin.</p>"
+
+msgid "IDS_PASD539_FULL"
+msgstr "Benham B"
+
+msgid "IDS_PASD539_NUMBER"
+msgstr "10"
+
+msgid "IDS_PASD539_YEAR"
+msgstr "1939"
 
 msgid "IDS_PASD597"
 msgstr "Sims B"
@@ -58866,6 +59198,21 @@ msgstr "105"
 
 msgid "IDS_PASD913_YEAR"
 msgstr "1945"
+
+msgid "IDS_PASD999"
+msgstr "Benham B"
+
+msgid "IDS_PASD999_DESCR"
+msgstr "A replica of the ship Benham for the event \"Serious Investigation\"."
+
+msgid "IDS_PASD999_FULL"
+msgstr "Benham B"
+
+msgid "IDS_PASD999_NUMBER"
+msgstr "10"
+
+msgid "IDS_PASD999_YEAR"
+msgstr "1939"
 
 msgid "IDS_PASS106"
 msgstr "Cachalot (old)"
@@ -59386,6 +59733,12 @@ msgstr "406 mm/45 Mk.6 in a turret"
 
 msgid "IDS_PAUA818_ART_NORTH_DAKOTA"
 msgstr "406 mm/56 Mk.4 in a turret"
+
+msgid "IDS_PAUA819_ART_BLACK_BENHAM"
+msgstr "127 mm/38 Mk.12 on a Mk.30/Mk.30 mod.0 mount"
+
+msgid "IDS_PAUA820_ART_RARE_BEAST_DESTROYER"
+msgstr "127 mm/38 Mk.12 on a Mk.30/Mk.30 mod.0 mount"
 
 msgid "IDS_PAUA821_B9_ART_STOCK"
 msgstr "406 mm/50 Mk.7 in a turret"
@@ -60274,6 +60627,12 @@ msgstr "Propulsion: 130,000 hp"
 
 msgid "IDS_PAUE817_ENG_NORTH_DAKOTA"
 msgstr "Propulsion: 212,000 hp"
+
+msgid "IDS_PAUE818_ENG_BLACK_BENHAM"
+msgstr "Propulsion: 50,000 hp"
+
+msgid "IDS_PAUE819_ENG_RARE_BEAST_DESTROYER"
+msgstr "Propulsion: 50,000 hp"
 
 msgid "IDS_PAUE821_ENGINE_120000"
 msgstr "Propulsion: 120,000 hp"
@@ -61198,6 +61557,12 @@ msgstr "Indiana"
 msgid "IDS_PAUH825_HULL_NORTH_DAKOTA"
 msgstr "North Dakota"
 
+msgid "IDS_PAUH826_HULL_BLACK_BENHAM"
+msgstr "Benham B."
+
+msgid "IDS_PAUH827_HULL_RARE_BEAST_DESTROYER"
+msgstr "Benham B."
+
 msgid "IDS_PAUH831_IOWA_1943"
 msgstr "Iowa (A)"
 
@@ -62057,6 +62422,12 @@ msgstr "Mk9 mod. 1"
 msgid "IDS_PAUS824_SUO_NORTH_DAKOTA"
 msgstr "Mk38"
 
+msgid "IDS_PAUS825_SUO_BLACK_BENHAM"
+msgstr "Mk9 mod. 1"
+
+msgid "IDS_PAUS826_SUO_RARE_BEAST_DESTROYER"
+msgstr "Mk9"
+
 msgid "IDS_PAUS831_SUO_BLACK"
 msgstr "Mk9 mod. 1"
 
@@ -62386,6 +62757,12 @@ msgstr "533 mm (5x Mk29 mod. 1)"
 
 msgid "IDS_PAUT808_D9_TORP_STOCK"
 msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAUT809_TORP_BLACK_BENHAM"
+msgstr "533 mm Mk15"
+
+msgid "IDS_PAUT810_TORP_RARE_BEAST_DESTROYER"
+msgstr "533 mm Mk15"
 
 msgid "IDS_PAUT900_S10_TORP_STOCK"
 msgstr "Mk29 mod. 0 and Mk28 MIE"
@@ -62956,6 +63333,9 @@ msgstr "Cloud Privateer"
 
 msgid "IDS_PBES428_EDINBURGH_RANGER"
 msgstr "Adamas Viridis"
+
+msgid "IDS_PBES501_WATERLOO_WHITE"
+msgstr "Foggy Albion"
 
 msgid "IDS_PBES509_JUTLAND_COLORFUL"
 msgstr "Pink Beam"
@@ -68492,6 +68872,9 @@ msgstr "Wrath of the Thunderer"
 msgid "IDS_PCEC162_MAT_GONCHIE_LUK"
 msgstr "Evil spirits"
 
+msgid "IDS_PCEC163_LEGACY_CAMO"
+msgstr "Criminal's mask"
+
 msgid "IDS_PCEC990_TRIALS_BUDENY"
 msgstr "Target"
 
@@ -70425,49 +70808,49 @@ msgid "IDS_PCEE304_ALASKABLACK_FLAG"
 msgstr "Alaska B"
 
 msgid "IDS_PCEE304_ALASKABLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE305_ASASHIOBLACK_FLAG"
 msgstr "Asashio B"
 
 msgid "IDS_PCEE305_ASASHIOBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE306_ATAGOBLACK_FLAG"
 msgstr "Atago B"
 
 msgid "IDS_PCEE306_ATAGOBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE307_GRAFZEPPELINBLACK_FLAG"
 msgstr "Graf Zeppelin B"
 
 msgid "IDS_PCEE307_GRAFZEPPELINBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE308_MASSACHUSETTSBLACK_FLAG"
 msgstr "Massachusetts B"
 
 msgid "IDS_PCEE308_MASSACHUSETTSBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE309_SHARNHORSTBLACK_FLAG"
 msgstr "Scharnhorst B"
 
 msgid "IDS_PCEE309_SHARNHORSTBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE310_SIMSBLACK_FLAG"
 msgstr "Sims B"
 
 msgid "IDS_PCEE310_SIMSBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE311_TIRPITZBLACK_FLAG"
 msgstr "Tirpitz B"
 
 msgid "IDS_PCEE311_TIRPITZBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE312_SUBTEST_FLAG"
 msgstr "Stealthy Threat"
@@ -70876,25 +71259,25 @@ msgid "IDS_PCEE373_ATLANTABLACK_FLAG"
 msgstr "Atlanta B"
 
 msgid "IDS_PCEE373_ATLANTABLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE374_COSSACKBLACK_FLAG"
 msgstr "Cossack B"
 
 msgid "IDS_PCEE374_COSSACKBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE375_KAGABLACK_FLAG"
 msgstr "Kaga B"
 
 msgid "IDS_PCEE375_KAGABLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE376_JEANBARTBLACK_FLAG"
 msgstr "Jean Bart B"
 
 msgid "IDS_PCEE376_JEANBARTBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE377_DOCRUSEIRO_FLAG"
 msgstr "Bandeira do Cruzeiro"
@@ -71364,31 +71747,31 @@ msgid "IDS_PCEE452_SAIPANBLACK_FLAG"
 msgstr "Saipan B"
 
 msgid "IDS_PCEE452_SAIPANBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE453_POMMERNBLACK_FLAG"
 msgstr "Pommern B"
 
 msgid "IDS_PCEE453_POMMERNBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE454_YOSHINOBLACK_FLAG"
 msgstr "Yoshino B"
 
 msgid "IDS_PCEE454_YOSHINOBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE455_LOYANGBLACK_FLAG"
 msgstr "Loyang B"
 
 msgid "IDS_PCEE455_LOYANGBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE456_DUNKERQUEBLACK_FLAG"
 msgstr "Dunkerque B"
 
 msgid "IDS_PCEE456_DUNKERQUEBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE457_MOONRABBIT_FLAG"
 msgstr "Moon Rabbit"
@@ -71957,31 +72340,31 @@ msgid "IDS_PCEE562_SHINONOMEBLACK_FLAG"
 msgstr "Shinonome B"
 
 msgid "IDS_PCEE562_SHINONOMEBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE563_CHKALOVBLACK_FLAG"
 msgstr "Chkalov C"
 
 msgid "IDS_PCEE563_CHKALOVBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE564_MAINZBLACK_FLAG"
 msgstr "Mainz B"
 
 msgid "IDS_PCEE564_MAINZBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE565_KEARSARGEBLACK_FLAG"
 msgstr "Kearsarge B"
 
 msgid "IDS_PCEE565_KEARSARGEBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE566_NAPOLIBLACK_FLAG"
 msgstr "Napoli B"
 
 msgid "IDS_PCEE566_NAPOLIBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE567_ALLIANCE_FLAG"
 msgstr "HMS Alliance"
@@ -72360,37 +72743,37 @@ msgid "IDS_PCEE635_BLACKBLACK_FLAG"
 msgstr "Black B"
 
 msgid "IDS_PCEE635_BLACKBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE636_LAZOBLACK_FLAG"
 msgstr "Lazo C"
 
 msgid "IDS_PCEE636_LAZOBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE637_BRANDENBURGBLACK_FLAG"
 msgstr "Brandenburg B"
 
 msgid "IDS_PCEE637_BRANDENBURGBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE638_IWAMIBLACK_FLAG"
 msgstr "Iwami B"
 
 msgid "IDS_PCEE638_IWAMIBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE639_REPULSEBLACK_FLAG"
 msgstr "Repulse B"
 
 msgid "IDS_PCEE639_REPULSEBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE640_SMOLENSKBLACK_FLAG"
 msgstr "Smolensk C"
 
 msgid "IDS_PCEE640_SMOLENSKBLACK_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE641_THREEKINGDOMS_FLAG"
 msgstr "Shu Kingdom"
@@ -73181,37 +73564,37 @@ msgid "IDS_PCEE765_OWARI_NO_ONI_FLAG"
 msgstr "Owari-no-Oni"
 
 msgid "IDS_PCEE765_OWARI_NO_ONI_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE766_BRISBANE_B_FLAG"
 msgstr "Brisbane B"
 
 msgid "IDS_PCEE766_BRISBANE_B_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE767_JAGER_B_FLAG"
 msgstr "Jäger B"
 
 msgid "IDS_PCEE767_JAGER_B_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE768_GASCOGNE_B_FLAG"
 msgstr "Gascogne B"
 
 msgid "IDS_PCEE768_GASCOGNE_B_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE769_PRINZ_EUGEN_B_FLAG"
 msgstr "Prinz Eugen B"
 
 msgid "IDS_PCEE769_PRINZ_EUGEN_B_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE770_HORNET_B_FLAG"
 msgstr "Hornet B"
 
 msgid "IDS_PCEE770_HORNET_B_FLAG_DESCRIPTION"
-msgstr "Black Friday—the day when winter sales officially start in many countries around the world."
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
 
 msgid "IDS_PCEE771_VKPLAY_FLAG"
 msgstr "VK Play"
@@ -73636,6 +74019,42 @@ msgstr "The image of Koschei the Deathless traces back to ancient beliefs about 
 msgid "IDS_PCEE835_KOSCHEY_FLAG_EXTRA_DESCRIPTION"
 msgstr "In honor of the “Defense of Lukomorye” event."
 
+msgid "IDS_PCEE836_HIZENBLACK_FLAG"
+msgstr "Hizen B"
+
+msgid "IDS_PCEE836_HIZENBLACK_FLAG_DESCRIPTION"
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
+
+msgid "IDS_PCEE837_BENHAMBLACK_FLAG"
+msgstr "Benham B"
+
+msgid "IDS_PCEE837_BENHAMBLACK_FLAG_DESCRIPTION"
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
+
+msgid "IDS_PCEE838_BORODINOBLACK_FLAG"
+msgstr "Borodino B"
+
+msgid "IDS_PCEE838_BORODINOBLACK_FLAG_DESCRIPTION"
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
+
+msgid "IDS_PCEE839_SCHILLBLACK_FLAG"
+msgstr "Schill B"
+
+msgid "IDS_PCEE839_SCHILLBLACK_FLAG_DESCRIPTION"
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
+
+msgid "IDS_PCEE840_RUGGIEROBLACK_FLAG"
+msgstr "Ruggiero di Lauria B"
+
+msgid "IDS_PCEE840_RUGGIEROBLACK_FLAG_DESCRIPTION"
+msgstr "Black Friday is the day when winter sales officially begin in many countries around the world."
+
+msgid "IDS_PCEE841_DUKH_KRONSHLOTA_FLAG"
+msgstr "Spirit of Kronshlot"
+
+msgid "IDS_PCEE841_DUKH_KRONSHLOTA_FLAG_DESCRIPTION"
+msgstr "In the winter of 1704, during the Great Northern War, a fort on a timber crib foundation was built south of Kronstadt. The fortification that blocked the path of the Swedish fleet was named Kronshlot (from German Kronschlot — \"Crown Castle\")."
+
 msgid "IDS_PCEE842_ISONZO_FLAG"
 msgstr "RN Isonzo"
 
@@ -73707,6 +74126,36 @@ msgstr "Songun"
 
 msgid "IDS_PCEE856_SONGUN_FLAG_DESCRIPTION"
 msgstr "Songun is the state policy of the DPRK that took shape in the 1990s. Its main principle, “Military First,” proclaims the leading role of the armed forces in the state and public life of the country."
+
+msgid "IDS_PCEE859_HARALD_HARDRADE_FLAG"
+msgstr "HNoMS Harald Hardråde"
+
+msgid "IDS_PCEE859_HARALD_HARDRADE_FLAG_DESCRIPTION"
+msgstr "A golden lion on a red banner — the standard of the kings of Norway. This is the country's oldest flag: the earliest depiction dates to the early 14th century. Harald III Hardrada was one of the most famous kings of Norway in the Middle Ages."
+
+msgid "IDS_PCEE860_UDARNY_FLAG"
+msgstr "Udarny"
+
+msgid "IDS_PCEE860_UDARNY_FLAG_DESCRIPTION"
+msgstr "Udarny chasti, or \"death units\", — volunteer assault units of the Russian Army, which were formed in 1917 and intended to carry out the most dangerous combat missions. On the banners of some units was depicted a skull with crossed bones."
+
+msgid "IDS_PCEE861_LA_ROCHELLE_FLAG"
+msgstr "La Rochelle"
+
+msgid "IDS_PCEE861_LA_ROCHELLE_FLAG_DESCRIPTION"
+msgstr "In the 17th century, the port city of La Rochelle was the main stronghold of French Protestants — the Huguenots. The Siege of La Rochelle in 1627–1628 by royal troops under Cardinal Richelieu became one of the key episodes of Alexandre Dumas's novel \"The Three Musketeers.\""
+
+msgid "IDS_PCEE862_BORODINO_04_FLAG"
+msgstr "Borodino '04"
+
+msgid "IDS_PCEE862_BORODINO_04_FLAG_DESCRIPTION"
+msgstr "At the beginning of the 20th century, ships built at the Admiralty Shipyard in Saint Petersburg underwent trials under the flag of the enterprise. Its field depicted four separate anchors and the letters \"А. З.\" — an abbreviation of Адмиралтейский завод (Admiralty Works)."
+
+msgid "IDS_PCEE863_MIKASA_04_FLAG"
+msgstr "Mikasa '04"
+
+msgid "IDS_PCEE863_MIKASA_04_FLAG_DESCRIPTION"
+msgstr "The admiral's flag of the Imperial Japanese Navy was used from 1897 to 1945. Admiral Heihachiro Togo flew this flag on the battleship Mikasa — the flagship of the Combined Fleet during the Russo-Japanese War."
 
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "Santas Wanted 2016"
@@ -74658,6 +75107,18 @@ msgstr "Battle between players without team. Each fights for themselves and earn
 msgid "IDS_PCVE035_SUBHEADER"
 msgstr "Fight alone against other players"
 
+msgid "IDS_PCVE036"
+msgstr "Serious Investigation"
+
+msgid "IDS_PCVE036_DESCRIPTION"
+msgstr "Asymmetrical battle between players and criminals in the grim atmosphere of Spade City."
+
+msgid "IDS_PCVE036_SHIP_ROLE"
+msgstr "Role: %(roleValue)s"
+
+msgid "IDS_PCVE036_SUBHEADER"
+msgstr "Fight crime in Spade City"
+
 msgid "IDS_PCVO001_OP_01_01_37_RIDGE_DESCRIPTION"
 msgstr "An allied naval division has been attacked. Some ships have been destroyed, and the transport ships that were captured are being convoyed to the enemy base now. Intercept the enemy convoy and take back the allied ships."
 
@@ -75473,6 +75934,12 @@ msgstr "Ship Anniversary"
 msgid "IDS_PCZA041_BD25_PUZZLE_QUOTES"
 msgstr "\"Ship Anniversary\""
 
+msgid "IDS_PCZA042_RARE_BEAST_BF26"
+msgstr "Serious Investigation"
+
+msgid "IDS_PCZA042_RARE_BEAST_BF26_QUOTES"
+msgstr "\"Serious Investigation\""
+
 msgid "IDS_PCZC011_BISMARCK_BISMARCK"
 msgstr "Bismarck"
 
@@ -76138,11 +76605,167 @@ msgstr "Mosaic Fragment"
 msgid "IDS_PCZC1036_BD25_PUZZLE_60"
 msgstr "Mosaic Fragment"
 
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1"
+msgstr "DOSSIER No. 1: Ermelinda Jung"
+
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1_CUSTOM_HEADER"
+msgstr "DOSSIER No. 1"
+
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1_CUSTOM_SUBHEADER"
+msgstr "Member of the Black Sails gang"
+
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Ermelinda Jung is the daughter of the brilliant engineer Max von Krieger and holds a secret capable of destroying the powerful secret military Alliance.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>The criminal's identity has not been established.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>A sullen stare and a sly smirk. Everything about her suggests she knows more than she lets on.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>None. Which is suspicious.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Member.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2"
+msgstr "DOSSIER No. 2: Cat scientist"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2_CUSTOM_HEADER"
+msgstr "DOSSIER No. 2"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2_CUSTOM_SUBHEADER"
+msgstr "Member of the Black Sails gang"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Cat scientist is the wisest beast in all of Lukomorye.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Hidden behind an intellectual appearance.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>An intelligent look. A serious face. Could have become some kind of minister.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Doesn't strike up a song when moving to the right. Says nothing when moving to the left, either.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Member.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3"
+msgstr "DOSSIER No. 3: Matilda Kelly"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3_CUSTOM_HEADER"
+msgstr "DOSSIER No. 3"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3_CUSTOM_SUBHEADER"
+msgstr "Member of the Black Sails gang"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Matilda Kelly is a fearless pirate queen.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Not established. Identity theft would appear to be involved.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>A feathered hat, a revolver, and a complete lack of respect for other people's property.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Doesn't like rum. Utterly indifferent to chests of any kind.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Member.</p><p class=\"p_spacing\"></p>"
+
 msgid "IDS_PCZC103_MK_MORESOVIETDESTR"
 msgstr "Need more DDs"
 
 msgid "IDS_PCZC103_MK_MORESOVIETDESTR_DESCRIPTION"
 msgstr "<p>In Update 0.6.2, we added an alternative branch of Soviet destroyers, and it turned out a success. The main branch, with Khabarovsk (now Delny) on top, is well-suited to a playstyle based on cruiser-like artillery engagements. Staying on the move, maintaining constant fire, and delivering lightning-fast strikes – a thrilling combat experience guaranteed.</p><p class=\"p_spacing\"> </p><p>The playstyle of the alternative branch, headed by Grozovoi, will be closer to that of classic destroyers with effective torpedoes and guns used in support.</p>"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4"
+msgstr "DOSSIER No. 4: Dobrozhir Drobojanovich"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4_CUSTOM_HEADER"
+msgstr "DOSSIER No. 4"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4_CUSTOM_SUBHEADER"
+msgstr "Boss of the Black Sails gang"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Dobrozhir Drobojanovich is a dashing bogatyr who vanquished the lizard folk.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Hidden beneath the guise of a glorious knight.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Dashing bravery and a bogatyr's mighty strength.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Doesn't like Slavic phonk.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5"
+msgstr "DOSSIER No. 5: CM-10A"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5_CUSTOM_HEADER"
+msgstr "DOSSIER No. 5"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5_CUSTOM_SUBHEADER"
+msgstr "Boss of the Black Sails gang"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>CM-10A is an android commander who led an expedition to an unknown exoplanet.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>The investigation suspects that a being of biological origin is hiding behind the robot's mask.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Gives far too many orders. Creates a tense atmosphere in the crew.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Claims to run on a battery, yet takes breaks with suspicious frequency.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6"
+msgstr "DOSSIER No. 6: Flock of crows"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6_CUSTOM_HEADER"
+msgstr "DOSSIER No. 6"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6_CUSTOM_SUBHEADER"
+msgstr "Leader of the Black Sails gang"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Flock of crows is a group of detectives from Spade City.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Not established. According to reliable sources, this trio sits at the very top of the whole gang.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Geniuses of the criminal underworld. Particularly dangerous criminals.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Leave no traces. Not even feathers. They ignore shiny objects with suspicious persistence.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Leader.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7"
+msgstr "DOSSIER No. 7: Anton Grant"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7_CUSTOM_HEADER"
+msgstr "DOSSIER No. 7"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7_CUSTOM_SUBHEADER"
+msgstr "Member of the Night Ravens gang"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Anton Grant is a rear admiral with the Naval Heritage Foundation.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Not established. An investigation is underway.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>A stern gaze and a firm hand. Rumor has it he distrusts modern technology.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Caught red-handed using neural networks. He was searching for an apple charlotte recipe.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Member.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8"
+msgstr "DOSSIER No. 8: Sun Shangxiang"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8_CUSTOM_HEADER"
+msgstr "DOSSIER No. 8"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8_CUSTOM_SUBHEADER"
+msgstr "Member of the Night Ravens gang"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Sun Shangxiang is a Chinese warrior princess of the Three Kingdoms era.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>The criminal's identity is being established.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Carries a sword everywhere. For some reason, always wins at board games.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Often gets tangled up in her own stories: she can't tell the kingdom of Wu from the kingdom of Shu. When asked about Wei, she prefers not to answer.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Member.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9"
+msgstr "DOSSIER No. 9: Unsinkable Sam"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9_CUSTOM_HEADER"
+msgstr "DOSSIER No. 9"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9_CUSTOM_SUBHEADER"
+msgstr "Member of the Night Ravens gang"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Unsinkable Sam is the famous ship's cat who survived the sinking of three warships.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>At present, the criminal's identity has not been established.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Black-and-white coat, whiskers, paws, and a tail.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Doesn't cry when watching \"Titanic\".</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Member.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10"
+msgstr "DOSSIER No. 10: Lesta"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10_CUSTOM_HEADER"
+msgstr "DOSSIER No. 10"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10_CUSTOM_SUBHEADER"
+msgstr "Boss of the Night Ravens gang"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Lesta the mermaid is the charming mascot of \"Mir Korabley\".</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Not established. Her maritime origins raise more and more questions.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Feels like a fish in water... in water.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Answers every question with songs. Never hits the right notes.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11"
+msgstr "DOSSIER No. 11: Curator"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11_CUSTOM_HEADER"
+msgstr "DOSSIER No. 11"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11_CUSTOM_SUBHEADER"
+msgstr "Boss of the Night Ravens gang"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Curator is an artificial intelligence that protects Earth from alien invasion.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Not established.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Looks like a malfunctioning onboard computer or a robot vacuum cleaner.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Periodically taps into the radio and listens to chanson non-stop.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12"
+msgstr "DOSSIER No. 12: Seryozha"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12_CUSTOM_HEADER"
+msgstr "DOSSIER No. 12"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12_CUSTOM_SUBHEADER"
+msgstr "Leader of the Night Ravens gang"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Seryozha is a good-natured train conductor.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Being established. At present, the investigation has hit a railway dead end.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Uses hypnosis to influence passengers' minds, making them buy the side berths at the far end of an open-plan sleeper carriage.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Was spotted buying plane tickets.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Leader.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13"
+msgstr "DOSSIER No. 13: Mikhail Orlov"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13_CUSTOM_HEADER"
+msgstr "DOSSIER No. 13"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13_CUSTOM_SUBHEADER"
+msgstr "Member of the White Sharks gang"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Mikhail Orlov is an inspector with the Ministry of Progress.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Interrogation underway. At present, the criminal's identity has not been established.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Looks like an intergalactic traveler and adventurer. Champions the development of modern computer technology in every possible way.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Turns off electronics by yanking the plug out of the socket. Caught red-handed.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Member.</p><p class=\"p_spacing\"></p>"
 
 msgid "IDS_PCZC104_MK_FRENCHCRUISER"
 msgstr "What's Next? Engine Boosters for Battleships?"
@@ -76150,11 +76773,143 @@ msgstr "What's Next? Engine Boosters for Battleships?"
 msgid "IDS_PCZC104_MK_FRENCHCRUISER_DESCRIPTION"
 msgstr "<p>The French cruiser tech tree that appeared in the game with the release of Update 0.6.4 turned out to be well-balanced, with no apparent imbalances. At the same time, its release inspired players to learn a number of words from the glossary of French cuisine.</p><p class=\"p_spacing\"> </p><p>The Engine Boost consumable matched the ships' characteristics well, while Henri IV, the Tier X ship carrying formidable 240 mm guns, quickly assumed the role of the best cruiser for dealing damage.</p>"
 
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14"
+msgstr "DOSSIER No. 14: Alexander Pushkin"
+
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14_CUSTOM_HEADER"
+msgstr "DOSSIER No. 14"
+
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14_CUSTOM_SUBHEADER"
+msgstr "Member of the White Sharks gang"
+
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Alexander Sergeyevich Pushkin is our everything and the sun of Russian poetry.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>The subject's identity is being established.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Curly hair, sideburns, a top hat. Often challenges strangers to a duel, but never shows up at the appointed time.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Can't remember more than one line of \"Eugene Onegin\". Gets visibly nervous when trying to write a quatrain.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Member.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15"
+msgstr "DOSSIER No. 15: Statue of Liberty"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15_CUSTOM_HEADER"
+msgstr "DOSSIER No. 15"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15_CUSTOM_SUBHEADER"
+msgstr "Member of the White Sharks gang"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Statue of Liberty is a symbol of freedom and independence.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Not established. The suspect refuses to budge.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Holds a torch and always wears a crown. Very attached to her work and never leaves her post, even in bad weather.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Always comes out perfect in photos. Suspiciously dependent on other people's attention.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Member.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16"
+msgstr "DOSSIER No. 16: Astra"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16_CUSTOM_HEADER"
+msgstr "DOSSIER No. 16"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16_CUSTOM_SUBHEADER"
+msgstr "Boss of the White Sharks gang"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Astra is a space dog who accompanied the first space explorers on their journey to the stars.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Not established. All attempts to dig up dirt have failed.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>A good girl. Too good to be true.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Doesn't bark. Doesn't bite. Indifferent to passersby. Pays no attention to cats whatsoever.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17"
+msgstr "DOSSIER No. 17: Andromeda"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17_CUSTOM_HEADER"
+msgstr "DOSSIER No. 17"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17_CUSTOM_SUBHEADER"
+msgstr "Boss of the White Sharks gang"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Andromeda is the humanoid incarnation of a celestial body, created to communicate with humanity from starships.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Not identified.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Witnesses describe her appearance differently. No one can remember the color of her eyes. Pink? Red? Violet?</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>All witnesses are certain they met Andromeda in person. But no one remembers the details of the conversation.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18"
+msgstr "DOSSIER No. 18: Koschei the Deathless"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18_CUSTOM_HEADER"
+msgstr "DOSSIER No. 18"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18_CUSTOM_SUBHEADER"
+msgstr "Leader of the White Sharks gang"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Koschei the Deathless is the chief villain of Russian fairy tales.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Not established. The theory of the suspect's immortality raises questions.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>He looks sickly. Never takes off his crown and cloak. Wasting away.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Does cross-stitch embroidery. Feels no fear of hares or ducks.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Leader.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19"
+msgstr "DOSSIER No. 19: James Conrad"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19_CUSTOM_HEADER"
+msgstr "DOSSIER No. 19"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19_CUSTOM_SUBHEADER"
+msgstr "Member of the Shadows of the Harbor gang"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>James Conrad is a commander in the U.S. Navy and an experienced operative with the callsign Steel Dog.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Not established. The suspect answers every question from the investigation with: \"Classified.\"</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>A steely gaze, steely nerves, and a steely certainty that he is always right.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Keeps a photograph of a cat in his cabin. Refused to explain where the picture came from.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Member.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20"
+msgstr "DOSSIER No. 20: Alexander Uvarov"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20_CUSTOM_HEADER"
+msgstr "DOSSIER No. 20"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20_CUSTOM_SUBHEADER"
+msgstr "Member of the Shadows of the Harbor gang"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Alexander Uvarov is a Soviet intelligence officer pursuing the German ships that fled to Antarctica after their defeat in World War II.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Not established. The investigation is considering a double-agent theory.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Can spend hours out in the cold. Keeps an unruffled look in any unclear situation.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Suspiciously confident in front of the camera. Sometimes pauses strangely after a phrase, as if waiting for something.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Member.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21"
+msgstr "DOSSIER No. 21: Johannes Meck-Leyne"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21_CUSTOM_HEADER"
+msgstr "DOSSIER No. 21"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21_CUSTOM_SUBHEADER"
+msgstr "Member of the Shadows of the Harbor gang"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Johannes Meck-Leyne is a German mechanical engineer.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>The criminal's identity is being established. According to some witnesses, the perpetrator resembles a certain police officer from New York.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Wears a shoulder holster for a pistol. Even when unarmed. Has an unhealthy love of skyscrapers.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Claims to be German, but doesn't speak German. Constantly repeats for no reason: Yippee-ki-yay.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Member.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22"
+msgstr "DOSSIER No. 22: Eva Valentine"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22_CUSTOM_HEADER"
+msgstr "DOSSIER No. 22"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22_CUSTOM_SUBHEADER"
+msgstr "Boss of the Shadows of the Harbor gang"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Eva Valentine is a spirited anime commander.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Being established.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Sea-green hair and a kind gaze.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Makes long pauses all the time. Before every line, she sighs languidly and gazes into the distance.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23"
+msgstr "DOSSIER No. 23: Triangulum"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23_CUSTOM_HEADER"
+msgstr "DOSSIER No. 23"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23_CUSTOM_SUBHEADER"
+msgstr "Boss of the Shadows of the Harbor gang"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Triangulum is the humanoid incarnation of a celestial body, created to communicate with humanity from starships.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>Not identified.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>Speaks with a heavy accent that cannot be placed.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Knows human culture far too well for a being who has never lived among humans. Loves chocolate chip cookies.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
 msgid "IDS_PCZC105_MK_BISMARCK"
 msgstr "The Mighty Bismarck"
 
 msgid "IDS_PCZC105_MK_BISMARCK_DESCRIPTION"
 msgstr "<p>The Hunt for Bismarck campaign rolled out on a noble scale. Over 300 thousand participants, more than 141 thousand completed collections, and over 7 million containers received. More than 60 thousand Tier VIII battleships Bismarck distributed among players with widely varying levels of skills.</p><p class=\"p_spacing\"> </p><p>The addition of a story-telling element to the game client in the form of a historical reference to various campaign missions was a big plus of the event.</p>"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24"
+msgstr "DOSSIER No. 24: Hua Hu"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24_CUSTOM_HEADER"
+msgstr "DOSSIER No. 24"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24_CUSTOM_SUBHEADER"
+msgstr "Leader of the Shadows of the Harbor gang"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Mask</p><p>Hua Hu is a brave warrior cat from distant eastern lands.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Real Identity</p><p>The criminal's identity is being established.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Distinguishing Features</p><p>In excellent physical shape. Always lands on all four paws.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Clues</p><p>Indifferent to boxes. Was seen in the company of mice.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Role in the Gang</p><p>Leader.</p><p class=\"p_spacing\"></p>"
 
 msgid "IDS_PCZC106_MK_BOTREVENGE"
 msgstr "Revenge of the Bots"
@@ -82105,6 +82860,12 @@ msgstr "340 mm HE OEA Mle 1932"
 msgid "IDS_PFPA123_340MM_AP_ARTOIS"
 msgstr "340 mm AP OPf Mle 1924"
 
+msgid "IDS_PFPA124_330MM_AP_LA_ROCHELLE"
+msgstr "330 mm AP OPfK Mle 1935"
+
+msgid "IDS_PFPA125_330MM_HE_LA_ROCHELLE"
+msgstr "330 mm HE OEA Mle 1935"
+
 msgid "IDS_PFPA301_305MM_45_1910_AP_SAND"
 msgstr "305 mm AP OPf Mle 1910 mod.1"
 
@@ -82836,6 +83597,21 @@ msgstr "0"
 
 msgid "IDS_PFSC210_YEAR"
 msgstr "1944"
+
+msgid "IDS_PFSC211"
+msgstr "La Rochelle"
+
+msgid "IDS_PFSC211_DESCR"
+msgstr "<p>In the late 1920s — early 1930s, French engineers worked on a design for a large cruiser. The variant designated No. 6, Crouiseur CC1 de 23690 tW, was intended to be armed with 330-mm guns in three turrets in the bow of the ship, with the second turret mounted in a superfiring position. Groups of dual-purpose gun turrets were located in the stern of the ship and along the sides.</p><p class=\"p_spacing\"> </p><p>A further hypothetical development of this project envisages the installation of more powerful anti-aircraft armament. The armor protection scheme is similar to that of Dunkerque-class battlecruisers and Richelieu-class battleships.</p>"
+
+msgid "IDS_PFSC211_FULL"
+msgstr "La Rochelle"
+
+msgid "IDS_PFSC211_NUMBER"
+msgstr "0"
+
+msgid "IDS_PFSC211_YEAR"
+msgstr "1940"
 
 msgid "IDS_PFSC506"
 msgstr "De Grasse"
@@ -83647,6 +84423,9 @@ msgstr "120 mm/50 Model 1950 in a turret"
 msgid "IDS_PFUA917_ART_CRUISER_TEST"
 msgstr "330 mm/50 Mle 1931 in a turret"
 
+msgid "IDS_PFUA918_ART_LA_ROCHELLE"
+msgstr "330 mm/50 Mle 1931 on a St.Chamond Mle 1932 mount"
+
 msgid "IDS_PFUA930_C11_ART_STOCK"
 msgstr "240 mm/50 Mle 1930 in a turret"
 
@@ -83906,6 +84685,9 @@ msgid "IDS_PFUE915_ENG_VOLTIGEUR"
 msgstr "Propulsion: 58,000 hp"
 
 msgid "IDS_PFUE916_ENG_CRUISER_TEST"
+msgstr "Propulsion: 240,000 hp"
+
+msgid "IDS_PFUE918_ENG_LA_ROCHELLE"
 msgstr "Propulsion: 240,000 hp"
 
 msgid "IDS_PFUE930_C11_ENG_STOCK"
@@ -84223,6 +85005,9 @@ msgstr "Voltigeur"
 msgid "IDS_PFUH916_HULL_CRUISER_TEST"
 msgstr "Marseille (EM)"
 
+msgid "IDS_PFUH918_LA_ROCHELLE"
+msgstr "La Rochelle"
+
 msgid "IDS_PFUH930_C11_HULL_STOCK"
 msgstr "Condé"
 
@@ -84525,6 +85310,9 @@ msgstr "SUO Mk 10"
 
 msgid "IDS_PFUS915_SUO_CRUISER_TEST"
 msgstr "PCA n° 10"
+
+msgid "IDS_PFUS918_SUO_LA_ROCHELLE"
+msgstr "PCA n°11"
 
 msgid "IDS_PFUS930_C11_SUO_STOCK"
 msgstr "PCA n°11"
@@ -85111,6 +85899,9 @@ msgstr "Ceremonial"
 msgid "IDS_PGES340_ODIN_CEREMONIAL"
 msgstr "Special Ceremonial"
 
+msgid "IDS_PGES341_SCHWABEN_WHITE"
+msgstr "White Graf"
+
 msgid "IDS_PGES348_BLACK_TIRPITZ"
 msgstr "Special"
 
@@ -85190,6 +85981,9 @@ msgid "IDS_PGES448_SABIE_TM5"
 msgstr "Nokmar's Pride"
 
 msgid "IDS_PGES458_BLACK_PRINZ_EUGEN"
+msgstr "Special"
+
+msgid "IDS_PGES468_BLACK_SCHILL"
 msgstr "Special"
 
 msgid "IDS_PGES508_Z_23_BIRTHDAY"
@@ -88096,6 +88890,21 @@ msgstr "1"
 msgid "IDS_PGSC539_YEAR"
 msgstr "1943"
 
+msgid "IDS_PGSC548"
+msgstr "Schill B"
+
+msgid "IDS_PGSC548_DESCR"
+msgstr "<p>In the late 1930s, the German naval leadership developed a project for a naval blockade of Great Britain by raider formations. The main striking force in this plan was to be 12 P-class ships, created based on the development of the Deutschland-class armored ship project.</p><p class=\"p_spacing\"> </p><p>In 1939, contracts were signed with shipyards for the construction of these ships, but the order was subsequently canceled in favor of the O-class battlecruisers. In the original documentation, the ship type is indicated as Handelszerstörer—'raider'.</p>"
+
+msgid "IDS_PGSC548_FULL"
+msgstr "Schill B"
+
+msgid "IDS_PGSC548_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSC548_YEAR"
+msgstr "1939"
+
 msgid "IDS_PGSC549"
 msgstr "Nibelung"
 
@@ -88200,6 +89009,21 @@ msgstr "0"
 
 msgid "IDS_PGSC910_YEAR"
 msgstr "1940"
+
+msgid "IDS_PGSC998"
+msgstr "Schill B"
+
+msgid "IDS_PGSC998_DESCR"
+msgstr "A replica of the ship Schill for the event \"Serious Investigation\"."
+
+msgid "IDS_PGSC998_FULL"
+msgstr "Schill B"
+
+msgid "IDS_PGSC998_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSC998_YEAR"
+msgstr "1939"
 
 msgid "IDS_PGSD102"
 msgstr "V-25"
@@ -88938,6 +89762,12 @@ msgstr "150 mm/60 SK C/25 on a Drh Tr C/25 mount"
 msgid "IDS_PGUA726_ART_BLACK_EUGEN"
 msgstr "203 mm/60 SK C/34 on an LC/34 mount"
 
+msgid "IDS_PGUA727_ART_BLACK_SCHILL"
+msgstr "283 mm/54.5 SK C/34 on a Drh LC/34 mount"
+
+msgid "IDS_PGUA728_ART_RARE_BEAST_CRUISER"
+msgstr "283 mm/54.5 SK C/34 on a Drh LC/34 mount"
+
 msgid "IDS_PGUA800_ART_COLORFUL_ROON"
 msgstr "203 mm/60 SK C/34 in a turret"
 
@@ -89438,6 +90268,12 @@ msgstr "Propulsion: 132,000 hp"
 
 msgid "IDS_PGUE731_ENG_BLACK_EUGEN"
 msgstr "Propulsion: 110,000 hp"
+
+msgid "IDS_PGUE732_ENG_BLACK_SCHILL"
+msgstr "Propulsion: 140,000 hp"
+
+msgid "IDS_PGUE733_ENG_RARE_BEAST_CRUISER"
+msgstr "Propulsion: 140,000 hp"
 
 msgid "IDS_PGUE800_ENG_COLORFUL_ROON"
 msgstr "Propulsion: 155,000 hp"
@@ -89969,6 +90805,12 @@ msgstr "Sabie"
 msgid "IDS_PGUH739_HULL_BLACK_EUGEN"
 msgstr "Prinz Eugen B."
 
+msgid "IDS_PGUH740_HULL_BLACK_SCHILL"
+msgstr "Schill B."
+
+msgid "IDS_PGUH741_HULL_RARE_BEAST_CRUISER"
+msgstr "Schill B"
+
 msgid "IDS_PGUH800_HULL_COLORFUL_ROON"
 msgstr "Roon CLR"
 
@@ -90453,7 +91295,7 @@ msgid "IDS_PGUS709_SUO_ANHALT"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS710_SUO_SCHILL"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8"
 
 msgid "IDS_PGUS711_SUO_TIRPITZ"
 msgstr "FKS Typ 8 Mod. 1"
@@ -90508,6 +91350,12 @@ msgstr "FKS Typ 8"
 
 msgid "IDS_PGUS728_SUO_BLACK_EUGEN"
 msgstr "FKS Typ 8"
+
+msgid "IDS_PGUS729_SUO_BLACK_SCHILL"
+msgstr "FKS Typ 8"
+
+msgid "IDS_PGUS730_SUO_RARE_BEAST_CRUISER"
+msgstr "FKS Typ 8"
 
 msgid "IDS_PGUS731_SUO_SCHARNHORST"
 msgstr "FKS Typ 7 Mod. 1"
@@ -90849,6 +91697,12 @@ msgid "IDS_PGUT727_TORP_SABIE"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT728_TORP_BLACK_EUGEN"
+msgstr "G7a T1"
+
+msgid "IDS_PGUT729_TORP_BLACK_SCHILL"
+msgstr "G7a T1"
+
+msgid "IDS_PGUT730_TORP_RARE_BEAST_CRUISER"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT800_TORP_COLORFUL_ROON"
@@ -91984,6 +92838,9 @@ msgstr "Legion"
 msgid "IDS_PIES319_POLO_ROMAN"
 msgstr "Legion"
 
+msgid "IDS_PIES320_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "Special"
+
 msgid "IDS_PIES329_TRANCLUCATOR_PEPELATS"
 msgstr "Plyukian"
 
@@ -92392,9 +93249,6 @@ msgstr "Fast Sonar Reload"
 msgid "IDS_PINGER_RELOAD_SLOW"
 msgstr "Slow Sonar Reload"
 
-msgid "IDS_PINGER_SHADOW"
-msgstr "POSITION REVEALED"
-
 msgid "IDS_PINGER_WAVE_SPEED_HIGH"
 msgstr "High Sonar Pulse Speed"
 
@@ -92740,6 +93594,12 @@ msgstr "305 mm proiettili AP 1909 mod.1"
 msgid "IDS_PIPA302_305MM_46_1909_CS_SAND"
 msgstr "305 mm proiettili CS 1909 mod.1"
 
+msgid "IDS_PIPA991_460MM_CS_RARE_BEAST_BATTLESHIP"
+msgstr "460 mm CS Mk III"
+
+msgid "IDS_PIPA992_460MM_AP_RARE_BEAST_BATTLESHIP"
+msgstr "460 mm AP Mk III"
+
 msgid "IDS_PIPB001_AQUILA_STOCK"
 msgstr "SC-500"
 
@@ -93083,7 +93943,7 @@ msgid "IDS_PISB510"
 msgstr "R. Lauria"
 
 msgid "IDS_PISB510_DESCR"
-msgstr "A fast battlecruiser armed with eight 457 mm guns. The project is based on ideas introduced in 1921 by Italian naval engineer Ferdinando Cassone. In addition to its remarkable armament and displacement, both quite advanced for that era, the project stood out for its innovative anti-torpedo defense system and two-tiered power plant."
+msgstr "In 1921, engineer F. Cassone presented the idea of a battlecruiser with eight 457-mm guns and a speed of 35–40 knots. This ship was the largest ever designed for the Italian Navy. To reduce overall length, it was proposed to place the boilers above the engines in a two-level powerplant. The torpedo protection was also unique — detonation would be directed into an expansion chamber, from which gases would be vented through special channels. The design was ahead of its time, and the project was not realized."
 
 msgid "IDS_PISB510_FULL"
 msgstr "Ruggiero di Lauria"
@@ -93108,6 +93968,21 @@ msgstr "1"
 
 msgid "IDS_PISB519_YEAR"
 msgstr "1942"
+
+msgid "IDS_PISB520"
+msgstr "R. Lauria B"
+
+msgid "IDS_PISB520_DESCR"
+msgstr "In 1921, engineer F. Cassone presented the idea of a battlecruiser with eight 457-mm guns and a speed of 35–40 knots. This ship was the largest ever designed for the Italian Navy. To reduce overall length, it was proposed to place the boilers above the engines in a two-level powerplant. The torpedo protection was also unique — detonation would be directed into an expansion chamber, from which gases would be vented through special channels. The design was ahead of its time, and the project was not realized."
+
+msgid "IDS_PISB520_FULL"
+msgstr "Ruggiero di Lauria B"
+
+msgid "IDS_PISB520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PISB520_YEAR"
+msgstr "1921"
 
 msgid "IDS_PISB529"
 msgstr "Tranclucator"
@@ -93189,13 +94064,13 @@ msgid "IDS_PISB805_YEAR"
 msgstr "2019"
 
 msgid "IDS_PISB990"
-msgstr "C. Colombo Test"
+msgstr "R. Lauria B"
 
 msgid "IDS_PISB990_DESCR"
-msgstr "Ship for test."
+msgstr "A replica of the ship R. Lauria for the event \"Serious Investigation\"."
 
 msgid "IDS_PISB990_FULL"
-msgstr "Cristoforo Colombo Test"
+msgstr "R. Lauria B"
 
 msgid "IDS_PISB990_NUMBER"
 msgstr "1"
@@ -93989,8 +94864,8 @@ msgstr "254 mm/60 in a turret"
 msgid "IDS_PIUA905_DD10_ART_STOCK"
 msgstr "135 mm/45 Model 1938 on a Model 1938 mount"
 
-msgid "IDS_PIUA906_BB10_ART_STOCK"
-msgstr "381 mm/50 Model 1934 in a turret"
+msgid "IDS_PIUA906_ART_RARE_BEAST_BATTLESHIP"
+msgstr "457 mm/45 Mk.II in a turret"
 
 msgid "IDS_PIUA907_ART_LAURIA"
 msgstr "457 mm/45 Mk.II in a turret"
@@ -94018,6 +94893,9 @@ msgstr "127 mm/38 Mk.12 on a Mk.38 mount"
 
 msgid "IDS_PIUA915_ART_ISONZO"
 msgstr "356 mm/45 Vickers Mk.A in a twin turret"
+
+msgid "IDS_PIUA916_ART_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "457 mm/45 Mk.II in a turret"
 
 msgid "IDS_PIUB700_TB_AQUILA"
 msgstr "Reggiane Re.2001"
@@ -94190,8 +95068,8 @@ msgstr "Propulsion: 240,000 hp"
 msgid "IDS_PIUE905_DD10_ENG_STOCK"
 msgstr "Propulsion: 110,000 hp"
 
-msgid "IDS_PIUE906_BB10_ENG_STOCK"
-msgstr "Propulsion: 160,000 hp"
+msgid "IDS_PIUE906_ENG_RARE_BEAST_BATTLESHIP"
+msgstr "Propulsion: 235,000 hp"
 
 msgid "IDS_PIUE907_ENG_LAURIA"
 msgstr "Propulsion: 235,000 hp"
@@ -94219,6 +95097,9 @@ msgstr "Propulsion: 70,000 hp"
 
 msgid "IDS_PIUE915_ENG_ISONZO"
 msgstr "Propulsion: 212,800 hp"
+
+msgid "IDS_PIUE916_ENG_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "Propulsion: 235,000 hp"
 
 msgid "IDS_PIUF700_FC_AQUILA"
 msgstr "Mk8 mod. 1"
@@ -94454,8 +95335,8 @@ msgstr "Napoli"
 msgid "IDS_PIUH905_DD10_HULL_STOCK"
 msgstr "Attilio Regolo"
 
-msgid "IDS_PIUH906_BB10_HULL_STOCK"
-msgstr "Cristoforo Colombo Test"
+msgid "IDS_PIUH906_HULL_RARE_BEAST_BATTLESHIP"
+msgstr "Ruggiero di Lauria B."
 
 msgid "IDS_PIUH907_HULL_LAURIA"
 msgstr "Ruggiero di Lauria"
@@ -94483,6 +95364,9 @@ msgstr "Amerigo Vespucci"
 
 msgid "IDS_PIUH915_ISONZO"
 msgstr "Isonzo"
+
+msgid "IDS_PIUH916_HULL_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "Ruggiero di Lauria B."
 
 msgid "IDS_PIUI700_F_AQUILA"
 msgstr "Reggiane Re.2001"
@@ -94715,7 +95599,7 @@ msgstr "SDT 10"
 msgid "IDS_PIUS905_DD10_SUO_STOCK"
 msgstr "SDT 10"
 
-msgid "IDS_PIUS906_BB10_SUO_STOCK"
+msgid "IDS_PIUS906_SUO_RARE_BEAST_BATTLESHIP"
 msgstr "SDT 10 mod.1"
 
 msgid "IDS_PIUS907_SUO_LAURIA"
@@ -94738,6 +95622,9 @@ msgstr "SDT 10"
 
 msgid "IDS_PIUS913_SUO_A_VESPUCCI"
 msgstr "SDT 11"
+
+msgid "IDS_PIUS914_SUO_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "SDT 10"
 
 msgid "IDS_PIUS915_SUO_ISONZO"
 msgstr "SDT 9"
@@ -95431,6 +96318,9 @@ msgstr "Maslenitsa"
 
 msgid "IDS_PJES347_HARUNA"
 msgstr "ARPEGGIO"
+
+msgid "IDS_PJES349_BLACK_HIZEN_CEREMONIAL"
+msgstr "Special Ceremonial"
 
 msgid "IDS_PJES350_SHIKISHIMA_RANKED"
 msgstr "Samurai"
@@ -98279,6 +99169,21 @@ msgstr "1"
 msgid "IDS_PJSB569_YEAR"
 msgstr "1921"
 
+msgid "IDS_PJSB579"
+msgstr "Hizen B"
+
+msgid "IDS_PJSB579_DESCR"
+msgstr "<p>In 1934, work began in Japan on the A-140 battleship project. By 1936, 24 variants of the preliminary design were ready, differing in displacement, maximum speed, and main battery caliber.</p><p class=\"p_spacing\"> </p><p>One of the variants featured a classic superfiring arrangement of four turrets, each with three 410-mm guns. The secondary battery consisted of 155-mm guns in triple turrets. The propulsion system was a combined diesel-steam turbine arrangement. This project was not realized, and its further development led to the emergence of the Yamato-class battleships.</p>"
+
+msgid "IDS_PJSB579_FULL"
+msgstr "Hizen B"
+
+msgid "IDS_PJSB579_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB579_YEAR"
+msgstr "1935"
+
 msgid "IDS_PJSB599"
 msgstr "Owari-no-Oni"
 
@@ -98516,6 +99421,21 @@ msgstr "4"
 
 msgid "IDS_PJSB918_YEAR"
 msgstr "1941"
+
+msgid "IDS_PJSB989"
+msgstr "Hizen B"
+
+msgid "IDS_PJSB989_DESCR"
+msgstr "A replica of the ship Hizen for the event \"Serious Investigation\"."
+
+msgid "IDS_PJSB989_FULL"
+msgstr "Hizen B"
+
+msgid "IDS_PJSB989_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB989_YEAR"
+msgstr "1935"
 
 msgid "IDS_PJSB999"
 msgstr "Satsuma (old)"
@@ -100469,6 +101389,12 @@ msgstr "203 mm/50 3rd Year Type No.2 in a Model E turret"
 msgid "IDS_PJUA814_ART_HAKUSAN"
 msgstr "457 mm/50 5th Year Type in a twin turret"
 
+msgid "IDS_PJUA815_ART_BLACK_HIZEN"
+msgstr "410 mm/50 10th Year Type Mod.A in a triple turret"
+
+msgid "IDS_PJUA816_ART_RARE_BEAST_BATTLESHIP"
+msgstr "410 mm/50 10th Year Type Mod.A in a triple turret"
+
 msgid "IDS_PJUA821_C9_ART_STOCK"
 msgstr "203 mm/50 3rd Year Type No.2 in a Model E turret"
 
@@ -101293,6 +102219,12 @@ msgstr "Propulsion: 134,240 hp"
 
 msgid "IDS_PJUE814_ENG_HAKUSAN"
 msgstr "Propulsion: 150,000 hp"
+
+msgid "IDS_PJUE815_ENG_BLACK_HIZEN"
+msgstr "Propulsion: 145,000 hp"
+
+msgid "IDS_PJUE816_ENG_RARE_BEAST_BATTLESHIP"
+msgstr "Propulsion: 145,000 hp"
 
 msgid "IDS_PJUE821_B9_ENG_TOP"
 msgstr "Propulsion: 135,000 hp"
@@ -102169,6 +103101,12 @@ msgstr "Chōkai"
 msgid "IDS_PJUH818_HULL_HAKUSAN"
 msgstr "Hakusan"
 
+msgid "IDS_PJUH819_HULL_BLACK_HIZEN"
+msgstr "Hizen B."
+
+msgid "IDS_PJUH820_HULL_RARE_BEAST_BATTLESHIP"
+msgstr "Hizen B."
+
 msgid "IDS_PJUH821_TAIHO_1944"
 msgstr "Taihō (A)"
 
@@ -102918,7 +103856,7 @@ msgid "IDS_PJUS808_D8_SUO_TOP"
 msgstr "Type8 mod. 2"
 
 msgid "IDS_PJUS809_SUO_HIZEN"
-msgstr "Type8 mod. 1"
+msgstr "Type8"
 
 msgid "IDS_PJUS810_SUO_AZUR_AZUMA"
 msgstr "Type10 mod. 1"
@@ -102967,6 +103905,12 @@ msgstr "Type9"
 
 msgid "IDS_PJUS826_SUO_HAKUSAN"
 msgstr "Type9"
+
+msgid "IDS_PJUS827_SUO_BLACK_HIZEN"
+msgstr "Type9"
+
+msgid "IDS_PJUS828_SUO_RARE_BEAST_BATTLESHIP"
+msgstr "Type8"
 
 msgid "IDS_PJUS831_SUO"
 msgstr "Type9 mod. 1"
@@ -104977,6 +105921,9 @@ msgstr "City of Kitezh"
 msgid "IDS_PRES348_FRUNZE_VICTORYDAY"
 msgstr "Victory of Valor"
 
+msgid "IDS_PRES358_BLACK_BORODINO"
+msgstr "Special"
+
 msgid "IDS_PRES401_GREM_MEMORIAL"
 msgstr "Memorial"
 
@@ -105033,6 +105980,9 @@ msgstr "Still Waters"
 
 msgid "IDS_PRES428_STALCRAFT_LATANU"
 msgstr "Covenant"
+
+msgid "IDS_PRES429_DUKH_KRONSHLOTA"
+msgstr "Baltic fog"
 
 msgid "IDS_PRES430_STALINGRAD_RANKED"
 msgstr "Victorious"
@@ -107045,6 +107995,12 @@ msgstr "254 mm OF Model 1938"
 msgid "IDS_PRPA284_130MM_HE_OF_46_B2U_SG_MOONSUND"
 msgstr "OF-46"
 
+msgid "IDS_PRPA285_130MM_AP_UDARNY"
+msgstr "PB-46"
+
+msgid "IDS_PRPA286_130MM_HE_UDARNY"
+msgstr "OF-46"
+
 msgid "IDS_PRPA301_305_AP_1911_SAND"
 msgstr "305 mm BB Model 1911 mod.1"
 
@@ -107497,6 +108453,9 @@ msgstr "550 mm 23DT"
 
 msgid "IDS_PRPT097_MOONSUND"
 msgstr "53-51"
+
+msgid "IDS_PRPT098_UDARNY"
+msgstr "53-39 mod. 1"
 
 msgid "IDS_PRPT916_DESTROYER_CHALLENGE"
 msgstr "533 mm Mk VII"
@@ -108161,6 +109120,21 @@ msgstr "1"
 msgid "IDS_PRSB550_YEAR"
 msgstr "1938"
 
+msgid "IDS_PRSB558"
+msgstr "Borodino B"
+
+msgid "IDS_PRSB558_DESCR"
+msgstr "<p>As part of the work on designing the Project 82 heavy cruiser, by order of the Ministry of Shipbuilding, TsNII-45 began developing sketches of a so-called small battleship. A feature of such a battleship's armor would be reinforced bow protection, ensuring defense against enemy fire at sharp angles.</p><p class=\"p_spacing\"> </p><p>In total, nine pre-draft projects of such a ship were developed in 1951-52. One of the variants recommended by TsNII-45 for further development carried armament of two triple turrets with 180 mm guns. At the end of 1952 and beginning of 1953, the set of materials for the small battleship was reviewed by the Main Directorate of Shipbuilding. However, soon the construction of heavy artillery ships ceased to be relevant, and the project was not realized.</p>"
+
+msgid "IDS_PRSB558_FULL"
+msgstr "Borodino B"
+
+msgid "IDS_PRSB558_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB558_YEAR"
+msgstr "1952"
+
 msgid "IDS_PRSB607"
 msgstr "Spear of Skadi"
 
@@ -108237,6 +109211,21 @@ msgstr "1"
 
 msgid "IDS_PRSB990_YEAR"
 msgstr "1936"
+
+msgid "IDS_PRSB998"
+msgstr "Borodino B"
+
+msgid "IDS_PRSB998_DESCR"
+msgstr "A replica of the ship Borodino for the event \"Serious Investigation\"."
+
+msgid "IDS_PRSB998_FULL"
+msgstr "Borodino B"
+
+msgid "IDS_PRSB998_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB998_YEAR"
+msgstr "1952"
 
 msgid "IDS_PRSB999"
 msgstr "Krasnoye Znamya (R)"
@@ -109020,6 +110009,21 @@ msgstr "1"
 msgid "IDS_PRSC578_YEAR"
 msgstr "1939"
 
+msgid "IDS_PRSC579"
+msgstr "Spirit of Kronshlot"
+
+msgid "IDS_PRSC579_DESCR"
+msgstr "<p>The white ghost of the Gulf of Finland, born of fog and the old stone of the fort. Its silhouette emerges on the horizon, as if the sea itself were bringing its guardian to mind.</p><p class=\"p_spacing\"> </p><p>They say that near it lights dim and bearings fail, and the enemy gets a strange feeling: as if they are being watched. After it passes, only salty air, a shiver in the chest, and a silence remain, in which one can hear hope disappearing.</p>"
+
+msgid "IDS_PRSC579_FULL"
+msgstr "Spirit of Kronshlot"
+
+msgid "IDS_PRSC579_NUMBER"
+msgstr "2"
+
+msgid "IDS_PRSC579_YEAR"
+msgstr "1939"
+
 msgid "IDS_PRSC606"
 msgstr "Makarov"
 
@@ -109755,6 +110759,21 @@ msgstr "1"
 msgid "IDS_PRSD509_YEAR"
 msgstr "1962"
 
+msgid "IDS_PRSD510"
+msgstr "Udarny"
+
+msgid "IDS_PRSD510_DESCR"
+msgstr "<p>In the 1930s, a fleet development program was adopted in the USSR that called for the construction of large destroyers for operations on the open ocean. The designs already under development were not suitable for this role, so it was decided to turn to foreign experience.</p><p class=\"p_spacing\"> </p><p>In 1939, a delegation of Soviet engineers arrived in the United States, where the firm Gibbs & Cox proposed a destroyer design based on the Mahan type. However, the U.S. government did not permit certain modern technologies, such as dual-purpose gun mounts, to be shared with the USSR, and the delegation left without obtaining the design.</p><p class=\"p_spacing\"> </p><p>What was seen in the United States led to the creation of operational-tactical requirements for a destroyer design with index 35. Development was carried out by TsKB-32 and the design bureau of Plant No. 190 named after Zhdanov, and after reviewing both designs, the TsKB-32 variant was recognized as the best. In 1941, two ships were to be laid down under this design at Plant No. 190, but with the outbreak of the Great Patriotic War all work on destroyers was stopped.</p>"
+
+msgid "IDS_PRSD510_FULL"
+msgstr "Udarny"
+
+msgid "IDS_PRSD510_NUMBER"
+msgstr "0"
+
+msgid "IDS_PRSD510_YEAR"
+msgstr "1940"
+
 msgid "IDS_PRSD516"
 msgstr "Shaumyan"
 
@@ -110298,6 +111317,12 @@ msgstr "130 mm/50 Model 1936 on a B-2LM mount"
 msgid "IDS_PRUA726_ART_BATTLESHIP_DEATHMATCH"
 msgstr "406 mm/45 Model 1915 in a turret"
 
+msgid "IDS_PRUA727_ART_BLACK_BORODINO"
+msgstr "406 mm/50 B-37 on an MK-1 mount"
+
+msgid "IDS_PRUA728_ART_RARE_BEAST_BATTLESHIP"
+msgstr "406 mm/50 B-37 on an MK-1 mount"
+
 msgid "IDS_PRUA801_D9_ART_STOCK"
 msgstr "130 mm/55 on a B-2-U mount"
 
@@ -110387,6 +111412,9 @@ msgstr "406 mm/50 B-37 on an MK-1 mount"
 
 msgid "IDS_PRUA831_ART_DESTROYER_LUKODRAGER"
 msgstr "130 mm/58 Model 1957 on an SM-2-1 mount"
+
+msgid "IDS_PRUA832_ART_DUKH_KRONSHLOTA"
+msgstr "305 mm/54 B-50 on an MK-15 mount"
 
 msgid "IDS_PRUA900_CRUISER_DEATHMATCH"
 msgstr "180 mm/57 Model 1932 on an MK-3-180 mount"
@@ -110504,6 +111532,9 @@ msgstr "254 mm/55 B-48 on a MK-13 mount"
 
 msgid "IDS_PRUA980_ART_KREMLIN"
 msgstr "457 mm/48 B-45 in SM-8 mount"
+
+msgid "IDS_PRUA981_ART_UDARNY"
+msgstr "130 mm/55 on a B-2U mount"
 
 msgid "IDS_PRUA990_TEST"
 msgstr "Pewpew"
@@ -110838,6 +111869,12 @@ msgstr "Propulsion: 81,000 hp"
 msgid "IDS_PRUE730_ENG_BATTLESHIP_DEATHMATCH"
 msgstr "Propulsion: 201,000 hp"
 
+msgid "IDS_PRUE731_ENG_BLACK_BORODINO"
+msgstr "Propulsion: 210,000 hp"
+
+msgid "IDS_PRUE732_ENG_RARE_BEAST_BATTLESHIP"
+msgstr "Propulsion: 210,000 hp"
+
 msgid "IDS_PRUE801_D9_ENG_STOCK"
 msgstr "Propulsion: 84,500 hp"
 
@@ -110918,6 +111955,9 @@ msgstr "Propulsion: 165,000 hp"
 
 msgid "IDS_PRUE827_ENG_DESTROYER_LUKODRAGER"
 msgstr "Propulsion: 72,000 hp"
+
+msgid "IDS_PRUE828_ENG_DUKH_KRONSHLOTA"
+msgstr "Propulsion: 231,000 hp"
 
 msgid "IDS_PRUE830_BB8_ENG_BORODINO"
 msgstr "Propulsion: 210,000 hp"
@@ -111047,6 +112087,9 @@ msgstr "Propulsion: 210,000 hp"
 
 msgid "IDS_PRUE980_ENG_KREMLIN"
 msgstr "Propulsion: 280,000 hp"
+
+msgid "IDS_PRUE981_ENG_UDARNY"
+msgstr "Propulsion: 84,500 hp"
 
 msgid "IDS_PRUE990_ENG_TEST"
 msgstr "Nocknockneo"
@@ -111477,6 +112520,12 @@ msgstr "Kiev (DM)"
 msgid "IDS_PRUH738_HULL_BATTLESHIP_DEATHMATCH"
 msgstr "Vladivostok (DM)"
 
+msgid "IDS_PRUH739_HULL_BLACK_BORODINO"
+msgstr "Borodino B."
+
+msgid "IDS_PRUH740_HULL_RARE_BEAST_BATTLESHIP"
+msgstr "Borodino B."
+
 msgid "IDS_PRUH801_KIEV_A"
 msgstr "Kiev (A)"
 
@@ -111584,6 +112633,9 @@ msgstr "Riga CLR"
 
 msgid "IDS_PRUH836_HULL_DESTROYER_LUKODRAGER"
 msgstr "Veles"
+
+msgid "IDS_PRUH837_HULL_DUKH_KRONSHLOTA"
+msgstr "Spirit of Kronshlot"
 
 msgid "IDS_PRUH900_CRUISER_DEATHMATCH"
 msgstr "Tallinn (DM)"
@@ -111710,6 +112762,9 @@ msgstr "Moonsund"
 
 msgid "IDS_PRUH980_HULL_KREMLIN"
 msgstr "Nesokrushimy"
+
+msgid "IDS_PRUH981_HULL_UDARNY"
+msgstr "Udarny"
 
 msgid "IDS_PRUH990_TEST"
 msgstr "Test Ship"
@@ -112134,6 +113189,12 @@ msgstr "SUO VIII"
 msgid "IDS_PRUS729_SUO_BATTLESHIP_DEATHMATCH"
 msgstr "SUO VIII"
 
+msgid "IDS_PRUS730_SUO_BLACK_BORODINO"
+msgstr "SUO VIII"
+
+msgid "IDS_PRUS731_SUO_RARE_BEAST_BATTLESHIP"
+msgstr "SUO VIII"
+
 msgid "IDS_PRUS801_SUO"
 msgstr "SUO IX mod. 1"
 
@@ -112189,7 +113250,7 @@ msgid "IDS_PRUS818_D9_SUO_TOP_4"
 msgstr "SUO IX mod. 2"
 
 msgid "IDS_PRUS819_SUO_KRON"
-msgstr "SUO IX mod. 1"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS820_SUO_NEUSTR"
 msgstr "SUO IX mod. 1"
@@ -112237,6 +113298,9 @@ msgid "IDS_PRUS834_SUO_COLORFUL_RIGA"
 msgstr "SUO IX"
 
 msgid "IDS_PRUS835_SUO_DESTROYER_LUKODRAGER"
+msgstr "SUO IX"
+
+msgid "IDS_PRUS836_SUO_DUKH_KRONSHLOTA"
 msgstr "SUO IX"
 
 msgid "IDS_PRUS900_CRUISER_DEATHMATCH"
@@ -112346,6 +113410,9 @@ msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS980_SUO_KREMLIN"
 msgstr "SUO XI"
+
+msgid "IDS_PRUS981_SUO_UDARNY"
+msgstr "SUO X mod. 1"
 
 msgid "IDS_PRUS990_SUO_TEST"
 msgstr "Iamassist"
@@ -112706,6 +113773,9 @@ msgstr "53-50"
 
 msgid "IDS_PRUT978_TORP_MOONSUND"
 msgstr "53-51"
+
+msgid "IDS_PRUT981_TORP_UDARNY"
+msgstr "53-39 mod. 4"
 
 msgid "IDS_PRUT990_TEST"
 msgstr "Plopplop"
@@ -115841,6 +116911,9 @@ msgstr "Golden Age"
 msgid "IDS_PWES529_BLACK_JAGER"
 msgstr "Special"
 
+msgid "IDS_PWES530_VARMLAND_GOLD"
+msgstr "Gold of the Three Crowns"
+
 msgid "IDS_PWGA001_40MM_BOFORS_MK1"
 msgstr "40 mm/56 Bofors wz.1936"
 
@@ -116080,6 +117153,9 @@ msgstr "152 mm/53 Model 1942 in a turret"
 
 msgid "IDS_PWGM133_152MM53_BOFORS_M1948"
 msgstr "152 mm/53 Model 1942 in a turret"
+
+msgid "IDS_PWGM134_254MM_50_BOFORS_TRIPLE"
+msgstr "254-мм/50 Bofors in a turret"
 
 msgid "IDS_PWGS007_150_50_K10_SKODA"
 msgstr "150 mm/50 Škoda K10 on a casemate mount"
@@ -116375,6 +117451,9 @@ msgstr "254 mm HE 1929"
 msgid "IDS_PWPA068_254MM_45_AP_T8_9"
 msgstr "254 mm AP 1929"
 
+msgid "IDS_PWPA069_254MM_50_AP_HARDRADE"
+msgstr "254 mm AP 1939"
+
 msgid "IDS_PWPA8001_120_HE_1916"
 msgstr "Model 1916"
 
@@ -116478,6 +117557,9 @@ msgid "IDS_PWPT033_533MM_T7_T9"
 msgstr "533 mm Mk IX"
 
 msgid "IDS_PWPT034_533MM_T10"
+msgstr "533 mm Mk X"
+
+msgid "IDS_PWPT035_533MM_HARDRADE"
 msgstr "533 mm Mk X"
 
 msgid "IDS_PWPT8001_550_MARK_100_1915"
@@ -116680,6 +117762,21 @@ msgstr "2"
 
 msgid "IDS_PWSC510_YEAR"
 msgstr "1953"
+
+msgid "IDS_PWSC520"
+msgstr "H. Hardråde"
+
+msgid "IDS_PWSC520_DESCR"
+msgstr "<p>In the first half of the 1930s, Sweden was seeking the shape of the country's future naval forces. A special commission concluded that the fleet's core would consist of armored ships with a displacement of at least 14,000 tons. However, the cost of such ships was too great for the Swedish budget.</p><p class=\"p_spacing\"> </p><p>Further research led to the emergence of designs for a ship with 210-mm or 280-mm guns, but the Swedish Navy did not have such armament. Instead, the ships could have been equipped with 254-mm guns with a barrel length of 45 calibers, developed and manufactured by Bofors for Finnish coastal defense ships. Further development of this armament would have led to lengthening the barrel to 50 calibers.</p>"
+
+msgid "IDS_PWSC520_FULL"
+msgstr "Harald Hardråde"
+
+msgid "IDS_PWSC520_NUMBER"
+msgstr "0"
+
+msgid "IDS_PWSC520_YEAR"
+msgstr "1941"
 
 msgid "IDS_PWSC910"
 msgstr "HND Tordenskjold"
@@ -117088,6 +118185,21 @@ msgstr "2"
 msgid "IDS_PWSD610_YEAR"
 msgstr "1956"
 
+msgid "IDS_PWSD620"
+msgstr "Värmland"
+
+msgid "IDS_PWSD620_DESCR"
+msgstr "The North does not like excess. But every rule has its exceptions. Born where sunlight meets the water's surface, Värmland shines with gold on the cold waves of the Baltic Sea, turning restrained Swedish power into a true treasure."
+
+msgid "IDS_PWSD620_FULL"
+msgstr "Värmland"
+
+msgid "IDS_PWSD620_NUMBER"
+msgstr "2"
+
+msgid "IDS_PWSD620_YEAR"
+msgstr "1956"
+
 msgid "IDS_PWSD710"
 msgstr "Ragnar"
 
@@ -117280,6 +118392,12 @@ msgstr "254 mm/45 Bofors in a turret"
 msgid "IDS_PWUA910_C10_ART_STOCK"
 msgstr "254 mm/45 Bofors in a turret"
 
+msgid "IDS_PWUA911_ART_VARMLAND"
+msgstr "120 mm/50 Model 1950 in a turret"
+
+msgid "IDS_PWUA912_ART_HARDRADE"
+msgstr "254 mm/45 Bofors in a turret"
+
 msgid "IDS_PWUA941_DD11_ART_STOCK"
 msgstr "120 mm/50 Model 1950 in a turret"
 
@@ -117411,6 +118529,12 @@ msgstr "Propulsion: 101,500 hp"
 
 msgid "IDS_PWUE910_C10_ENG_STOCK"
 msgstr "Propulsion: 101,500 hp"
+
+msgid "IDS_PWUE911_ENG_VARMLAND"
+msgstr "Propulsion: 58,000 hp"
+
+msgid "IDS_PWUE912_ENG_HARDRADE"
+msgstr "Propulsion: 100,000 hp"
 
 msgid "IDS_PWUE941_DD11_ENG_STOCK"
 msgstr "Propulsion: 63,400 hp"
@@ -117583,6 +118707,12 @@ msgstr "Troll"
 msgid "IDS_PWUH910_C10_HULL_STOCK"
 msgstr "Konung"
 
+msgid "IDS_PWUH911_HULL_VARMLAND"
+msgstr "Värmland"
+
+msgid "IDS_PWUH912_HULL_HARDRADE"
+msgstr "Harald Hardråde"
+
 msgid "IDS_PWUH941_DD11_HULL_STOCK"
 msgstr "Dalarna"
 
@@ -117728,7 +118858,7 @@ msgid "IDS_PWUS903_DD10_SUO_TOP"
 msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PWUS904_DD10_SMALAND"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "SUO Mk 10"
 
 msgid "IDS_PWUS905_DD10_SUO_TST_LAPPLAND"
 msgstr "SUO Mk 10 Mod. 1"
@@ -117749,6 +118879,12 @@ msgid "IDS_PWUS910_C11_SUO_STOCK"
 msgstr "SUO Mk 11"
 
 msgid "IDS_PWUS911_C10_SUO_STOCK"
+msgstr "SUO Mk 10"
+
+msgid "IDS_PWUS912_SUO_VARMLAND"
+msgstr "SUO Mk 10"
+
+msgid "IDS_PWUS913_SUO_HARDRADE"
 msgstr "SUO Mk 10"
 
 msgid "IDS_PWUS941_DD11_SUO_STOCK"
@@ -117882,6 +119018,12 @@ msgstr "533 mm"
 
 msgid "IDS_PWUT908_C10_TORP_STOCK"
 msgstr "Torped M1947"
+
+msgid "IDS_PWUT909_TORP_VARMLAND"
+msgstr "Torped M1943 mod 1"
+
+msgid "IDS_PWUT910_TORP_HARDRADE"
+msgstr "Torped M1943"
 
 msgid "IDS_PWUT941_DD11_TORP_STOCK"
 msgstr "Torped M1947 mod 1"
@@ -126123,6 +127265,147 @@ msgstr "Star saved"
 msgid "IDS_RANK_X"
 msgstr "Rank %(rank)s"
 
+msgid "IDS_RARE_01"
+msgstr "James Conrad"
+
+msgid "IDS_RARE_02"
+msgstr "Ermelinda Jung"
+
+msgid "IDS_RARE_03"
+msgstr "Sun Shangxiang"
+
+msgid "IDS_RARE_04"
+msgstr "Anton Grant"
+
+msgid "IDS_RARE_05"
+msgstr "Johannes Meck-Leyne"
+
+msgid "IDS_RARE_06"
+msgstr "Mikhail Orlov"
+
+msgid "IDS_RARE_07"
+msgstr "Unsinkable Sam"
+
+msgid "IDS_RARE_08"
+msgstr "Alexander Uvarov"
+
+msgid "IDS_RARE_09"
+msgstr "Alexander Pushkin"
+
+msgid "IDS_RARE_10"
+msgstr "Statue of Liberty"
+
+msgid "IDS_RARE_11"
+msgstr "Matilda Kelly"
+
+msgid "IDS_RARE_12"
+msgstr "Cat scientist"
+
+msgid "IDS_RARE_13"
+msgstr "Andromeda"
+
+msgid "IDS_RARE_14"
+msgstr "CM-10A"
+
+msgid "IDS_RARE_15"
+msgstr "Triangulum"
+
+msgid "IDS_RARE_16"
+msgstr "Lesta"
+
+msgid "IDS_RARE_17"
+msgstr "Eva Valentine"
+
+msgid "IDS_RARE_18"
+msgstr "Dobrozhir Drobojanovich"
+
+msgid "IDS_RARE_19"
+msgstr "Curator"
+
+msgid "IDS_RARE_20"
+msgstr "Astra"
+
+msgid "IDS_RARE_21"
+msgstr "Seryozha"
+
+msgid "IDS_RARE_22"
+msgstr "Hua Hu"
+
+msgid "IDS_RARE_23"
+msgstr "Koschei the Deathless"
+
+msgid "IDS_RARE_24"
+msgstr "Flock of crows"
+
+msgid "IDS_RARE_BEAST_BATTLE_STATS_DEFEAT_MAIN_TASK_COMPLETE"
+msgstr "The Syndicate retained its influence"
+
+msgid "IDS_RARE_BEAST_BATTLE_STATS_VICTORY_MAIN_TASK_COMPLETE"
+msgstr "All criminals have been eliminated"
+
+msgid "IDS_RARE_BEAST_DESCRIPTION"
+msgstr "Eliminate four criminal groups and clear the harbor of Spade City."
+
+msgid "IDS_RARE_BEAST_MAIN_BATTLE_TASK"
+msgstr "Destroy all criminals"
+
+msgid "IDS_RARE_BEAST_NE1"
+msgstr "Serious Investigation"
+
+msgid "IDS_RARE_BEAST_NE2"
+msgstr "Serious Investigation"
+
+msgid "IDS_RARE_BEAST_NE3"
+msgstr "Serious Investigation"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_DESCRIPTION"
+msgstr "If you are destroyed, you can return to battle by choosing another ship with respawn points. Unused points will be deducted at the end of the battle."
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_0"
+msgstr "Dealing 200 damage"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_1"
+msgstr "Smoke cover, tanking, detecting the enemy"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_2"
+msgstr "Citadel hit, torpedo hit"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_3"
+msgstr "Assistance in destruction"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_4"
+msgstr "Destroying the enemy"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_SCORE"
+msgstr "Points earned"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_TITLE"
+msgstr "Respawn Points"
+
+msgid "IDS_RARE_BEAST_RULES_BULLET_1"
+msgstr "Rain can wash away everything except sins, and under the cover of night the harbor of Spade City fills with ships of the criminal syndicate. Repel the attack and eliminate the most dangerous members of the gangs before they can escape. Remember: in this city you cannot trust anyone. Not even your own shadow..."
+
+msgid "IDS_RARE_BEAST_RULES_HEADER"
+msgstr "Briefing"
+
+msgid "IDS_RARE_BEAST_TITLE"
+msgstr "Serious Investigation"
+
+msgid "IDS_RARE_BEAST_WAVE_1"
+msgstr "First attack"
+
+msgid "IDS_RARE_BEAST_WAVE_2"
+msgstr "Second attack"
+
+msgid "IDS_RARE_BEAST_WAVE_3"
+msgstr "Third attack"
+
+msgid "IDS_RARE_BEAST_WAVE_4"
+msgstr "Final attack"
+
+msgid "IDS_RARE_BEAST_WAVE_TASK"
+msgstr "Destroy all members of the criminal group"
+
 msgid "IDS_RARE_CREW_BOOK_CREW_SKILL_SELECT_INSTRUCTION"
 msgstr "Select skill"
 
@@ -126635,6 +127918,9 @@ msgstr "Message deleted."
 
 msgid "IDS_REMOVE_ALL_BOTS"
 msgstr "Delete all bots"
+
+msgid "IDS_REMOVE_ALL_COMPARISON_LIST"
+msgstr "Clear"
 
 msgid "IDS_REMOVE_FROM_CONTACTS"
 msgstr "Remove from Contacts"
@@ -127177,7 +128463,7 @@ msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
 msgstr "You committed the following infractions during combat:"
 
 msgid "IDS_RESURRECTION_POINTS_HINT"
-msgstr "Respawn points earned from battle."
+msgstr "Can be spent to return to battle in a different ship. Earn points by defending allies and attacking enemies."
 
 msgid "IDS_RESURRECTION_POINTS_HINT_HEADER"
 msgstr "Respawn Points"
@@ -127432,7 +128718,7 @@ msgid "IDS_REWARD_EVENTUM_2_TITLE"
 msgstr "Traveler Tokens"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "American Tokens"
+msgstr "Cyber Tokens"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
 msgstr "Old Russian Tokens"
@@ -127444,7 +128730,7 @@ msgid "IDS_REWARD_EVENTUM_6_TITLE"
 msgstr "Koschei's Gold Coins"
 
 msgid "IDS_REWARD_EVENTUM_7_TITLE"
-msgstr "German tokens"
+msgstr "Black Friday Tokens"
 
 msgid "IDS_REWARD_EVENTUM_8_TITLE"
 msgstr "Scarlet Gems"
@@ -132693,6 +133979,12 @@ msgstr " "
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_1_TITLE_FULL"
 msgstr " "
 
+msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Special Commander"
+
+msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Commander"
+
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
@@ -133040,6 +134332,66 @@ msgstr "American Fleet"
 
 msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_TITLE_QUOTES"
 msgstr "\"American Fleet\""
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_TITLE_FULL"
+msgstr "Black ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier VIII–X Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier VIII–X"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Tier VI–VIII ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VI–VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_TITLE"
+msgstr "Black Motor"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_TITLE_QUOTES"
+msgstr "\"Black Motor\""
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Dazzling Tier IX Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier IX"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_TITLE_FULL"
+msgstr "Black ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Tier VIII–X Ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Tier VIII–X"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Tier VI–VIII ship"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Tier VI–VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_TITLE"
+msgstr "White Motor"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_TITLE_QUOTES"
+msgstr "\"White Motor\""
 
 msgid "IDS_REWARD_MAP_UNLOCK_DESCRIPTION"
 msgstr "Access to the \"Last Harbor\" map in battles."
@@ -135069,6 +136421,15 @@ msgstr "Encounter Battle. Tournament"
 msgid "IDS_SCENARIO_RANK_STANDART"
 msgstr "Standard Battle. Tournament"
 
+msgid "IDS_SCENARIO_RARE_BEAST_NE1"
+msgstr "Serious Investigation"
+
+msgid "IDS_SCENARIO_RARE_BEAST_NE2"
+msgstr "Serious Investigation"
+
+msgid "IDS_SCENARIO_RARE_BEAST_NE3"
+msgstr "Serious Investigation"
+
 msgid "IDS_SCENARIO_SINGLE_BASE"
 msgstr "Encounter Battle"
 
@@ -135493,6 +136854,9 @@ msgstr "Shining Stars"
 
 msgid "IDS_SECOND_PCZA027_TFTM_108_NAME"
 msgstr "Decepticon Commanders"
+
+msgid "IDS_SECOND_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "Night Ravens"
 
 msgid "IDS_SECOND_SCARLET_BIRTHDAY_2_NAME"
 msgstr "Messengers of Progress"
@@ -137819,6 +139183,12 @@ msgstr "Maneuverability"
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM302_SUBEVENT26_GTBUFFS"
 msgstr "Torpedo tubes traverse speed"
 
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM316_RAREBEAST_RESP_BUFF"
+msgstr "Additional Buff"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM326_RAREBEAST_8LVL_BUFF"
+msgstr "Stat Buff"
+
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM403_2026WT_VODYANOI_SPEEDDEBUFF"
 msgstr "Bitter Cold"
 
@@ -138247,6 +139617,12 @@ msgstr "Increased Torpedo Efficiency"
 
 msgid "IDS_SHIP_MODIFIER_PXOM302_SUBEVENT26_GTBUFFS_APPLIED"
 msgstr "Torpedo tubes traverse speed"
+
+msgid "IDS_SHIP_MODIFIER_PXOM316_RAREBEAST_RESP_BUFF_APPLIED"
+msgstr "Additional Buff"
+
+msgid "IDS_SHIP_MODIFIER_PXOM326_RAREBEAST_8LVL_BUFF_APPLIED"
+msgstr "Stat Buff"
 
 msgid "IDS_SHIP_MODIFIER_PXY534_PXOM233_SLOWDOWN_WT_APPLIED"
 msgstr "Slowing Shells applied"
@@ -138793,6 +140169,9 @@ msgstr "Main Turret Traverse Speed"
 msgid "IDS_SHIP_PARAM_ARTILLERY_SHOOT_DIST"
 msgstr "Firing Range AP / HE"
 
+msgid "IDS_SHIP_PARAM_ARTILLERY_SIGMA"
+msgstr "Shot dispersion (Sigma)"
+
 msgid "IDS_SHIP_PARAM_ARTILLERY_TIME_RELOAD"
 msgstr "Main Battery Reload Time"
 
@@ -139300,6 +140679,9 @@ msgstr "All ship systems operate as normal"
 msgid "IDS_SHIP_PARAM_NUM_PLANES_IN_SQUADRON"
 msgstr "Aircraft per Squadron"
 
+msgid "IDS_SHIP_PARAM_OVERMATCH_ARMOR"
+msgstr "Penetrates armor with no chance of ricochet"
+
 msgid "IDS_SHIP_PARAM_PINGER"
 msgstr "Sonar"
 
@@ -139347,6 +140729,15 @@ msgstr "Torpedo Protection. Damage Reduction"
 
 msgid "IDS_SHIP_PARAM_PTZFLOODPROB"
 msgstr "Torpedo Protection. Flooding Risk Reduction"
+
+msgid "IDS_SHIP_PARAM_REGENERATED_HP_PART_CITADEL"
+msgstr "HP that can be restored when taking damage to the citadel"
+
+msgid "IDS_SHIP_PARAM_REGENERATED_HP_PART_GENERAL"
+msgstr "HP that can be restored when taking damage to a ship part"
+
+msgid "IDS_SHIP_PARAM_RICOCHET_ANGLES"
+msgstr "Ricochet chance / Guaranteed ricochet"
 
 msgid "IDS_SHIP_PARAM_ROTATION_SPEED"
 msgstr "Traverse Speed"
@@ -139722,10 +141113,15 @@ msgstr ""
 "Torpedo Tubes\n"
 "Bow Group"
 
-msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE"
+msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE_LEFT"
 msgstr ""
-"Torpedo Tubes\n"
-"Side Group"
+"Left-side\n"
+"torpedo tube group"
+
+msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE_RIGHT"
+msgstr ""
+"Right-side\n"
+"torpedo tube group"
 
 msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_STERN"
 msgstr ""
@@ -139758,6 +141154,9 @@ msgstr "Torpedoes"
 
 msgid "IDS_SHIP_PARAM_TORPEDY_DEAD"
 msgstr "Torpedo tubes destroyed"
+
+msgid "IDS_SHIP_PARAM_TORPEDY_GROUP"
+msgstr "Torpedo groups"
 
 msgid "IDS_SHIP_PARAM_TURNINGRADIUS"
 msgstr "Turning Circle Radius"
@@ -139844,7 +141243,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_INVULNERABLE"
 msgstr "At maximum depth"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_PERISCOPE"
-msgstr "At periscope depth"
+msgstr "Surface detection with periscope depth"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_WORKING"
 msgstr "From operating depth"
@@ -141308,6 +142707,9 @@ msgstr "Skip Bombers"
 msgid "IDS_SKIPBOMBER_AIRSUP"
 msgstr "Airstrikes: Skip Bombers"
 
+msgid "IDS_SKIPBOMBER_ALT"
+msgstr "Tactical Skip Bombers"
+
 msgid "IDS_SKIPBOMBS"
 msgstr "Skip bombs"
 
@@ -141526,6 +142928,9 @@ msgstr "Rewards Claimed"
 
 msgid "IDS_SNOWFLAKES_UNINSTALL_ALL"
 msgstr "Deselect all"
+
+msgid "IDS_SNOWMAIDEN"
+msgstr "Snow Maiden"
 
 msgid "IDS_SOLD_FOR"
 msgstr "Sold for:"
@@ -141816,6 +143221,9 @@ msgstr "Yazon Tumanoff"
 
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_CURATOR"
 msgstr "Curator"
+
+msgid "IDS_SOUND_MOD_CROWS"
+msgstr "Flock of crows"
 
 msgid "IDS_SOUND_MOD_DASHA_SINGLE"
 msgstr "Dasha Perova"
@@ -142685,6 +144093,12 @@ msgstr "Buyan Island"
 msgid "IDS_SPACES/E17_2026_LUKOMORYE_DESCR"
 msgstr "Buyan Island"
 
+msgid "IDS_SPACES/E18_RAREBEAST_2026"
+msgstr "Illegal waters"
+
+msgid "IDS_SPACES/E18_RAREBEAST_2026_DESCR"
+msgstr "Illegal waters"
+
 msgid "IDS_SPACES/I01_TUTORIAL"
 msgstr "First Encounter"
 
@@ -142781,45 +144195,6 @@ msgstr "No superbattleship remains on the battlefield. Focus your efforts on des
 msgid "IDS_SPACE_APRIL_BATTLE_TASK"
 msgstr "Summon the super battleship Beowulf to destroy the enemy base!"
 
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_DESCRIPTION"
-msgstr "If you are destroyed, you can return to battle by selecting a respawn point and a ship. However, some ships are only available for respawn points earned in battle. Unused points are deducted at the end of the battle."
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_0"
-msgstr "Main battery shell over-penetration"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_1"
-msgstr "Hit with secondaries"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_2"
-msgstr "Energy shield damaged"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_3"
-msgstr "Hit with homing missile"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_4"
-msgstr "Main battery shell penetration"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_5"
-msgstr "Dealing 5,000 damage"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_6"
-msgstr "Smoke cover, drawing fire, enemy detection, missile interception"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_7"
-msgstr "Hit with guided missile"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_8"
-msgstr "Hitting the citadel"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_9"
-msgstr "Destroy the enemy"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_SCORE"
-msgstr "Points earned"
-
-msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_TITLE"
-msgstr "Respawn Points"
-
 msgid "IDS_SPACE_BOSS_TEAM0"
 msgstr "Siege machine"
 
@@ -142840,6 +144215,45 @@ msgstr "Destroy enemies to summon an allied super battleship. Only she can destr
 
 msgid "IDS_SPACE_EVENT_DESCRIPTION"
 msgstr "Destroy the enemy base by summoning the super battleship Beowulf."
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_DESCRIPTION"
+msgstr "If you are destroyed, you can return to battle by selecting a respawn point and a ship. However, some ships are available only for respawn points earned in battle. Unused points are written off at the end of the battle."
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_0"
+msgstr "Main battery shell over-penetration"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_1"
+msgstr "Secondary battery shell hit"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_2"
+msgstr "Energy shield damage"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_3"
+msgstr "Homing missile hit"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_4"
+msgstr "Main battery shell penetration"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_5"
+msgstr "Dealing 5,000 damage"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_6"
+msgstr "Smoke cover, tanking, detecting the enemy, shooting down a missile"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_7"
+msgstr "Guided missile hit"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_8"
+msgstr "Citadel hit"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_9"
+msgstr "Destroying the enemy"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_SCORE"
+msgstr "Points earned"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_TITLE"
+msgstr "Respawn Points"
 
 msgid "IDS_SPACE_EVENT_RULES_BULLET_1"
 msgstr "In the distant future, a breach between worlds was discovered on Earth's surface, threatening all of civilization. Special squads composed of the planet's finest commanders were formed to investigate and eliminate the anomaly."
@@ -143275,6 +144689,15 @@ msgstr "fight 1 battle"
 
 msgid "IDS_SSE_CONDITIONS_DEFAULT_HEADER"
 msgstr "enter battle"
+
+msgid "IDS_SSE_CONDITIONS_DESTROY_OR_ASSIST_SHIPS"
+msgstr "Destroy or assist in the destruction of %(count)s %(nation)s%(level)s %(shipClass)s"
+
+msgid "IDS_SSE_CONDITIONS_DESTROY_OR_ASSIST_SPECIFIC_SHIPS"
+msgstr "Destroy or assist in the destruction of %(count)s %(shipClass)s %(shipIds)s"
+
+msgid "IDS_SSE_CONDITIONS_DESTROY_OR_ASSIST_SPECIFIC_SHIPS_SHORT"
+msgstr "Destroy or assist in the destruction of %(shipIds)s"
 
 msgid "IDS_SSE_CONDITIONS_DESTROY_SHIPS"
 msgstr "destroy %(count)s%(level)s %(nation)s %(shipClass)s"
@@ -144906,6 +146329,27 @@ msgstr "Access Level unlocked"
 msgid "IDS_SYS_MSG_ADMIN_TEXT_MESSAGE"
 msgstr "Administrator message"
 
+msgid "IDS_SYS_MSG_ALBUM_EVENT_ALBUM_REWARDED"
+msgstr "Case closed"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_BATTLE_REWARDS"
+msgstr "Rewards received"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_BOUGHT_CARD"
+msgstr "Criminal caught"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_DUPLICATES_TITLE"
+msgstr "Evidence"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_RECEIVED_ALBUM"
+msgstr "Case opened"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_RECEIVED_CARD"
+msgstr "Criminal caught"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_SUBALBUM_REWARDED"
+msgstr "All members of the gang have been caught"
+
 msgid "IDS_SYS_MSG_ALBUM_REWARDED"
 msgstr "Collection complete"
 
@@ -145084,7 +146528,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
 msgstr "Traveler Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "American Tokens purchased"
+msgstr "Cyber Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
 msgstr "Old Russian Tokens purchased"
@@ -145096,7 +146540,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_6"
 msgstr "Koschei's Gold Coins purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
-msgstr "German tokens purchased"
+msgstr "Black Friday Tokens purchased"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_8"
 msgstr "Scarlet Gems purchased"
@@ -145648,7 +147092,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
 msgstr "Traveler Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "American tokens received"
+msgstr "Cyber Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
 msgstr "Old Russian Tokens received"
@@ -145660,7 +147104,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_6"
 msgstr "Koschei's Gold Coins received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
-msgstr "German tokens received"
+msgstr "Black Friday Tokens received"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_8"
 msgstr "Received Scarlet Gems"
@@ -146139,7 +147583,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
 msgstr "Traveler Tokens removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "American tokens removed"
+msgstr "Cyber Tokens removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
 msgstr "Old Russian Tokens removed"
@@ -146151,7 +147595,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
 msgstr "Koschei's Gold Coins removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
-msgstr "German tokens removed"
+msgstr "Black Friday Tokens removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_8"
 msgstr "Scarlet Gems written off"
@@ -146257,6 +147701,9 @@ msgstr "Steel removed"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_UC"
 msgstr "Module removed"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_UNLOCK"
+msgstr "Opportunity written off"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_ACTIVATION_KEY"
 msgstr "Activation Keys removed"
@@ -147390,6 +148837,9 @@ msgstr "Cusp of a New Era"
 
 msgid "IDS_THIRD_PCZA027_TFTM_108_NAME"
 msgstr "Autobots: History in the Game"
+
+msgid "IDS_THIRD_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "White Sharks"
 
 msgid "IDS_THIRD_SCARLET_BIRTHDAY_2_NAME"
 msgstr "Science Without Borders"
@@ -148549,9 +149999,6 @@ msgstr "Average damage per second within the action zone of all AA mounts"
 msgid "IDS_TOOLTIP_AA_BUBBLE_DAMAGE_IN_A_SECOND"
 msgstr "Damage per second from AA shell explosions"
 
-msgid "IDS_TOOLTIP_AA_GUN"
-msgstr "Anti-aircraft armament"
-
 msgid "IDS_TOOLTIP_AA_MAX_DIST"
 msgstr "Maximum firing range of AA mounts"
 
@@ -148566,6 +150013,9 @@ msgstr "Insufficient access level"
 
 msgid "IDS_TOOLTIP_ACCOUNT_TYPE"
 msgstr "Your account"
+
+msgid "IDS_TOOLTIP_ADD_FOR_COMPARISON"
+msgstr "Add ship for comparison"
 
 msgid "IDS_TOOLTIP_AIR_DEFENSE"
 msgstr "Parameter reflecting the effectiveness of the ship's defense against air attacks"
@@ -148852,6 +150302,9 @@ msgstr "Detection"
 msgid "IDS_TOOLTIP_DRAFT"
 msgstr "Deep-draught ships are exposed to an increased risk of running aground."
 
+msgid "IDS_TOOLTIP_DUPLICATE_COMPARISON_SHIP"
+msgstr "Duplicate ship"
+
 msgid "IDS_TOOLTIP_DURABILITY"
 msgstr "Parameter reflecting the ship's ability to withstand a hostile man-made environment"
 
@@ -148930,6 +150383,9 @@ msgstr "Aircraft types and number"
 msgid "IDS_TOOLTIP_MAIN_GUN"
 msgstr "Main battery guns"
 
+msgid "IDS_TOOLTIP_MAKE_SHIP_PRIMARY"
+msgstr "Compare other ships to this one"
+
 msgid "IDS_TOOLTIP_MAXSPEED"
 msgstr "Maximum forward speed of the ship"
 
@@ -148965,6 +150421,9 @@ msgstr "To research a ship or module, you can use Free XP and XP earned in battl
 
 msgid "IDS_TOOLTIP_NUM_PLANES_IN_SQUADRON"
 msgstr "Aircraft per squadron"
+
+msgid "IDS_TOOLTIP_OPEN_COMPARISON_PANEL"
+msgstr "Open the list of ships for comparison"
 
 msgid "IDS_TOOLTIP_OUR_PARTNERS_LOGIN"
 msgstr "Show legal information"
@@ -149035,6 +150494,9 @@ msgstr "Rank: %(_rank)s, Silver League"
 msgid "IDS_TOOLTIP_RANKED_RANK_X_LEAGUE_3"
 msgstr "Rank: %(_rank)s, Bronze League"
 
+msgid "IDS_TOOLTIP_REMOVE_FROM_COMPARISON"
+msgstr "Remove from comparison list"
+
 msgid "IDS_TOOLTIP_RENT_SHIP"
 msgstr "This ship is rented and will be removed after the rental period expires:"
 
@@ -149076,6 +150538,9 @@ msgstr "Added to group"
 
 msgid "IDS_TOOLTIP_SHIP_IN_GROUP_DESCRIPTION"
 msgstr "Primary ships are displayed first in the carousel"
+
+msgid "IDS_TOOLTIP_SHIP_LIMIT"
+msgstr "The maximum number of ships for comparison has been added"
 
 msgid "IDS_TOOLTIP_SHIP_MODULES_DESC"
 msgstr "Boost a ship's parameters and climb to the next ships in the Tech Tree of various nations. Research modules using XP earned on a ship, or Free XP. Buy researched modules using Silver, then mount them on the ship."
@@ -149216,10 +150681,10 @@ msgid "IDS_TOOLTIP_VISIBILITY_DIST_BY_SHIP_SUBMARINE"
 msgstr "Range at which this submarine can be detected by an enemy ship or submarine while on the surface."
 
 msgid "IDS_TOOLTIP_VISIBILITY_DIST_FROM_DEPTH"
-msgstr "Range at which the ship can be detected by an enemy submarine operating at a depth."
+msgstr "Range at which the ship can be detected by an enemy submarine from periscope depth."
 
 msgid "IDS_TOOLTIP_VISIBILITY_DIST_FROM_DEPTH_SUBMARINE"
-msgstr "Range at which this submarine can be detected by an enemy submarine operating at a depth."
+msgstr "Range at which this submarine can be detected by an enemy submarine operating from periscope depth."
 
 msgid "IDS_TOOLTIP_WAIT_FOR_STARTTIME"
 msgstr "This task will be available at %(timeDate)s"
@@ -149352,6 +150817,9 @@ msgstr "Torpedo Bombers"
 
 msgid "IDS_TORPEDOBOMBER_AIRSUP"
 msgstr "Airstrikes: Torpedo Bombers"
+
+msgid "IDS_TORPEDOBOMBER_ALT"
+msgstr "Tactical Torpedo Bombers"
 
 msgid "IDS_TORPEDOES"
 msgstr "Torpedoes"
@@ -150632,8 +152100,14 @@ msgstr "Ship consumables have been changed"
 msgid "IDS_UNIFIED_BATTLE_OPTION_HAS_BATTLE_MODIFIERS"
 msgstr "Ship characteristics have been changed"
 
+msgid "IDS_UNINSTALL_ALL_CREW_SKILLS"
+msgstr "Deselect all"
+
 msgid "IDS_UNINSTALL_ALL_ECONOMIC_BOOSTS_HINT"
 msgstr "Demount all bonuses mounted on this ship"
+
+msgid "IDS_UNINSTALL_ALL_MODERNIZATIONS"
+msgstr "Demount all"
 
 msgid "IDS_UNINSTALL_ALL_SIGNALS"
 msgstr "Remove all"
@@ -150731,14 +152205,17 @@ msgstr "Complete scenario missions with a team, fighting against bots."
 msgid "IDS_UNLOCKS_2827"
 msgstr "Join a clan and fight as a team!"
 
+msgid "IDS_UNLOCKS_292101"
+msgstr "Fight against bots in cooperation with other players."
+
 msgid "IDS_UNLOCKS_3"
 msgstr "Battle against real players."
 
 msgid "IDS_UNLOCKS_301600"
 msgstr "Compete with other players, advance through leagues, and earn valuable rewards!"
 
-msgid "IDS_UNLOCKS_31292101"
-msgstr "Fight against bots in cooperation with other players."
+msgid "IDS_UNLOCKS_3109"
+msgstr "Complete combat missions and earn rewards!"
 
 msgid "IDS_UNLOCKS_5"
 msgstr "Use Free XP to research any ship or module more easily."
@@ -150748,9 +152225,6 @@ msgstr "Receive up to three reward containers daily."
 
 msgid "IDS_UNLOCKS_7"
 msgstr "Purchase new items in the Armory."
-
-msgid "IDS_UNLOCKS_9"
-msgstr "Complete combat missions and get valuable rewards."
 
 msgid "IDS_UNLOCKS_DESCRIPTION_11"
 msgstr "<p>With economic bonuses, you can earn more silver, ship XP, Commander XP, and Free XP in each battle.</p><p class=\"p_spacing\"> </p><p>Consumable bonuses mounted on a ship are deducted after each battle. Permanent bonuses are mounted once and do not require replenishment.</p><p class=\"p_spacing\"> </p><p>Economic bonuses can be obtained by participating in various events or purchased for gold.</p><p class=\"p_spacing\"> </p><p>To manage a ship's economic efficiency, go to the 'Ship' tab, then to 'Economic Bonuses.'</p>"
@@ -150785,14 +152259,17 @@ msgstr "<p>In Operations, your team must complete various tasks while fighting b
 msgid "IDS_UNLOCKS_DESCRIPTION_2827"
 msgstr "<p>Join a clan to participate in Clan Battles.</p><p class=\"p_spacing\"> </p><p>Clan Battles are only available during a clan season.</p><p class=\"p_spacing\"> </p><p>Win Clan Battles and earn rating points to advance through groups and leagues.</p><p class=\"p_spacing\"> </p><p>Earn oil and develop the Naval Base. This will increase permanent economic bonuses.</p><p class=\"p_spacing\"> </p><p>Create training rooms and participate in Training Battles to hone teamwork skills.</p><p class=\"p_spacing\"> </p><p>Clan and Training Battles are available on the battle type selection screen.</p>"
 
+msgid "IDS_UNLOCKS_DESCRIPTION_292101"
+msgstr "<p>Fight against bots in cooperation with other players.</p><p class=\"p_spacing\"> </p><p>The battle type selection is located next to the \"Battle!\" button.</p>"
+
 msgid "IDS_UNLOCKS_DESCRIPTION_3"
 msgstr "<p>Fight against real players. Team compositions are randomly selected.</p><p class=\"p_spacing\"> </p><p>The battle type selection is located next to the 'Battle!' button.</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_301600"
 msgstr "<p>These battle types are not always available but only during seasons. Each season is a competition where the result of each battle affects your progress. The higher your placement, the more valuable the rewards!</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">Ranked Battles</p><p class=\"p_spacing\"> </p><p>In Ranked Battles, you compete with other players for ranks. To earn the next rank, you need a certain number of wins, and suffering a defeat may cause you to lose a rank!</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">Rating Battles</p><p class=\"p_spacing\"> </p><p>In Rating Battles, opponents and allies are matched by combat effectiveness rating. The rating is adjusted after each battle based on its result and the amount of pure XP earned.</p>"
 
-msgid "IDS_UNLOCKS_DESCRIPTION_31292101"
-msgstr "<p>Fight together with other players against bots.</p><p class=\"p_spacing\"> </p><p>The battle type selection is located next to the 'Battle!' button.</p>"
+msgid "IDS_UNLOCKS_DESCRIPTION_3109"
+msgstr "<p>Complete combat missions and receive valuable rewards.</p><p class=\"p_spacing\"> </p><p>To view the list of available missions, go to the \"Activities\" tab, and then to \"Combat Missions\".</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5"
 msgstr "<p>If you lack XP to research a ship or module, use Free XP.</p><p class=\"p_spacing\"> </p><p>Free XP is awarded at 10% of the ship XP earned in battle before modifiers are applied.</p><p class=\"p_spacing\"> </p><p>You can also convert XP from elite and premium ships into Free XP.</p><p class=\"p_spacing\"> </p><p>Free XP is displayed in the upper right corner of the screen.</p>"
@@ -150802,9 +152279,6 @@ msgstr "<p>Earn XP in battles and receive up to three containers daily. When you
 
 msgid "IDS_UNLOCKS_DESCRIPTION_7"
 msgstr "<p>In the Armory, you can exchange earned resources for various equipment and participate in themed events.</p><p class=\"p_spacing\"> </p><p>You can purchase ships, ship slots, containers, economic bonuses, upgrades, signals, camouflages, and patches, as well as recruit rare and legendary Commanders.</p><p class=\"p_spacing\"> </p><p>In the Armory, you can also purchase gold, a Premium Account, and much more.</p><p class=\"p_spacing\"> </p><p>To go to the Armory, click on the tab of the same name.</p>"
-
-msgid "IDS_UNLOCKS_DESCRIPTION_9"
-msgstr "<p>Complete combat missions and receive valuable rewards.</p><p class=\"p_spacing\"> </p><p>To view the list of available missions, go to the 'Activities' tab, then to 'Combat Missions.'</p>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_11"
 msgstr "<body>You now have access to<br/><h3>Ship economic bonuses</h3></body>"
@@ -150839,14 +152313,17 @@ msgstr "<body>You now have access to<br/><h3>Operations</h3></body>"
 msgid "IDS_UNLOCKS_LEVEL_UP_2827"
 msgstr "<body>You now have access to<br/><h3>Clan Battles</h3></body>"
 
+msgid "IDS_UNLOCKS_LEVEL_UP_292101"
+msgstr "You now have access to<br/><h3>Co-op Battles</h3>"
+
 msgid "IDS_UNLOCKS_LEVEL_UP_3"
 msgstr "<body>You have unlocked<br/><h3>Random Battles</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_301600"
 msgstr "<body>You now have access to<br/><h3>Ranked and Rating Battles</h3></body>"
 
-msgid "IDS_UNLOCKS_LEVEL_UP_31292101"
-msgstr "You now have access to<br/><h3>Co-op Battles</h3>"
+msgid "IDS_UNLOCKS_LEVEL_UP_3109"
+msgstr "<body>You now have access to<br/><h3>Combat Missions</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_5"
 msgstr "<body>Free XP is now available to you.<br/><h3>Free XP</h3></body>"
@@ -150856,9 +152333,6 @@ msgstr "<body>You now have access to<br/><h3>Containers</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_7"
 msgstr "<body>You now have access to the<br/><h3>Armory</h3></body>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_9"
-msgstr "<body>You now have access to<br/><h3>Combat missions</h3></body>"
 
 msgid "IDS_UNLOCKS_TITLE_11"
 msgstr "Economic Bonuses"
@@ -150893,14 +152367,17 @@ msgstr "Operations"
 msgid "IDS_UNLOCKS_TITLE_2827"
 msgstr "Clan Battles"
 
+msgid "IDS_UNLOCKS_TITLE_292101"
+msgstr "Co-op Battles"
+
 msgid "IDS_UNLOCKS_TITLE_3"
 msgstr "Random Battles"
 
 msgid "IDS_UNLOCKS_TITLE_301600"
 msgstr "Ranked and Rating Battles"
 
-msgid "IDS_UNLOCKS_TITLE_31292101"
-msgstr "Co-op Battles"
+msgid "IDS_UNLOCKS_TITLE_3109"
+msgstr "Combat Missions"
 
 msgid "IDS_UNLOCKS_TITLE_5"
 msgstr "Free XP"
@@ -150910,9 +152387,6 @@ msgstr "Containers"
 
 msgid "IDS_UNLOCKS_TITLE_7"
 msgstr "Armory"
-
-msgid "IDS_UNLOCKS_TITLE_9"
-msgstr "Combat Missions"
 
 msgid "IDS_UNLOCK_ADDITIONAL_SKILL_SET_BUTTON_LABEL"
 msgstr "Unlock Set"
@@ -150943,6 +152417,9 @@ msgstr "Demount upgrades"
 
 msgid "IDS_UNMOUNT_MODERNIZATION_FROM_SELECTED"
 msgstr "Demount the upgrade from the selected"
+
+msgid "IDS_UNMOUNT_MODERNIZATION_MOUSE_INSTRUCTION"
+msgstr "Demount upgrade"
 
 msgid "IDS_UNMUTE"
 msgstr "Enable messages"
@@ -150982,6 +152459,12 @@ msgstr "Enhanced skills for destroyers:"
 
 msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_SUBMARINE"
 msgstr "Enhanced skills for submarines:"
+
+msgid "IDS_UPGRADE_FROM_COMPARISON"
+msgstr "Applying configurations"
+
+msgid "IDS_UPGRADE_FROM_COMPARISON_BUTTON_TEXT"
+msgstr "Customize the ship"
 
 msgid "IDS_US"
 msgstr "North America"
@@ -151806,6 +153289,9 @@ msgstr "Windowed"
 
 msgid "IDS_WINDOW_HEADER_ATTENTION"
 msgstr "WARNING"
+
+msgid "IDS_WINDOW_HEADER_COMPARISON_INCOMPARABLE_CONFIRMATION"
+msgstr "INCOMPARABLE SHIP"
 
 msgid "IDS_WINDOW_HEADER_CONFIRMATION"
 msgstr "CONFIRMATION"
@@ -152914,6 +154400,11 @@ msgid_plural "IDS_BATTLE_STATS_COUNT_PLANE_KILLED"
 msgstr[0] "aircraft destroyed"
 msgstr[1] "aircraft destroyed"
 
+msgid "IDS_COLLECTION_ALBUM_EVENT_EXCHANGE_FOR_DUPLICATES_QUESTION"
+msgid_plural "IDS_COLLECTION_ALBUM_EVENT_EXCHANGE_FOR_DUPLICATES_QUESTION"
+msgstr[0] "Detain based on %(amount)s piece of evidence?"
+msgstr[1] "Detain based on %(amount)s pieces of evidence?"
+
 msgid "IDS_COLLECTION_EXCHANGE_FOR_DUPLICATES_QUESTION"
 msgid_plural "IDS_COLLECTION_EXCHANGE_FOR_DUPLICATES_QUESTION"
 msgstr[0] "Obtain for %(amount)s duplicate?"
@@ -153048,6 +154539,11 @@ msgid "IDS_PL_AIR_FLIGHT"
 msgid_plural "IDS_PL_AIR_FLIGHT"
 msgstr[0] "attack flight"
 msgstr[1] "attack flights"
+
+msgid "IDS_PL_ALBUM_EVENT_PROGRESS_ITEM"
+msgid_plural "IDS_PL_ALBUM_EVENT_PROGRESS_ITEM"
+msgstr[0] "criminal"
+msgstr[1] "criminal"
 
 msgid "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
 msgid_plural "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
@@ -153538,6 +155034,11 @@ msgid "IDS_PL_SSE_CONDITIONS_COMPLETE_TASK"
 msgid_plural "IDS_PL_SSE_CONDITIONS_COMPLETE_TASK"
 msgstr[0] "complete %(count)s %(typeName)s task"
 msgstr[1] "complete %(count)s %(typeName)s tasks"
+
+msgid "IDS_PL_SSE_CONDITIONS_DESTROY_OR_ASSIST_SHIPS_SHORT"
+msgid_plural "IDS_PL_SSE_CONDITIONS_DESTROY_OR_ASSIST_SHIPS_SHORT"
+msgstr[0] "Destroy or assist in the destruction of a ship"
+msgstr[1] "Destroy or assist in the destruction of ships"
 
 msgid "IDS_PL_SSE_CONDITIONS_DESTROY_SHIPS_SHORT"
 msgid_plural "IDS_PL_SSE_CONDITIONS_DESTROY_SHIPS_SHORT"
